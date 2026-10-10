@@ -1,0 +1,99 @@
+{
+  "id": "disney",
+  "titre": "Les grands classiques Disney",
+  "categorie": "Cinéma",
+  "emoji": "🏰",
+  "accroche": "Princesses, méchants inoubliables et chansons cultes : retombez en enfance avec les classiques Disney.",
+  "questions": [
+    {
+      "q": "Quel est le premier long métrage d'animation des studios Disney, sorti en 1937 ?",
+      "choix": ["Blanche-Neige et les Sept Nains", "Pinocchio", "Fantasia", "Dumbo"],
+      "fiche": {
+        "titre": "Blanche-Neige et les Sept Nains",
+        "texte": "Blanche-Neige et les Sept Nains est le premier long métrage d'animation des studios Disney, sorti aux États-Unis en décembre 1937. Inspiré du conte des frères Grimm, il raconte l'histoire d'une princesse persécutée par sa belle-mère, la méchante Reine, et recueillie par sept nains. Jugé insensé à l'époque, au point d'être surnommé « la folie de Disney », le projet connaît un immense succès et ouvre la voie aux grands classiques du studio.",
+        "wiki": "Blanche-Neige et les Sept Nains (film, 1937)"
+      }
+    },
+    {
+      "q": "Comment s'appelle le lionceau héros du « Roi lion » (1994) ?",
+      "choix": ["Simba", "Mufasa", "Nala", "Kovu"],
+      "fiche": {
+        "titre": "Le Roi lion",
+        "texte": "Le Roi lion est le 32e long métrage d'animation des studios Disney, sorti en 1994. Il raconte l'histoire de Simba, jeune lionceau héritier de la Terre des Lions, contraint à l'exil après la mort de son père Mufasa, provoquée par son oncle Scar. Recueilli par Timon et Pumbaa, il finit par revenir reprendre sa place. La musique d'Elton John et de Hans Zimmer, dont « L'Histoire de la vie », a marqué toute une génération.",
+        "wiki": "Le Roi lion"
+      }
+    },
+    {
+      "q": "Dans quel film le grillon Jiminy Cricket sert-il de conscience au héros ?",
+      "choix": ["Pinocchio", "Dumbo", "Bambi", "Alice au pays des merveilles"],
+      "fiche": {
+        "titre": "Pinocchio",
+        "texte": "Pinocchio est le deuxième long métrage d'animation des studios Disney, sorti en 1940. Adapté du roman de l'Italien Carlo Collodi, il suit une marionnette de bois sculptée par Geppetto et animée par la Fée bleue, qui rêve de devenir un vrai petit garçon. Le grillon Jiminy Cricket est chargé de lui servir de conscience. Sa chanson « When You Wish Upon a Star » est devenue l'hymne de la compagnie Disney.",
+        "wiki": "Pinocchio (film, 1940)"
+      }
+    },
+    {
+      "q": "Comment s'appelle le chandelier dans « La Belle et la Bête » (1991) ?",
+      "choix": ["Lumière", "Big Ben", "Zip", "Mrs Samovar"],
+      "fiche": {
+        "titre": "La Belle et la Bête (1991)",
+        "texte": "La Belle et la Bête est le 30e long métrage d'animation des studios Disney, sorti en 1991. Dans le château de la Bête, les serviteurs ont été changés en objets par un sortilège : Lumière le chandelier, Big Ben la pendule, Mrs Samovar la théière et son fils Zip la tasse. C'est le premier long métrage d'animation nommé à l'Oscar du meilleur film. La chanson « C'est la fête », menée par Lumière, est l'un de ses moments phares.",
+        "wiki": "La Belle et la Bête (film, 1991)"
+      }
+    },
+    {
+      "q": "Comment s'appelle la petite fée qui accompagne Peter Pan ?",
+      "choix": ["La Fée Clochette", "La Fée bleue", "Flora", "Pimprenelle"],
+      "fiche": {
+        "titre": "La Fée Clochette",
+        "texte": "La Fée Clochette (Tinker Bell en anglais) est une petite fée issue de la pièce et du roman de J. M. Barrie consacrés à Peter Pan. Dans le film d'animation Disney « Peter Pan » (1953), elle accompagne le héros, se montre jalouse de l'affection qu'il porte à Wendy et répand une poussière magique qui permet de voler. Devenue l'un des emblèmes de la compagnie, elle a ensuite eu sa propre série de films à partir de 2008.",
+        "wiki": "Fée Clochette"
+      }
+    },
+    {
+      "q": "Quel est le nom du tigre ennemi de Mowgli dans « Le Livre de la jungle » (1967) ?",
+      "choix": ["Shere Khan", "Bagheera", "Kaa", "Baloo"],
+      "fiche": {
+        "titre": "Le Livre de la jungle (1967)",
+        "texte": "Le Livre de la jungle est un long métrage d'animation Disney sorti en 1967, le dernier supervisé par Walt Disney, mort pendant sa production. Inspiré des récits de Rudyard Kipling, il raconte le parcours de Mowgli, petit d'homme élevé par des loups, que la panthère Bagheera et l'ours Baloo tentent de protéger du tigre Shere Khan. Le serpent Kaa et le roi des singes Louie complètent la galerie. La chanson « Il en faut peu pour être heureux » est restée célèbre.",
+        "wiki": "Le Livre de la jungle (film, 1967)"
+      }
+    },
+    {
+      "q": "Quel compositeur a écrit « L'Apprenti sorcier », illustré par Mickey dans « Fantasia » (1940) ?",
+      "choix": ["Paul Dukas", "Maurice Ravel", "Claude Debussy", "Camille Saint-Saëns"],
+      "fiche": {
+        "titre": "Fantasia",
+        "texte": "Fantasia est un long métrage d'animation Disney sorti en 1940, composé de huit séquences illustrant des œuvres de musique classique dirigées par Leopold Stokowski. La plus célèbre met en scène Mickey dans « L'Apprenti sorcier », poème symphonique du compositeur français Paul Dukas (1897), lui-même inspiré d'une ballade de Goethe. Le film illustre aussi « Le Sacre du printemps » de Stravinsky et « Une nuit sur le mont Chauve » de Moussorgski.",
+        "wiki": "Fantasia (film, 1940)"
+      }
+    },
+    {
+      "q": "Comment s'appelle la méchante fée de « La Belle au bois dormant » (1959) ?",
+      "choix": ["Maléfique", "Ursula", "Cruella d'Enfer", "Madame Mim"],
+      "fiche": {
+        "titre": "La Belle au bois dormant (1959)",
+        "texte": "La Belle au bois dormant est un long métrage d'animation Disney sorti en 1959, inspiré des contes de Charles Perrault et des frères Grimm. Furieuse de ne pas avoir été invitée au baptême de la princesse Aurore, la fée Maléfique lui jette un sort : elle se piquera le doigt au fuseau d'un rouet et en mourra. Les trois bonnes fées Flora, Pâquerette et Pimprenelle parviennent à changer la malédiction en un long sommeil. La musique s'inspire du ballet de Tchaïkovski.",
+        "wiki": "La Belle au bois dormant (film, 1959)"
+      }
+    },
+    {
+      "q": "Comment s'appelle le chat de gouttière qui vient en aide à Duchesse dans « Les Aristochats » ?",
+      "choix": ["Thomas O'Malley", "Berlioz", "Toulouse", "Edgar"],
+      "fiche": {
+        "titre": "Les Aristochats",
+        "texte": "Les Aristochats est un long métrage d'animation Disney sorti en 1970. À Paris, en 1910, la chatte Duchesse et ses trois chatons, Marie, Berlioz et Toulouse, sont abandonnés à la campagne par le majordome Edgar, qui convoite l'héritage de leur maîtresse. Ils sont secourus par Thomas O'Malley, chat de gouttière au grand cœur, qui les aide à regagner Paris. La chanson « Tout le monde veut devenir un cat » est devenue un classique.",
+        "wiki": "Les Aristochats"
+      }
+    },
+    {
+      "q": "Comment s'appelle la dalmatienne compagne de Pongo dans « Les 101 Dalmatiens » (1961) ?",
+      "choix": ["Perdita", "Lady", "Georgette", "Fifi"],
+      "fiche": {
+        "titre": "Les 101 Dalmatiens (1961)",
+        "texte": "Les 101 Dalmatiens est un long métrage d'animation Disney sorti en 1961, adapté du roman de Dodie Smith. Le couple de dalmatiens Pongo et Perdita vit à Londres avec leurs maîtres Roger et Anita lorsque leurs quinze chiots sont enlevés pour le compte de Cruella d'Enfer, qui rêve d'un manteau en fourrure de dalmatien. Le film est le premier long métrage du studio à recourir largement à la xérographie, procédé qui transfère directement les dessins des animateurs sur les celluloïds.",
+        "wiki": "Les 101 Dalmatiens (film, 1961)"
+      }
+    }
+  ]
+}

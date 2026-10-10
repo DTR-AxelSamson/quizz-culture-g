@@ -1,0 +1,99 @@
+{
+  "id": "nouvelle-vague",
+  "titre": "La Nouvelle Vague",
+  "categorie": "Cinéma",
+  "emoji": "🎬",
+  "accroche": "Caméra à l'épaule et liberté de ton : la bande des Cahiers qui a bousculé le cinéma français.",
+  "questions": [
+    {
+      "q": "Qui a réalisé « À bout de souffle » (1960), avec Jean-Paul Belmondo ?",
+      "choix": ["Jean-Luc Godard", "François Truffaut", "Claude Chabrol", "Éric Rohmer"],
+      "fiche": {
+        "titre": "À bout de souffle",
+        "texte": "À bout de souffle est le premier long métrage de Jean-Luc Godard, sorti en 1960. Jean-Paul Belmondo y incarne Michel Poiccard, petit voyou en cavale après avoir tué un policier, aux côtés d'une jeune actrice américaine. Tourné caméra à l'épaule dans les rues de Paris, avec des faux raccords et des coupes audacieuses, le film bouscule les règles du cinéma classique. Il devient l'un des manifestes de la Nouvelle Vague.",
+        "wiki": "À bout de souffle"
+      }
+    },
+    {
+      "q": "Quel réalisateur signe « Les Quatre Cents Coups » en 1959 ?",
+      "choix": ["François Truffaut", "Jean-Luc Godard", "Louis Malle", "Jacques Rivette"],
+      "fiche": {
+        "titre": "Les Quatre Cents Coups",
+        "texte": "Les Quatre Cents Coups est le premier long métrage de François Truffaut, sorti en 1959. Largement autobiographique, il suit Antoine Doinel, un adolescent parisien livré à lui-même, en rupture avec sa famille et avec l'école. Récompensé par le prix de la mise en scène au Festival de Cannes 1959, le film marque l'avènement de la Nouvelle Vague. Son plan final, un arrêt sur image du héros face à la mer, est resté célèbre.",
+        "wiki": "Les Quatre Cents Coups"
+      }
+    },
+    {
+      "q": "Dans quelle revue les futurs cinéastes de la Nouvelle Vague ont-ils débuté comme critiques ?",
+      "choix": ["Les Cahiers du cinéma", "Positif", "Première", "Télérama"],
+      "fiche": {
+        "titre": "Cahiers du cinéma",
+        "texte": "Les Cahiers du cinéma sont une revue française de critique cinématographique fondée en 1951 par André Bazin, Jacques Doniol-Valcroze et Joseph-Marie Lo Duca. Plusieurs futurs cinéastes de la Nouvelle Vague y font leurs armes comme critiques, notamment François Truffaut, Jean-Luc Godard, Claude Chabrol, Éric Rohmer et Jacques Rivette. Ils y défendent la « politique des auteurs », qui considère le réalisateur comme le véritable auteur d'un film, à l'image d'Alfred Hitchcock ou de Howard Hawks.",
+        "wiki": "Cahiers du cinéma"
+      }
+    },
+    {
+      "q": "Quel acteur incarne Antoine Doinel, le double de Truffaut, de 1959 à 1979 ?",
+      "choix": ["Jean-Pierre Léaud", "Jean-Paul Belmondo", "Jean-Claude Brialy", "Gérard Blain"],
+      "fiche": {
+        "titre": "Jean-Pierre Léaud",
+        "texte": "Jean-Pierre Léaud, né en 1944 à Paris, est un acteur français révélé à 14 ans par le rôle d'Antoine Doinel dans « Les Quatre Cents Coups » (1959). Il retrouve ce personnage, double de François Truffaut, dans quatre autres films, jusqu'à « L'Amour en fuite » (1979). Figure emblématique de la Nouvelle Vague, il tourne aussi pour Jean-Luc Godard, notamment dans « Masculin féminin ». Il est également l'interprète de « La Maman et la Putain » de Jean Eustache (1973).",
+        "wiki": "Jean-Pierre Léaud"
+      }
+    },
+    {
+      "q": "Quelle actrice vend le « New York Herald Tribune » sur les Champs-Élysées dans « À bout de souffle » ?",
+      "choix": ["Jean Seberg", "Anna Karina", "Bernadette Lafont", "Stéphane Audran"],
+      "fiche": {
+        "titre": "Jean Seberg",
+        "texte": "Jean Seberg (1938-1979) est une actrice américaine, découverte par Otto Preminger, qui lui confie le rôle de Jeanne d'Arc en 1957. Elle devient une icône de la Nouvelle Vague avec « À bout de souffle » (1960) de Jean-Luc Godard, où, les cheveux courts, elle vend le New York Herald Tribune sur les Champs-Élysées. Épouse de l'écrivain Romain Gary, elle est surveillée par le FBI pour son soutien aux Black Panthers.",
+        "wiki": "Jean Seberg"
+      }
+    },
+    {
+      "q": "Quelle actrice incarne Catherine dans « Jules et Jim » (1962) de Truffaut ?",
+      "choix": ["Jeanne Moreau", "Anna Karina", "Brigitte Bardot", "Delphine Seyrig"],
+      "fiche": {
+        "titre": "Jules et Jim",
+        "texte": "Jules et Jim est un film de François Truffaut sorti en 1962, adapté du roman d'Henri-Pierre Roché. Il retrace, du début du XXe siècle aux années 1930, l'amitié de deux hommes, l'Autrichien Jules et le Français Jim, épris de la même femme, Catherine, incarnée par Jeanne Moreau. La chanson « Le Tourbillon de la vie », qu'elle interprète dans le film, est restée célèbre. Il compte parmi les plus grands succès de la Nouvelle Vague.",
+        "wiki": "Jules et Jim"
+      }
+    },
+    {
+      "q": "Quel premier film de Claude Chabrol est souvent cité comme le premier de la Nouvelle Vague ?",
+      "choix": ["Le Beau Serge", "Le Signe du Lion", "Paris nous appartient", "Ascenseur pour l'échafaud"],
+      "fiche": {
+        "titre": "Le Beau Serge",
+        "texte": "Le Beau Serge est le premier long métrage de Claude Chabrol, tourné dans le village de Sardent, dans la Creuse, et sorti en 1959. Il raconte le retour au pays de François, interprété par Jean-Claude Brialy, qui retrouve son ami d'enfance Serge, joué par Gérard Blain, devenu alcoolique. Produit grâce à un héritage de l'épouse du cinéaste, il est souvent considéré comme le premier film de la Nouvelle Vague.",
+        "wiki": "Le Beau Serge"
+      }
+    },
+    {
+      "q": "Quelle réalisatrice a tourné « Cléo de 5 à 7 » (1962) ?",
+      "choix": ["Agnès Varda", "Marguerite Duras", "Nelly Kaplan", "Chantal Akerman"],
+      "fiche": {
+        "titre": "Agnès Varda",
+        "texte": "Agnès Varda (1928-2019) est une réalisatrice, photographe et plasticienne française. Son premier film, « La Pointe courte » (1955), est considéré comme un précurseur de la Nouvelle Vague. Dans « Cléo de 5 à 7 » (1962), elle suit presque en temps réel une chanteuse qui erre dans Paris en attendant des résultats médicaux. Associée au groupe de la « Rive gauche » avec Alain Resnais et Chris Marker, elle reçoit un Oscar d'honneur en 2017.",
+        "wiki": "Agnès Varda"
+      }
+    },
+    {
+      "q": "Quel grand cinéaste joue son propre rôle dans « Le Mépris » (1963) de Godard ?",
+      "choix": ["Fritz Lang", "F. W. Murnau", "Ernst Lubitsch", "G. W. Pabst"],
+      "fiche": {
+        "titre": "Fritz Lang",
+        "texte": "Fritz Lang (1890-1976) est un cinéaste d'origine autrichienne, maître de l'expressionnisme allemand avec « Metropolis » (1927) et « M le maudit » (1931). Exilé après l'arrivée des nazis au pouvoir, il poursuit sa carrière à Hollywood. En 1963, Jean-Luc Godard lui fait jouer son propre rôle dans « Le Mépris », où il tourne une adaptation de « L'Odyssée » pour un producteur américain, aux côtés de Michel Piccoli et Brigitte Bardot.",
+        "wiki": "Fritz Lang"
+      }
+    },
+    {
+      "q": "Sous quel titre Éric Rohmer a-t-il regroupé six films dont « Ma nuit chez Maud » ?",
+      "choix": ["Six contes moraux", "Comédies et proverbes", "Contes des quatre saisons", "Trilogie des couleurs"],
+      "fiche": {
+        "titre": "Éric Rohmer",
+        "texte": "Éric Rohmer (1920-2010), de son vrai nom Maurice Schérer, est un cinéaste français, ancien rédacteur en chef des Cahiers du cinéma. Il a organisé une grande partie de son œuvre en cycles : les « Six contes moraux », dont « Ma nuit chez Maud » (1969) et « Le Genou de Claire » (1970), puis les « Comédies et proverbes » dans les années 1980 et les « Contes des quatre saisons » dans les années 1990. Ses films, très dialogués, explorent le sentiment amoureux.",
+        "wiki": "Éric Rohmer"
+      }
+    }
+  ]
+}

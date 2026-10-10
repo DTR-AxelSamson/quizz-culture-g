@@ -1,0 +1,99 @@
+{
+  "id": "dinosaures",
+  "titre": "Les dinosaures",
+  "categorie": "Sciences",
+  "emoji": "🦖",
+  "accroche": "Ils ont régné sur la Terre pendant plus de 150 millions d'années : remontez le temps à la rencontre des géants du Mésozoïque.",
+  "questions": [
+    {
+      "q": "Quel célèbre dinosaure carnivore aux bras minuscules vivait en Amérique du Nord à la fin du Crétacé ?",
+      "choix": ["Le tyrannosaure", "Le vélociraptor", "Le spinosaure", "L'allosaure"],
+      "fiche": {
+        "titre": "Tyrannosaure",
+        "texte": "Le tyrannosaure, ou Tyrannosaurus rex, est un grand dinosaure théropode carnivore qui vivait en Amérique du Nord à la toute fin du Crétacé. Pouvant dépasser douze mètres de long, il possédait un crâne massif, une mâchoire extrêmement puissante et des bras étonnamment courts, terminés par deux doigts. Décrit en 1905 par l'Américain Henry Fairfield Osborn, il est devenu le plus célèbre des dinosaures.",
+        "wiki": "Tyrannosaurus"
+      }
+    },
+    {
+      "q": "Quel dinosaure herbivore portait trois cornes sur la tête ?",
+      "choix": ["Le tricératops", "L'ankylosaure", "Le diplodocus", "Le pachycéphalosaure"],
+      "fiche": {
+        "titre": "Tricératops",
+        "texte": "Le tricératops est un dinosaure herbivore qui vivait en Amérique du Nord à la fin du Crétacé, à la même époque que le tyrannosaure. Son nom signifie « tête à trois cornes » : il portait une corne sur le nez et deux longues cornes au-dessus des yeux. Une large collerette osseuse prolongeait l'arrière de son crâne. Quadrupède massif, il se nourrissait de végétaux grâce à son bec corné.",
+        "wiki": "Triceratops"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on le scientifique qui étudie les fossiles ?",
+      "choix": ["Un paléontologue", "Un archéologue", "Un géologue", "Un anthropologue"],
+      "fiche": {
+        "titre": "Paléontologie",
+        "texte": "La paléontologie est la science qui étudie les êtres vivants du passé à partir de leurs fossiles ; le spécialiste est appelé paléontologue. Elle ne doit pas être confondue avec l'archéologie, qui s'intéresse aux vestiges laissés par les sociétés humaines. Le naturaliste français Georges Cuvier, au début du XIXe siècle, est considéré comme l'un des fondateurs de la paléontologie, notamment grâce à ses travaux d'anatomie comparée.",
+        "wiki": "Paléontologie"
+      }
+    },
+    {
+      "q": "Quel dinosaure portait de grandes plaques sur le dos et des pointes au bout de la queue ?",
+      "choix": ["Le stégosaure", "Le brachiosaure", "Le parasaurolophus", "L'iguanodon"],
+      "fiche": {
+        "titre": "Stégosaure",
+        "texte": "Le stégosaure est un dinosaure herbivore qui vivait à la fin du Jurassique, principalement en Amérique du Nord. Il est reconnaissable aux deux rangées de grandes plaques osseuses dressées le long de son dos et aux quatre longues pointes qui armaient l'extrémité de sa queue, utilisées pour se défendre. Malgré sa grande taille, il possédait un cerveau remarquablement petit. Il a été décrit en 1877 par Othniel Charles Marsh.",
+        "wiki": "Stegosaurus"
+      }
+    },
+    {
+      "q": "Quels animaux actuels sont considérés comme les descendants directs des dinosaures ?",
+      "choix": ["Les oiseaux", "Les crocodiles", "Les lézards", "Les tortues"],
+      "fiche": {
+        "titre": "Oiseaux",
+        "texte": "Les oiseaux sont aujourd'hui considérés comme des dinosaures à part entière : ils descendent de petits dinosaures théropodes à plumes, ayant survécu à l'extinction de la fin du Crétacé. L'Archaeopteryx, découvert en Allemagne au XIXe siècle, a longtemps été le symbole de ce lien, avec ses plumes et ses dents. Depuis les années 1990, de nombreux fossiles de dinosaures à plumes découverts en Chine ont confirmé cette parenté.",
+        "wiki": "Oiseau"
+      }
+    },
+    {
+      "q": "Durant quelle ère géologique les dinosaures non aviens ont-ils vécu ?",
+      "choix": ["Le Mésozoïque", "Le Paléozoïque", "Le Cénozoïque", "Le Précambrien"],
+      "fiche": {
+        "titre": "Mésozoïque",
+        "texte": "Le Mésozoïque, autrefois appelé ère secondaire, s'étend d'environ 252 à 66 millions d'années avant notre ère. Il se divise en trois périodes : le Trias, le Jurassique et le Crétacé. C'est l'ère des dinosaures, apparus au Trias et qui ont dominé les écosystèmes terrestres jusqu'à leur extinction à la fin du Crétacé. Le Mésozoïque voit aussi l'apparition des premiers mammifères, des oiseaux et des plantes à fleurs.",
+        "wiki": "Mésozoïque"
+      }
+    },
+    {
+      "q": "Que signifie le mot « dinosaure », forgé à partir du grec ?",
+      "choix": ["Lézard terrible", "Reptile ancien", "Grande mâchoire", "Dragon de pierre"],
+      "fiche": {
+        "titre": "Dinosaures",
+        "texte": "Le mot « dinosaure » a été créé en 1842 par le paléontologue britannique Richard Owen à partir du grec ancien deinos, « terrible », et sauros, « lézard ». Il signifie donc « lézard terrible ». Owen voulait ainsi désigner un groupe de grands reptiles fossiles récemment mis au jour dans le sud de l'Angleterre. Les dinosaures ne sont pourtant pas des lézards, mais un groupe distinct de reptiles.",
+        "wiki": "Dinosauria"
+      }
+    },
+    {
+      "q": "Quel cratère du Mexique est associé à l'extinction des dinosaures ?",
+      "choix": ["Chicxulub", "Vredefort", "Barringer", "Manicouagan"],
+      "fiche": {
+        "titre": "Cratère de Chicxulub",
+        "texte": "Le cratère de Chicxulub est un cratère d'impact enfoui sous la péninsule du Yucatán, au Mexique. Large d'environ 180 kilomètres, il a été creusé il y a environ 66 millions d'années par la chute d'un astéroïde d'une dizaine de kilomètres de diamètre. Cet impact est considéré comme la cause principale de l'extinction de la fin du Crétacé, qui a fait disparaître les dinosaures non aviens et de nombreuses autres espèces.",
+        "wiki": "Cratère de Chicxulub"
+      }
+    },
+    {
+      "q": "Quel dinosaure a été découvert en dizaines d'exemplaires dans une mine belge à Bernissart en 1878 ?",
+      "choix": ["L'iguanodon", "Le plateosaurus", "Le compsognathus", "Le dilophosaure"],
+      "fiche": {
+        "titre": "Iguanodon",
+        "texte": "L'iguanodon est un grand dinosaure herbivore du Crétacé inférieur. En 1878, des mineurs découvrent à plus de 300 mètres de profondeur, dans une mine de charbon de Bernissart, en Belgique, les squelettes d'une trentaine d'iguanodons. Ces fossiles exceptionnels, exposés à l'Institut royal des sciences naturelles de Belgique à Bruxelles, ont révolutionné la connaissance de cet animal, nommé en 1825 par l'Anglais Gideon Mantell.",
+        "wiki": "Iguanodon"
+      }
+    },
+    {
+      "q": "Quel est le premier dinosaure à avoir reçu un nom scientifique, en 1824 ?",
+      "choix": ["Le mégalosaure", "L'hylaeosaurus", "Le plateosaurus", "Le brontosaure"],
+      "fiche": {
+        "titre": "Mégalosaure",
+        "texte": "Le mégalosaure, ou Megalosaurus, est un dinosaure théropode carnivore du Jurassique moyen dont les fossiles ont été découverts en Angleterre. Décrit en 1824 par le géologue William Buckland, de l'université d'Oxford, il est le premier dinosaure à avoir été nommé scientifiquement, avant même que le terme « dinosaure » n'existe. Son nom signifie « grand lézard ». Il a été rangé en 1842 par Richard Owen parmi les premiers dinosaures.",
+        "wiki": "Megalosaurus"
+      }
+    }
+  ]
+}

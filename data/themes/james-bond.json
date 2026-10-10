@@ -1,0 +1,99 @@
+{
+  "id": "james-bond",
+  "titre": "James Bond",
+  "categorie": "Cinéma",
+  "emoji": "🍸",
+  "accroche": "Bond, James Bond : gadgets, méchants mémorables et génériques cultes au service de Sa Majesté.",
+  "questions": [
+    {
+      "q": "Quel est le matricule de James Bond au sein du MI6 ?",
+      "choix": ["007", "006", "008", "009"],
+      "fiche": {
+        "titre": "James Bond",
+        "texte": "James Bond, matricule 007, est un agent secret britannique au service du MI6, héros d'une série de romans apparue en 1953. Le double zéro de son code indique qu'il détient le « permis de tuer ». Amateur de belles voitures, de gadgets et de casinos, il se présente invariablement par la formule « Bond, James Bond ». Au cinéma, ses aventures, produites par EON Productions à partir de 1962, forment l'une des plus longues séries de l'histoire.",
+        "wiki": "James Bond"
+      }
+    },
+    {
+      "q": "Quel romancier a créé le personnage de James Bond ?",
+      "choix": ["Ian Fleming", "John le Carré", "Frederick Forsyth", "Graham Greene"],
+      "fiche": {
+        "titre": "Ian Fleming",
+        "texte": "Ian Fleming (1908-1964) est un écrivain et journaliste britannique, créateur de James Bond. Officier du renseignement naval pendant la Seconde Guerre mondiale, il s'inspire de cette expérience pour écrire son premier roman, publié en 1953. Il rédige ses livres dans sa propriété de Goldeneye, en Jamaïque, et publie douze romans de Bond ainsi que deux recueils de nouvelles. On lui doit aussi le livre pour enfants « Chitty Chitty Bang Bang ».",
+        "wiki": "Ian Fleming"
+      }
+    },
+    {
+      "q": "Quel acteur incarne James Bond dans le premier film de la série, en 1962 ?",
+      "choix": ["Sean Connery", "Roger Moore", "Timothy Dalton", "Pierce Brosnan"],
+      "fiche": {
+        "titre": "Sean Connery",
+        "texte": "Sean Connery (1930-2020) est un acteur écossais, premier interprète de James Bond dans la série officielle avec « James Bond 007 contre Dr No » en 1962. Il incarne l'agent secret dans six films produits par EON, dont « Goldfinger » et « Opération Tonnerre », puis une dernière fois dans « Jamais plus jamais » (1983), hors série officielle. Il poursuit ensuite une riche carrière, couronnée par l'Oscar du meilleur second rôle pour « Les Incorruptibles ».",
+        "wiki": "Sean Connery"
+      }
+    },
+    {
+      "q": "Quel cocktail James Bond commande-t-il « au shaker, pas à la cuillère » ?",
+      "choix": ["Le martini", "Le mojito", "Le cosmopolitan", "Le bloody mary"],
+      "fiche": {
+        "titre": "Martini",
+        "texte": "Le martini est un cocktail classique à base de gin ou de vodka et de vermouth sec, généralement servi avec une olive ou un zeste de citron. James Bond le commande avec la célèbre formule « au shaker, pas à la cuillère » (« shaken, not stirred »), alors que la tradition veut qu'on le remue simplement. Dans les romans de Ian Fleming, l'agent secret invente même sa propre variante, le Vesper, qui mêle gin, vodka et Kina Lillet.",
+        "wiki": "Martini (cocktail)"
+      }
+    },
+    {
+      "q": "Dans quel film Daniel Craig incarne-t-il 007 pour la première fois ?",
+      "choix": ["Casino Royale", "Quantum of Solace", "Skyfall", "Spectre"],
+      "fiche": {
+        "titre": "Casino Royale (2006)",
+        "texte": "Casino Royale est un film de Martin Campbell sorti en 2006, vingt-et-unième de la série officielle et premier avec Daniel Craig dans le rôle de 007. Adapté du premier roman de Ian Fleming, il revient aux origines du personnage, qui vient d'obtenir son statut d'agent double zéro. Bond y affronte le banquier du terrorisme Le Chiffre lors d'une partie de poker au Monténégro et tombe amoureux de Vesper Lynd, incarnée par Eva Green.",
+        "wiki": "Casino Royale (film, 2006)"
+      }
+    },
+    {
+      "q": "Quelle chanteuse interprète la chanson « Goldfinger » (1964) ?",
+      "choix": ["Shirley Bassey", "Adele", "Tina Turner", "Carly Simon"],
+      "fiche": {
+        "titre": "Shirley Bassey",
+        "texte": "Shirley Bassey, née en 1937 à Cardiff, est une chanteuse galloise à la voix puissante. Elle interprète « Goldfinger », la chanson du film de 1964 composée par John Barry, qui devient l'un des génériques les plus célèbres de la série. Elle est la seule artiste à avoir chanté trois génériques de James Bond, avec « Les diamants sont éternels » (1971) et « Moonraker » (1979). Elle a été faite Dame par la reine Élisabeth II.",
+        "wiki": "Shirley Bassey"
+      }
+    },
+    {
+      "q": "Quelle actrice a été la première femme à incarner M, à partir de « GoldenEye » (1995) ?",
+      "choix": ["Judi Dench", "Helen Mirren", "Maggie Smith", "Vanessa Redgrave"],
+      "fiche": {
+        "titre": "Judi Dench",
+        "texte": "Judi Dench, née en 1934 à York, est une actrice britannique de théâtre et de cinéma. Elle est la première femme à incarner M, la directrice du MI6, à partir de « GoldenEye » (1995), aux côtés de Pierce Brosnan puis de Daniel Craig. Elle tient ce rôle jusqu'à « Skyfall » (2012), film dans lequel son personnage meurt. Elle a par ailleurs remporté l'Oscar de la meilleure actrice dans un second rôle pour « Shakespeare in Love ».",
+        "wiki": "Judi Dench"
+      }
+    },
+    {
+      "q": "Quelle actrice sort de l'eau en bikini blanc dans « James Bond 007 contre Dr No » ?",
+      "choix": ["Ursula Andress", "Honor Blackman", "Diana Rigg", "Claudine Auger"],
+      "fiche": {
+        "titre": "Ursula Andress",
+        "texte": "Ursula Andress, née en 1936 en Suisse, est une actrice révélée par le rôle d'Honey Ryder dans « James Bond 007 contre Dr No » (1962). Sa sortie de l'eau en bikini blanc, un couteau à la ceinture, sur une plage de la Jamaïque, est devenue l'une des scènes les plus emblématiques du cinéma. Elle est souvent considérée comme la toute première « James Bond girl ». Elle tourne ensuite dans de nombreux films européens et américains.",
+        "wiki": "Ursula Andress"
+      }
+    },
+    {
+      "q": "Dans quel film George Lazenby a-t-il incarné 007, pour son unique apparition ?",
+      "choix": ["Au service secret de Sa Majesté", "Les diamants sont éternels", "On ne vit que deux fois", "Vivre et laisser mourir"],
+      "fiche": {
+        "titre": "Au service secret de Sa Majesté",
+        "texte": "Au service secret de Sa Majesté est un film de Peter Hunt sorti en 1969, sixième de la série officielle. C'est le seul où James Bond est incarné par l'Australien George Lazenby, qui succède à Sean Connery avant le retour de celui-ci. Bond y affronte Blofeld dans les Alpes suisses et épouse Tracy, jouée par Diana Rigg, assassinée à la fin du film. Longtemps mal-aimé, il est aujourd'hui réhabilité par de nombreux amateurs.",
+        "wiki": "Au service secret de Sa Majesté (film)"
+      }
+    },
+    {
+      "q": "Quel acteur français incarne le méchant Hugo Drax dans « Moonraker » (1979) ?",
+      "choix": ["Michael Lonsdale", "Louis Jourdan", "Mathieu Amalric", "Jean Reno"],
+      "fiche": {
+        "titre": "Michael Lonsdale",
+        "texte": "Michael Lonsdale (1931-2020) est un acteur français, né à Paris d'un père britannique. Il incarne en 1979 Hugo Drax, milliardaire mégalomane qui veut anéantir l'humanité depuis une station spatiale, dans « Moonraker », face à Roger Moore. Acteur de théâtre et de cinéma d'auteur, il a tourné avec Truffaut, Duras ou Spielberg. Il reçoit en 2011 le César du meilleur acteur dans un second rôle pour « Des hommes et des dieux ».",
+        "wiki": "Michael Lonsdale"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "fromages",
+  "titre": "Les fromages de France",
+  "categorie": "Gastronomie",
+  "emoji": "🧀",
+  "accroche": "Pâtes molles, persillées ou pressées : faites le tour de France des plateaux de fromages.",
+  "questions": [
+    {
+      "q": "De quelle région le camembert est-il originaire ?",
+      "choix": ["La Normandie", "La Bretagne", "La Savoie", "L'Auvergne"],
+      "fiche": {
+        "titre": "Camembert",
+        "texte": "Le camembert est un fromage au lait de vache à pâte molle et à croûte fleurie, originaire de Normandie. Il tire son nom du village de Camembert, dans l'Orne, où la tradition attribue sa création à la fermière Marie Harel à la fin du XVIIIe siècle. Sa diffusion fut facilitée par l'arrivée du chemin de fer, puis par l'invention en 1890 de la boîte ronde en bois de peuplier. L'appellation « camembert de Normandie » est protégée par une AOP.",
+        "wiki": "Camembert (fromage)"
+      }
+    },
+    {
+      "q": "Quel fromage au lait de brebis, à pâte persillée, est affiné dans des caves naturelles de l'Aveyron ?",
+      "choix": ["Le roquefort", "La fourme d'Ambert", "Le bleu de Gex", "Le bleu d'Auvergne"],
+      "fiche": {
+        "titre": "Roquefort",
+        "texte": "Le roquefort est un fromage à pâte persillée fabriqué exclusivement avec du lait cru de brebis. Il est affiné dans les caves naturelles du mont Combalou, à Roquefort-sur-Soulzon, dans l'Aveyron, où des failles appelées « fleurines » assurent une ventilation constante. Ses veines bleu-vert proviennent du champignon Penicillium roqueforti. En 1925, il est devenu le premier fromage français à bénéficier d'une appellation d'origine, ancêtre de l'actuelle AOP.",
+        "wiki": "Roquefort (fromage)"
+      }
+    },
+    {
+      "q": "Quel fromage savoyard est l'ingrédient principal de la tartiflette ?",
+      "choix": ["Le reblochon", "Le beaufort", "La tomme de Savoie", "L'abondance"],
+      "fiche": {
+        "titre": "Reblochon",
+        "texte": "Le reblochon est un fromage savoyard au lait cru de vache, à pâte pressée non cuite et à croûte lavée, produit principalement en Haute-Savoie, notamment autour de Thônes. Son nom viendrait du patois « re-blocher », qui signifie traire une seconde fois : les paysans pratiquaient une seconde traite clandestine pour réduire la redevance due au propriétaire des alpages. Fondant et onctueux, il est l'ingrédient principal de la tartiflette, avec les pommes de terre, les lardons et les oignons.",
+        "wiki": "Reblochon"
+      }
+    },
+    {
+      "q": "Quel fromage du Nord, en forme de boule, est reconnaissable à sa pâte orange vif ?",
+      "choix": ["La mimolette", "Le maroilles", "Le munster", "Le langres"],
+      "fiche": {
+        "titre": "Mimolette",
+        "texte": "La mimolette est un fromage au lait de vache à pâte pressée non cuite, en forme de boule, produit principalement dans la région de Lille. Elle aurait été créée au XVIIe siècle pour remplacer l'édam néerlandais, dont Colbert avait interdit l'importation. Sa couleur orange vif provient du rocou, un colorant naturel d'origine végétale. Les mimolettes les plus vieilles présentent une croûte grêlée, travaillée par de minuscules acariens appelés cirons.",
+        "wiki": "Mimolette"
+      }
+    },
+    {
+      "q": "Quel fromage du Jura est traversé en son milieu par une fine raie noire ?",
+      "choix": ["Le morbier", "Le comté", "Le mont-d'or", "Le bleu de Gex"],
+      "fiche": {
+        "titre": "Morbier",
+        "texte": "Le morbier est un fromage au lait cru de vache à pâte pressée non cuite, produit dans le massif du Jura. Il se distingue par la fine raie noire qui le traverse horizontalement. Autrefois, les paysans protégeaient le caillé du matin avec de la suie avant d'y ajouter celui du soir ; cette couche est aujourd'hui constituée de charbon végétal. Son nom vient de la commune de Morbier, dans le Jura. Il bénéficie d'une appellation d'origine depuis 2000.",
+        "wiki": "Morbier (fromage)"
+      }
+    },
+    {
+      "q": "Selon la légende, quel fromage de chèvre doit sa forme de pyramide tronquée à Napoléon ?",
+      "choix": ["Le valençay", "Le crottin de Chavignol", "Le sainte-maure-de-touraine", "Le rocamadour"],
+      "fiche": {
+        "titre": "Valençay",
+        "texte": "Le valençay est un fromage au lait de chèvre originaire du Berry, dans l'Indre, en forme de pyramide tronquée et recouvert d'une fine couche de cendre de bois. Selon la légende, Napoléon, de retour d'une campagne en Égypte, aurait tranché d'un coup de sabre le sommet du fromage, qui lui rappelait les pyramides, lors d'une halte au château de Valençay, propriété de Talleyrand. Il bénéficie d'une appellation d'origine depuis 1998.",
+        "wiki": "Valençay (fromage)"
+      }
+    },
+    {
+      "q": "Quel fromage normand est surnommé « le colonel » à cause des cinq bandes qui l'entourent ?",
+      "choix": ["Le livarot", "Le pont-l'évêque", "Le neufchâtel", "Le maroilles"],
+      "fiche": {
+        "titre": "Livarot",
+        "texte": "Le livarot est un fromage normand au lait de vache, à pâte molle et à croûte lavée, originaire du pays d'Auge. Il est traditionnellement cerclé de cinq bandes de laîche, une plante des marais, aujourd'hui souvent remplacées par du papier. Ces bandes, qui servaient à maintenir la forme du fromage, évoquent les cinq galons d'un colonel, d'où son surnom. Il tire son nom de la commune de Livarot, dans le Calvados, et bénéficie d'une appellation d'origine.",
+        "wiki": "Livarot (fromage)"
+      }
+    },
+    {
+      "q": "Quel fromage bourguignon à croûte lavée est affiné avec du marc de Bourgogne ?",
+      "choix": ["L'époisses", "Le chaource", "Le langres", "Le soumaintrain"],
+      "fiche": {
+        "titre": "Époisses",
+        "texte": "L'époisses est un fromage au lait de vache à pâte molle et à croûte lavée, originaire de Bourgogne. Sa fabrication aurait été initiée au XVIe siècle par des moines cisterciens installés à Époisses, en Côte-d'Or. Pendant son affinage, sa croûte est régulièrement lavée à l'eau puis au marc de Bourgogne, ce qui lui donne sa couleur orangée et son odeur puissante. Il bénéficie d'une appellation d'origine depuis 1991.",
+        "wiki": "Époisses (fromage)"
+      }
+    },
+    {
+      "q": "Quel fromage savoyard au talon concave est surnommé « le prince des gruyères » ?",
+      "choix": ["Le beaufort", "L'abondance", "Le comté", "La tome des Bauges"],
+      "fiche": {
+        "titre": "Beaufort",
+        "texte": "Le beaufort est un fromage savoyard au lait cru de vache, à pâte pressée cuite, fabriqué dans les massifs du Beaufortain, de la Tarentaise et de la Maurienne. Il se reconnaît à son talon concave, obtenu en cerclant les meules d'une sangle de bois. Le gastronome Brillat-Savarin l'aurait surnommé « le prince des gruyères ». Produit à partir du lait des races tarine et abondance, il bénéficie d'une appellation d'origine depuis 1968.",
+        "wiki": "Beaufort (fromage)"
+      }
+    },
+    {
+      "q": "Quel fromage auvergnat n'est fabriqué à la ferme que du 15 avril au 15 novembre, dans une cuve en bois appelée « gerle » ?",
+      "choix": ["Le salers", "Le cantal", "Le saint-nectaire", "Le laguiole"],
+      "fiche": {
+        "titre": "Salers",
+        "texte": "Le salers est un fromage au lait cru de vache, à pâte pressée non cuite, produit dans les montagnes d'Auvergne. Exclusivement fermier, il n'est fabriqué que du 15 avril au 15 novembre, lorsque les vaches pâturent l'herbe des estives. Le lait est emprésuré dans une gerle, une cuve en bois traditionnelle qui participe au développement de sa flore. Il se présente en grandes meules cylindriques et tire son nom de la cité de Salers, dans le Cantal.",
+        "wiki": "Salers (fromage)"
+      }
+    }
+  ]
+}

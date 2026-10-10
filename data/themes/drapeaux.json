@@ -1,0 +1,99 @@
+{
+  "id": "drapeaux",
+  "titre": "Les drapeaux du monde",
+  "categorie": "Géographie",
+  "emoji": "🚩",
+  "accroche": "Couleurs, étoiles, croix et symboles : sauriez-vous reconnaître un pays à la seule description de son drapeau ?",
+  "questions": [
+    {
+      "q": "Quel pays a pour drapeau un fond blanc frappé d'un disque rouge en son centre ?",
+      "choix": ["Le Japon", "Le Bangladesh", "La Corée du Sud", "La Chine"],
+      "fiche": {
+        "titre": "Drapeau du Japon",
+        "texte": "Le drapeau du Japon est un rectangle blanc portant en son centre un disque rouge qui représente le soleil. Appelé officiellement Nisshōki, il est plus connu sous le nom de Hinomaru, « cercle du soleil ». Il fait écho au surnom du Japon, le « pays du Soleil-Levant ». Utilisé depuis des siècles, notamment sur les navires, il n'a été adopté légalement comme drapeau national qu'en 1999. Le Bangladesh arbore un disque rouge comparable, mais sur fond vert.",
+        "wiki": "Drapeau du Japon"
+      }
+    },
+    {
+      "q": "Quel pays arbore une feuille d'érable rouge entre deux bandes rouges sur fond blanc ?",
+      "choix": ["Le Canada", "L'Autriche", "Le Pérou", "La Lettonie"],
+      "fiche": {
+        "titre": "Drapeau du Canada",
+        "texte": "Le drapeau du Canada est composé de deux bandes verticales rouges encadrant un carré blanc au centre duquel figure une feuille d'érable rouge stylisée à onze pointes. Surnommé l'« Unifolié », il a été adopté en 1965, en remplacement du Red Ensign qui comportait l'Union Jack britannique. L'érable est un symbole du pays depuis le XIXe siècle. Le 15 février, jour de sa première levée officielle, est célébré comme le Jour du drapeau national.",
+        "wiki": "Drapeau du Canada"
+      }
+    },
+    {
+      "q": "Quel pays a un drapeau à trois bandes verticales verte, blanche et rouge, sans emblème ?",
+      "choix": ["L'Italie", "L'Irlande", "Le Mexique", "La Hongrie"],
+      "fiche": {
+        "titre": "Drapeau de l'Italie",
+        "texte": "Le drapeau de l'Italie, appelé « il Tricolore », est formé de trois bandes verticales de largeur égale, verte, blanche et rouge, en partant du mât. Inspiré du drapeau français, il est apparu en 1797 dans la République cispadane, à l'époque des campagnes de Bonaparte. Il a été adopté sous sa forme actuelle, sans emblème, en 1946 avec la proclamation de la République. Le Mexique utilise les mêmes couleurs, mais orne la bande centrale de ses armoiries.",
+        "wiki": "Drapeau de l'Italie"
+      }
+    },
+    {
+      "q": "Quel pays a un drapeau vert portant un losange jaune et un globe bleu étoilé ?",
+      "choix": ["Le Brésil", "Le Portugal", "La Jamaïque", "La Colombie"],
+      "fiche": {
+        "titre": "Drapeau du Brésil",
+        "texte": "Le drapeau du Brésil présente un losange jaune sur fond vert, au centre duquel se trouve un globe bleu parsemé d'étoiles blanches. Ces étoiles représentent le ciel de Rio de Janeiro au matin du 15 novembre 1889, jour de la proclamation de la République, et symbolisent les États fédérés et le District fédéral. Le globe est traversé par une bande blanche portant la devise positiviste « Ordem e Progresso », qui signifie « Ordre et Progrès ».",
+        "wiki": "Drapeau du Brésil"
+      }
+    },
+    {
+      "q": "Quel pays possède un drapeau carré, rouge à croix blanche ?",
+      "choix": ["La Suisse", "La Géorgie", "Malte", "Les Tonga"],
+      "fiche": {
+        "titre": "Drapeau de la Suisse",
+        "texte": "Le drapeau de la Suisse est un carré rouge portant en son centre une croix blanche aux branches égales. Avec celui du Vatican, c'est l'un des deux seuls drapeaux nationaux de forme carrée. Ses origines remontent au Moyen Âge et à la bannière du canton de Schwytz, qui a aussi donné son nom au pays. L'emblème de la Croix-Rouge, fondée à Genève, reprend ce drapeau en inversant ses couleurs, en hommage à la Suisse.",
+        "wiki": "Drapeau de la Suisse"
+      }
+    },
+    {
+      "q": "Quel pays a un drapeau bleu orné de l'Union Jack, d'une grande étoile et de la Croix du Sud en blanc ?",
+      "choix": ["L'Australie", "La Nouvelle-Zélande", "Les Fidji", "Les Tuvalu"],
+      "fiche": {
+        "titre": "Drapeau de l'Australie",
+        "texte": "Le drapeau de l'Australie est un drapeau bleu portant l'Union Jack britannique dans le coin supérieur gauche. En dessous figure une grande étoile blanche à sept branches, l'étoile de la Fédération, symbolisant les six États et les territoires. La partie droite représente la constellation de la Croix du Sud par cinq étoiles blanches. Le drapeau de la Nouvelle-Zélande, très proche, ne compte que quatre étoiles rouges bordées de blanc et n'a pas d'étoile de la Fédération.",
+        "wiki": "Drapeau de l'Australie"
+      }
+    },
+    {
+      "q": "Quel pays est le seul à avoir un drapeau national non rectangulaire, fait de deux triangles ?",
+      "choix": ["Le Népal", "Le Bhoutan", "Le Sri Lanka", "Le Laos"],
+      "fiche": {
+        "titre": "Drapeau du Népal",
+        "texte": "Le drapeau du Népal est le seul drapeau national au monde qui ne soit pas rectangulaire ou carré. Il est formé de deux triangles superposés, rouge cramoisi bordé de bleu, qui évoquent les sommets de l'Himalaya ainsi que l'hindouisme et le bouddhisme. Le triangle supérieur porte une lune blanche et le triangle inférieur un soleil blanc, symbolisant l'espoir que le pays dure aussi longtemps que ces astres. La Constitution précise en détail la manière de le tracer.",
+        "wiki": "Drapeau du Népal"
+      }
+    },
+    {
+      "q": "Quel pays arbore un cèdre vert sur une bande blanche, entre deux bandes rouges ?",
+      "choix": ["Le Liban", "Chypre", "La Syrie", "La Jordanie"],
+      "fiche": {
+        "titre": "Drapeau du Liban",
+        "texte": "Le drapeau du Liban est composé de deux bandes horizontales rouges encadrant une large bande blanche, au centre de laquelle figure un cèdre vert. Adopté en 1943, année de l'indépendance du pays, il symbolise par le cèdre la sainteté, l'éternité et la paix ; cet arbre est cité à de nombreuses reprises dans la Bible. Le rouge évoque le sang versé pour la libération du pays et le blanc la paix et la pureté des neiges du mont Liban.",
+        "wiki": "Drapeau du Liban"
+      }
+    },
+    {
+      "q": "Quel pays a un drapeau orné d'un fusil d'assaut croisé avec une houe, sur un livre ouvert ?",
+      "choix": ["Le Mozambique", "L'Angola", "Le Zimbabwe", "La Namibie"],
+      "fiche": {
+        "titre": "Drapeau du Mozambique",
+        "texte": "Le drapeau du Mozambique comporte trois bandes horizontales verte, noire et jaune, séparées par de fins liserés blancs, et un triangle rouge du côté du mât. Ce triangle porte une étoile jaune sur laquelle sont posés un livre ouvert, une houe et un fusil d'assaut AK-47 à baïonnette. Ces symboles représentent respectivement l'éducation, l'agriculture et la lutte armée pour l'indépendance. C'est l'un des très rares drapeaux nationaux à représenter une arme à feu moderne.",
+        "wiki": "Drapeau du Mozambique"
+      }
+    },
+    {
+      "q": "Selon la légende, quel drapeau, une croix blanche sur fond rouge, serait tombé du ciel en 1219 ?",
+      "choix": ["Le Danemark", "La Norvège", "La Suède", "La Finlande"],
+      "fiche": {
+        "titre": "Drapeau du Danemark",
+        "texte": "Le drapeau du Danemark, appelé « Dannebrog », est un drapeau rouge portant une croix scandinave blanche, décalée vers le mât. Selon la légende, il serait tombé du ciel le 15 juin 1219, lors de la bataille de Lyndanisse, en Estonie, redonnant courage aux troupes du roi Valdemar II. Il est souvent présenté comme le plus ancien drapeau national encore en usage. Sa croix a inspiré celles des drapeaux des autres pays nordiques.",
+        "wiki": "Drapeau du Danemark"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "elements-chimiques",
+  "titre": "Les éléments chimiques",
+  "categorie": "Sciences",
+  "emoji": "🧪",
+  "accroche": "De l'hydrogène au francium, testez votre maîtrise du tableau périodique et des briques qui composent toute la matière.",
+  "questions": [
+    {
+      "q": "Quel est le symbole chimique de l'oxygène ?",
+      "choix": ["O", "Ox", "Om", "Oy"],
+      "fiche": {
+        "titre": "Oxygène",
+        "texte": "L'oxygène est l'élément chimique de symbole O et de numéro atomique 8. Sous forme de dioxygène, il constitue environ 21 % de l'air que nous respirons et est indispensable à la respiration de la plupart des êtres vivants. C'est aussi l'élément le plus abondant de la croûte terrestre en masse. Découvert dans les années 1770, il doit son nom à Antoine Lavoisier, qui comprit son rôle dans la combustion.",
+        "wiki": "Oxygène"
+      }
+    },
+    {
+      "q": "Quel est l'élément chimique le plus léger ?",
+      "choix": ["L'hydrogène", "L'hélium", "Le lithium", "Le carbone"],
+      "fiche": {
+        "titre": "Hydrogène",
+        "texte": "L'hydrogène est l'élément chimique de symbole H et de numéro atomique 1. C'est l'élément le plus léger et le plus abondant de l'Univers : il est le principal constituant des étoiles, dont il alimente l'énergie par fusion nucléaire. Sur Terre, on le trouve surtout combiné à l'oxygène dans l'eau. Son nom, proposé par Lavoisier, signifie « qui produit de l'eau ». Il est étudié comme vecteur d'énergie pour l'avenir.",
+        "wiki": "Hydrogène"
+      }
+    },
+    {
+      "q": "Quel métal précieux a pour symbole chimique Au ?",
+      "choix": ["L'or", "L'argent", "Le platine", "L'aluminium"],
+      "fiche": {
+        "titre": "Or",
+        "texte": "L'or est l'élément chimique de symbole Au, du latin aurum, et de numéro atomique 79. Ce métal jaune, brillant et inaltérable, ne s'oxyde pas à l'air, ce qui explique qu'on retrouve intacts des bijoux vieux de plusieurs millénaires. Très malléable, il peut être réduit en feuilles d'une extrême finesse. Utilisé depuis l'Antiquité pour la monnaie et la joaillerie, il sert aussi en électronique pour sa bonne conductivité.",
+        "wiki": "Or"
+      }
+    },
+    {
+      "q": "Quel chimiste russe a publié en 1869 le célèbre tableau périodique des éléments qui a fait sa renommée ?",
+      "choix": ["Dmitri Mendeleïev", "Antoine Lavoisier", "John Dalton", "Niels Bohr"],
+      "fiche": {
+        "titre": "Dmitri Mendeleïev",
+        "texte": "Dmitri Mendeleïev est un chimiste russe qui publie en 1869 un tableau classant les éléments chimiques connus selon leur masse atomique et leurs propriétés. Son génie est d'y laisser des cases vides pour des éléments encore inconnus, dont il prédit les caractéristiques. La découverte ultérieure du gallium, du scandium et du germanium confirme ses prévisions. L'élément 101, le mendélévium, a été nommé en son honneur.",
+        "wiki": "Dmitri Mendeleïev"
+      }
+    },
+    {
+      "q": "Quel est le symbole chimique du fer ?",
+      "choix": ["Fe", "Fr", "F", "Fi"],
+      "fiche": {
+        "titre": "Fer",
+        "texte": "Le fer est l'élément chimique de symbole Fe, du latin ferrum, et de numéro atomique 26. C'est le métal le plus utilisé au monde, principalement sous forme d'acier, un alliage de fer et de carbone. Il constitue l'essentiel du noyau de la Terre. Dans le corps humain, le fer est indispensable : contenu dans l'hémoglobine des globules rouges, il permet le transport de l'oxygène dans le sang.",
+        "wiki": "Fer"
+      }
+    },
+    {
+      "q": "Quel métal est liquide à température ambiante ?",
+      "choix": ["Le mercure", "Le plomb", "L'étain", "Le zinc"],
+      "fiche": {
+        "titre": "Mercure",
+        "texte": "Le mercure est l'élément chimique de symbole Hg et de numéro atomique 80. C'est le seul métal liquide à température ambiante et sous pression normale ; il ne se solidifie qu'à environ −39 °C. Son symbole vient du latin hydrargyrum, « argent liquide ». Longtemps utilisé dans les thermomètres et les baromètres, il est aujourd'hui très encadré en raison de sa forte toxicité pour l'homme et l'environnement.",
+        "wiki": "Mercure (chimie)"
+      }
+    },
+    {
+      "q": "Quel gaz noble, enfermé dans un tube, produit une lumière rouge orangé ?",
+      "choix": ["Le néon", "L'argon", "Le krypton", "Le xénon"],
+      "fiche": {
+        "titre": "Néon",
+        "texte": "Le néon est l'élément chimique de symbole Ne et de numéro atomique 10. Ce gaz noble, découvert en 1898 par les chimistes britanniques William Ramsay et Morris Travers, émet une lumière rouge orangé caractéristique lorsqu'il est traversé par une décharge électrique. Le Français Georges Claude présente en 1910 à Paris les premiers tubes lumineux au néon, à l'origine des enseignes qui portent encore son nom aujourd'hui.",
+        "wiki": "Néon"
+      }
+    },
+    {
+      "q": "Quel élément chimique a pour symbole W ?",
+      "choix": ["Le tungstène", "Le vanadium", "L'osmium", "Le titane"],
+      "fiche": {
+        "titre": "Tungstène",
+        "texte": "Le tungstène est l'élément chimique de symbole W et de numéro atomique 74. Son symbole vient de son autre nom, wolfram, tandis que « tungstène » signifie « pierre lourde » en suédois. C'est le métal dont le point de fusion est le plus élevé, plus de 3 400 °C, ce qui explique son emploi dans les filaments des ampoules à incandescence. Très dur et très dense, il entre aussi dans la fabrication d'outils de coupe.",
+        "wiki": "Tungstène"
+      }
+    },
+    {
+      "q": "Quel élément, découvert en 1939 par Marguerite Perey, doit son nom à la France ?",
+      "choix": ["Le francium", "Le germanium", "Le polonium", "L'europium"],
+      "fiche": {
+        "titre": "Francium",
+        "texte": "Le francium est l'élément chimique de symbole Fr et de numéro atomique 87. Il a été découvert en 1939 à l'Institut du radium, à Paris, par Marguerite Perey, ancienne assistante de Marie Curie, qui l'a nommé en l'honneur de la France. Extrêmement radioactif et instable, il est l'un des éléments naturels les plus rares de la croûte terrestre. Marguerite Perey deviendra en 1962 la première femme élue correspondante de l'Académie des sciences.",
+        "wiki": "Francium"
+      }
+    },
+    {
+      "q": "Quel élément a été détecté dans le spectre du Soleil avant d'être trouvé sur Terre ?",
+      "choix": ["L'hélium", "Le néon", "L'argon", "Le radon"],
+      "fiche": {
+        "titre": "Hélium",
+        "texte": "L'hélium est l'élément chimique de symbole He et de numéro atomique 2. Il a été détecté en 1868 grâce à une raie jaune inconnue du spectre solaire, observée par le Français Jules Janssen lors d'une éclipse totale, puis étudiée par le Britannique Norman Lockyer. Son nom vient du grec hélios, « soleil ». Il n'a été isolé sur Terre qu'en 1895, par William Ramsay. Très léger et ininflammable, il sert à gonfler les ballons.",
+        "wiki": "Hélium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "contes",
+  "titre": "Les contes de Perrault et des frères Grimm",
+  "categorie": "Littérature",
+  "emoji": "🧚",
+  "accroche": "Il était une fois des princesses, des ogres et des sorcières : retombez en enfance !",
+  "questions": [
+    {
+      "q": "Quel fruit empoisonné la méchante reine fait-elle croquer à Blanche-Neige ?",
+      "choix": ["Une pomme", "Une poire", "Une prune", "Une cerise"],
+      "fiche": {
+        "titre": "Blanche-Neige",
+        "texte": "Blanche-Neige est un conte populaire européen dont la version la plus connue est celle des frères Grimm, publiée en 1812. Une reine jalouse, à qui son miroir magique révèle que Blanche-Neige est plus belle qu'elle, cherche à la faire périr. Réfugiée chez sept nains dans la forêt, la jeune fille est finalement empoisonnée par une pomme que lui offre la reine déguisée. Elle revient à la vie lorsqu'un prince l'emporte. Le dessin animé de Walt Disney (1937) a rendu l'histoire universellement célèbre.",
+        "wiki": "Blanche-Neige"
+      }
+    },
+    {
+      "q": "Chez Perrault, avant quelle heure Cendrillon doit-elle avoir quitté le bal ?",
+      "choix": ["Minuit", "Une heure du matin", "Onze heures du soir", "Le lever du jour"],
+      "fiche": {
+        "titre": "Cendrillon",
+        "texte": "Cendrillon ou la Petite Pantoufle de verre est un conte de Charles Perrault. Maltraitée par sa belle-mère et ses demi-sœurs, la jeune fille se rend au bal du prince grâce à sa marraine la fée, qui change une citrouille en carrosse et des souris en chevaux. La fée l'avertit qu'elle doit être partie avant minuit, heure à laquelle l'enchantement prendra fin. Dans sa fuite, Cendrillon perd une pantoufle de verre qui permettra au prince de la retrouver.",
+        "wiki": "Cendrillon"
+      }
+    },
+    {
+      "q": "Quel animal fait passer son jeune maître pour le « marquis de Carabas » ?",
+      "choix": ["Un chat", "Un renard", "Un âne", "Un corbeau"],
+      "fiche": {
+        "titre": "Le Chat botté",
+        "texte": "Le Maître chat ou le Chat botté est un conte de Charles Perrault. Un meunier laisse pour tout héritage un chat à son plus jeune fils ; l'animal, après avoir obtenu des bottes et un sac, fait passer son maître pour le riche « marquis de Carabas » auprès du roi. Par la ruse, il pousse un ogre capable de se métamorphoser à se changer en souris, le dévore et s'empare de son château. Le jeune homme finit par épouser la fille du roi.",
+        "wiki": "Le Chat botté"
+      }
+    },
+    {
+      "q": "Quel objet magique le Petit Poucet dérobe-t-il à l'ogre ?",
+      "choix": ["Ses bottes de sept lieues", "Sa poule aux œufs d'or", "Son épée enchantée", "Sa bourse inépuisable"],
+      "fiche": {
+        "titre": "Le Petit Poucet",
+        "texte": "Le Petit Poucet est un conte de Charles Perrault. Le plus jeune de sept frères, à peine plus grand qu'un pouce, sauve ses frères abandonnés dans la forêt par leurs parents trop pauvres : la première fois grâce à des cailloux blancs semés en chemin, la seconde en vain, les oiseaux ayant mangé ses miettes de pain. Réfugiés chez un ogre, les enfants échappent à la mort grâce à une ruse de Poucet, qui s'empare ensuite des bottes de sept lieues de l'ogre endormi.",
+        "wiki": "Le Petit Poucet"
+      }
+    },
+    {
+      "q": "Que Raiponce laisse-t-elle pendre de sa tour pour qu'on puisse y grimper ?",
+      "choix": ["Ses cheveux", "Une échelle de corde", "Un drap noué", "Une corde à nœuds"],
+      "fiche": {
+        "titre": "Raiponce",
+        "texte": "Raiponce est un conte des frères Grimm publié en 1812. Une magicienne enferme une jeune fille aux cheveux d'une longueur extraordinaire dans une tour sans porte ni escalier. Pour y monter, elle l'appelle afin que Raiponce laisse pendre ses longues tresses par la fenêtre, et s'y hisse. Un prince découvre le secret et rend visite à la jeune fille de la même façon. Le nom de l'héroïne désigne une plante potagère que sa mère, enceinte, avait convoitée dans le jardin de la magicienne.",
+        "wiki": "Raiponce"
+      }
+    },
+    {
+      "q": "Dans « La Barbe bleue », quel objet trahit la désobéissance de la jeune épouse ?",
+      "choix": ["Une clé tachée de sang", "Un miroir brisé", "Une bague perdue", "Une porte restée ouverte"],
+      "fiche": {
+        "titre": "La Barbe bleue",
+        "texte": "La Barbe bleue est un conte de Charles Perrault. Un riche seigneur à la barbe bleue confie à sa jeune épouse les clés de son château, en lui interdisant d'ouvrir un petit cabinet. Cédant à la curiosité, elle y découvre les corps des précédentes épouses et laisse tomber la clé dans le sang ; la clé, qui est fée, garde une tache impossible à effacer. Menacée de mort, elle appelle sa sœur : « Anne, ma sœur Anne, ne vois-tu rien venir ? », avant d'être sauvée par ses frères.",
+        "wiki": "La Barbe bleue"
+      }
+    },
+    {
+      "q": "Quels sont les prénoms des frères Grimm ?",
+      "choix": ["Jacob et Wilhelm", "Hans et Fritz", "Karl et Ludwig", "Johann et Friedrich"],
+      "fiche": {
+        "titre": "Les frères Grimm",
+        "texte": "Jacob (1785-1863) et Wilhelm Grimm (1786-1859) sont deux frères linguistes et philologues allemands, nés à Hanau. Ils ont recueilli et publié les Contes de l'enfance et du foyer, dont le premier volume paraît en 1812 et qui réunit notamment Hansel et Gretel, Blanche-Neige et Le Petit Chaperon rouge. Pionniers de l'étude des langues germaniques, ils ont également entrepris un grand dictionnaire de la langue allemande, le Deutsches Wörterbuch.",
+        "wiki": "Frères Grimm"
+      }
+    },
+    {
+      "q": "Dans « Hansel et Gretel », que tend Hansel à la sorcière qui tâte son doigt pour voir s'il a grossi ?",
+      "choix": ["Un petit os", "Une brindille", "Une plume", "Un caillou"],
+      "fiche": {
+        "titre": "Hansel et Gretel",
+        "texte": "Hansel et Gretel est un conte des frères Grimm. Abandonnés dans la forêt par leurs parents, un frère et une sœur découvrent une maisonnette faite de pain et de gâteau, habitée par une sorcière qui dévore les enfants. Celle-ci enferme Hansel pour l'engraisser ; presque aveugle, elle lui tâte chaque jour le doigt, mais le garçon lui tend à la place un petit os. Lassée d'attendre, elle décide de le manger quand même, mais Gretel la pousse dans le four.",
+        "wiki": "Hansel et Gretel"
+      }
+    },
+    {
+      "q": "En quelle année Perrault publie-t-il ses « Histoires ou contes du temps passé » ?",
+      "choix": ["1697", "1650", "1715", "1812"],
+      "fiche": {
+        "titre": "Les Contes de ma mère l'Oye",
+        "texte": "Les Histoires ou contes du temps passé, avec des moralités, aussi appelés Contes de ma mère l'Oye, sont un recueil de Charles Perrault publié en 1697. Il réunit huit contes en prose, dont La Belle au bois dormant, Le Petit Chaperon rouge, La Barbe bleue, Le Chat botté, Cendrillon et Le Petit Poucet, chacun suivi d'une moralité en vers. Paru sous le nom de son fils, Pierre Darmancour, le recueil a largement contribué à fixer par écrit ces récits issus de la tradition orale.",
+        "wiki": "Contes de ma mère l'Oye"
+      }
+    },
+    {
+      "q": "Chez Perrault, qui veut dévorer les enfants de la Belle au bois dormant ?",
+      "choix": ["Sa belle-mère, une ogresse", "La vieille fée offensée", "Une sorcière de la forêt", "Le roi, son beau-père"],
+      "fiche": {
+        "titre": "La Belle au bois dormant",
+        "texte": "La Belle au bois dormant est un conte de Charles Perrault, dont les frères Grimm ont recueilli une autre version. Chez Perrault, la princesse, victime du sort d'une vieille fée, s'endort pour cent ans avant d'être réveillée par un prince. Le conte comporte une seconde partie souvent oubliée : la mère du prince, issue d'une race d'ogres, veut dévorer sa belle-fille et ses deux enfants, Aurore et Jour. Le maître d'hôtel les sauve en lui servant d'autres viandes à leur place.",
+        "wiki": "La Belle au bois dormant"
+      }
+    }
+  ]
+}

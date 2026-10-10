@@ -1,0 +1,99 @@
+{
+  "id": "sommets",
+  "titre": "Les plus hauts sommets du monde",
+  "categorie": "Géographie",
+  "emoji": "🏔️",
+  "accroche": "Chaussez vos crampons : de l'Everest à l'Aconcagua, partez à l'assaut des toits du monde.",
+  "questions": [
+    {
+      "q": "Quel est le plus haut sommet du monde ?",
+      "choix": ["L'Everest", "Le K2", "Le Kangchenjunga", "Le Lhotse"],
+      "fiche": {
+        "titre": "Everest",
+        "texte": "L'Everest est le plus haut sommet du monde, culminant à près de 8 850 mètres d'altitude. Situé dans l'Himalaya, à la frontière entre le Népal et la Chine (région autonome du Tibet), il est appelé Chomolungma en tibétain et Sagarmatha en népalais. Son nom occidental rend hommage à George Everest, ancien responsable du service géodésique de l'Inde britannique. Des milliers d'alpinistes en ont depuis atteint le sommet.",
+        "wiki": "Everest"
+      }
+    },
+    {
+      "q": "Dans quelle chaîne de montagnes se trouve l'Everest ?",
+      "choix": ["L'Himalaya", "Le Karakoram", "Les Andes", "L'Hindou Kouch"],
+      "fiche": {
+        "titre": "Himalaya",
+        "texte": "L'Himalaya est une chaîne de montagnes d'Asie qui s'étend sur environ 2 400 kilomètres, du Pakistan à l'Inde en passant par le Népal, la Chine et le Bhoutan. Elle abrite l'Everest, le plus haut sommet du monde, ainsi que la majorité des sommets dépassant 8 000 mètres. Née de la collision entre les plaques indienne et eurasienne, elle continue de s'élever. Son nom signifie « demeure des neiges » en sanskrit.",
+        "wiki": "Himalaya"
+      }
+    },
+    {
+      "q": "Quel est le plus haut sommet des Alpes ?",
+      "choix": ["Le mont Blanc", "Le mont Rose", "Le Cervin", "Le Grand Combin"],
+      "fiche": {
+        "titre": "Mont Blanc",
+        "texte": "Le mont Blanc est le plus haut sommet des Alpes et d'Europe occidentale, culminant à environ 4 800 mètres. Il se dresse à la frontière entre la France et l'Italie, au-dessus de Chamonix et de Courmayeur. Sa première ascension, réalisée en 1786 par Jacques Balmat et Michel Paccard, est considérée comme l'acte fondateur de l'alpinisme. Le massif est traversé par un tunnel routier ouvert en 1965.",
+        "wiki": "Mont Blanc"
+      }
+    },
+    {
+      "q": "Quel est le deuxième plus haut sommet du monde ?",
+      "choix": ["Le K2", "Le Makalu", "Le Cho Oyu", "Le Manaslu"],
+      "fiche": {
+        "titre": "K2",
+        "texte": "Le K2 est le deuxième plus haut sommet du monde, culminant à environ 8 611 mètres. Il se situe dans le massif du Karakoram, à la frontière entre le Pakistan et la Chine. Son nom vient de la notation utilisée lors d'un relevé topographique britannique au XIXe siècle. Réputé bien plus difficile et dangereux que l'Everest, il est surnommé « la montagne sauvage ». Sa première ascension a été réalisée en 1954 par une expédition italienne.",
+        "wiki": "K2"
+      }
+    },
+    {
+      "q": "Quel est le plus haut sommet d'Afrique ?",
+      "choix": ["Le Kilimandjaro", "Le mont Kenya", "Le mont Stanley", "Le Ras Dashen"],
+      "fiche": {
+        "titre": "Kilimandjaro",
+        "texte": "Le Kilimandjaro est le plus haut sommet d'Afrique, culminant à environ 5 895 mètres au pic Uhuru. Ce volcan endormi se trouve au nord-est de la Tanzanie, près de la frontière kényane. Isolé au-dessus de la savane, il est célèbre pour ses neiges sommitales, dont les glaciers reculent rapidement. Son ascension ne requiert pas de compétences techniques en alpinisme, ce qui en fait un objectif prisé des randonneurs du monde entier.",
+        "wiki": "Kilimandjaro"
+      }
+    },
+    {
+      "q": "Quels alpinistes ont réussi la première ascension de l'Everest en 1953 ?",
+      "choix": ["Hillary et Tenzing", "Mallory et Irvine", "Messner et Habeler", "Lacedelli et Compagnoni"],
+      "fiche": {
+        "titre": "Edmund Hillary",
+        "texte": "Edmund Hillary est un alpiniste et explorateur néo-zélandais. Le 29 mai 1953, avec le sherpa népalais Tenzing Norgay, il est devenu le premier à atteindre le sommet de l'Everest, au sein d'une expédition britannique dirigée par John Hunt. La nouvelle fut annoncée le jour du couronnement d'Élisabeth II. Hillary consacra ensuite une grande partie de sa vie à financer écoles et hôpitaux pour les Sherpas du Népal.",
+        "wiki": "Edmund Hillary"
+      }
+    },
+    {
+      "q": "Quel est le plus haut sommet du continent américain ?",
+      "choix": ["L'Aconcagua", "Le Denali", "Le Chimborazo", "L'Ojos del Salado"],
+      "fiche": {
+        "titre": "Aconcagua",
+        "texte": "L'Aconcagua est le plus haut sommet des Amériques et de tout l'hémisphère Sud, culminant à près de 7 000 mètres. Il se situe dans la cordillère des Andes, en Argentine, près de la frontière chilienne, dans la province de Mendoza. C'est aussi le plus haut sommet du monde en dehors de l'Asie. Sa voie normale, peu technique, attire chaque année de nombreux alpinistes, mais l'altitude et le vent en font une ascension exigeante.",
+        "wiki": "Aconcagua"
+      }
+    },
+    {
+      "q": "Combien de sommets dépassent 8 000 mètres d'altitude sur Terre ?",
+      "choix": ["14", "10", "12", "18"],
+      "fiche": {
+        "titre": "Huit-mille",
+        "texte": "On appelle « huit-mille » les quatorze sommets de la Terre qui dépassent 8 000 mètres d'altitude. Tous se trouvent en Asie, dans les chaînes de l'Himalaya et du Karakoram, au Népal, en Chine, en Inde et au Pakistan. Le plus élevé est l'Everest, le moins haut le Shishapangma, au Tibet. En 1986, l'Italien Reinhold Messner est devenu le premier alpiniste à les avoir tous gravis, et ce sans oxygène artificiel.",
+        "wiki": "Huit-mille"
+      }
+    },
+    {
+      "q": "Quel huit-mille fut gravi en 1950 par les Français Maurice Herzog et Louis Lachenal ?",
+      "choix": ["L'Annapurna", "Le Nanga Parbat", "Le Cho Oyu", "Le Makalu"],
+      "fiche": {
+        "titre": "Annapurna",
+        "texte": "L'Annapurna est un massif de l'Himalaya situé au Népal, dont le point culminant dépasse 8 000 mètres. Le 3 juin 1950, les Français Maurice Herzog et Louis Lachenal en ont atteint le sommet, réalisant la première ascension d'un sommet de plus de 8 000 mètres. La descente fut dramatique et les deux hommes subirent de graves gelures. Le récit d'Herzog, « Annapurna, premier 8000 », est devenu un classique de la littérature de montagne.",
+        "wiki": "Annapurna"
+      }
+    },
+    {
+      "q": "Quel sommet, en raison du renflement équatorial, est le point le plus éloigné du centre de la Terre ?",
+      "choix": ["Le Chimborazo", "L'Everest", "Le Kilimandjaro", "Le Cotopaxi"],
+      "fiche": {
+        "titre": "Chimborazo",
+        "texte": "Le Chimborazo est un volcan endormi des Andes situé en Équateur, dont il est le point culminant. Bien qu'il soit bien moins haut que l'Everest par rapport au niveau de la mer, son sommet est le point de la surface terrestre le plus éloigné du centre de la Terre. Cela s'explique par la forme légèrement aplatie de notre planète, renflée au niveau de l'équateur, tout proche duquel il se trouve. Alexander von Humboldt tenta son ascension en 1802.",
+        "wiki": "Chimborazo"
+      }
+    }
+  ]
+}

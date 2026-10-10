@@ -1,0 +1,99 @@
+{
+  "id": "einstein",
+  "titre": "Albert Einstein",
+  "categorie": "Sciences",
+  "emoji": "🧠",
+  "accroche": "Génie de la physique et icône du XXe siècle : saurez-vous percer les secrets de l'homme qui a bouleversé notre vision de l'Univers ?",
+  "questions": [
+    {
+      "q": "Quelle célèbre formule est associée à Albert Einstein ?",
+      "choix": ["E = mc²", "F = ma", "PV = nRT", "U = RI"],
+      "fiche": {
+        "titre": "E = mc²",
+        "texte": "E = mc² est la formule qui exprime l'équivalence entre la masse et l'énergie : l'énergie E d'un corps au repos est égale à sa masse m multipliée par le carré de la vitesse de la lumière c. Publiée par Albert Einstein en 1905, elle montre qu'une petite quantité de masse correspond à une énergie colossale. Ce principe explique notamment l'énergie libérée par les réactions nucléaires et le rayonnement des étoiles.",
+        "wiki": "E=mc2"
+      }
+    },
+    {
+      "q": "Dans quel pays Albert Einstein est-il né, en 1879 ?",
+      "choix": ["L'Allemagne", "La Suisse", "L'Autriche", "Les États-Unis"],
+      "fiche": {
+        "titre": "Ulm, ville natale d'Einstein",
+        "texte": "Albert Einstein est né le 14 mars 1879 à Ulm, une ville du royaume de Wurtemberg, dans l'Empire allemand. Sa famille s'installe dès l'année suivante à Munich, où son père et son oncle fondent une entreprise d'électricité. Adolescent, Einstein renonce à la nationalité allemande et poursuit ses études en Suisse, dont il obtient la nationalité en 1901. Il deviendra également citoyen américain en 1940.",
+        "wiki": "Ulm"
+      }
+    },
+    {
+      "q": "Quelle grande théorie, « restreinte » puis « générale », Einstein a-t-il élaborée ?",
+      "choix": ["La relativité", "L'évolution", "La tectonique des plaques", "Le Big Bang"],
+      "fiche": {
+        "titre": "Théorie de la relativité",
+        "texte": "La théorie de la relativité regroupe deux théories élaborées par Albert Einstein. La relativité restreinte, publiée en 1905, montre que la vitesse de la lumière est la même pour tous les observateurs et que le temps et l'espace ne sont pas absolus. La relativité générale, achevée en 1915, décrit la gravitation comme une courbure de l'espace-temps provoquée par la masse. Elle permet notamment le bon fonctionnement des systèmes de positionnement par satellite.",
+        "wiki": "Théorie de la relativité"
+      }
+    },
+    {
+      "q": "Pour quels travaux Einstein a-t-il reçu le prix Nobel de physique ?",
+      "choix": ["L'effet photoélectrique", "La relativité générale", "La bombe atomique", "La mécanique des fluides"],
+      "fiche": {
+        "titre": "Effet photoélectrique",
+        "texte": "L'effet photoélectrique est l'émission d'électrons par un matériau éclairé par une lumière. En 1905, Einstein l'explique en supposant que la lumière est composée de grains d'énergie, appelés plus tard photons. C'est pour cette découverte, et non pour la relativité, jugée encore trop controversée, qu'il reçoit le prix Nobel de physique de 1921. Ces travaux ont joué un rôle fondateur dans la naissance de la mécanique quantique.",
+        "wiki": "Effet photoélectrique"
+      }
+    },
+    {
+      "q": "Où Einstein travaillait-il en 1905, son « année miraculeuse » ?",
+      "choix": ["À l'Office des brevets de Berne", "À l'université de Berlin", "À l'Observatoire de Genève", "À l'École polytechnique de Paris"],
+      "fiche": {
+        "titre": "L'année miraculeuse d'Einstein",
+        "texte": "En 1905, Albert Einstein n'est pas encore professeur : il est employé comme expert technique à l'Office fédéral des brevets de Berne, en Suisse, où il examine des demandes de brevets. Pendant son temps libre, il publie cette année-là plusieurs articles qui révolutionnent la physique, sur l'effet photoélectrique, le mouvement brownien, la relativité restreinte et l'équivalence masse-énergie. On parle de son « annus mirabilis ».",
+        "wiki": "Albert Einstein"
+      }
+    },
+    {
+      "q": "Dans quelle ville américaine Einstein a-t-il vécu de 1933 à sa mort ?",
+      "choix": ["Princeton", "Boston", "Chicago", "Pasadena"],
+      "fiche": {
+        "titre": "Princeton",
+        "texte": "Princeton est une ville universitaire du New Jersey, aux États-Unis. Albert Einstein s'y installe en 1933, après avoir quitté l'Allemagne lors de l'arrivée au pouvoir des nazis, pour rejoindre le tout nouvel Institute for Advanced Study. Il y passe les vingt-deux dernières années de sa vie, cherchant en vain une théorie unifiant la gravitation et l'électromagnétisme. Il meurt à Princeton le 18 avril 1955.",
+        "wiki": "Princeton (New Jersey)"
+      }
+    },
+    {
+      "q": "Quelle fonction Einstein a-t-il refusée en 1952 ?",
+      "choix": ["Président d'Israël", "Président de l'université Harvard", "Ambassadeur de Suisse", "Chancelier d'Allemagne"],
+      "fiche": {
+        "titre": "Président de l'État d'Israël",
+        "texte": "Le président de l'État d'Israël est le chef de l'État israélien, une fonction essentiellement honorifique. En novembre 1952, après la mort du premier président, Chaim Weizmann, le gouvernement de David Ben Gourion propose le poste à Albert Einstein, très engagé en faveur du sionisme culturel. Le physicien décline l'offre, expliquant qu'il manque d'aptitude et d'expérience pour traiter avec les hommes et exercer des fonctions officielles.",
+        "wiki": "Président de l'État d'Israël"
+      }
+    },
+    {
+      "q": "À quel président américain Einstein a-t-il signé en 1939 une lettre alertant sur la bombe atomique ?",
+      "choix": ["Franklin D. Roosevelt", "Harry Truman", "Herbert Hoover", "Dwight Eisenhower"],
+      "fiche": {
+        "titre": "La lettre Einstein-Szilárd",
+        "texte": "En août 1939, Albert Einstein signe une lettre adressée au président américain Franklin D. Roosevelt, rédigée avec le physicien hongrois Leó Szilárd. Elle avertit que l'Allemagne nazie pourrait mettre au point une bombe d'une puissance inédite grâce à la fission de l'uranium. Ce courrier contribue au lancement des recherches américaines qui mèneront au projet Manhattan. Pacifiste, Einstein n'a pas participé à ce projet et regrettera plus tard cette lettre.",
+        "wiki": "Projet Manhattan"
+      }
+    },
+    {
+      "q": "Quel phénomène prédit par Einstein a été confirmé lors de l'éclipse solaire de 1919 ?",
+      "choix": ["La déviation de la lumière", "Les ondes gravitationnelles", "L'expansion de l'Univers", "L'existence des quarks"],
+      "fiche": {
+        "titre": "L'éclipse de 1919",
+        "texte": "Lors de l'éclipse totale de Soleil du 29 mai 1919, des expéditions britanniques organisées notamment par l'astronome Arthur Eddington photographient les étoiles proches du Soleil, depuis l'île de Principe et depuis Sobral, au Brésil. Leurs mesures montrent que la lumière des étoiles est déviée par la masse du Soleil, comme le prévoyait la relativité générale. Cette confirmation fait d'Einstein une célébrité mondiale.",
+        "wiki": "Arthur Eddington"
+      }
+    },
+    {
+      "q": "Comment s'appelait la première épouse d'Einstein, physicienne d'origine serbe ?",
+      "choix": ["Mileva Marić", "Elsa Einstein", "Marie Winteler", "Lise Meitner"],
+      "fiche": {
+        "titre": "Mileva Marić",
+        "texte": "Mileva Marić est une physicienne et mathématicienne serbe, l'une des rares femmes admises à étudier à l'École polytechnique de Zurich à la fin du XIXe siècle. C'est là qu'elle rencontre Albert Einstein, qu'elle épouse en 1903. Le couple a deux fils, Hans Albert et Eduard. Ils divorcent en 1919 ; Einstein s'engage alors à lui verser le montant de son futur prix Nobel. Il épouse ensuite sa cousine Elsa.",
+        "wiki": "Mileva Marić"
+      }
+    }
+  ]
+}

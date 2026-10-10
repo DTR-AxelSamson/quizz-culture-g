@@ -1,0 +1,99 @@
+{
+  "id": "vikings",
+  "titre": "Les Vikings",
+  "categorie": "Histoire",
+  "emoji": "🛡️",
+  "accroche": "Navigateurs, pillards, commerçants et explorateurs : embarquez avec les hommes du Nord.",
+  "questions": [
+    {
+      "q": "De quelle région d'Europe les Vikings sont-ils originaires ?",
+      "choix": ["La Scandinavie", "Les Balkans", "La péninsule Ibérique", "L'Europe centrale"],
+      "fiche": {
+        "titre": "Vikings",
+        "texte": "Les Vikings sont des navigateurs, guerriers et marchands originaires de Scandinavie, c'est-à-dire des actuels Danemark, Norvège et Suède. Entre la fin du VIIIe siècle et le milieu du XIe siècle, ils mènent des raids sur les côtes et les fleuves d'Europe, mais pratiquent aussi le commerce et s'installent durablement dans de nombreuses régions. Leur présence s'étend des îles Britanniques jusqu'à l'Islande à l'ouest, et jusqu'à la Russie et Constantinople à l'est, où on les appelle Varègues.",
+        "wiki": "Vikings"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on couramment en français le navire de guerre viking ?",
+      "choix": ["Le drakkar", "La galère", "La caravelle", "La trirème"],
+      "fiche": {
+        "titre": "Drakkar",
+        "texte": "Le mot drakkar désigne couramment en français le navire de guerre des Vikings. Ce terme, forgé au XIXe siècle, vient du vieux norrois « dreki », qui signifie dragon, en référence aux figures de proue sculptées ornant certains bateaux. Les historiens parlent plutôt de bateaux longs. Fins, légers et à faible tirant d'eau, ces navires propulsés à la voile et à la rame pouvaient traverser la mer comme remonter les fleuves, ce qui permettait aux Vikings de frapper loin à l'intérieur des terres.",
+        "wiki": "Drakkar"
+      }
+    },
+    {
+      "q": "Quel dieu de la mythologie nordique manie le marteau Mjöllnir et commande le tonnerre ?",
+      "choix": ["Thor", "Odin", "Loki", "Freyr"],
+      "fiche": {
+        "titre": "Thor",
+        "texte": "Thor est le dieu du tonnerre dans la mythologie nordique. Fils d'Odin, il est le protecteur des dieux et des hommes contre les géants, qu'il combat à l'aide de son marteau Mjöllnir, qui revient toujours dans sa main après avoir été lancé. Il parcourt le ciel sur un char tiré par deux boucs. Très populaire chez les Vikings, il a laissé son nom au jeudi dans les langues germaniques, comme l'anglais « Thursday », le « jour de Thor ».",
+        "wiki": "Thor"
+      }
+    },
+    {
+      "q": "Quelle région de France est cédée en 911 au chef viking Rollon ?",
+      "choix": ["La Normandie", "La Bretagne", "La Picardie", "L'Aquitaine"],
+      "fiche": {
+        "titre": "Traité de Saint-Clair-sur-Epte",
+        "texte": "Par le traité de Saint-Clair-sur-Epte, conclu en 911, le roi carolingien Charles le Simple cède au chef viking Rollon des terres autour de Rouen, à l'embouchure de la Seine. En échange, Rollon s'engage à défendre le royaume contre d'autres envahisseurs et à se faire baptiser. Ce territoire, agrandi par la suite, devient la Normandie, le « pays des hommes du Nord ». Rollon est l'ancêtre des ducs de Normandie, dont Guillaume le Conquérant, qui s'empare de l'Angleterre en 1066.",
+        "wiki": "Traité de Saint-Clair-sur-Epte"
+      }
+    },
+    {
+      "q": "Quel Viking, banni d'Islande, explore et colonise le Groenland à la fin du Xe siècle ?",
+      "choix": ["Érik le Rouge", "Ragnar Lodbrok", "Ivar le Désossé", "Rollon"],
+      "fiche": {
+        "titre": "Érik le Rouge",
+        "texte": "Érik le Rouge est un navigateur viking né en Norvège, dont la famille s'installe en Islande. Banni de l'île pour meurtre vers 982, il part explorer les terres situées plus à l'ouest. Il revient ensuite en Islande pour vanter ce territoire, qu'il nomme Groenland, la « terre verte », afin d'attirer des colons. Vers 985, il y fonde des établissements qui subsistent près de cinq siècles. Il est le père de l'explorateur Leif Erikson.",
+        "wiki": "Érik le Rouge"
+      }
+    },
+    {
+      "q": "Comment s'appellent les caractères de l'écriture utilisée par les Vikings ?",
+      "choix": ["Les runes", "Les hiéroglyphes", "Les oghams", "Les idéogrammes"],
+      "fiche": {
+        "titre": "Alphabet runique",
+        "texte": "Les runes sont les caractères des alphabets utilisés par les peuples germaniques, dont les Scandinaves de l'époque viking. Leurs formes anguleuses étaient adaptées à la gravure sur le bois, l'os ou la pierre. L'alphabet runique est appelé futhark, d'après ses six premières lettres ; à l'époque viking, on utilise le futhark récent, réduit à seize signes. Des milliers de pierres runiques, souvent dressées en mémoire d'un défunt, subsistent en Scandinavie, en particulier en Suède.",
+        "wiki": "Alphabet runique"
+      }
+    },
+    {
+      "q": "Comment se nomme la demeure d'Odin où sont accueillis les guerriers morts au combat ?",
+      "choix": ["Le Valhalla", "Jötunheim", "Midgard", "Niflheim"],
+      "fiche": {
+        "titre": "Valhalla",
+        "texte": "Dans la mythologie nordique, le Valhalla est l'immense salle du dieu Odin, située à Asgard, le monde des dieux. Les Valkyries y conduisent la moitié des guerriers morts héroïquement au combat, appelés Einherjar. Ceux-ci passent leurs journées à s'affronter et leurs soirées à festoyer, en attendant de combattre aux côtés des dieux lors du Ragnarök, la bataille de la fin du monde. Midgard désigne quant à lui le monde des hommes, Jötunheim celui des géants et Niflheim un monde de glace et de brume.",
+        "wiki": "Valhalla"
+      }
+    },
+    {
+      "q": "Sur quelle île se trouve L'Anse aux Meadows, site prouvant la présence viking en Amérique ?",
+      "choix": ["Terre-Neuve", "Le Groenland", "L'île du Cap-Breton", "L'île d'Anticosti"],
+      "fiche": {
+        "titre": "L'Anse aux Meadows",
+        "texte": "L'Anse aux Meadows est un site archéologique situé à la pointe nord de l'île de Terre-Neuve, au Canada. Découvert en 1960 par l'explorateur norvégien Helge Ingstad et fouillé avec l'archéologue Anne Stine Ingstad, il a livré les vestiges d'un établissement viking datant d'environ l'an mil. C'est la seule preuve archéologique incontestée d'une présence européenne en Amérique avant Christophe Colomb. Il est associé au Vinland des sagas et inscrit au patrimoine mondial de l'Unesco depuis 1978.",
+        "wiki": "L'Anse aux Meadows"
+      }
+    },
+    {
+      "q": "Quel roi danois du Xe siècle a donné son nom à la technologie sans fil Bluetooth ?",
+      "choix": ["Harald à la Dent bleue", "Knut le Grand", "Sven à la Barbe fourchue", "Gorm l'Ancien"],
+      "fiche": {
+        "titre": "Harald à la Dent bleue",
+        "texte": "Harald à la Dent bleue est un roi du Danemark du Xe siècle, fils de Gorm l'Ancien. Il est connu pour avoir unifié le Danemark et converti les Danois au christianisme, comme il le proclame sur la grande pierre runique de Jelling. En 1997, des ingénieurs ont choisi son surnom, « Bluetooth » en anglais, pour une technologie de communication sans fil destinée à unifier les échanges entre appareils. Le logo associe les runes correspondant à ses initiales, H et B.",
+        "wiki": "Harald à la Dent bleue"
+      }
+    },
+    {
+      "q": "Quel monastère anglais, pillé en 793, marque traditionnellement le début de l'ère viking ?",
+      "choix": ["Lindisfarne", "Iona", "Jarrow", "Whitby"],
+      "fiche": {
+        "titre": "Lindisfarne",
+        "texte": "Lindisfarne, ou Holy Island, est une île de la côte nord-est de l'Angleterre, en Northumbrie, accessible à marée basse. Son monastère, fondé au VIIe siècle, est un grand foyer du christianisme celtique et anglo-saxon, célèbre pour les Évangiles de Lindisfarne. En 793, il est attaqué et pillé par des Vikings venus de la mer, un raid qui choque profondément la chrétienté, comme en témoignent les lettres du savant Alcuin. Cet événement marque traditionnellement le début de l'ère viking.",
+        "wiki": "Lindisfarne"
+      }
+    }
+  ]
+}

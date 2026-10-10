@@ -1,0 +1,99 @@
+{
+  "id": "impressionnisme",
+  "titre": "Les peintres impressionnistes",
+  "categorie": "Arts",
+  "emoji": "🎨",
+  "accroche": "Lumière, plein air et touches vibrantes : partez à la rencontre des peintres qui ont révolutionné l'art.",
+  "questions": [
+    {
+      "q": "Quel peintre a réalisé « Impression, soleil levant », qui a donné son nom au mouvement ?",
+      "choix": ["Claude Monet", "Édouard Manet", "Paul Cézanne", "Vincent van Gogh"],
+      "fiche": {
+        "titre": "Impression, soleil levant",
+        "texte": "Impression, soleil levant est un tableau de Claude Monet peint en 1872, représentant le port du Havre dans la brume matinale. Présenté lors de la première exposition du groupe, dans l'ancien atelier du photographe Nadar, il inspire au critique Louis Leroy le terme moqueur d'« impressionnistes », que les artistes finissent par adopter. La touche rapide et la restitution des effets de lumière y priment sur le dessin. Conservé au musée Marmottan Monet, à Paris, il est devenu le symbole du mouvement.",
+        "wiki": "Impression, soleil levant"
+      }
+    },
+    {
+      "q": "Quel peintre est célèbre pour ses nombreuses danseuses de l'Opéra ?",
+      "choix": ["Edgar Degas", "Auguste Renoir", "Alfred Sisley", "Camille Pissarro"],
+      "fiche": {
+        "titre": "Edgar Degas",
+        "texte": "Edgar Degas (1834-1917) est un peintre, graveur et sculpteur français associé au groupe impressionniste, dont il fut l'un des organisateurs des expositions. Il est particulièrement célèbre pour ses danseuses de l'Opéra de Paris, saisies en répétition ou en coulisses, qu'il représente en peinture comme au pastel. Il s'intéresse aussi aux champs de courses, aux repasseuses et aux femmes à leur toilette. Sa sculpture La Petite Danseuse de quatorze ans fit scandale en 1881.",
+        "wiki": "Edgar Degas"
+      }
+    },
+    {
+      "q": "Dans quel village normand Claude Monet a-t-il aménagé son jardin aux nymphéas ?",
+      "choix": ["Giverny", "Étretat", "Honfleur", "Barbizon"],
+      "fiche": {
+        "titre": "Giverny",
+        "texte": "Giverny est un village de l'Eure, en Normandie, situé près du confluent de la Seine et de l'Epte. Claude Monet s'y installe en 1883 et y vit jusqu'à sa mort en 1926. Il y aménage un jardin de fleurs et un jardin d'eau inspiré des estampes japonaises, avec un pont et un bassin couvert de nénuphars, qu'il peint inlassablement dans la série des Nymphéas. Sa maison et ses jardins, restaurés, sont aujourd'hui ouverts au public et accueillent de très nombreux visiteurs.",
+        "wiki": "Giverny"
+      }
+    },
+    {
+      "q": "Quel musée parisien possède la plus importante collection de peintures impressionnistes au monde ?",
+      "choix": ["Le musée d'Orsay", "Le musée du Louvre", "Le Petit Palais", "Le Centre Pompidou"],
+      "fiche": {
+        "titre": "Le musée d'Orsay",
+        "texte": "Le musée d'Orsay est un musée national installé dans l'ancienne gare d'Orsay, construite pour l'Exposition universelle de 1900 sur la rive gauche de la Seine. Inauguré en 1986, il présente les arts de la période 1848-1914 : peinture, sculpture, arts décoratifs et photographie. Il abrite la plus grande collection de peintures impressionnistes et postimpressionnistes au monde, avec des chefs-d'œuvre de Monet, Renoir, Degas, Cézanne ou Van Gogh.",
+        "wiki": "Musée d'Orsay"
+      }
+    },
+    {
+      "q": "Qui a peint le « Bal du moulin de la Galette » en 1876 ?",
+      "choix": ["Auguste Renoir", "Henri de Toulouse-Lautrec", "Edgar Degas", "Claude Monet"],
+      "fiche": {
+        "titre": "Bal du moulin de la Galette",
+        "texte": "Bal du moulin de la Galette est un tableau de Pierre-Auguste Renoir réalisé en 1876 et montré au public l'année suivante. Il représente un après-midi dominical dans une guinguette populaire de Montmartre, où la jeunesse parisienne danse et bavarde sous les arbres. Les taches de lumière filtrant à travers le feuillage illustrent la recherche impressionniste sur les effets lumineux. Cette œuvre majeure de Renoir est aujourd'hui conservée au musée d'Orsay, à Paris.",
+        "wiki": "Bal du moulin de la Galette"
+      }
+    },
+    {
+      "q": "En quelle année s'ouvre la première exposition des impressionnistes ?",
+      "choix": ["1874", "1863", "1886", "1900"],
+      "fiche": {
+        "titre": "La première exposition impressionniste",
+        "texte": "La première exposition des impressionnistes s'ouvre le 15 avril 1874 à Paris, dans l'ancien atelier du photographe Nadar, boulevard des Capucines. Organisée par la « Société anonyme coopérative des artistes peintres, sculpteurs, graveurs, etc. », elle réunit une trentaine d'artistes, dont Monet, Renoir, Degas, Pissarro, Morisot, Sisley et Cézanne, en marge du Salon officiel. Mal accueillie par la critique, elle sera suivie de sept autres expositions jusqu'en 1886.",
+        "wiki": "Impressionnisme"
+      }
+    },
+    {
+      "q": "Quelle femme peintre impressionniste épousa Eugène Manet, le frère d'Édouard ?",
+      "choix": ["Berthe Morisot", "Mary Cassatt", "Suzanne Valadon", "Eva Gonzalès"],
+      "fiche": {
+        "titre": "Berthe Morisot",
+        "texte": "Berthe Morisot (1841-1895) est une peintre française, figure majeure de l'impressionnisme. Proche d'Édouard Manet, pour qui elle pose à plusieurs reprises, notamment pour Le Balcon, elle épouse en 1874 son frère Eugène Manet. Elle participe à presque toutes les expositions impressionnistes et peint surtout des scènes intimes de la vie familiale et féminine, comme Le Berceau (1872), conservé au musée d'Orsay.",
+        "wiki": "Berthe Morisot"
+      }
+    },
+    {
+      "q": "Quel paysagiste impressionniste, né à Paris mais de nationalité britannique, finit sa vie à Moret-sur-Loing ?",
+      "choix": ["Alfred Sisley", "Camille Pissarro", "Gustave Caillebotte", "Armand Guillaumin"],
+      "fiche": {
+        "titre": "Alfred Sisley",
+        "texte": "Alfred Sisley (1839-1899) est un peintre impressionniste né à Paris de parents anglais, resté de nationalité britannique toute sa vie. Ami de Monet, Renoir et Bazille, rencontrés dans l'atelier du peintre Charles Gleyre, il se consacre presque exclusivement au paysage. Il peint les bords de la Seine et du Loing, les effets de neige et les inondations, comme dans L'Inondation à Port-Marly. Installé à Moret-sur-Loing, il y meurt dans la gêne.",
+        "wiki": "Alfred Sisley"
+      }
+    },
+    {
+      "q": "Quel peintre et collectionneur est l'auteur de « Rue de Paris, temps de pluie » et des « Raboteurs de parquet » ?",
+      "choix": ["Gustave Caillebotte", "Frédéric Bazille", "Armand Guillaumin", "Eugène Boudin"],
+      "fiche": {
+        "titre": "Gustave Caillebotte",
+        "texte": "Gustave Caillebotte (1848-1894) est un peintre et collectionneur français, membre du groupe impressionniste. Ses Raboteurs de parquet (1875), refusés au Salon, puis Rue de Paris, temps de pluie (1877) témoignent de son goût pour les scènes de la vie moderne et les perspectives audacieuses. Riche héritier, il soutient financièrement ses amis et achète leurs œuvres. Son legs à l'État, accepté en partie après de vifs débats, constitue l'un des fondements des collections impressionnistes nationales.",
+        "wiki": "Gustave Caillebotte"
+      }
+    },
+    {
+      "q": "Quel peintre fut le seul à participer aux huit expositions impressionnistes ?",
+      "choix": ["Camille Pissarro", "Claude Monet", "Edgar Degas", "Berthe Morisot"],
+      "fiche": {
+        "titre": "Camille Pissarro",
+        "texte": "Camille Pissarro (1830-1903), né sur l'île de Saint-Thomas, dans les Antilles danoises, est un peintre impressionniste puis néo-impressionniste. Doyen du groupe, il est le seul à avoir participé aux huit expositions impressionnistes, de 1874 à 1886. Paysagiste de la vie rurale, notamment à Pontoise et à Éragny, il fut un mentor pour Cézanne et Gauguin. À la fin de sa vie, il peint des séries de vues urbaines de Paris, de Rouen et du Havre.",
+        "wiki": "Camille Pissarro"
+      }
+    }
+  ]
+}

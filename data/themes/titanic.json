@@ -1,0 +1,99 @@
+{
+  "id": "titanic",
+  "titre": "Le Titanic",
+  "categorie": "Histoire",
+  "emoji": "🚢",
+  "accroche": "Le paquebot réputé insubmersible et sa nuit tragique dans l'Atlantique Nord : à vous de jouer.",
+  "questions": [
+    {
+      "q": "En quelle année le Titanic a-t-il fait naufrage ?",
+      "choix": ["1912", "1905", "1918", "1923"],
+      "fiche": {
+        "titre": "Titanic",
+        "texte": "Le Titanic est un paquebot transatlantique britannique qui était, lors de sa mise en service, le plus grand navire du monde, avec près de 270 mètres de long. Présenté comme un sommet de luxe et de technologie, il passait pour pratiquement insubmersible grâce à ses compartiments étanches. Il sombre pourtant lors de son voyage inaugural, dans la nuit du 14 au 15 avril 1912, dans l'Atlantique Nord. Ce naufrage, l'un des plus meurtriers en temps de paix, a profondément marqué les esprits et inspiré de nombreux films.",
+        "wiki": "Titanic"
+      }
+    },
+    {
+      "q": "Avec quoi le Titanic est-il entré en collision ?",
+      "choix": ["Un iceberg", "Un autre paquebot", "Un récif", "Une mine"],
+      "fiche": {
+        "titre": "Naufrage du Titanic",
+        "texte": "Le 14 avril 1912, vers 23 h 40, le Titanic heurte un iceberg dans l'Atlantique Nord, au sud de Terre-Neuve. Malgré les avertissements reçus dans la journée, le navire filait à vive allure, et les vigies ont repéré l'obstacle trop tard pour l'éviter. Le choc ouvre une brèche dans plusieurs compartiments étanches de la coque, ce qui condamne le paquebot. Le Titanic sombre environ 2 h 40 plus tard, vers 2 h 20 du matin, le 15 avril, dans une mer glaciale.",
+        "wiki": "Naufrage du Titanic"
+      }
+    },
+    {
+      "q": "Vers quelle ville le Titanic se dirigeait-il lors de son voyage inaugural ?",
+      "choix": ["New York", "Boston", "Halifax", "Québec"],
+      "fiche": {
+        "titre": "Voyage inaugural du Titanic",
+        "texte": "Le Titanic effectuait sa traversée inaugurale entre l'Europe et New York, destination principale des grands paquebots transatlantiques de l'époque, où il devait arriver le 17 avril 1912. Après son départ d'Angleterre, il fait escale à Cherbourg, en France, puis à Queenstown, aujourd'hui Cobh, en Irlande, pour embarquer d'autres passagers. À son bord se côtoient de richissimes voyageurs en première classe et de nombreux émigrants européens en troisième classe, partis tenter leur chance en Amérique.",
+        "wiki": "Titanic"
+      }
+    },
+    {
+      "q": "De quel port anglais le Titanic appareille-t-il le 10 avril 1912 ?",
+      "choix": ["Southampton", "Liverpool", "Plymouth", "Douvres"],
+      "fiche": {
+        "titre": "Southampton",
+        "texte": "Southampton est une ville portuaire du sud de l'Angleterre, principal port britannique des paquebots transatlantiques au début du XXe siècle. C'est de là que le Titanic appareille pour son voyage inaugural le 10 avril 1912, à midi. Au moment du départ, l'aspiration créée par le géant manque de provoquer une collision avec un autre navire amarré, le New York. Une grande partie de l'équipage était originaire de Southampton, ville durement frappée par le naufrage, qui conserve plusieurs mémoriaux et un musée maritime évoquant la catastrophe.",
+        "wiki": "Southampton"
+      }
+    },
+    {
+      "q": "Dans quelle ville le Titanic a-t-il été construit ?",
+      "choix": ["Belfast", "Glasgow", "Newcastle", "Liverpool"],
+      "fiche": {
+        "titre": "Harland and Wolff",
+        "texte": "Le Titanic a été construit à Belfast, en Irlande du Nord, par les chantiers navals Harland and Wolff, parmi les plus importants du monde à l'époque. Sa construction commence en 1909, en parallèle de celle de son navire jumeau, l'Olympic. Le Titanic est lancé le 31 mai 1911, puis achevé et aménagé jusqu'au début de 1912. Le chantier a été dirigé notamment par l'architecte naval Thomas Andrews, qui périt dans le naufrage. Belfast abrite aujourd'hui le musée Titanic Belfast, sur le site même des chantiers.",
+        "wiki": "Harland and Wolff"
+      }
+    },
+    {
+      "q": "Combien de personnes environ ont péri dans le naufrage du Titanic ?",
+      "choix": ["Environ 1 500", "Environ 300", "Environ 700", "Environ 3 000"],
+      "fiche": {
+        "titre": "Bilan du naufrage",
+        "texte": "Environ 2 200 personnes, passagers et membres d'équipage, se trouvaient à bord du Titanic lors de son naufrage. Environ 1 500 d'entre elles ont péri, la plupart mortes de froid dans l'eau glaciale, et un peu plus de 700 ont survécu. Le navire ne disposait que de vingt canots de sauvetage, d'une capacité totale d'environ 1 200 places, et certains ont été mis à l'eau à moitié vides. La règle « les femmes et les enfants d'abord » explique le taux de survie bien plus élevé des femmes et des enfants.",
+        "wiki": "Naufrage du Titanic"
+      }
+    },
+    {
+      "q": "Quel était le nom du commandant du Titanic, disparu dans le naufrage ?",
+      "choix": ["Edward Smith", "William Murdoch", "Arthur Rostron", "Charles Lightoller"],
+      "fiche": {
+        "titre": "Edward Smith",
+        "texte": "Edward John Smith est un officier de marine marchande britannique, l'un des commandants de paquebots les plus expérimentés et les plus réputés de son époque. Il est choisi pour commander le Titanic lors de son voyage inaugural. Après la collision, il supervise l'évacuation et l'envoi des appels de détresse. Il disparaît dans le naufrage, et l'on ignore les circonstances exactes de sa mort. La tradition veut qu'il soit resté à son poste jusqu'au bout, devenant une figure de l'honneur du marin.",
+        "wiki": "Edward John Smith"
+      }
+    },
+    {
+      "q": "À quelle compagnie maritime appartenait le Titanic ?",
+      "choix": ["White Star Line", "Cunard Line", "Red Star Line", "Hamburg America Line"],
+      "fiche": {
+        "titre": "White Star Line",
+        "texte": "La White Star Line est une compagnie maritime britannique, grande rivale de la Cunard sur les lignes de l'Atlantique Nord. Pour l'emporter par le luxe et la taille plutôt que par la vitesse, elle commande trois paquebots géants de la classe Olympic : l'Olympic, le Titanic et le Britannic. Son président, Joseph Bruce Ismay, se trouvait à bord du Titanic et survécut au naufrage, ce qui lui fut vivement reproché. Affaiblie, la compagnie fusionne avec la Cunard en 1934.",
+        "wiki": "White Star Line"
+      }
+    },
+    {
+      "q": "Quel océanographe a localisé l'épave du Titanic en 1985 ?",
+      "choix": ["Robert Ballard", "Jacques-Yves Cousteau", "James Cameron", "Clive Cussler"],
+      "fiche": {
+        "titre": "Robert Ballard",
+        "texte": "Robert Ballard est un océanographe américain qui localise l'épave du Titanic le 1er septembre 1985, lors d'une expédition franco-américaine menée avec l'Ifremer et l'ingénieur français Jean-Louis Michel. L'épave repose par environ 3 800 mètres de fond, brisée en deux parties distantes de plusieurs centaines de mètres. Ballard est également connu pour avoir retrouvé l'épave du cuirassé allemand Bismarck. Les autres noms proposés évoquent aussi la mer ou le Titanic, comme le réalisateur James Cameron, auteur du film « Titanic » en 1997.",
+        "wiki": "Robert Ballard"
+      }
+    },
+    {
+      "q": "Quel paquebot a recueilli les survivants du Titanic ?",
+      "choix": ["Le Carpathia", "Le Californian", "Le Lusitania", "L'Olympic"],
+      "fiche": {
+        "titre": "Carpathia",
+        "texte": "Le Carpathia est un paquebot de la compagnie Cunard qui, ayant capté les appels de détresse du Titanic, se dirige à toute vapeur vers le lieu du naufrage sous le commandement du capitaine Arthur Rostron. Il arrive sur place vers 4 heures du matin, environ une heure et demie après la disparition du Titanic, et recueille plus de 700 survivants répartis dans les canots. Il les débarque à New York le 18 avril 1912. Le Californian, pourtant beaucoup plus proche, n'avait pas réagi aux signaux.",
+        "wiki": "Naufrage du Titanic"
+      }
+    }
+  ]
+}

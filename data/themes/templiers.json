@@ -1,0 +1,99 @@
+{
+  "id": "templiers",
+  "titre": "Les Templiers",
+  "categorie": "Histoire",
+  "emoji": "✝️",
+  "accroche": "Moines-soldats, trésors légendaires et bûchers : percez les secrets de l'ordre du Temple.",
+  "questions": [
+    {
+      "q": "Quel roi de France fait arrêter les Templiers en 1307 ?",
+      "choix": ["Philippe le Bel", "Saint Louis", "Philippe Auguste", "Louis X le Hutin"],
+      "fiche": {
+        "titre": "Philippe IV le Bel",
+        "texte": "Philippe IV, dit Philippe le Bel, est roi de France de 1285 à 1314. Soucieux d'affirmer l'autorité royale et confronté à de graves difficultés financières, il ordonne en 1307 l'arrestation simultanée de tous les Templiers du royaume. L'ordre, puissant et riche, est accusé d'hérésie, de sacrilège et de pratiques obscènes. Conseillé par son légiste Guillaume de Nogaret, le roi obtient des aveux, souvent arrachés sous la torture, et pèse de tout son poids sur la papauté pour obtenir la disparition de l'ordre.",
+        "wiki": "Philippe IV le Bel"
+      }
+    },
+    {
+      "q": "Quel jour de la semaine tombait le 13 octobre 1307, date de l'arrestation des Templiers ?",
+      "choix": ["Un vendredi", "Un lundi", "Un mercredi", "Un dimanche"],
+      "fiche": {
+        "titre": "Arrestation des Templiers",
+        "texte": "L'arrestation des Templiers a lieu le vendredi 13 octobre 1307 dans tout le royaume de France. Préparée dans le plus grand secret, elle est menée à l'aube par les officiers royaux, porteurs d'ordres scellés envoyés un mois plus tôt. Des centaines de frères sont emprisonnés et leurs biens saisis. Cette coïncidence est parfois avancée pour expliquer la réputation de malchance du vendredi 13, mais cette explication populaire n'est pas démontrée par les historiens.",
+        "wiki": "Procès de l'ordre du Temple"
+      }
+    },
+    {
+      "q": "Quelle était la tenue caractéristique des chevaliers templiers ?",
+      "choix": ["Manteau blanc à croix rouge", "Manteau noir à croix blanche", "Manteau blanc à croix noire", "Manteau rouge à croix blanche"],
+      "fiche": {
+        "titre": "Ordre du Temple",
+        "texte": "Les chevaliers de l'ordre du Temple portaient un manteau blanc, symbole de pureté, sur lequel était cousue une croix rouge, qui évoque le sang du Christ et le martyre. La croix aurait été ajoutée vers le milieu du XIIe siècle avec l'accord du pape. Seuls les chevaliers, issus de la noblesse, avaient droit au manteau blanc ; les sergents portaient un manteau noir ou brun. D'autres ordres militaires se distinguaient par d'autres couleurs, comme les chevaliers Teutoniques, en blanc à croix noire.",
+        "wiki": "Ordre du Temple"
+      }
+    },
+    {
+      "q": "Dans quelle ville l'ordre du Temple a-t-il été fondé ?",
+      "choix": ["Jérusalem", "Acre", "Paris", "Rome"],
+      "fiche": {
+        "titre": "Fondation de l'ordre du Temple",
+        "texte": "L'ordre du Temple est fondé à Jérusalem vers 1120, une vingtaine d'années après la première croisade, par une poignée de chevaliers qui se donnent pour mission de protéger les pèlerins sur les routes de Terre sainte. Le roi de Jérusalem Baudouin II les installe dans une partie de la mosquée al-Aqsa, sur l'esplanade du Temple, que les croisés identifiaient au Temple de Salomon. De là vient leur nom officiel de « Pauvres Chevaliers du Christ et du Temple de Salomon », et leur surnom de Templiers.",
+        "wiki": "Ordre du Temple"
+      }
+    },
+    {
+      "q": "Quel fut le dernier grand maître de l'ordre du Temple, mort sur le bûcher ?",
+      "choix": ["Jacques de Molay", "Guillaume de Nogaret", "Godefroy de Bouillon", "Bertrand du Guesclin"],
+      "fiche": {
+        "titre": "Jacques de Molay",
+        "texte": "Jacques de Molay est le dernier grand maître de l'ordre du Temple. Arrêté en 1307 avec les autres Templiers de France, il reconnaît d'abord certaines accusations, avant de se rétracter publiquement en 1314 en proclamant l'innocence de l'ordre. Considéré comme relaps, il est brûlé vif à Paris, sur une petite île de la Seine proche de l'île de la Cité, en mars 1314. Selon la légende, il aurait maudit le roi et le pape avant de mourir, un thème repris par Maurice Druon dans « Les Rois maudits ».",
+        "wiki": "Jacques de Molay"
+      }
+    },
+    {
+      "q": "Quel pape supprime l'ordre du Temple en 1312 ?",
+      "choix": ["Clément V", "Boniface VIII", "Urbain II", "Jean XXII"],
+      "fiche": {
+        "titre": "Clément V",
+        "texte": "Clément V, né Bertrand de Got, est un pape d'origine gasconne élu en 1305. Il est le premier pape à résider à Avignon, à partir de 1309, ce qui ouvre la période de la papauté d'Avignon. Soumis à la forte pression de Philippe le Bel, il supprime l'ordre du Temple en 1312, lors du concile de Vienne, par la bulle « Vox in excelso ». Il ne condamne pas l'ordre pour hérésie, mais le dissout par mesure administrative, estimant que sa réputation était trop compromise.",
+        "wiki": "Clément V"
+      }
+    },
+    {
+      "q": "Quelle prison parisienne, ancien donjon des Templiers, accueillit Louis XVI et sa famille en 1792 ?",
+      "choix": ["La tour du Temple", "La Bastille", "La Conciergerie", "Le Grand Châtelet"],
+      "fiche": {
+        "titre": "Tour du Temple",
+        "texte": "La tour du Temple est un donjon construit au XIIIe siècle dans l'enclos du Temple, la vaste commanderie qui servait de siège aux Templiers à Paris, sur la rive droite. Après la chute de la monarchie, le 10 août 1792, Louis XVI et sa famille y sont emprisonnés ; le roi n'en sort que pour son procès et son exécution en janvier 1793. Devenue un lieu de pèlerinage royaliste, la tour est démolie sur ordre de Napoléon à partir de 1808. Le square du Temple, dans le 3e arrondissement, en garde le souvenir.",
+        "wiki": "Tour du Temple"
+      }
+    },
+    {
+      "q": "Quel chevalier champenois est considéré comme le fondateur et premier grand maître des Templiers ?",
+      "choix": ["Hugues de Payns", "Godefroy de Bouillon", "Bernard de Clairvaux", "Raymond de Saint-Gilles"],
+      "fiche": {
+        "titre": "Hugues de Payns",
+        "texte": "Hugues de Payns est un chevalier originaire de Champagne, considéré comme le fondateur et le premier grand maître de l'ordre du Temple. Vers 1120, à Jérusalem, il réunit avec Godefroy de Saint-Omer quelques compagnons pour protéger les pèlerins. Revenu en Occident à la fin des années 1120, il obtient la reconnaissance officielle de l'ordre par l'Église et recrute de nombreux chevaliers et donateurs. Il meurt vers 1136 en Terre sainte, laissant un ordre en pleine expansion.",
+        "wiki": "Hugues de Payns"
+      }
+    },
+    {
+      "q": "À quel ordre la plupart des biens des Templiers furent-ils transférés après leur suppression ?",
+      "choix": ["Les Hospitaliers", "Les chevaliers Teutoniques", "Les Cisterciens", "Les Dominicains"],
+      "fiche": {
+        "titre": "Ordre de Saint-Jean de Jérusalem",
+        "texte": "Les Hospitaliers, ou ordre de Saint-Jean de Jérusalem, sont un ordre religieux et militaire né à Jérusalem au XIe siècle autour d'un hôpital destiné aux pèlerins. Rivaux des Templiers en Terre sainte, ils reçoivent l'essentiel de leurs biens après la suppression de l'ordre du Temple, en vertu de la bulle « Ad providam » de 1312. Installés ensuite à Rhodes, puis à Malte à partir de 1530, ils deviennent l'ordre de Malte, qui existe toujours aujourd'hui sous une forme caritative.",
+        "wiki": "Ordre de Saint-Jean de Jérusalem"
+      }
+    },
+    {
+      "q": "Lors de quel concile la règle de l'ordre du Temple est-elle approuvée, avec l'appui de Bernard de Clairvaux ?",
+      "choix": ["Concile de Troyes", "Concile de Clermont", "Concile de Latran", "Concile de Vienne"],
+      "fiche": {
+        "titre": "Concile de Troyes",
+        "texte": "Le concile de Troyes, réuni en Champagne au début de l'année 1129, en présence d'un légat du pape, consacre la reconnaissance officielle de l'ordre du Temple par l'Église. Hugues de Payns y présente le mode de vie de ses compagnons, et les participants approuvent une règle inspirée de celle des Cisterciens, sous l'influence de Bernard de Clairvaux. Celui-ci rédige ensuite l'« Éloge de la nouvelle chevalerie », qui justifie l'idée inédite de moines-soldats. L'ordre connaît dès lors un essor rapide en Occident.",
+        "wiki": "Concile de Troyes"
+      }
+    }
+  ]
+}

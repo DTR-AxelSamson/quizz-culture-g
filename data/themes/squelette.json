@@ -1,0 +1,99 @@
+{
+  "id": "squelette",
+  "titre": "Le squelette humain",
+  "categorie": "Sciences",
+  "emoji": "🦴",
+  "accroche": "Du fémur au minuscule étrier, partez à la découverte de la charpente vivante qui nous tient debout.",
+  "questions": [
+    {
+      "q": "Quel est l'os le plus long du corps humain ?",
+      "choix": ["Le fémur", "Le tibia", "L'humérus", "Le péroné"],
+      "fiche": {
+        "titre": "Fémur",
+        "texte": "Le fémur est l'os de la cuisse. C'est l'os le plus long et l'un des plus solides du corps humain : il représente environ le quart de la taille d'un individu. À son extrémité supérieure, sa tête s'emboîte dans le bassin pour former l'articulation de la hanche ; à son extrémité inférieure, il s'articule avec le tibia et la rotule au niveau du genou. Il supporte une grande partie du poids du corps lors de la marche.",
+        "wiki": "Fémur"
+      }
+    },
+    {
+      "q": "Quel ensemble d'os protège le cerveau ?",
+      "choix": ["Le crâne", "Le sternum", "Le bassin", "La cage thoracique"],
+      "fiche": {
+        "titre": "Crâne",
+        "texte": "Le crâne est la structure osseuse de la tête. Il comprend la boîte crânienne, qui protège le cerveau, et le massif facial, qui porte notamment les orbites, le nez et les mâchoires. Chez l'adulte, ses os sont solidement soudés par des articulations appelées sutures. Chez le nouveau-né, ces os sont encore séparés par des zones souples, les fontanelles, qui permettent au crâne de se déformer lors de l'accouchement puis de grandir avec le cerveau.",
+        "wiki": "Crâne"
+      }
+    },
+    {
+      "q": "Combien d'os compte habituellement le squelette d'un adulte ?",
+      "choix": ["206", "150", "250", "312"],
+      "fiche": {
+        "titre": "Squelette humain",
+        "texte": "Le squelette d'un être humain adulte compte habituellement 206 os. Un nouveau-né en possède davantage, car plusieurs os, notamment ceux du crâne et du bassin, fusionnent au cours de la croissance. Plus de la moitié des os du corps se trouvent dans les mains et les pieds. Le squelette soutient le corps, protège les organes vitaux, sert d'ancrage aux muscles et abrite la moelle osseuse, qui fabrique les cellules du sang.",
+        "wiki": "Squelette humain"
+      }
+    },
+    {
+      "q": "Quel os relie l'épaule au sternum ?",
+      "choix": ["La clavicule", "L'humérus", "Le radius", "La première côte"],
+      "fiche": {
+        "titre": "Clavicule",
+        "texte": "La clavicule est un os long en forme de S allongé, situé horizontalement à la base du cou. Elle relie l'omoplate au sternum et maintient l'épaule écartée du thorax, ce qui donne au bras une grande liberté de mouvement. Facile à sentir sous la peau, elle est fréquemment fracturée lors de chutes sur l'épaule ou sur la main. C'est aussi le premier os du corps à commencer à s'ossifier chez l'embryon.",
+        "wiki": "Clavicule"
+      }
+    },
+    {
+      "q": "Dans quelle partie du corps se trouve le plus petit os humain ?",
+      "choix": ["Dans l'oreille", "Dans le pied", "Dans la main", "Dans le nez"],
+      "fiche": {
+        "titre": "Les osselets de l'oreille",
+        "texte": "Le plus petit os du corps humain, l'étrier, se trouve dans l'oreille moyenne. Il ne mesure que trois millimètres environ. Avec le marteau et l'enclume, il forme la chaîne des osselets, qui transmet les vibrations sonores du tympan jusqu'à l'oreille interne, où elles sont converties en signaux nerveux. Ces trois os minuscules amplifient le son et jouent un rôle essentiel dans l'audition.",
+        "wiki": "Oreille moyenne"
+      }
+    },
+    {
+      "q": "Combien de paires de côtes possède normalement un être humain ?",
+      "choix": ["12", "10", "14", "16"],
+      "fiche": {
+        "titre": "Côtes",
+        "texte": "L'être humain possède normalement douze paires de côtes, qui forment avec le sternum et les vertèbres thoraciques la cage thoracique, protégeant le cœur et les poumons. Les sept premières paires, dites « vraies côtes », sont reliées directement au sternum par du cartilage. Les trois suivantes, les « fausses côtes », s'y rattachent indirectement. Les deux dernières, appelées « côtes flottantes », ne sont pas reliées au sternum.",
+        "wiki": "Côte (anatomie)"
+      }
+    },
+    {
+      "q": "Quel est le nom scientifique actuel de l'omoplate ?",
+      "choix": ["La scapula", "La patella", "L'ulna", "La fibula"],
+      "fiche": {
+        "titre": "Scapula",
+        "texte": "La scapula, longtemps appelée omoplate, est un os plat et triangulaire situé à l'arrière du thorax, au niveau de l'épaule. Elle s'articule avec l'humérus, l'os du bras, et avec la clavicule. De nombreux muscles s'y attachent, ce qui lui permet de jouer un rôle majeur dans les mouvements de l'épaule. La nomenclature anatomique internationale a remplacé plusieurs noms traditionnels : la rotule est devenue la patella, le cubitus l'ulna et le péroné la fibula.",
+        "wiki": "Scapula"
+      }
+    },
+    {
+      "q": "Combien de vertèbres cervicales compte le cou humain ?",
+      "choix": ["7", "5", "9", "12"],
+      "fiche": {
+        "titre": "Vertèbres cervicales",
+        "texte": "Le cou humain compte sept vertèbres cervicales, qui forment la partie supérieure de la colonne vertébrale. Elles sont suivies de douze vertèbres thoraciques, auxquelles s'attachent les côtes, puis de cinq vertèbres lombaires, du sacrum et du coccyx. Ce nombre de sept vertèbres cervicales est commun à presque tous les mammifères : la girafe, malgré son long cou, n'en possède pas davantage, mais elles sont beaucoup plus grandes.",
+        "wiki": "Colonne vertébrale"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on la première vertèbre cervicale, qui soutient la tête ?",
+      "choix": ["L'atlas", "L'axis", "Le sacrum", "Le coccyx"],
+      "fiche": {
+        "titre": "Atlas",
+        "texte": "L'atlas est la première vertèbre cervicale, celle sur laquelle repose le crâne. Son nom fait référence au Titan Atlas de la mythologie grecque, condamné à porter la voûte céleste sur ses épaules. Contrairement aux autres vertèbres, il ne possède pas de corps vertébral et a la forme d'un anneau. Il s'articule avec la deuxième vertèbre cervicale, l'axis, autour de laquelle il pivote pour permettre la rotation de la tête.",
+        "wiki": "Atlas (anatomie)"
+      }
+    },
+    {
+      "q": "Quel os en forme de fer à cheval ne s'articule avec aucun autre os ?",
+      "choix": ["L'os hyoïde", "Le vomer", "Le pisiforme", "Le sphénoïde"],
+      "fiche": {
+        "titre": "Os hyoïde",
+        "texte": "L'os hyoïde est un petit os en forme de U ou de fer à cheval, situé à l'avant du cou, au-dessus du larynx, à la base de la langue. Il a la particularité de ne s'articuler avec aucun autre os : il est simplement maintenu en place par des muscles et des ligaments. Il participe à la déglutition et à la parole. En médecine légale, sa fracture peut constituer un indice de strangulation.",
+        "wiki": "Os hyoïde"
+      }
+    }
+  ]
+}

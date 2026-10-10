@@ -1,0 +1,99 @@
+{
+  "id": "deserts",
+  "titre": "Les déserts du monde",
+  "categorie": "Géographie",
+  "emoji": "🏜️",
+  "accroche": "Dunes brûlantes, plateaux glacés et vallées arides : traversez les étendues les plus inhospitalières de la planète.",
+  "questions": [
+    {
+      "q": "Quel est le plus grand désert chaud du monde ?",
+      "choix": ["Le Sahara", "Le Gobi", "Le Kalahari", "L'Atacama"],
+      "fiche": {
+        "titre": "Sahara",
+        "texte": "Le Sahara est le plus grand désert chaud du monde, couvrant environ 9 millions de kilomètres carrés en Afrique du Nord, de l'océan Atlantique à la mer Rouge. Contrairement aux idées reçues, il n'est pas constitué majoritairement de dunes de sable : les plateaux rocheux et les étendues caillouteuses y dominent. Il y a quelques milliers d'années, il était beaucoup plus humide, comme en témoignent les gravures rupestres du Tassili n'Ajjer. Son nom vient de l'arabe et signifie « désert ».",
+        "wiki": "Sahara"
+      }
+    },
+    {
+      "q": "Le désert de Gobi s'étend sur la Chine et sur quel autre pays ?",
+      "choix": ["La Mongolie", "Le Kazakhstan", "La Russie", "Le Népal"],
+      "fiche": {
+        "titre": "Désert de Gobi",
+        "texte": "Le désert de Gobi est un vaste désert d'Asie centrale qui s'étend sur le sud de la Mongolie et le nord de la Chine. C'est un désert froid, situé sur un haut plateau, où les températures peuvent passer de plus de 40 °C en été à −40 °C en hiver. Il est principalement constitué de steppes et de roches nues plutôt que de dunes. Il est célèbre pour ses gisements de fossiles de dinosaures, dont les premiers nids d'œufs identifiés.",
+        "wiki": "Désert de Gobi"
+      }
+    },
+    {
+      "q": "Quel désert d'Amérique du Sud est considéré comme le plus aride du monde hors pôles ?",
+      "choix": ["L'Atacama", "La Patagonie", "Le Sechura", "Le Monte"],
+      "fiche": {
+        "titre": "Désert d'Atacama",
+        "texte": "Le désert d'Atacama est un désert côtier situé principalement dans le nord du Chili, entre l'océan Pacifique et la cordillère des Andes. Il est considéré comme le désert non polaire le plus aride du monde : certaines stations météorologiques n'y ont jamais enregistré de pluie significative. Son ciel exceptionnellement pur et sec en a fait un haut lieu de l'astronomie, avec de grands observatoires comme ALMA. Ses paysages sont souvent comparés à ceux de la planète Mars.",
+        "wiki": "Désert d'Atacama"
+      }
+    },
+    {
+      "q": "Si l'on compte les déserts froids, quel est le plus grand désert du monde ?",
+      "choix": ["L'Antarctique", "Le Sahara", "Le désert arabique", "Le Gobi"],
+      "fiche": {
+        "titre": "Antarctique",
+        "texte": "L'Antarctique est le plus grand désert du monde si l'on retient la définition scientifique d'un désert, fondée sur la faiblesse des précipitations et non sur la chaleur. Ce continent recouvert d'une immense calotte glaciaire reçoit en effet très peu de neige chaque année, surtout en son centre. Il détient aussi le record de la température la plus basse mesurée sur Terre. Le Sahara n'arrive qu'en troisième position, derrière l'Antarctique et l'Arctique.",
+        "wiki": "Antarctique"
+      }
+    },
+    {
+      "q": "Dans quel désert se trouve la Vallée de la Mort, en Californie ?",
+      "choix": ["Le désert de Mojave", "Le désert de Sonora", "Le désert de Chihuahua", "Le désert du Colorado"],
+      "fiche": {
+        "titre": "Vallée de la Mort",
+        "texte": "La Vallée de la Mort est une vallée désertique de Californie, située dans le désert de Mojave, près de la frontière avec le Nevada. Elle abrite le point le plus bas d'Amérique du Nord, le bassin de Badwater, à 86 mètres sous le niveau de la mer. C'est l'un des endroits les plus chauds de la planète : une température de 56,7 °C y a été relevée en 1913. Elle est protégée au sein du parc national de la Vallée de la Mort.",
+        "wiki": "Vallée de la Mort"
+      }
+    },
+    {
+      "q": "Quel désert côtier de Namibie est célèbre pour ses immenses dunes rouges ?",
+      "choix": ["Le Namib", "Le Kalahari", "Le Karoo", "L'Ogaden"],
+      "fiche": {
+        "titre": "Désert du Namib",
+        "texte": "Le Namib est un désert côtier qui longe l'océan Atlantique, principalement en Namibie, pays auquel il a donné son nom. Considéré comme l'un des plus anciens déserts du monde, il abrite certaines des plus hautes dunes de la planète, aux teintes rouge orangé, notamment autour de Sossusvlei. Le courant froid de Benguela y provoque des brouillards qui permettent la survie d'une faune et d'une flore remarquables, comme l'étrange welwitschia. Sa mer de sable est classée à l'UNESCO.",
+        "wiki": "Désert du Namib"
+      }
+    },
+    {
+      "q": "Quel désert s'étend à cheval sur l'Inde et le Pakistan ?",
+      "choix": ["Le désert du Thar", "Le Taklamakan", "Le Karakoum", "Le Dasht-e Lut"],
+      "fiche": {
+        "titre": "Désert du Thar",
+        "texte": "Le désert du Thar, aussi appelé Grand désert indien, s'étend dans le nord-ouest du sous-continent indien, à cheval sur l'Inde et le Pakistan. Il couvre une grande partie de l'État indien du Rajasthan, où se trouvent des villes historiques comme Jaisalmer, surnommée la « ville dorée » pour la couleur de ses remparts de grès. C'est l'un des déserts les plus densément peuplés du monde. Le dromadaire y reste un animal essentiel aux populations locales.",
+        "wiki": "Désert du Thar"
+      }
+    },
+    {
+      "q": "Quel désert de la péninsule Arabique est surnommé le « Quart vide » ?",
+      "choix": ["Le Rub al-Khali", "Le Néfoud", "Le Dasht-e Kavir", "Le Sinaï"],
+      "fiche": {
+        "titre": "Rub al-Khali",
+        "texte": "Le Rub al-Khali, dont le nom signifie « le Quart vide » en arabe, est le plus grand désert de sable continu du monde. Il occupe le sud de la péninsule Arabique, principalement en Arabie saoudite, mais s'étend aussi sur Oman, les Émirats arabes unis et le Yémen. Ses dunes peuvent dépasser 250 mètres de hauteur. Longtemps considéré comme infranchissable, il a été traversé par l'explorateur britannique Bertram Thomas en 1931, puis par Wilfred Thesiger.",
+        "wiki": "Rub al-Khali"
+      }
+    },
+    {
+      "q": "Quel désert occupe le bassin du Tarim, dans la région chinoise du Xinjiang ?",
+      "choix": ["Le Taklamakan", "Le désert d'Ordos", "Le Kyzylkoum", "Le désert d'Alxa"],
+      "fiche": {
+        "titre": "Taklamakan",
+        "texte": "Le Taklamakan est un vaste désert de sable situé dans le bassin du Tarim, dans la région autonome ouïghoure du Xinjiang, à l'ouest de la Chine. Encerclé par de hautes montagnes, dont les Tian Shan au nord et les Kunlun au sud, il est l'un des plus grands déserts de sable mouvant du monde. Les caravanes de la route de la soie le contournaient par des chapelets d'oasis, comme Kachgar ou Khotan. Son nom est souvent traduit par « lieu d'où l'on ne revient pas ».",
+        "wiki": "Taklamakan"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on une dune en forme de croissant ?",
+      "choix": ["Une barkhane", "Un erg", "Un reg", "Une hamada"],
+      "fiche": {
+        "titre": "Barkhane",
+        "texte": "Une barkhane est une dune de sable isolée en forme de croissant, dont les pointes, appelées cornes, sont orientées dans le sens du vent. Elle se forme dans les régions où le vent souffle dans une direction dominante et où le sable est peu abondant. Elle se déplace lentement, parfois de plusieurs dizaines de mètres par an. Il ne faut pas la confondre avec l'erg, vaste étendue de dunes, ni avec le reg, désert de cailloux, ou la hamada, plateau rocheux.",
+        "wiki": "Barkhane"
+      }
+    }
+  ]
+}

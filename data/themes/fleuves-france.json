@@ -1,0 +1,99 @@
+{
+  "id": "fleuves-france",
+  "titre": "Les fleuves de France",
+  "categorie": "Géographie",
+  "emoji": "🌊",
+  "accroche": "Loire, Seine, Rhône ou Adour : remontez le cours des grands fleuves qui ont façonné la France.",
+  "questions": [
+    {
+      "q": "Quel fleuve traverse Paris ?",
+      "choix": ["La Seine", "La Loire", "La Marne", "L'Oise"],
+      "fiche": {
+        "titre": "Seine",
+        "texte": "La Seine est le fleuve qui traverse Paris, où elle est franchie par plus de trente ponts. Longue d'environ 775 kilomètres, elle prend sa source en Côte-d'Or, sur le plateau de Langres, puis arrose Troyes, Paris et Rouen avant de se jeter dans la Manche entre Le Havre et Honfleur. Ses rives parisiennes sont inscrites au patrimoine mondial de l'UNESCO. Ses principaux affluents sont l'Aube, la Marne, l'Oise et l'Yonne.",
+        "wiki": "Seine"
+      }
+    },
+    {
+      "q": "Quel est le plus long fleuve coulant entièrement en France ?",
+      "choix": ["La Loire", "La Seine", "La Garonne", "Le Rhône"],
+      "fiche": {
+        "titre": "Loire",
+        "texte": "La Loire est le plus long fleuve de France, avec environ 1 000 kilomètres de cours entièrement situés sur le territoire national. Elle traverse notamment Orléans, Tours, Angers et Nantes avant de rejoindre l'océan Atlantique à Saint-Nazaire. Souvent qualifiée de « dernier fleuve sauvage d'Europe » en raison de son régime capricieux, elle est bordée de célèbres châteaux. Le Val de Loire est inscrit au patrimoine mondial de l'UNESCO.",
+        "wiki": "Loire (fleuve)"
+      }
+    },
+    {
+      "q": "Quel fleuve, né en Suisse, se jette en Méditerranée en formant la Camargue ?",
+      "choix": ["Le Rhône", "La Garonne", "La Durance", "Le Var"],
+      "fiche": {
+        "titre": "Rhône",
+        "texte": "Le Rhône est un fleuve qui prend sa source dans le glacier du Rhône, en Suisse, et traverse le lac Léman avant d'entrer en France. Il arrose Lyon, où il reçoit la Saône, puis Valence, Avignon et Arles. Avant de se jeter dans la mer Méditerranée, il se divise en deux bras, le Grand et le Petit Rhône, qui enserrent le delta de la Camargue. C'est le fleuve français au débit le plus puissant.",
+        "wiki": "Rhône (fleuve)"
+      }
+    },
+    {
+      "q": "Quel fleuve traverse Toulouse et Bordeaux ?",
+      "choix": ["La Garonne", "La Dordogne", "Le Lot", "Le Tarn"],
+      "fiche": {
+        "titre": "Garonne",
+        "texte": "La Garonne est un fleuve du sud-ouest de la France qui prend sa source en Espagne, dans le val d'Aran, au cœur des Pyrénées. Elle traverse Toulouse puis Bordeaux, où elle dessine le méandre qui vaut à la ville son surnom de « port de la Lune ». Ses principaux affluents sont l'Ariège, le Tarn et le Lot. Au bec d'Ambès, elle conflue avec la Dordogne pour former un vaste estuaire.",
+        "wiki": "Garonne"
+      }
+    },
+    {
+      "q": "Quel fleuve marque une partie de la frontière entre la France et l'Allemagne ?",
+      "choix": ["Le Rhin", "La Moselle", "La Meuse", "L'Escaut"],
+      "fiche": {
+        "titre": "Rhin",
+        "texte": "Le Rhin est un grand fleuve d'Europe qui naît dans les Alpes suisses et se jette dans la mer du Nord aux Pays-Bas. Sur environ 180 kilomètres, en Alsace, il marque la frontière entre la France et l'Allemagne, passant notamment à Strasbourg. Voie navigable parmi les plus fréquentées du monde, il a longtemps été un enjeu stratégique entre les deux pays. Il reçoit en Allemagne la Moselle, venue de France.",
+        "wiki": "Rhin"
+      }
+    },
+    {
+      "q": "Quel est le nom de l'estuaire formé par la Garonne et la Dordogne ?",
+      "choix": ["La Gironde", "La Charente", "Le Médoc", "Le Bassin d'Arcachon"],
+      "fiche": {
+        "titre": "Estuaire de la Gironde",
+        "texte": "La Gironde est l'estuaire formé par la confluence de la Garonne et de la Dordogne au bec d'Ambès, au nord de Bordeaux. Long d'environ 75 kilomètres, c'est le plus vaste estuaire d'Europe occidentale. Il débouche sur l'océan Atlantique, où se dresse le phare de Cordouan, surnommé le « Versailles de la mer » et inscrit au patrimoine mondial. Ses rives sont bordées de prestigieux vignobles comme le Médoc et le Blayais.",
+        "wiki": "Estuaire de la Gironde"
+      }
+    },
+    {
+      "q": "Au pied de quel mont d'Ardèche la Loire prend-elle sa source ?",
+      "choix": ["Mont Gerbier-de-Jonc", "Mont Mézenc", "Mont Aigoual", "Puy de Dôme"],
+      "fiche": {
+        "titre": "Mont Gerbier-de-Jonc",
+        "texte": "Le mont Gerbier-de-Jonc est un sommet volcanique du Massif central situé en Ardèche, sur le plateau du Vivarais. Il est célèbre pour abriter, à son pied, les sources de la Loire, le plus long fleuve de France. Sa silhouette conique caractéristique est due à un dôme de phonolite, une roche volcanique qui se débite en lames. Le site, très touristique, se trouve non loin du mont Mézenc, point culminant des monts du Vivarais.",
+        "wiki": "Mont Gerbier-de-Jonc"
+      }
+    },
+    {
+      "q": "Quel fleuve né en Haute-Marne traverse Verdun et Sedan avant d'entrer en Belgique ?",
+      "choix": ["La Meuse", "La Moselle", "L'Escaut", "La Somme"],
+      "fiche": {
+        "titre": "Meuse",
+        "texte": "La Meuse est un fleuve d'Europe de l'Ouest qui prend sa source en Haute-Marne, sur le plateau de Langres. En France, elle traverse notamment Verdun, Sedan et Charleville-Mézières avant d'entrer en Belgique, où elle arrose Namur et Liège. Elle poursuit ensuite sa course aux Pays-Bas pour rejoindre la mer du Nord dans un delta commun avec le Rhin. Elle a donné son nom au département de la Meuse, en Lorraine.",
+        "wiki": "Meuse (fleuve)"
+      }
+    },
+    {
+      "q": "Quel fleuve, rejoint par la Nive à Bayonne, se jette dans l'Atlantique peu après ?",
+      "choix": ["L'Adour", "La Bidassoa", "La Leyre", "La Charente"],
+      "fiche": {
+        "titre": "Adour",
+        "texte": "L'Adour est un fleuve du sud-ouest de la France qui prend sa source dans les Pyrénées, près du col du Tourmalet. Il traverse Tarbes et Dax, puis reçoit les gaves pyrénéens avant d'atteindre Bayonne, où il est rejoint par la Nive. Il se jette dans l'océan Atlantique quelques kilomètres plus loin, entre Anglet et Tarnos. Son embouchure a été déplacée artificiellement au XVIe siècle pour sauver le port de Bayonne de l'ensablement.",
+        "wiki": "Adour"
+      }
+    },
+    {
+      "q": "Quel fleuve traverse successivement Angoulême, Cognac et Rochefort ?",
+      "choix": ["La Charente", "La Dordogne", "La Vienne", "La Sèvre niortaise"],
+      "fiche": {
+        "titre": "Charente",
+        "texte": "La Charente est un fleuve de l'ouest de la France qui prend sa source dans la Haute-Vienne. Au fil d'un cours lent et sinueux, elle arrose Angoulême, Jarnac, Cognac, Saintes puis Rochefort, avant de se jeter dans l'océan Atlantique face à l'île d'Oléron. Ses rives sont étroitement liées à la production du cognac, autrefois acheminé par gabares. Rochefort abritait sur ses bords un grand arsenal de la Marine créé sous Louis XIV.",
+        "wiki": "Charente (fleuve)"
+      }
+    }
+  ]
+}

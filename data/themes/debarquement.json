@@ -1,0 +1,99 @@
+{
+  "id": "debarquement",
+  "titre": "Le Débarquement de Normandie",
+  "categorie": "Histoire",
+  "emoji": "🪖",
+  "accroche": "Plages au nom de code, parachutistes et ports artificiels : revivez le « jour le plus long ».",
+  "questions": [
+    {
+      "q": "À quelle date a eu lieu le Débarquement allié en Normandie ?",
+      "choix": ["Le 6 juin 1944", "Le 15 août 1944", "Le 6 juin 1943", "Le 8 mai 1945"],
+      "fiche": {
+        "titre": "Débarquement de Normandie",
+        "texte": "Le Débarquement de Normandie a lieu le 6 juin 1944, appelé « jour J » en français et « D-Day » en anglais. Ce jour-là, des troupes américaines, britanniques et canadiennes, appuyées par des contingents d'autres nations alliées, débarquent sur les côtes du Calvados et de la Manche, précédées dans la nuit par des parachutages massifs. C'est la plus grande opération amphibie de l'histoire. Elle ouvre en Europe de l'Ouest le front tant attendu contre l'Allemagne nazie et prépare la libération de la France.",
+        "wiki": "Débarquement de Normandie"
+      }
+    },
+    {
+      "q": "Quel était le nom de code de l'opération de libération de la Normandie ?",
+      "choix": ["Overlord", "Barbarossa", "Market Garden", "Torch"],
+      "fiche": {
+        "titre": "Opération Overlord",
+        "texte": "Overlord est le nom de code de l'ensemble de l'opération alliée destinée à prendre pied en Normandie et à y établir une tête de pont, au cours de l'été 1944. Sa phase initiale, l'assaut naval et amphibie du 6 juin, porte le nom de code Neptune. Les autres noms proposés désignent d'autres opérations de la Seconde Guerre mondiale : Barbarossa, l'invasion allemande de l'URSS en 1941, Torch, le débarquement allié en Afrique du Nord en 1942, et Market Garden, l'offensive aéroportée aux Pays-Bas en 1944.",
+        "wiki": "Opération Overlord"
+      }
+    },
+    {
+      "q": "Quel général était le commandant suprême des forces alliées lors du Débarquement ?",
+      "choix": ["Dwight D. Eisenhower", "George Patton", "Douglas MacArthur", "Omar Bradley"],
+      "fiche": {
+        "titre": "Dwight D. Eisenhower",
+        "texte": "Dwight D. Eisenhower est un général américain nommé à la fin de 1943 commandant suprême des forces expéditionnaires alliées en Europe. Il dirige à ce titre la préparation et l'exécution du Débarquement de Normandie, dont il fixe la date définitive malgré une météo incertaine. Les forces terrestres de l'assaut sont commandées sous ses ordres par le général britannique Bernard Montgomery. Après la guerre, Eisenhower devient le 34e président des États-Unis, de 1953 à 1961.",
+        "wiki": "Dwight D. Eisenhower"
+      }
+    },
+    {
+      "q": "Sur quelle plage du Débarquement les troupes canadiennes ont-elles débarqué ?",
+      "choix": ["Juno Beach", "Gold Beach", "Sword Beach", "Utah Beach"],
+      "fiche": {
+        "titre": "Juno Beach",
+        "texte": "Juno Beach est le nom de code d'un secteur de la côte du Calvados, entre Graye-sur-Mer et Saint-Aubin-sur-Mer, attribué aux forces canadiennes lors du Débarquement du 6 juin 1944. La 3e division d'infanterie canadienne y débarque avec le soutien de blindés et de commandos britanniques, à Courseulles-sur-Mer, Bernières-sur-Mer et Saint-Aubin-sur-Mer. Malgré de lourdes pertes, les Canadiens parviennent à établir une solide tête de pont dès le premier jour. Le Centre Juno Beach, à Courseulles, entretient le souvenir de leur engagement.",
+        "wiki": "Juno Beach"
+      }
+    },
+    {
+      "q": "Combien de plages ont été attaquées par les Alliés le 6 juin 1944 ?",
+      "choix": ["5", "3", "4", "7"],
+      "fiche": {
+        "titre": "Plages du Débarquement",
+        "texte": "Le 6 juin 1944, les forces alliées débarquent sur cinq plages, désignées par des noms de code, réparties sur environ 80 kilomètres de côtes normandes. D'ouest en est, les Américains attaquent Utah Beach et Omaha Beach, les Britanniques Gold Beach, les Canadiens Juno Beach, puis de nouveau les Britanniques Sword Beach, avec le concours de commandos français. Omaha Beach, où les pertes américaines sont les plus lourdes, a été surnommée « Bloody Omaha », « Omaha la sanglante ».",
+        "wiki": "Débarquement de Normandie"
+      }
+    },
+    {
+      "q": "Quel maréchal allemand, surnommé « le Renard du désert », est chargé de renforcer le mur de l'Atlantique ?",
+      "choix": ["Erwin Rommel", "Wilhelm Keitel", "Friedrich Paulus", "Heinz Guderian"],
+      "fiche": {
+        "titre": "Erwin Rommel",
+        "texte": "Erwin Rommel est un maréchal allemand, surnommé « le Renard du désert » pour ses campagnes en Afrique du Nord. Fin 1943, Hitler le charge d'inspecter et de renforcer les défenses du mur de l'Atlantique, puis il prend le commandement du groupe d'armées B, chargé de la défense du nord de la France. Persuadé que la bataille se jouerait sur les plages, il multiplie obstacles et mines. Le 6 juin 1944, il se trouve en Allemagne. Soupçonné de complicité dans le complot contre Hitler, il est contraint au suicide en octobre 1944.",
+        "wiki": "Erwin Rommel"
+      }
+    },
+    {
+      "q": "Dans quel village un parachutiste américain resta-t-il accroché au clocher de l'église dans la nuit du 5 au 6 juin 1944 ?",
+      "choix": ["Sainte-Mère-Église", "Bayeux", "Carentan", "Colleville-sur-Mer"],
+      "fiche": {
+        "titre": "Sainte-Mère-Église",
+        "texte": "Sainte-Mère-Église est une commune de la Manche, l'une des premières de France libérées lors de la nuit du 5 au 6 juin 1944 par les parachutistes américains de la 82e division aéroportée. Pendant les combats, le parachutiste John Steele reste suspendu au clocher de l'église, où il fait le mort pendant environ deux heures avant d'être fait prisonnier. Rendue célèbre par le film « Le Jour le plus long » en 1962, la scène est rappelée aujourd'hui par un mannequin accroché au clocher.",
+        "wiki": "Sainte-Mère-Église"
+      }
+    },
+    {
+      "q": "Dans quelle commune voit-on encore les vestiges d'un port artificiel construit par les Alliés ?",
+      "choix": ["Arromanches-les-Bains", "Cherbourg", "Ouistreham", "Port-en-Bessin"],
+      "fiche": {
+        "titre": "Port artificiel d'Arromanches",
+        "texte": "Pour ravitailler leurs troupes avant de s'emparer d'un grand port, les Alliés acheminent depuis l'Angleterre les éléments de deux ports artificiels, appelés « Mulberries ». Celui des Américains, devant Omaha Beach, est détruit par une violente tempête vers le 20 juin 1944. Celui des Britanniques, à Arromanches-les-Bains, dans le Calvados, permet le débarquement de centaines de milliers d'hommes et de véhicules au cours de l'été. Plusieurs de ses énormes caissons en béton, dits « Phoenix », sont encore visibles en mer.",
+        "wiki": "Arromanches-les-Bains"
+      }
+    },
+    {
+      "q": "Quel promontoire rocheux les Rangers américains escaladèrent-ils au matin du 6 juin 1944 ?",
+      "choix": ["La pointe du Hoc", "La pointe de la Hague", "Le cap Fréhel", "Le cap Gris-Nez"],
+      "fiche": {
+        "titre": "Pointe du Hoc",
+        "texte": "La pointe du Hoc est un promontoire du Calvados, situé entre Utah Beach et Omaha Beach, dominant la mer par des falaises d'une trentaine de mètres. Les Allemands y avaient installé une batterie d'artillerie menaçant les deux plages. Le matin du 6 juin 1944, les Rangers américains du lieutenant-colonel James Earl Rudder escaladent les falaises à l'aide de cordes et d'échelles sous le feu ennemi. Ils découvrent que les canons ont été déplacés à l'intérieur des terres, avant de les retrouver et de les neutraliser.",
+        "wiki": "Pointe du Hoc"
+      }
+    },
+    {
+      "q": "Quel officier commandait les 177 commandos français débarqués le 6 juin 1944 ?",
+      "choix": ["Philippe Kieffer", "Philippe Leclerc", "Marie-Pierre Kœnig", "Jean de Lattre de Tassigny"],
+      "fiche": {
+        "titre": "Philippe Kieffer",
+        "texte": "Philippe Kieffer est un officier de marine français, rallié à la France libre en 1940, qui crée et commande le 1er bataillon de fusiliers marins commandos. Ses hommes, intégrés à un commando britannique, sont les seuls soldats français à débarquer sur les plages normandes le 6 juin 1944. Au nombre de 177, ils prennent pied sur Sword Beach, à Colleville, avant de participer aux combats de Ouistreham. Ce « commando Kieffer » est devenu un symbole de la participation française au Débarquement.",
+        "wiki": "Philippe Kieffer"
+      }
+    }
+  ]
+}

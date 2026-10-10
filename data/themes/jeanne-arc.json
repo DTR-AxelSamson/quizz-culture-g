@@ -1,0 +1,99 @@
+{
+  "id": "jeanne-arc",
+  "titre": "Jeanne d'Arc et la guerre de Cent Ans",
+  "categorie": "Histoire",
+  "emoji": "⚔️",
+  "accroche": "Une bergère lorraine, un dauphin sans couronne et un royaume déchiré : revivez la guerre de Cent Ans.",
+  "questions": [
+    {
+      "q": "Quel surnom donne-t-on à Jeanne d'Arc ?",
+      "choix": ["La Pucelle d'Orléans", "La Dame de Reims", "La Vierge de Paris", "La Fille de Bourgogne"],
+      "fiche": {
+        "titre": "Siège d'Orléans",
+        "texte": "Jeanne d'Arc est surnommée la Pucelle d'Orléans en souvenir de son rôle décisif dans la levée du siège de cette ville, assiégée par les Anglais depuis octobre 1428. Arrivée avec une armée de secours à la fin d'avril 1429, elle participe à la prise de plusieurs bastilles anglaises. Le siège est levé le 8 mai 1429, une victoire qui redonne espoir au camp du dauphin. Depuis, Orléans célèbre chaque année Jeanne d'Arc lors de fêtes johanniques au début du mois de mai.",
+        "wiki": "Jeanne d'Arc"
+      }
+    },
+    {
+      "q": "Dans quelle ville Jeanne d'Arc est-elle brûlée vive en 1431 ?",
+      "choix": ["Rouen", "Orléans", "Reims", "Paris"],
+      "fiche": {
+        "titre": "Mort de Jeanne d'Arc",
+        "texte": "Condamnée pour hérésie à l'issue d'un procès mené par un tribunal ecclésiastique favorable aux Anglais, Jeanne d'Arc est brûlée vive le 30 mai 1431 sur la place du Vieux-Marché, à Rouen, alors capitale de la Normandie anglaise. Elle a environ dix-neuf ans. Un procès en nullité, ouvert à la demande de sa mère et du roi, la réhabilite en 1456. L'Église catholique la canonise en 1920, et elle est l'une des saintes patronnes secondaires de la France.",
+        "wiki": "Procès de Jeanne d'Arc"
+      }
+    },
+    {
+      "q": "Combien de temps a réellement duré la guerre de Cent Ans ?",
+      "choix": ["116 ans", "100 ans", "99 ans", "132 ans"],
+      "fiche": {
+        "titre": "Guerre de Cent Ans",
+        "texte": "La guerre de Cent Ans est un conflit qui oppose les rois de France de la dynastie des Valois aux rois d'Angleterre de la dynastie des Plantagenêt, puis des Lancastre. Elle dure en réalité 116 ans, de 1337 à 1453, entrecoupée de longues trêves. À son origine, le roi d'Angleterre Édouard III revendique la couronne de France. Marquée par de grandes défaites françaises comme Crécy en 1346 et Poitiers en 1356, elle s'achève par l'expulsion des Anglais du royaume, à l'exception de Calais.",
+        "wiki": "Guerre de Cent Ans"
+      }
+    },
+    {
+      "q": "Dans quel village Jeanne d'Arc est-elle née ?",
+      "choix": ["Domrémy", "Vaucouleurs", "Neufchâteau", "Toul"],
+      "fiche": {
+        "titre": "Domrémy-la-Pucelle",
+        "texte": "Jeanne d'Arc naît vers 1412 à Domrémy, village situé aux confins de la Champagne et de la Lorraine, aujourd'hui Domrémy-la-Pucelle, dans les Vosges. Fille de paysans aisés, elle affirme avoir entendu dès l'âge de treize ans les voix de saint Michel, de sainte Catherine et de sainte Marguerite, qui lui demandent de libérer le royaume. Début 1429, elle obtient enfin, à Vaucouleurs, le soutien du capitaine Robert de Baudricourt, qui lui donne une escorte pour rejoindre le dauphin.",
+        "wiki": "Domrémy-la-Pucelle"
+      }
+    },
+    {
+      "q": "Quel roi Jeanne d'Arc fait-elle sacrer à Reims en 1429 ?",
+      "choix": ["Charles VII", "Louis XI", "Charles VI", "Philippe VI"],
+      "fiche": {
+        "titre": "Charles VII",
+        "texte": "Charles VII est le fils du roi Charles VI. Déshérité par le traité de Troyes de 1420, qui promettait la couronne de France au roi d'Angleterre, il ne contrôle qu'une partie du royaume au sud de la Loire, d'où son surnom moqueur de « roi de Bourges ». Grâce à l'élan donné par Jeanne d'Arc, il est sacré dans la cathédrale de Reims le 17 juillet 1429, ce qui renforce sa légitimité. Surnommé plus tard « le Victorieux », il achève la reconquête du royaume.",
+        "wiki": "Charles VII (roi de France)"
+      }
+    },
+    {
+      "q": "Dans quel château Jeanne d'Arc rencontre-t-elle le dauphin pour la première fois, en 1429 ?",
+      "choix": ["Chinon", "Amboise", "Blois", "Loches"],
+      "fiche": {
+        "titre": "Château de Chinon",
+        "texte": "Le château de Chinon, en Indre-et-Loire, est une forteresse médiévale dominant la Vienne. Au début du mois de mars 1429, Jeanne d'Arc y est reçue par le dauphin Charles, qui y tient sa cour. Selon la tradition, celui-ci s'était dissimulé parmi ses courtisans, mais Jeanne l'aurait reconnu sans hésiter. Après un examen de sa foi par des théologiens à Poitiers, elle obtient l'autorisation de partir avec une armée vers la ville assiégée d'Orléans.",
+        "wiki": "Château de Chinon"
+      }
+    },
+    {
+      "q": "Quelle bataille de 1415, désastre pour la chevalerie française, est remportée par Henri V ?",
+      "choix": ["Azincourt", "Crécy", "Poitiers", "Formigny"],
+      "fiche": {
+        "titre": "Bataille d'Azincourt",
+        "texte": "La bataille d'Azincourt a lieu le 25 octobre 1415 dans l'actuel Pas-de-Calais. L'armée du roi d'Angleterre Henri V, épuisée et nettement inférieure en nombre, y écrase la chevalerie française, embourbée dans un terrain détrempé et décimée par les archers anglais armés de l'arc long. De nombreux nobles français sont tués ou faits prisonniers, dont le poète Charles d'Orléans. Cette défaite ouvre la voie à la conquête de la Normandie et au traité de Troyes de 1420.",
+        "wiki": "Bataille d'Azincourt"
+      }
+    },
+    {
+      "q": "Dans quelle ville Jeanne d'Arc est-elle capturée par les Bourguignons en 1430 ?",
+      "choix": ["Compiègne", "Beauvais", "Senlis", "Soissons"],
+      "fiche": {
+        "titre": "Capture de Jeanne d'Arc",
+        "texte": "Le 23 mai 1430, lors d'une sortie destinée à secourir la ville de Compiègne, assiégée par les Bourguignons alliés des Anglais, Jeanne d'Arc se retrouve coupée de la place, dont le pont-levis a été relevé. Elle est faite prisonnière par des hommes de Jean de Luxembourg, vassal du duc de Bourgogne. Détenue plusieurs mois, notamment au château de Beaurevoir, elle est finalement livrée aux Anglais contre une forte rançon, puis conduite à Rouen pour y être jugée.",
+        "wiki": "Jeanne d'Arc"
+      }
+    },
+    {
+      "q": "Quel évêque de Beauvais présida le procès de Jeanne d'Arc ?",
+      "choix": ["Pierre Cauchon", "Regnault de Chartres", "Robert de Baudricourt", "Gilles de Rais"],
+      "fiche": {
+        "titre": "Pierre Cauchon",
+        "texte": "Pierre Cauchon est un ecclésiastique français, évêque de Beauvais et fidèle partisan du parti bourguignon et des Anglais. Jeanne d'Arc ayant été capturée dans son diocèse, il préside le procès en hérésie qui s'ouvre à Rouen en janvier 1431. Les interrogatoires, dont les minutes ont été conservées, montrent l'assurance de l'accusée face à ses juges. Le procès aboutit à sa condamnation au bûcher. Le nom de Cauchon est resté associé, dans la mémoire collective, à ce procès inique.",
+        "wiki": "Pierre Cauchon"
+      }
+    },
+    {
+      "q": "Quelle bataille de 1453 est considérée comme la dernière de la guerre de Cent Ans ?",
+      "choix": ["Castillon", "Formigny", "Patay", "Verneuil"],
+      "fiche": {
+        "titre": "Bataille de Castillon",
+        "texte": "La bataille de Castillon se déroule le 17 juillet 1453 près de Castillon, en Gironde, aujourd'hui Castillon-la-Bataille. L'armée française de Charles VII, dotée d'une puissante artillerie, y écrase les troupes anglaises du vieux chef John Talbot, qui trouve la mort au combat. Cette victoire entraîne la reddition de Bordeaux en octobre 1453 et la fin de la domination anglaise en Guyenne. Elle est traditionnellement considérée comme la dernière bataille de la guerre de Cent Ans.",
+        "wiki": "Bataille de Castillon"
+      }
+    }
+  ]
+}

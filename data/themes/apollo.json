@@ -1,0 +1,99 @@
+{
+  "id": "apollo",
+  "titre": "La conquête de la Lune",
+  "categorie": "Sciences",
+  "emoji": "🚀",
+  "accroche": "Des premières sondes soviétiques aux pas d'Armstrong, revivez l'incroyable course vers la Lune.",
+  "questions": [
+    {
+      "q": "Qui a été le premier homme à marcher sur la Lune ?",
+      "choix": ["Neil Armstrong", "Buzz Aldrin", "Youri Gagarine", "John Glenn"],
+      "fiche": {
+        "titre": "Neil Armstrong",
+        "texte": "Neil Armstrong est un astronaute américain, commandant de la mission Apollo 11. Le 21 juillet 1969 (le 20 juillet à l'heure de Houston), il devient le premier homme à poser le pied sur la Lune. Il prononce alors une phrase restée célèbre : « C'est un petit pas pour l'homme, mais un bond de géant pour l'humanité. » Ancien pilote d'essai, il avait déjà volé dans l'espace lors de la mission Gemini 8 en 1966.",
+        "wiki": "Neil Armstrong"
+      }
+    },
+    {
+      "q": "Quel président américain a lancé en 1961 le défi d'envoyer un homme sur la Lune ?",
+      "choix": ["John F. Kennedy", "Dwight Eisenhower", "Richard Nixon", "Lyndon Johnson"],
+      "fiche": {
+        "titre": "John F. Kennedy",
+        "texte": "John Fitzgerald Kennedy est le 35e président des États-Unis. Le 25 mai 1961, devant le Congrès, il fixe à son pays l'objectif d'envoyer un homme sur la Lune et de le ramener sain et sauf sur Terre avant la fin de la décennie. Ce défi répond aux succès soviétiques, notamment le vol de Youri Gagarine quelques semaines plus tôt. En 1962, il le réaffirme dans un célèbre discours à l'université Rice de Houston. Assassiné en 1963, il ne verra pas ce rêve se réaliser.",
+        "wiki": "John Fitzgerald Kennedy"
+      }
+    },
+    {
+      "q": "Quelle agence spatiale a conduit le programme Apollo ?",
+      "choix": ["La NASA", "L'ESA", "Le CNES", "Roscosmos"],
+      "fiche": {
+        "titre": "NASA",
+        "texte": "La NASA est l'agence spatiale civile des États-Unis, créée en 1958 en pleine guerre froide, peu après le lancement du satellite soviétique Spoutnik 1. Elle a conduit le programme Apollo, qui a permis à douze astronautes de marcher sur la Lune entre 1969 et 1972. Elle a ensuite développé la navette spatiale, envoyé des robots sur Mars et participé à la Station spatiale internationale. Son centre de contrôle des missions habitées se trouve à Houston, au Texas.",
+        "wiki": "National Aeronautics and Space Administration"
+      }
+    },
+    {
+      "q": "Quel astronaute accompagnait Neil Armstrong sur le sol lunaire lors d'Apollo 11 ?",
+      "choix": ["Buzz Aldrin", "Michael Collins", "Alan Shepard", "Jim Lovell"],
+      "fiche": {
+        "titre": "Buzz Aldrin",
+        "texte": "Buzz Aldrin est un astronaute américain, pilote du module lunaire de la mission Apollo 11. Le 21 juillet 1969, il devient le deuxième homme à marcher sur la Lune, une vingtaine de minutes après Neil Armstrong. Pendant ce temps, le troisième membre de l'équipage, Michael Collins, reste en orbite lunaire aux commandes du module de commande Columbia. Docteur en astronautique, Aldrin avait auparavant effectué des sorties extravéhiculaires lors de la mission Gemini 12.",
+        "wiki": "Buzz Aldrin"
+      }
+    },
+    {
+      "q": "Quel nom portait le module lunaire d'Apollo 11 ?",
+      "choix": ["Eagle", "Columbia", "Falcon", "Intrepid"],
+      "fiche": {
+        "titre": "Module lunaire Apollo",
+        "texte": "Le module lunaire Apollo est le véhicule qui permettait à deux astronautes de descendre de l'orbite lunaire jusqu'à la surface, puis de remonter rejoindre le module de commande. Celui d'Apollo 11 était baptisé Eagle, « aigle » en anglais, symbole des États-Unis. Après son alunissage, Neil Armstrong annonça : « Houston, ici la base de la Tranquillité. L'Aigle a atterri. » L'étage de descente d'Eagle est resté sur la Lune.",
+        "wiki": "Module lunaire Apollo"
+      }
+    },
+    {
+      "q": "Quel engin a été le premier objet humain à atteindre la Lune, en 1959 ?",
+      "choix": ["Luna 2", "Spoutnik 1", "Explorer 1", "Ranger 7"],
+      "fiche": {
+        "titre": "Luna 2",
+        "texte": "Luna 2 est une sonde spatiale soviétique lancée en septembre 1959. Elle s'est écrasée volontairement sur la Lune, devenant le premier objet fabriqué par l'homme à atteindre un autre corps céleste. Elle emportait des fanions métalliques portant les armoiries de l'Union soviétique. Quelques semaines plus tard, la sonde Luna 3 photographiait pour la première fois la face cachée de la Lune, confirmant l'avance soviétique au début de la course à l'espace.",
+        "wiki": "Luna 2"
+      }
+    },
+    {
+      "q": "Quelle mission a dû renoncer à se poser sur la Lune après une explosion à bord en 1970 ?",
+      "choix": ["Apollo 13", "Apollo 12", "Apollo 10", "Apollo 15"],
+      "fiche": {
+        "titre": "Apollo 13",
+        "texte": "Apollo 13 est une mission du programme Apollo lancée en avril 1970. En route vers la Lune, l'explosion d'un réservoir d'oxygène endommage gravement le vaisseau, ce qui oblige à annuler l'alunissage. Les astronautes Jim Lovell, Jack Swigert et Fred Haise utilisent le module lunaire comme canot de sauvetage pour contourner la Lune et revenir sains et saufs sur Terre. La phrase « Houston, nous avons eu un problème » est restée célèbre.",
+        "wiki": "Apollo 13"
+      }
+    },
+    {
+      "q": "Quelle fusée géante a lancé les missions habitées Apollo vers la Lune ?",
+      "choix": ["Saturn V", "Atlas", "Titan II", "Soyouz"],
+      "fiche": {
+        "titre": "Saturn V",
+        "texte": "Saturn V est le lanceur géant américain conçu sous la direction de l'ingénieur Wernher von Braun pour le programme Apollo. Haute d'environ 110 mètres, cette fusée à trois étages a propulsé les neuf missions habitées qui se sont rendues vers la Lune entre 1968 et 1972. Elle a aussi servi à mettre en orbite la station spatiale Skylab en 1973. Elle est restée pendant des décennies la fusée la plus puissante à avoir volé avec succès.",
+        "wiki": "Saturn V"
+      }
+    },
+    {
+      "q": "Quelle mission a placé pour la première fois des hommes en orbite autour de la Lune, en décembre 1968 ?",
+      "choix": ["Apollo 8", "Apollo 7", "Apollo 9", "Gemini 12"],
+      "fiche": {
+        "titre": "Apollo 8",
+        "texte": "Apollo 8 est la première mission habitée à avoir quitté l'orbite terrestre pour se placer en orbite autour de la Lune, en décembre 1968. Ses trois astronautes, Frank Borman, Jim Lovell et William Anders, sont les premiers hommes à voir de leurs yeux la face cachée de la Lune. Le 24 décembre, William Anders prend la célèbre photographie « Earthrise » (« Lever de Terre »), montrant la Terre se levant au-dessus de l'horizon lunaire.",
+        "wiki": "Apollo 8"
+      }
+    },
+    {
+      "q": "Quel astronaute fut le dernier homme à marcher sur la Lune lors du programme Apollo ?",
+      "choix": ["Eugene Cernan", "Charles Duke", "Alan Bean", "James Irwin"],
+      "fiche": {
+        "titre": "Eugene Cernan",
+        "texte": "Eugene Cernan est un astronaute américain, commandant de la mission Apollo 17 en décembre 1972, dernière mission du programme Apollo. Le 14 décembre 1972, il remonte dans le module lunaire après son coéquipier, le géologue Harrison Schmitt, devenant ainsi le dernier homme à avoir foulé le sol lunaire. Il avait déjà approché la Lune lors de la mission Apollo 10 en 1969. Au total, douze hommes ont marché sur la Lune entre 1969 et 1972.",
+        "wiki": "Eugene Cernan"
+      }
+    }
+  ]
+}

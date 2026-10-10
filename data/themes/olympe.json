@@ -1,0 +1,99 @@
+{
+  "id": "olympe",
+  "titre": "Les dieux de l'Olympe",
+  "categorie": "Mythologie",
+  "emoji": "⚡",
+  "accroche": "Foudre, trident et jalousies divines : montez sur l'Olympe à la rencontre des dieux grecs.",
+  "questions": [
+    {
+      "q": "Quel dieu, maître de la foudre, règne sur l'Olympe ?",
+      "choix": ["Zeus", "Poséidon", "Hadès", "Apollon"],
+      "fiche": {
+        "titre": "Zeus",
+        "texte": "Zeus est le roi des dieux dans la mythologie grecque, maître du ciel et de la foudre, qui règne depuis le mont Olympe. Fils des Titans Cronos et Rhéa, il échappe à son père, qui dévorait ses enfants, puis le renverse avec l'aide de ses frères et sœurs. Époux d'Héra, il multiplie les aventures avec des déesses et des mortelles, dont naissent de nombreux dieux et héros, comme Athéna, Apollon ou Héraclès. Les Romains l'assimilent à Jupiter.",
+        "wiki": "Zeus"
+      }
+    },
+    {
+      "q": "Quel dieu armé d'un trident règne sur les mers ?",
+      "choix": ["Poséidon", "Arès", "Héphaïstos", "Hermès"],
+      "fiche": {
+        "titre": "Poséidon",
+        "texte": "Poséidon est le dieu grec des mers, des tremblements de terre et des chevaux, frère de Zeus et d'Hadès. Il est représenté armé d'un trident, avec lequel il peut soulever les tempêtes, ébranler la terre et faire jaillir des sources. Dans l'Odyssée, il poursuit Ulysse de sa colère après que celui-ci a aveuglé son fils, le cyclope Polyphème. Les Romains l'assimilent à Neptune.",
+        "wiki": "Poséidon"
+      }
+    },
+    {
+      "q": "Quelle déesse grecque incarne l'amour et la beauté ?",
+      "choix": ["Aphrodite", "Athéna", "Héra", "Artémis"],
+      "fiche": {
+        "titre": "Aphrodite",
+        "texte": "Aphrodite est la déesse grecque de l'amour, de la beauté et du désir. Selon Hésiode, elle naît de l'écume de la mer, près de Cythère ou de Chypre ; selon Homère, elle est la fille de Zeus et de Dioné. Lors du jugement de Pâris, elle reçoit la pomme d'or destinée à la plus belle en promettant au prince troyen l'amour d'Hélène, ce qui provoque la guerre de Troie. Les Romains l'assimilent à Vénus.",
+        "wiki": "Aphrodite"
+      }
+    },
+    {
+      "q": "Quel dieu aux sandales ailées sert de messager aux Olympiens ?",
+      "choix": ["Hermès", "Apollon", "Dionysos", "Arès"],
+      "fiche": {
+        "titre": "Hermès",
+        "texte": "Hermès est le dieu grec messager de l'Olympe, protecteur des voyageurs, des marchands, des voleurs et des orateurs. Fils de Zeus et de la nymphe Maïa, il est représenté coiffé d'un pétase ailé, chaussé de sandales ailées et tenant le caducée. Dès le jour de sa naissance, il vole les bœufs de son frère Apollon et invente la lyre. Il guide également les âmes des morts vers les Enfers. Les Romains l'assimilent à Mercure.",
+        "wiki": "Hermès"
+      }
+    },
+    {
+      "q": "Sous quel nom les Romains vénéraient-ils Arès, dieu grec de la guerre ?",
+      "choix": ["Mars", "Jupiter", "Vulcain", "Neptune"],
+      "fiche": {
+        "titre": "Arès",
+        "texte": "Arès est le dieu grec de la guerre, de la violence et du carnage, fils de Zeus et d'Héra. Peu aimé des Grecs, il incarne la fureur brutale des combats, à la différence d'Athéna, déesse de la stratégie. Il est accompagné de ses fils Déimos (la Terreur) et Phobos (la Peur), dont les noms ont été donnés aux deux satellites de la planète Mars. Les Romains l'assimilent en effet à Mars, l'un de leurs dieux les plus vénérés.",
+        "wiki": "Arès"
+      }
+    },
+    {
+      "q": "Quel arbre Athéna offrit-elle aux habitants de l'Attique pour devenir la protectrice de leur cité ?",
+      "choix": ["L'olivier", "Le laurier", "Le chêne", "Le figuier"],
+      "fiche": {
+        "titre": "Athéna",
+        "texte": "Athéna est la déesse grecque de la sagesse, de la stratégie militaire et des arts, née tout armée de la tête de Zeus. Selon la légende, elle disputa à Poséidon le patronage de l'Attique : le dieu fit jaillir une source d'eau salée sur l'Acropole, tandis qu'Athéna fit pousser un olivier. Jugé plus précieux, son présent lui valut de devenir la protectrice de la cité, qui prit le nom d'Athènes. Le Parthénon lui était dédié. Les Romains l'assimilent à Minerve.",
+        "wiki": "Athéna"
+      }
+    },
+    {
+      "q": "Quel dieu forgeron et boiteux est l'époux d'Aphrodite ?",
+      "choix": ["Héphaïstos", "Apollon", "Dionysos", "Hermès"],
+      "fiche": {
+        "titre": "Héphaïstos",
+        "texte": "Héphaïstos est le dieu grec du feu, de la forge et des métaux, fils d'Héra. Boiteux, il aurait été précipité du haut de l'Olympe, par sa mère ou par Zeus selon les versions. Artisan génial, il forge dans ses ateliers les armes des dieux et des héros, comme le bouclier d'Achille. Il est l'époux d'Aphrodite, qui le trompe avec Arès ; il surprend les amants en les capturant dans un filet invisible. Les Romains l'assimilent à Vulcain.",
+        "wiki": "Héphaïstos"
+      }
+    },
+    {
+      "q": "Quelle déesse des moissons est la mère de Perséphone ?",
+      "choix": ["Déméter", "Hestia", "Héra", "Artémis"],
+      "fiche": {
+        "titre": "Déméter",
+        "texte": "Déméter est la déesse grecque de l'agriculture et des moissons, sœur de Zeus. Lorsque sa fille Perséphone est enlevée par Hadès, elle erre sur la terre à sa recherche et laisse les cultures dépérir. Un compromis permet finalement à Perséphone de passer une partie de l'année auprès de sa mère et l'autre aux Enfers, ce qui explique l'alternance des saisons. Son culte était au cœur des mystères d'Éleusis. Les Romains l'assimilent à Cérès.",
+        "wiki": "Déméter"
+      }
+    },
+    {
+      "q": "Quel dieu est né de la cuisse de Zeus ?",
+      "choix": ["Dionysos", "Apollon", "Hermès", "Héphaïstos"],
+      "fiche": {
+        "titre": "Dionysos",
+        "texte": "Dionysos est le dieu grec de la vigne, du vin, de l'ivresse et du théâtre. Fils de Zeus et de la mortelle Sémélé, il connaît une naissance singulière : Sémélé ayant été foudroyée par l'éclat de Zeus alors qu'elle était enceinte, le roi des dieux recueillit l'enfant et le cousit dans sa cuisse jusqu'au terme de la gestation. C'est l'origine de l'expression « se croire sorti de la cuisse de Jupiter ». Les Romains l'assimilent à Bacchus.",
+        "wiki": "Dionysos"
+      }
+    },
+    {
+      "q": "Sur quelle île Léto donna-t-elle naissance au dieu Apollon ?",
+      "choix": ["Délos", "La Crète", "Naxos", "Rhodes"],
+      "fiche": {
+        "titre": "Délos",
+        "texte": "Délos est une petite île grecque des Cyclades, considérée dans l'Antiquité comme l'un des sanctuaires les plus sacrés du monde grec. Selon la mythologie, Léto, enceinte de Zeus et poursuivie par la jalousie d'Héra, ne trouvait aucune terre pour accoucher ; l'île errante de Délos l'accueillit et elle y mit au monde Apollon, ainsi que sa sœur jumelle Artémis selon la plupart des versions. L'île devint alors fixe. Son site archéologique est inscrit au patrimoine mondial de l'UNESCO.",
+        "wiki": "Délos"
+      }
+    }
+  ]
+}

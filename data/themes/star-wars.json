@@ -1,0 +1,99 @@
+{
+  "id": "star-wars",
+  "titre": "La saga Star Wars",
+  "categorie": "Cinéma",
+  "emoji": "🌌",
+  "accroche": "Il y a bien longtemps, dans une galaxie lointaine, très lointaine… Que la Force soit avec vous !",
+  "questions": [
+    {
+      "q": "Qui est le père de Luke Skywalker ?",
+      "choix": ["Dark Vador", "Obi-Wan Kenobi", "Yoda", "Han Solo"],
+      "fiche": {
+        "titre": "Dark Vador",
+        "texte": "Dark Vador est le principal antagoniste de la trilogie originale de Star Wars. Ancien chevalier Jedi nommé Anakin Skywalker, il a basculé du côté obscur de la Force pour servir l'Empereur. Dans le cinquième épisode, sorti en 1980, il révèle à Luke Skywalker : « Je suis ton père », l'un des rebondissements les plus célèbres de l'histoire du cinéma. Sous son armure noire se cache l'acteur David Prowse, tandis que James Earl Jones lui prête sa voix en version originale.",
+        "wiki": "Dark Vador"
+      }
+    },
+    {
+      "q": "Quel cinéaste a créé la saga Star Wars ?",
+      "choix": ["George Lucas", "Steven Spielberg", "James Cameron", "Ridley Scott"],
+      "fiche": {
+        "titre": "George Lucas",
+        "texte": "George Lucas, né en 1944 en Californie, est le réalisateur, scénariste et producteur américain qui a créé l'univers de Star Wars. Il écrit et réalise le premier film, sorti en 1977, puis la prélogie entre 1999 et 2005. Il fonde la société Lucasfilm ainsi que le studio d'effets spéciaux Industrial Light & Magic. En 2012, il cède Lucasfilm à la Walt Disney Company, qui produit ensuite une nouvelle trilogie.",
+        "wiki": "George Lucas"
+      }
+    },
+    {
+      "q": "Comment s'appelle le copilote wookiee de Han Solo ?",
+      "choix": ["Chewbacca", "Lando Calrissian", "Greedo", "Wicket"],
+      "fiche": {
+        "titre": "Chewbacca",
+        "texte": "Chewbacca, surnommé « Chewie », est un Wookiee originaire de la planète Kashyyyk. Fidèle ami et copilote de Han Solo, il mesure plus de deux mètres et s'exprime par des grognements que seuls ses proches comprennent. Il a été incarné par l'acteur britannique Peter Mayhew, puis par le Finlandais Joonas Suotamo à partir des années 2010. Chewbacca apparaît dans les trois trilogies de la saga, ainsi que dans le film dérivé « Solo ».",
+        "wiki": "Chewbacca"
+      }
+    },
+    {
+      "q": "Quel compositeur a signé la musique des films de la saga Skywalker ?",
+      "choix": ["John Williams", "Hans Zimmer", "Ennio Morricone", "Jerry Goldsmith"],
+      "fiche": {
+        "titre": "John Williams",
+        "texte": "John Williams, né en 1932 dans l'État de New York, est un compositeur américain de musique de film. Il signe la bande originale de tous les épisodes de la saga Skywalker, du film de 1977 à « L'Ascension de Skywalker » (2019). Son thème principal et « La Marche impériale » comptent parmi les musiques de film les plus célèbres. Collaborateur régulier de Steven Spielberg, il a aussi composé les musiques des « Dents de la mer », d'« E.T. » et d'« Indiana Jones ».",
+        "wiki": "John Williams (compositeur)"
+      }
+    },
+    {
+      "q": "Comment s'appelle le vaisseau de Han Solo ?",
+      "choix": ["Le Faucon Millenium", "Le Slave I", "L'Executor", "Le Tantive IV"],
+      "fiche": {
+        "titre": "Faucon Millenium",
+        "texte": "Le Faucon Millenium est le vaisseau spatial de Han Solo et de Chewbacca. Ce cargo léger de type YT-1300, à la silhouette circulaire caractéristique, a été gagné par Han Solo à Lando Calrissian lors d'une partie de sabacc. Malgré son apparence délabrée, il est l'un des vaisseaux les plus rapides de la galaxie : Han Solo se vante d'avoir effectué le raid de Kessel en moins de douze parsecs.",
+        "wiki": "Faucon Millenium"
+      }
+    },
+    {
+      "q": "Sur quelle planète désertique Luke Skywalker a-t-il grandi ?",
+      "choix": ["Tatooine", "Hoth", "Naboo", "Endor"],
+      "fiche": {
+        "titre": "Tatooine",
+        "texte": "Tatooine est une planète désertique éclairée par deux soleils, située dans la Bordure extérieure de la galaxie. Luke Skywalker y grandit dans la ferme d'humidité de son oncle Owen et de sa tante Beru, tout comme son père Anakin y avait vécu enfant, en esclavage. Les scènes sur Tatooine ont été tournées principalement en Tunisie, dont la ville de Tataouine a inspiré le nom de la planète.",
+        "wiki": "Tatooine"
+      }
+    },
+    {
+      "q": "Quelle actrice incarne la princesse Leia dans la trilogie originale ?",
+      "choix": ["Carrie Fisher", "Natalie Portman", "Daisy Ridley", "Sigourney Weaver"],
+      "fiche": {
+        "titre": "Carrie Fisher",
+        "texte": "Carrie Fisher (1956-2016) est une actrice et écrivaine américaine, révélée par le rôle de la princesse Leia Organa dans le Star Wars de 1977. Elle reprend ce rôle dans les deux suites de la trilogie originale, puis dans la troisième trilogie, où Leia est devenue générale. Fille de l'actrice Debbie Reynolds et du chanteur Eddie Fisher, elle a aussi publié plusieurs livres autobiographiques. Elle meurt en décembre 2016, après avoir achevé le tournage des « Derniers Jedi ».",
+        "wiki": "Carrie Fisher"
+      }
+    },
+    {
+      "q": "Quel est le sous-titre de l'épisode V, sorti en 1980 ?",
+      "choix": ["L'Empire contre-attaque", "Le Retour du Jedi", "Un nouvel espoir", "La Menace fantôme"],
+      "fiche": {
+        "titre": "L'Empire contre-attaque",
+        "texte": "L'Empire contre-attaque est le cinquième épisode de la saga Star Wars, sorti en 1980 et réalisé par Irvin Kershner. Il voit les rebelles fuir leur base de la planète glacée Hoth, tandis que Luke Skywalker s'initie à la Force auprès du maître Yoda, qui apparaît pour la première fois. Le film se clôt sur la révélation de Dark Vador et sur Han Solo congelé dans la carbonite. Il est souvent considéré comme le meilleur film de la saga.",
+        "wiki": "L'Empire contre-attaque"
+      }
+    },
+    {
+      "q": "Quel acteur incarne le jeune Obi-Wan Kenobi dans la prélogie ?",
+      "choix": ["Ewan McGregor", "Hayden Christensen", "Liam Neeson", "Jude Law"],
+      "fiche": {
+        "titre": "Ewan McGregor",
+        "texte": "Ewan McGregor, né en 1971 en Écosse, est un acteur britannique révélé par « Trainspotting » (1996). Il incarne le jeune Obi-Wan Kenobi dans la prélogie de George Lucas (1999-2005), reprenant le rôle tenu par Alec Guinness dans la trilogie originale. Il retrouve le personnage en 2022 dans la série « Obi-Wan Kenobi », diffusée sur Disney+. On l'a également vu dans « Moulin Rouge ! » et « Big Fish ».",
+        "wiki": "Ewan McGregor"
+      }
+    },
+    {
+      "q": "Sous quel nom de Sith l'empereur Palpatine agit-il dans l'ombre ?",
+      "choix": ["Dark Sidious", "Dark Tyranus", "Dark Maul", "Dark Plagueis"],
+      "fiche": {
+        "titre": "Palpatine",
+        "texte": "Palpatine est l'un des principaux antagonistes de la saga. Sénateur de Naboo devenu chancelier suprême de la République, il mène en secret une double vie de seigneur Sith sous le nom de Dark Sidious. Il orchestre la guerre des clones, fait basculer Anakin Skywalker du côté obscur et proclame l'Empire galactique. Il est incarné par l'acteur écossais Ian McDiarmid, du « Retour du Jedi » (1983) jusqu'à « L'Ascension de Skywalker » (2019).",
+        "wiki": "Palpatine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "jules-verne",
+  "titre": "Jules Verne",
+  "categorie": "Littérature",
+  "emoji": "🎈",
+  "accroche": "Sous les mers, dans les airs ou au centre de la Terre : embarquez pour des voyages extraordinaires.",
+  "questions": [
+    {
+      "q": "Quel gentleman anglais parie qu'il fera le tour du monde en quatre-vingts jours ?",
+      "choix": ["Phileas Fogg", "Passepartout", "Michel Ardan", "Robur"],
+      "fiche": {
+        "titre": "Le Tour du monde en quatre-vingts jours",
+        "texte": "Le Tour du monde en quatre-vingts jours est un roman de Jules Verne publié en feuilleton en 1872, puis en volume en 1873. Le flegmatique gentleman anglais Phileas Fogg parie avec des membres de son club londonien qu'il bouclera le tour du monde en quatre-vingts jours. Accompagné de son domestique Passepartout et poursuivi par l'inspecteur Fix, il traverse notamment l'Inde, la Chine et les États-Unis. Le décalage horaire lui réserve une surprise finale.",
+        "wiki": "Le Tour du monde en quatre-vingts jours"
+      }
+    },
+    {
+      "q": "Quel capitaine commande le sous-marin Nautilus ?",
+      "choix": ["Nemo", "Achab", "Hatteras", "Haddock"],
+      "fiche": {
+        "titre": "Le capitaine Nemo",
+        "texte": "Le capitaine Nemo est le héros énigmatique de Vingt Mille Lieues sous les mers (1869-1870), commandant du sous-marin Nautilus. Ayant rompu avec la terre ferme, il parcourt les océans en compagnie du professeur Aronnax, de son domestique Conseil et du harponneur Ned Land, qu'il retient à son bord. Son nom signifie « personne » en latin. Dans L'Île mystérieuse, Verne révèle qu'il s'agit du prince indien Dakkar, révolté contre la domination britannique.",
+        "wiki": "Capitaine Nemo"
+      }
+    },
+    {
+      "q": "Dans quelle ville Jules Verne est-il né en 1828 ?",
+      "choix": ["Nantes", "Amiens", "Le Havre", "Brest"],
+      "fiche": {
+        "titre": "Jules Verne",
+        "texte": "Jules Verne est né le 8 février 1828 à Nantes, sur l'île Feydeau, dans une famille bourgeoise ; son père était avoué. Après des études de droit à Paris, il se tourne vers le théâtre, puis vers le roman. Auteur des Voyages extraordinaires, il est l'un des écrivains les plus traduits au monde et un pionnier du roman d'aventures scientifiques. Sa ville natale lui consacre un musée, installé dans une maison surplombant la Loire.",
+        "wiki": "Jules Verne"
+      }
+    },
+    {
+      "q": "Au service de quel souverain Michel Strogoff traverse-t-il la Sibérie ?",
+      "choix": ["Le tsar de Russie", "L'empereur de Chine", "La reine Victoria", "Napoléon III"],
+      "fiche": {
+        "titre": "Michel Strogoff",
+        "texte": "Michel Strogoff est un roman de Jules Verne publié en 1876. Son héros, capitaine des courriers du tsar, est chargé de porter un message de Moscou à Irkoutsk, à travers une Sibérie envahie par les Tartares de Féofar-Khan. Trahi par Ivan Ogareff, il est capturé et condamné à être aveuglé par une lame chauffée à blanc. Il est accompagné dans son périple par la jeune Nadia. Le roman a connu un immense succès et de nombreuses adaptations.",
+        "wiki": "Michel Strogoff"
+      }
+    },
+    {
+      "q": "Quel éditeur a publié la plupart des romans de Jules Verne ?",
+      "choix": ["Pierre-Jules Hetzel", "Gaston Gallimard", "Louis Hachette", "Michel Lévy"],
+      "fiche": {
+        "titre": "Pierre-Jules Hetzel",
+        "texte": "Pierre-Jules Hetzel (1814-1886) est un éditeur et écrivain français, qui publia aussi Balzac, Hugo et George Sand. Au début des années 1860, il signe un contrat avec un jeune auteur, Jules Verne, dont il publie ensuite les Voyages extraordinaires, notamment dans de célèbres cartonnages décorés. Il fonde également le Magasin d'éducation et de récréation, revue pour la jeunesse où paraissent de nombreux romans de Verne. Il signait ses propres ouvrages du pseudonyme P.-J. Stahl.",
+        "wiki": "Pierre-Jules Hetzel"
+      }
+    },
+    {
+      "q": "Quel roman, paru en 1863, ouvre la série des Voyages extraordinaires ?",
+      "choix": ["Cinq semaines en ballon", "De la Terre à la Lune", "Voyage au centre de la Terre", "L'Île mystérieuse"],
+      "fiche": {
+        "titre": "Cinq semaines en ballon",
+        "texte": "Cinq semaines en ballon est le premier roman de Jules Verne publié par Hetzel, en 1863, et le premier des Voyages extraordinaires. Il raconte la traversée de l'Afrique d'est en ouest, à bord d'un ballon à hydrogène baptisé Victoria, par le docteur Samuel Fergusson, son ami Dick Kennedy et son domestique Joe. Le roman mêle aventure et descriptions géographiques d'une Afrique alors largement inexplorée par les Européens. Son succès immédiat lance la carrière de l'écrivain.",
+        "wiki": "Cinq semaines en ballon"
+      }
+    },
+    {
+      "q": "Par quel volcan islandais les héros de « Voyage au centre de la Terre » descendent-ils sous terre ?",
+      "choix": ["Le Sneffels", "L'Hekla", "Le Stromboli", "Le Krakatoa"],
+      "fiche": {
+        "titre": "Voyage au centre de la Terre",
+        "texte": "Voyage au centre de la Terre est un roman de Jules Verne publié en 1864. Le professeur Otto Lidenbrock, son neveu Axel et leur guide islandais Hans descendent dans les profondeurs du globe par le cratère du Sneffels, un volcan d'Islande, en suivant les indications d'un message chiffré de l'alchimiste Arne Saknussemm. Après avoir découvert une mer souterraine et des créatures préhistoriques, ils remontent à la surface par le Stromboli, en Italie.",
+        "wiki": "Voyage au centre de la Terre"
+      }
+    },
+    {
+      "q": "Dans quelle ville Jules Verne fut-il conseiller municipal ?",
+      "choix": ["Amiens", "Rouen", "Lille", "Le Havre"],
+      "fiche": {
+        "titre": "Jules Verne à Amiens",
+        "texte": "Jules Verne s'installe au début des années 1870 à Amiens, ville natale de son épouse Honorine, et y passe le reste de sa vie. Élu conseiller municipal en 1888, il s'investit dans la vie locale, notamment dans la construction du cirque municipal, aujourd'hui cirque Jules-Verne. Il meurt dans cette ville le 24 mars 1905 et repose au cimetière de la Madeleine. Sa maison, dite « maison à la tour », est aujourd'hui un musée.",
+        "wiki": "Maison de Jules Verne"
+      }
+    },
+    {
+      "q": "Dans « De la Terre à la Lune », quel club américain projette d'envoyer un obus vers la Lune ?",
+      "choix": ["Le Gun-Club", "Le Reform Club", "Le Weldon Institute", "L'Explorers Club"],
+      "fiche": {
+        "titre": "De la Terre à la Lune",
+        "texte": "De la Terre à la Lune est un roman de Jules Verne publié en 1865. Après la guerre de Sécession, les membres du Gun-Club de Baltimore, une association d'artilleurs désœuvrés présidée par Impey Barbicane, décident d'envoyer un projectile vers la Lune à l'aide d'un canon géant, la Columbiad, coulé en Floride. L'aventurier français Michel Ardan propose de prendre place dans l'obus. La suite du récit, Autour de la Lune, paraît en 1869.",
+        "wiki": "De la Terre à la Lune"
+      }
+    },
+    {
+      "q": "Quel roman de Jules Verne, refusé par son éditeur, ne fut publié qu'en 1994 ?",
+      "choix": ["Paris au XXe siècle", "Le Phare du bout du monde", "Le Château des Carpathes", "Robur le Conquérant"],
+      "fiche": {
+        "titre": "Paris au XXe siècle",
+        "texte": "Paris au XXe siècle est un roman d'anticipation écrit par Jules Verne au début des années 1860 et refusé par son éditeur Pierre-Jules Hetzel, qui le jugeait trop pessimiste. Le manuscrit, longtemps considéré comme perdu, est retrouvé par son arrière-petit-fils dans un coffre-fort familial, puis publié en 1994. L'auteur y décrit le Paris des années 1960, avec son métro aérien, ses voitures à gaz et ses machines à calculer, une société dominée par la finance et la technique où un jeune poète ne trouve pas sa place.",
+        "wiki": "Paris au XXe siècle"
+      }
+    }
+  ]
+}

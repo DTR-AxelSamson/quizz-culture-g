@@ -1,0 +1,99 @@
+{
+  "id": "coupe-du-monde",
+  "titre": "La Coupe du monde de football",
+  "categorie": "Sport",
+  "emoji": "⚽",
+  "accroche": "Buts mythiques, drames et anecdotes improbables : revivez un siècle de Mondial.",
+  "questions": [
+    {
+      "q": "Quel Français a marqué deux buts de la tête en finale de la Coupe du monde 1998 ?",
+      "choix": ["Zinédine Zidane", "Thierry Henry", "Emmanuel Petit", "Lilian Thuram"],
+      "fiche": {
+        "titre": "Zinédine Zidane",
+        "texte": "Zinédine Zidane, né en 1972 à Marseille, est l'un des plus grands footballeurs de l'histoire. Le 12 juillet 1998, au Stade de France, il inscrivit deux buts de la tête sur corner lors de la finale de la Coupe du monde face au Brésil, remportée 3-0 par la France grâce à un dernier but d'Emmanuel Petit. Ce premier titre mondial des Bleus déclencha une liesse populaire inédite. Zidane fut sacré Ballon d'or la même année.",
+        "wiki": "Zinédine Zidane"
+      }
+    },
+    {
+      "q": "Quel joueur argentin a marqué un but de la main surnommé « la main de Dieu » en 1986 ?",
+      "choix": ["Diego Maradona", "Lionel Messi", "Mario Kempes", "Gabriel Batistuta"],
+      "fiche": {
+        "titre": "Diego Maradona",
+        "texte": "Diego Maradona (1960-2020) est un footballeur argentin, souvent considéré comme l'un des meilleurs joueurs de tous les temps. Le 22 juin 1986, en quart de finale de la Coupe du monde au Mexique face à l'Angleterre, il ouvrit le score d'une main non sifflée, qu'il attribua ensuite à « la main de Dieu ». Quatre minutes plus tard, il marqua après un slalom de soixante mètres, élu « but du siècle ». L'Argentine remporta ensuite le tournoi.",
+        "wiki": "Diego Maradona"
+      }
+    },
+    {
+      "q": "Quel pays a remporté la première Coupe du monde, en 1930 ?",
+      "choix": ["L'Uruguay", "L'Argentine", "L'Italie", "Le Brésil"],
+      "fiche": {
+        "titre": "Coupe du monde de football 1930",
+        "texte": "La première Coupe du monde de football s'est déroulée en Uruguay en juillet 1930, année du centenaire de la première Constitution du pays. Seules treize équipes y participèrent, dont quatre européennes, la traversée de l'Atlantique en bateau en ayant découragé beaucoup. En finale, au stade Centenario de Montevideo, l'Uruguay, pays hôte et double champion olympique, battit l'Argentine 4-2 et devint le premier champion du monde.",
+        "wiki": "Coupe du monde de football 1930"
+      }
+    },
+    {
+      "q": "Quel joueur brésilien a remporté la Coupe du monde en 1958, 1962 et 1970 ?",
+      "choix": ["Pelé", "Garrincha", "Ronaldo", "Zico"],
+      "fiche": {
+        "titre": "Pelé",
+        "texte": "Pelé, de son vrai nom Edson Arantes do Nascimento (1940-2022), est une légende du football brésilien. Il est le seul joueur à avoir remporté trois fois la Coupe du monde, en 1958, 1962 et 1970. En Suède en 1958, à seulement 17 ans, il marqua six buts dont deux en finale. Surnommé « le Roi », il a passé l'essentiel de sa carrière au club de Santos avant de terminer aux États-Unis, au Cosmos de New York.",
+        "wiki": "Pelé"
+      }
+    },
+    {
+      "q": "Quel trophée était remis au vainqueur de la Coupe du monde de 1930 à 1970 ?",
+      "choix": ["Le trophée Jules-Rimet", "La coupe Henri-Delaunay", "La coupe Gambardella", "Le trophée Coubertin"],
+      "fiche": {
+        "titre": "Trophée Jules-Rimet",
+        "texte": "Le trophée Jules-Rimet est la coupe remise aux champions du monde de football de 1930 à 1970. Œuvre du sculpteur français Abel Lafleur, il représente la déesse de la victoire, Niké, et porte le nom du dirigeant français à l'origine de la compétition. Le Brésil l'obtint définitivement en 1970 après son troisième titre. Volé à Rio de Janeiro en 1983, il n'a jamais été retrouvé. Il a été remplacé par l'actuel trophée de la Coupe du monde.",
+        "wiki": "Trophée Jules-Rimet"
+      }
+    },
+    {
+      "q": "Quel Français a marqué 13 buts lors de la seule Coupe du monde 1958 ?",
+      "choix": ["Just Fontaine", "Raymond Kopa", "Michel Platini", "Roger Piantoni"],
+      "fiche": {
+        "titre": "Just Fontaine",
+        "texte": "Just Fontaine (1933-2023) est un footballeur français, attaquant du Stade de Reims. Lors de la Coupe du monde 1958 en Suède, il marqua 13 buts en six matchs, un record pour une seule édition qui n'a jamais été égalé. Associé à Raymond Kopa, il permit à l'équipe de France de terminer troisième du tournoi. Sa carrière fut brutalement écourtée par une double fracture de la jambe, et il prit sa retraite à 28 ans.",
+        "wiki": "Just Fontaine"
+      }
+    },
+    {
+      "q": "Quel gardien allemand a violemment percuté Patrick Battiston lors de la demi-finale de Séville en 1982 ?",
+      "choix": ["Harald Schumacher", "Sepp Maier", "Oliver Kahn", "Bodo Illgner"],
+      "fiche": {
+        "titre": "Harald Schumacher",
+        "texte": "Harald « Toni » Schumacher est un gardien de but allemand né en 1954. Le 8 juillet 1982, lors de la demi-finale de la Coupe du monde entre la RFA et la France à Séville, il percuta violemment le défenseur français Patrick Battiston, qui perdit connaissance et deux dents. L'arbitre ne siffla aucune faute. Le match, terminé sur le score de 3-3, fut le premier de l'histoire de la Coupe du monde décidé aux tirs au but, au profit de la RFA.",
+        "wiki": "Harald Schumacher"
+      }
+    },
+    {
+      "q": "Quel nom donne-t-on à la défaite du Brésil face à l'Uruguay lors du match décisif de 1950 ?",
+      "choix": ["Le Maracanaço", "Le Mineiraço", "Le Catenaccio", "Le Jogo bonito"],
+      "fiche": {
+        "titre": "Maracanaço",
+        "texte": "Le Maracanaço désigne la victoire de l'Uruguay sur le Brésil (2-1) le 16 juillet 1950, lors du match décisif de la Coupe du monde organisée au Brésil. Disputée au stade Maracanã de Rio de Janeiro devant environ 200 000 spectateurs, la rencontre devait consacrer le Brésil, à qui un match nul suffisait. Le but victorieux d'Alcides Ghiggia plongea le pays dans un deuil national. L'événement reste l'un des plus grands traumatismes de l'histoire du football brésilien.",
+        "wiki": "Maracanaço"
+      }
+    },
+    {
+      "q": "Comment s'appelait le chien qui a retrouvé le trophée de la Coupe du monde volé à Londres en 1966 ?",
+      "choix": ["Pickles", "Rex", "Buddy", "Lucky"],
+      "fiche": {
+        "titre": "Pickles",
+        "texte": "Pickles est un chien colley devenu célèbre pour avoir retrouvé le trophée Jules-Rimet en mars 1966. Le trophée avait été volé lors d'une exposition à Londres, quelques mois avant la Coupe du monde organisée en Angleterre. Lors d'une promenade avec son maître David Corbett, Pickles le découvrit enveloppé dans du papier journal au pied d'une haie. Devenu un héros national, le chien fut invité au banquet de la victoire anglaise.",
+        "wiki": "Pickles (chien)"
+      }
+    },
+    {
+      "q": "Quel Français a inscrit le tout premier but de l'histoire de la Coupe du monde ?",
+      "choix": ["Lucien Laurent", "Marcel Langiller", "Alex Thépot", "André Maschinot"],
+      "fiche": {
+        "titre": "Lucien Laurent",
+        "texte": "Lucien Laurent (1907-2005) est un footballeur français, auteur du premier but de l'histoire de la Coupe du monde. Le 13 juillet 1930, à Montevideo, il ouvrit le score à la 19e minute du match entre la France et le Mexique, remporté 4-1 par les Bleus. La France fut cependant éliminée dès le premier tour. Il vécut assez longtemps pour assister, en invité d'honneur, au premier sacre mondial des Bleus en 1998.",
+        "wiki": "Lucien Laurent"
+      }
+    }
+  ]
+}

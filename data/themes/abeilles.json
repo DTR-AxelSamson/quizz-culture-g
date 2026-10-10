@@ -1,0 +1,99 @@
+{
+  "id": "abeilles",
+  "titre": "Les abeilles",
+  "categorie": "Nature",
+  "emoji": "🐝",
+  "accroche": "Butineuses infatigables et architectes de génie, les abeilles cachent une société fascinante : entrez dans la ruche !",
+  "questions": [
+    {
+      "q": "Quelle substance sucrée les abeilles fabriquent-elles à partir du nectar des fleurs ?",
+      "choix": ["Le miel", "La cire", "Le pollen", "La sève"],
+      "fiche": {
+        "titre": "Miel",
+        "texte": "Le miel est une substance sucrée fabriquée par les abeilles à partir du nectar des fleurs ou du miellat. Les butineuses rapportent le nectar à leur colonie, où il est transformé par des enzymes puis déshydraté avant d'être stocké dans les alvéoles et refermé par un opercule de cire. Sa couleur et son goût varient selon les fleurs butinées. Très riche en sucres et pauvre en eau, il se conserve remarquablement longtemps.",
+        "wiki": "Miel"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on l'abri dans lequel vit une colonie d'abeilles domestiques ?",
+      "choix": ["Une ruche", "Une fourmilière", "Une volière", "Un terrier"],
+      "fiche": {
+        "titre": "Ruche",
+        "texte": "Une ruche est l'abri qui accueille une colonie d'abeilles domestiques, pouvant compter plusieurs dizaines de milliers d'individus. À l'état sauvage, les abeilles s'installent dans des cavités, comme des troncs d'arbres creux. Les ruches construites par l'homme, aujourd'hui le plus souvent des caisses en bois munies de cadres amovibles, permettent de récolter le miel sans détruire la colonie. Les abeilles y bâtissent leurs rayons de cire.",
+        "wiki": "Ruche"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on l'élevage des abeilles ?",
+      "choix": ["L'apiculture", "La sériciculture", "L'aviculture", "L'héliciculture"],
+      "fiche": {
+        "titre": "Apiculture",
+        "texte": "L'apiculture est l'élevage des abeilles, principalement pour récolter le miel et d'autres produits de la ruche comme la cire ou le pollen. Son nom vient du latin apis, « abeille ». La personne qui la pratique est un apiculteur. Pratiquée depuis l'Antiquité, notamment en Égypte, l'apiculture joue aussi un rôle important pour l'agriculture, car les abeilles pollinisent de nombreuses cultures fruitières et légumières.",
+        "wiki": "Apiculture"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on le mâle de l'abeille domestique ?",
+      "choix": ["Le faux bourdon", "Le roi", "Le butineur", "Le gardien"],
+      "fiche": {
+        "titre": "Faux bourdon",
+        "texte": "Le faux bourdon est le mâle de l'abeille domestique. Plus trapu que l'ouvrière, il possède de très grands yeux mais n'a pas de dard et ne butine pas. Il naît d'un œuf non fécondé. Son rôle principal est de féconder une jeune reine lors du vol nuptial, après quoi il meurt. À l'approche de l'hiver, les faux bourdons qui restent sont chassés de la ruche par les ouvrières, car ils deviennent des bouches inutiles à nourrir.",
+        "wiki": "Faux bourdon"
+      }
+    },
+    {
+      "q": "Quel insecte invasif, arrivé en France vers 2004, est un redoutable prédateur des abeilles ?",
+      "choix": ["Le frelon asiatique", "Le moustique tigre", "La pyrale du buis", "Le doryphore"],
+      "fiche": {
+        "titre": "Frelon asiatique",
+        "texte": "Le frelon asiatique, ou frelon à pattes jaunes, est une espèce de frelon originaire d'Asie du Sud-Est. Il a été repéré pour la première fois en France vers 2004, dans le Lot-et-Garonne, probablement arrivé avec des poteries importées de Chine. Il s'est depuis répandu dans une grande partie de l'Europe. Il chasse les abeilles en vol stationnaire devant les ruches, ce qui en fait une menace sérieuse pour l'apiculture.",
+        "wiki": "Frelon asiatique"
+      }
+    },
+    {
+      "q": "De quelle substance sont exclusivement nourries les larves destinées à devenir reines ?",
+      "choix": ["La gelée royale", "Le nectar", "Le pollen", "Le miellat"],
+      "fiche": {
+        "titre": "Gelée royale",
+        "texte": "La gelée royale est une substance blanchâtre sécrétée par des glandes situées dans la tête des jeunes ouvrières, appelées nourrices. Toutes les larves en reçoivent durant leurs premiers jours, mais seules celles destinées à devenir reines en sont nourries exclusivement et en abondance tout au long de leur développement. C'est ce régime particulier qui permet à une larve de devenir une reine, plus grande et capable de pondre.",
+        "wiki": "Gelée royale"
+      }
+    },
+    {
+      "q": "Quelle résine récoltée sur les bourgeons sert aux abeilles à colmater et assainir la ruche ?",
+      "choix": ["La propolis", "La cire", "Le nectar", "L'opercule"],
+      "fiche": {
+        "titre": "Propolis",
+        "texte": "La propolis est une substance résineuse que les abeilles récoltent sur les bourgeons et l'écorce de certains arbres, comme les peupliers. Elles l'utilisent pour colmater les fissures de la ruche, réduire son entrée et recouvrir les intrus trop gros pour être évacués. Ses propriétés antimicrobiennes contribuent à l'hygiène de la colonie. Son nom, d'origine grecque, signifie « devant la cité », en référence à son usage à l'entrée de la ruche.",
+        "wiki": "Propolis"
+      }
+    },
+    {
+      "q": "Quel scientifique, prix Nobel en 1973, a décrypté le langage des abeilles ?",
+      "choix": ["Karl von Frisch", "Jean-Henri Fabre", "Ivan Pavlov", "Charles Darwin"],
+      "fiche": {
+        "titre": "Karl von Frisch",
+        "texte": "Karl von Frisch est un éthologue autrichien qui a consacré l'essentiel de sa carrière aux abeilles. Il a montré qu'une butineuse indique à ses congénères la direction et la distance d'une source de nourriture grâce à une danse, notamment la « danse frétillante » exécutée sur les rayons. Il a aussi démontré que les abeilles perçoivent certaines couleurs. Il a reçu en 1973 le prix Nobel de physiologie ou médecine, avec Konrad Lorenz et Nikolaas Tinbergen.",
+        "wiki": "Karl von Frisch"
+      }
+    },
+    {
+      "q": "Quel est le nom scientifique de l'abeille domestique ?",
+      "choix": ["Apis mellifera", "Bombus terrestris", "Vespa crabro", "Xylocopa violacea"],
+      "fiche": {
+        "titre": "Apis mellifera",
+        "texte": "Apis mellifera est le nom scientifique de l'abeille domestique, attribué en 1758 par le naturaliste suédois Carl von Linné. Le nom latin signifie « abeille qui porte le miel ». Originaire d'Europe, d'Afrique et du Moyen-Orient, elle a été introduite par l'homme dans le monde entier. C'est l'espèce la plus élevée pour la production de miel. À ne pas confondre avec le bourdon, du genre Bombus, ni avec le frelon, du genre Vespa.",
+        "wiki": "Apis mellifera"
+      }
+    },
+    {
+      "q": "Combien d'yeux possède une abeille ?",
+      "choix": ["Cinq", "Deux", "Quatre", "Huit"],
+      "fiche": {
+        "titre": "Les yeux de l'abeille",
+        "texte": "L'abeille possède cinq yeux. Deux grands yeux composés, situés sur les côtés de la tête, sont formés de milliers de petites facettes appelées ommatidies ; ils lui permettent de percevoir les formes, les mouvements et les couleurs, y compris l'ultraviolet, mais pas le rouge. Trois yeux simples, appelés ocelles, disposés en triangle sur le dessus de la tête, l'aident à évaluer l'intensité lumineuse et à s'orienter.",
+        "wiki": "Abeille"
+      }
+    }
+  ]
+}

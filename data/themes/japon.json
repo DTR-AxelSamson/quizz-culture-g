@@ -1,0 +1,99 @@
+{
+  "id": "japon",
+  "titre": "Le Japon",
+  "categorie": "Géographie",
+  "emoji": "🗾",
+  "accroche": "Volcans, temples et trains à grande vitesse : partez à la découverte de l'archipel du Soleil-Levant.",
+  "questions": [
+    {
+      "q": "Quelle est la capitale du Japon ?",
+      "choix": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+      "fiche": {
+        "titre": "Tokyo",
+        "texte": "Tokyo est la capitale du Japon et le cœur de l'une des plus vastes agglomérations urbaines du monde. Autrefois appelée Edo, elle était le siège du shogunat Tokugawa avant d'être rebaptisée Tokyo, « capitale de l'Est », en 1868, lorsque l'empereur Meiji s'y installa. Située sur l'île de Honshū, au bord de la baie de Tokyo, elle abrite le palais impérial. La ville a accueilli les Jeux olympiques d'été de 1964 puis ceux de 2020, disputés en 2021.",
+        "wiki": "Tokyo"
+      }
+    },
+    {
+      "q": "Quel volcan est le point culminant du Japon ?",
+      "choix": ["Mont Fuji", "Mont Aso", "Mont Ontake", "Sakurajima"],
+      "fiche": {
+        "titre": "Mont Fuji",
+        "texte": "Le mont Fuji est le point culminant du Japon, avec une altitude de 3 776 mètres. Ce stratovolcan, situé sur l'île de Honshū au sud-ouest de Tokyo, est réputé pour son cône presque parfaitement symétrique. Sa dernière éruption remonte à 1707. Montagne sacrée et symbole national, il a inspiré de nombreux artistes, dont Hokusai et ses célèbres « Trente-six vues du mont Fuji ». Il est inscrit au patrimoine mondial depuis 2013.",
+        "wiki": "Mont Fuji"
+      }
+    },
+    {
+      "q": "Quelle est la monnaie du Japon ?",
+      "choix": ["Le yen", "Le won", "Le yuan", "Le baht"],
+      "fiche": {
+        "titre": "Yen",
+        "texte": "Le yen est la monnaie officielle du Japon depuis 1871, date à laquelle il a remplacé un système monétaire complexe hérité de l'époque d'Edo. Son nom signifie « rond » ou « objet circulaire » en japonais. Il est émis par la Banque du Japon et figure parmi les devises les plus échangées au monde, aux côtés du dollar et de l'euro. Son symbole est ¥ et son code international JPY.",
+        "wiki": "Yen"
+      }
+    },
+    {
+      "q": "Quelle est la plus grande île de l'archipel japonais ?",
+      "choix": ["Honshū", "Hokkaidō", "Kyūshū", "Shikoku"],
+      "fiche": {
+        "titre": "Honshū",
+        "texte": "Honshū est la plus grande île du Japon et la septième plus grande île du monde. Elle concentre la majeure partie de la population japonaise et les principales villes du pays, comme Tokyo, Yokohama, Osaka, Kyoto, Nagoya et Hiroshima. Montagneuse et traversée par une chaîne de volcans, elle abrite le mont Fuji. Elle est reliée aux trois autres grandes îles, Hokkaidō, Kyūshū et Shikoku, par des ponts ou des tunnels.",
+        "wiki": "Honshū"
+      }
+    },
+    {
+      "q": "Quelle ville fut la capitale impériale du Japon pendant plus de mille ans ?",
+      "choix": ["Kyoto", "Nara", "Kamakura", "Nagoya"],
+      "fiche": {
+        "titre": "Kyoto",
+        "texte": "Kyoto, fondée en 794 sous le nom de Heian-kyō, a été la capitale impériale du Japon pendant plus de mille ans, jusqu'au transfert de la cour à Tokyo au début de l'ère Meiji. Centre historique de la culture japonaise, elle compte des centaines de temples bouddhistes et de sanctuaires shinto, dont le Pavillon d'or et le Fushimi Inari-taisha. Largement épargnée par les bombardements de la Seconde Guerre mondiale, elle possède de nombreux monuments classés.",
+        "wiki": "Kyoto"
+      }
+    },
+    {
+      "q": "Comment s'appelle le réseau de trains à grande vitesse japonais, inauguré en 1964 ?",
+      "choix": ["Shinkansen", "Yamanote", "Kintetsu", "Tsukuba Express"],
+      "fiche": {
+        "titre": "Shinkansen",
+        "texte": "Le Shinkansen est le réseau ferroviaire à grande vitesse du Japon. Sa première ligne, le Tōkaidō Shinkansen reliant Tokyo à Osaka, a été inaugurée en octobre 1964, juste avant les Jeux olympiques de Tokyo : ce fut le premier train à grande vitesse au monde. Surnommé « train-obus » en raison du profil de ses premières rames, il est réputé pour sa ponctualité et sa sécurité. Son nom signifie « nouvelle ligne principale ».",
+        "wiki": "Shinkansen"
+      }
+    },
+    {
+      "q": "Quelle ville de Hokkaidō a accueilli les Jeux olympiques d'hiver de 1972 ?",
+      "choix": ["Sapporo", "Nagano", "Sendai", "Hakodate"],
+      "fiche": {
+        "titre": "Sapporo",
+        "texte": "Sapporo est la plus grande ville de l'île de Hokkaidō, dans le nord du Japon. Fondée au XIXe siècle selon un plan en damier, elle a accueilli en 1972 les premiers Jeux olympiques d'hiver organisés en Asie. Elle est célèbre pour son festival de la neige, où sont exposées chaque mois de février d'immenses sculptures de glace et de neige. La ville a aussi donné son nom à une marque de bière réputée.",
+        "wiki": "Sapporo"
+      }
+    },
+    {
+      "q": "Quel sanctuaire shinto est célèbre pour son grand torii qui semble flotter sur la mer ?",
+      "choix": ["Itsukushima-jinja", "Ise-jingū", "Meiji-jingū", "Fushimi Inari-taisha"],
+      "fiche": {
+        "titre": "Itsukushima-jinja",
+        "texte": "L'Itsukushima-jinja est un sanctuaire shinto situé sur l'île de Miyajima, dans la baie de Hiroshima. Il est mondialement connu pour son grand torii vermillon, construit dans l'eau, qui semble flotter sur la mer à marée haute. Les bâtiments du sanctuaire, reliés par des galeries sur pilotis, ont été aménagés sous leur forme actuelle au XIIe siècle par le seigneur Taira no Kiyomori. Le site est inscrit au patrimoine mondial de l'UNESCO depuis 1996.",
+        "wiki": "Itsukushima-jinja"
+      }
+    },
+    {
+      "q": "Quel est le plus grand lac d'eau douce du Japon ?",
+      "choix": ["Lac Biwa", "Lac Ashi", "Lac Suwa", "Lac Kawaguchi"],
+      "fiche": {
+        "titre": "Lac Biwa",
+        "texte": "Le lac Biwa est le plus grand lac d'eau douce du Japon. Situé dans la préfecture de Shiga, au nord-est de Kyoto, il occupe environ un sixième de la superficie de cette préfecture. C'est l'un des plus anciens lacs du monde, formé il y a plusieurs millions d'années. Il doit son nom à sa forme, qui rappelle celle du biwa, un luth traditionnel japonais. Il fournit en eau potable une grande partie de la région du Kansai.",
+        "wiki": "Lac Biwa"
+      }
+    },
+    {
+      "q": "Quel royaume indépendant occupait l'actuelle Okinawa avant son annexion en 1879 ?",
+      "choix": ["Royaume de Ryūkyū", "République d'Ezo", "Royaume de Joseon", "Royaume de Yamato"],
+      "fiche": {
+        "titre": "Royaume de Ryūkyū",
+        "texte": "Le royaume de Ryūkyū est un État qui a régné sur l'archipel des Ryūkyū, dont Okinawa est l'île principale, du XVe siècle jusqu'à son annexion par le Japon en 1879, devenant alors la préfecture d'Okinawa. Tributaire de la Chine et soumis à partir de 1609 au domaine japonais de Satsuma, il prospéra grâce au commerce maritime. Sa capitale était Shuri, dont le château royal est un symbole de la culture ryūkyū.",
+        "wiki": "Royaume de Ryūkyū"
+      }
+    }
+  ]
+}
