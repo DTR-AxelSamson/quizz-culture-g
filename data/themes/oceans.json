@@ -1,0 +1,99 @@
+{
+  "id": "oceans",
+  "titre": "Les océans et les mers",
+  "categorie": "Sciences",
+  "emoji": "🌊",
+  "accroche": "Ils recouvrent plus des deux tiers de la planète et cachent encore bien des mystères : jetez-vous à l'eau !",
+  "questions": [
+    {
+      "q": "Quel est le plus grand océan du monde ?",
+      "choix": ["L'océan Pacifique", "L'océan Atlantique", "L'océan Indien", "L'océan Arctique"],
+      "fiche": {
+        "titre": "Océan Pacifique",
+        "texte": "L'océan Pacifique est le plus grand et le plus profond des océans de la planète. Il couvre environ un tiers de la surface terrestre, soit davantage que l'ensemble des terres émergées réunies. Il s'étend entre l'Asie et l'Océanie à l'ouest et le continent américain à l'est. Il est bordé par la « ceinture de feu », une zone de forte activité volcanique et sismique, et parsemé de milliers d'îles.",
+        "wiki": "Océan Pacifique"
+      }
+    },
+    {
+      "q": "Quelle mer sépare le sud de l'Europe du nord de l'Afrique ?",
+      "choix": ["La mer Méditerranée", "La mer Noire", "La mer Rouge", "La mer Baltique"],
+      "fiche": {
+        "titre": "Mer Méditerranée",
+        "texte": "La mer Méditerranée est une mer presque fermée, entourée par l'Europe au nord, l'Afrique au sud et l'Asie à l'est. Elle communique avec l'océan Atlantique par le détroit de Gibraltar, large d'environ quatorze kilomètres. Berceau de nombreuses civilisations antiques, comme l'Égypte, la Grèce et Rome, elle a été un carrefour majeur d'échanges. Son nom vient du latin et signifie « au milieu des terres ».",
+        "wiki": "Mer Méditerranée"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on la montée et la descente régulières du niveau de la mer ?",
+      "choix": ["La marée", "La houle", "Le ressac", "Le tsunami"],
+      "fiche": {
+        "titre": "Marée",
+        "texte": "La marée est le mouvement de montée et de descente du niveau de la mer, provoqué principalement par l'attraction gravitationnelle de la Lune et, dans une moindre mesure, du Soleil. Sur les côtes françaises de l'Atlantique et de la Manche, on observe généralement deux marées hautes et deux marées basses par jour. Les marées les plus fortes, dites de vives-eaux, se produisent quand la Lune, la Terre et le Soleil sont alignés.",
+        "wiki": "Marée"
+      }
+    },
+    {
+      "q": "Quelle fosse océanique abrite le point le plus profond connu des océans ?",
+      "choix": ["La fosse des Mariannes", "La fosse de Porto Rico", "La fosse des Kouriles", "La fosse du Japon"],
+      "fiche": {
+        "titre": "Fosse des Mariannes",
+        "texte": "La fosse des Mariannes est une fosse océanique située dans l'ouest de l'océan Pacifique, à l'est des îles Mariannes. Elle abrite le point le plus profond connu des océans, appelé Challenger Deep, à près de 11 000 mètres sous la surface. Elle s'est formée là où une plaque tectonique plonge sous une autre, phénomène appelé subduction. Malgré l'obscurité totale et une pression écrasante, des formes de vie y ont été observées.",
+        "wiki": "Fosse des Mariannes"
+      }
+    },
+    {
+      "q": "Dans quelle étendue d'eau, très salée, peut-on flotter sans effort ?",
+      "choix": ["La mer Morte", "La mer Caspienne", "La mer d'Aral", "La mer du Nord"],
+      "fiche": {
+        "titre": "Mer Morte",
+        "texte": "La mer Morte est un lac salé situé entre la Jordanie à l'est, Israël et la Cisjordanie à l'ouest. Sa teneur en sel, près de dix fois supérieure à celle des océans, permet aux baigneurs de flotter sans effort, mais empêche presque toute vie, d'où son nom. Ses rives, situées à plus de 400 mètres sous le niveau de la mer, constituent le point le plus bas des terres émergées. Son niveau baisse rapidement depuis plusieurs décennies.",
+        "wiki": "Mer Morte"
+      }
+    },
+    {
+      "q": "Quel courant marin chaud adoucit le climat de l'Europe de l'Ouest ?",
+      "choix": ["Le Gulf Stream", "Le courant de Humboldt", "Le Kuroshio", "Le courant du Labrador"],
+      "fiche": {
+        "titre": "Gulf Stream",
+        "texte": "Le Gulf Stream est un puissant courant océanique chaud de l'Atlantique Nord. Il naît dans la région du golfe du Mexique, longe la côte est des États-Unis, puis traverse l'océan vers l'Europe, où il se prolonge par la dérive nord-atlantique. Il transporte d'énormes quantités de chaleur et contribue à adoucir le climat de l'Europe de l'Ouest. Il a été cartographié dès le XVIIIe siècle, notamment par Benjamin Franklin.",
+        "wiki": "Gulf Stream"
+      }
+    },
+    {
+      "q": "Quelle mer de l'Atlantique Nord a la particularité de n'avoir aucune côte ?",
+      "choix": ["La mer des Sargasses", "La mer des Caraïbes", "La mer d'Iroise", "La mer du Labrador"],
+      "fiche": {
+        "titre": "Mer des Sargasses",
+        "texte": "La mer des Sargasses est une région de l'océan Atlantique Nord qui n'est bordée par aucune côte : ses limites sont formées par de grands courants marins qui tournent autour d'elle. Elle doit son nom aux sargasses, des algues brunes flottantes qui s'y accumulent en vastes tapis. Christophe Colomb la traversa lors de son premier voyage en 1492. C'est aussi dans cette mer que les anguilles d'Europe viennent se reproduire.",
+        "wiki": "Mer des Sargasses"
+      }
+    },
+    {
+      "q": "Quel détroit relie la mer Noire à la mer de Marmara ?",
+      "choix": ["Le Bosphore", "Les Dardanelles", "Le détroit de Messine", "Le détroit d'Ormuz"],
+      "fiche": {
+        "titre": "Bosphore",
+        "texte": "Le Bosphore est un détroit de Turquie, long d'une trentaine de kilomètres, qui relie la mer Noire à la mer de Marmara. Il traverse la ville d'Istanbul et marque la limite entre l'Europe et l'Asie. Plus au sud, le détroit des Dardanelles relie la mer de Marmara à la mer Égée. Voie de passage stratégique pour les navires venus de la mer Noire, le Bosphore est aujourd'hui franchi par plusieurs grands ponts.",
+        "wiki": "Bosphore"
+      }
+    },
+    {
+      "q": "Quel navigateur a donné son nom à l'océan Pacifique, en 1520 ?",
+      "choix": ["Fernand de Magellan", "Vasco de Gama", "Bartolomeu Dias", "Christophe Colomb"],
+      "fiche": {
+        "titre": "Fernand de Magellan",
+        "texte": "Fernand de Magellan est un navigateur portugais au service de l'Espagne. Parti en 1519 pour atteindre les îles aux épices par l'ouest, il franchit en 1520 le détroit qui porte aujourd'hui son nom, à la pointe de l'Amérique du Sud. Il baptise « Pacifique » l'océan qu'il découvre ensuite, en raison de son calme apparent. Magellan est tué aux Philippines en 1521 ; Juan Sebastián Elcano achève le premier tour du monde en 1522.",
+        "wiki": "Fernand de Magellan"
+      }
+    },
+    {
+      "q": "Quel bathyscaphe a atteint en 1960 le fond du point le plus profond des océans ?",
+      "choix": ["Le Trieste", "Le Nautile", "L'Alvin", "L'Archimède"],
+      "fiche": {
+        "titre": "Trieste",
+        "texte": "Le Trieste est un bathyscaphe conçu par le physicien suisse Auguste Piccard et construit en Italie, puis racheté par la marine américaine. Le 23 janvier 1960, son fils Jacques Piccard et le lieutenant américain Don Walsh atteignent à son bord le fond de Challenger Deep, dans la fosse des Mariannes, à près de 11 000 mètres de profondeur. Il faudra attendre 2012 pour qu'un autre homme, le cinéaste James Cameron, y redescende.",
+        "wiki": "Trieste (bathyscaphe)"
+      }
+    }
+  ]
+}

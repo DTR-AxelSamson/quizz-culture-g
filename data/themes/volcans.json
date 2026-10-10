@@ -1,0 +1,99 @@
+{
+  "id": "volcans",
+  "titre": "Les volcans",
+  "categorie": "Sciences",
+  "emoji": "🌋",
+  "accroche": "Lave, cendres et éruptions historiques : plongez au cœur des montagnes de feu qui façonnent notre planète.",
+  "questions": [
+    {
+      "q": "Comment appelle-t-on la roche en fusion qui s'écoule à la surface lors d'une éruption ?",
+      "choix": ["La lave", "Le granite", "L'argile", "Le calcaire"],
+      "fiche": {
+        "titre": "Lave",
+        "texte": "La lave est la roche en fusion émise par un volcan lors d'une éruption. Tant qu'elle se trouve en profondeur, on parle de magma ; elle prend le nom de lave dès qu'elle atteint la surface. Sa température dépasse souvent 1 000 °C. Selon sa composition, elle peut être très fluide, comme à Hawaï, ou au contraire visqueuse et explosive. En refroidissant, elle forme des roches volcaniques comme le basalte.",
+        "wiki": "Lave"
+      }
+    },
+    {
+      "q": "Quelle cité romaine a été ensevelie par l'éruption du Vésuve en 79 apr. J.-C. ?",
+      "choix": ["Pompéi", "Ostie", "Vérone", "Paestum"],
+      "fiche": {
+        "titre": "Pompéi",
+        "texte": "Pompéi est une ancienne cité romaine de Campanie, près de Naples. En 79 apr. J.-C., l'éruption du Vésuve l'a ensevelie sous plusieurs mètres de cendres et de ponces, tout comme Herculanum et Stabies. Redécouverte au XVIIIe siècle, elle offre un témoignage exceptionnel sur la vie quotidienne dans l'Empire romain : maisons, fresques, boutiques et moulages des victimes. Le site est inscrit au patrimoine mondial de l'UNESCO.",
+        "wiki": "Pompéi"
+      }
+    },
+    {
+      "q": "Quel volcan très actif domine l'est de la Sicile ?",
+      "choix": ["L'Etna", "Le Vésuve", "Le Stromboli", "Le Vulcano"],
+      "fiche": {
+        "titre": "Etna",
+        "texte": "L'Etna est un volcan situé sur la côte orientale de la Sicile, au-dessus de la ville de Catane. Culminant à plus de 3 300 mètres, c'est le plus haut volcan actif d'Europe occidentale et l'un des plus actifs au monde. Ses éruptions, fréquentes, alternent coulées de lave et fontaines de feu spectaculaires. Ses sols volcaniques fertiles sont cultivés depuis l'Antiquité. Il est inscrit au patrimoine mondial de l'UNESCO depuis 2013.",
+        "wiki": "Etna"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on la vaste dépression formée par l'effondrement du sommet d'un volcan ?",
+      "choix": ["Une caldeira", "Une fumerolle", "Un geyser", "Un dyke"],
+      "fiche": {
+        "titre": "Caldeira",
+        "texte": "Une caldeira est une vaste dépression circulaire, souvent de plusieurs kilomètres de diamètre, formée par l'effondrement d'un volcan après la vidange de sa chambre magmatique lors d'une grande éruption. Son nom vient du portugais et signifie « chaudron ». Une caldeira peut ensuite être envahie par l'eau et former un lac, comme à Crater Lake aux États-Unis, ou par la mer, comme à Santorin en Grèce.",
+        "wiki": "Caldeira"
+      }
+    },
+    {
+      "q": "Quel volcan de l'île de La Réunion compte parmi les plus actifs du monde ?",
+      "choix": ["Le Piton de la Fournaise", "Le Piton des Neiges", "La Soufrière", "Le Karthala"],
+      "fiche": {
+        "titre": "Piton de la Fournaise",
+        "texte": "Le Piton de la Fournaise est un volcan bouclier situé dans le sud-est de l'île de La Réunion, dans l'océan Indien. C'est l'un des volcans les plus actifs de la planète, avec des éruptions presque chaque année. Ses laves fluides, de type basaltique, s'écoulent parfois jusqu'à l'océan. Son voisin, le Piton des Neiges, point culminant de l'île, est quant à lui éteint. Le volcan est surveillé en permanence par un observatoire.",
+        "wiki": "Piton de la Fournaise"
+      }
+    },
+    {
+      "q": "Quel volcan a détruit la ville de Saint-Pierre, en Martinique, en 1902 ?",
+      "choix": ["La montagne Pelée", "La Soufrière", "Le Krakatoa", "Le mont Saint Helens"],
+      "fiche": {
+        "titre": "Montagne Pelée",
+        "texte": "La montagne Pelée est un volcan situé au nord de la Martinique. Le 8 mai 1902, une nuée ardente dévale ses pentes et anéantit en quelques minutes la ville de Saint-Pierre, alors capitale économique de l'île, faisant près de 30 000 victimes. Parmi les rares survivants figure un prisonnier protégé par les murs épais de son cachot. Cette catastrophe a donné son nom aux éruptions dites « péléennes ».",
+        "wiki": "Montagne Pelée"
+      }
+    },
+    {
+      "q": "Quel volcan islandais a paralysé le trafic aérien européen en 2010 ?",
+      "choix": ["L'Eyjafjallajökull", "L'Hekla", "Le Katla", "Le Grímsvötn"],
+      "fiche": {
+        "titre": "Eyjafjallajökull",
+        "texte": "L'Eyjafjallajökull est un volcan du sud de l'Islande recouvert d'un glacier. En avril 2010, son éruption projette dans l'atmosphère un immense panache de cendres qui conduit à la fermeture d'une grande partie de l'espace aérien européen pendant plusieurs jours. Des millions de passagers sont alors bloqués. Son nom, réputé imprononçable, associe les mots islandais désignant les îles, la montagne et le glacier.",
+        "wiki": "Eyjafjallajökull"
+      }
+    },
+    {
+      "q": "Quelle éruption indonésienne de 1815 a provoqué « l'année sans été » ?",
+      "choix": ["Le Tambora", "Le Krakatoa", "Le Pinatubo", "Le Merapi"],
+      "fiche": {
+        "titre": "Tambora",
+        "texte": "Le Tambora est un volcan de l'île de Sumbawa, en Indonésie. Son éruption d'avril 1815 est la plus puissante de l'histoire récente. Les cendres et aérosols soufrés rejetés dans la stratosphère ont refroidi le climat mondial : en 1816, l'Europe et l'Amérique du Nord connaissent « l'année sans été », marquée par des récoltes désastreuses et des famines. Cet été maussade inspira à Mary Shelley son roman « Frankenstein ».",
+        "wiki": "Tambora"
+      }
+    },
+    {
+      "q": "Sur quel volcan japonais Katia et Maurice Krafft ont-ils trouvé la mort en 1991 ?",
+      "choix": ["Le mont Unzen", "Le mont Fuji", "Le Sakurajima", "Le mont Aso"],
+      "fiche": {
+        "titre": "Katia et Maurice Krafft",
+        "texte": "Katia et Maurice Krafft étaient un couple de volcanologues français originaires d'Alsace, célèbres pour leurs films et photographies d'éruptions filmées au plus près. Pendant plus de vingt ans, ils ont parcouru les volcans du monde entier pour mieux comprendre et faire connaître les risques volcaniques. Le 3 juin 1991, ils sont tués par une nuée ardente sur le mont Unzen, au Japon, avec le volcanologue américain Harry Glicken.",
+        "wiki": "Katia et Maurice Krafft"
+      }
+    },
+    {
+      "q": "Quel type d'éruption très explosive doit son nom à un auteur romain témoin de l'éruption de 79 ?",
+      "choix": ["Plinienne", "Strombolienne", "Hawaïenne", "Vulcanienne"],
+      "fiche": {
+        "titre": "Éruption plinienne",
+        "texte": "Une éruption plinienne est une éruption volcanique extrêmement explosive, caractérisée par une colonne de gaz et de cendres pouvant s'élever à des dizaines de kilomètres d'altitude. Elle doit son nom à Pline le Jeune, qui décrivit dans deux lettres à l'historien Tacite l'éruption du Vésuve de 79, au cours de laquelle périt son oncle, le naturaliste Pline l'Ancien. L'éruption du Pinatubo en 1991 est un exemple récent de ce type.",
+        "wiki": "Éruption plinienne"
+      }
+    }
+  ]
+}

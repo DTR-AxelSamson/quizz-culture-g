@@ -1,0 +1,99 @@
+{
+  "id": "marie-curie",
+  "titre": "Marie Curie et la radioactivité",
+  "categorie": "Sciences",
+  "emoji": "☢️",
+  "accroche": "Deux prix Nobel, deux éléments découverts et une vie consacrée à la science : sur les traces d'une pionnière de génie.",
+  "questions": [
+    {
+      "q": "Dans quelle ville Marie Curie est-elle née en 1867 ?",
+      "choix": ["Varsovie", "Cracovie", "Paris", "Vienne"],
+      "fiche": {
+        "titre": "Varsovie",
+        "texte": "Varsovie, aujourd'hui capitale de la Pologne, est la ville natale de Marie Curie, née Maria Skłodowska le 7 novembre 1867. À cette époque, la ville se trouve sous domination de l'Empire russe, et les femmes ne peuvent pas y faire d'études supérieures. Après avoir suivi des cours clandestins, la jeune femme part en 1891 pour Paris, où elle s'inscrit à la Sorbonne. Un musée lui est consacré dans sa maison natale.",
+        "wiki": "Varsovie"
+      }
+    },
+    {
+      "q": "Avec quel physicien français Marie Curie s'est-elle mariée en 1895 ?",
+      "choix": ["Pierre Curie", "Paul Langevin", "Henri Poincaré", "Louis Pasteur"],
+      "fiche": {
+        "titre": "Pierre Curie",
+        "texte": "Pierre Curie est un physicien français, connu d'abord pour ses travaux sur le magnétisme et la piézoélectricité, découverte avec son frère Jacques. Il épouse Maria Skłodowska en 1895 et s'associe à ses recherches sur la radioactivité. Le couple partage le prix Nobel de physique de 1903. Pierre Curie meurt accidentellement à Paris en 1906, renversé par une voiture à cheval.",
+        "wiki": "Pierre Curie"
+      }
+    },
+    {
+      "q": "Combien de prix Nobel Marie Curie a-t-elle reçus ?",
+      "choix": ["Deux", "Un", "Trois", "Quatre"],
+      "fiche": {
+        "titre": "Les deux prix Nobel de Marie Curie",
+        "texte": "Marie Curie a reçu deux prix Nobel : celui de physique en 1903, partagé notamment avec son mari Pierre Curie pour leurs travaux sur les radiations, puis celui de chimie en 1911, seule, pour la découverte de deux nouveaux éléments chimiques. Elle est la première femme lauréate d'un prix Nobel et reste la seule personne récompensée dans deux disciplines scientifiques différentes. Les prix Nobel sont décernés depuis 1901.",
+        "wiki": "Prix Nobel"
+      }
+    },
+    {
+      "q": "Quel élément, découvert par les Curie en 1898, doit son nom à la Pologne ?",
+      "choix": ["Le polonium", "Le germanium", "Le francium", "L'europium"],
+      "fiche": {
+        "titre": "Polonium",
+        "texte": "Le polonium est un élément chimique de symbole Po et de numéro atomique 84. Il est découvert en juillet 1898 par Pierre et Marie Curie dans un minerai d'uranium, la pechblende. Marie Curie le nomme ainsi en hommage à son pays natal, la Pologne, alors rayé de la carte et partagé entre plusieurs empires. Très rare et extrêmement radioactif, le polonium est l'un des éléments les plus toxiques connus.",
+        "wiki": "Polonium"
+      }
+    },
+    {
+      "q": "Quel physicien a découvert en 1896 le rayonnement émis par l'uranium ?",
+      "choix": ["Henri Becquerel", "Wilhelm Röntgen", "Ernest Rutherford", "Paul Langevin"],
+      "fiche": {
+        "titre": "Henri Becquerel",
+        "texte": "Henri Becquerel est un physicien français. En 1896, il découvre par hasard que des sels d'uranium impressionnent une plaque photographique, même dans l'obscurité : c'est la découverte de la radioactivité naturelle, terme forgé plus tard par Marie Curie. Il partage le prix Nobel de physique de 1903 avec Pierre et Marie Curie. L'unité de mesure de l'activité radioactive dans le Système international, le becquerel, porte son nom.",
+        "wiki": "Henri Becquerel"
+      }
+    },
+    {
+      "q": "Comment surnommait-on les voitures radiologiques créées par Marie Curie en 1914-1918 ?",
+      "choix": ["Les « petites Curies »", "Les « taxis de la Marne »", "Les « radios-mobiles »", "Les « ambulances X »"],
+      "fiche": {
+        "titre": "Les « petites Curies »",
+        "texte": "Pendant la Première Guerre mondiale, Marie Curie met sa science au service des blessés. Elle fait équiper des véhicules d'appareils de radiographie afin de localiser les éclats d'obus et les balles directement près du front. Ces unités mobiles sont surnommées les « petites Curies ». Marie Curie conduit elle-même certains de ces véhicules, accompagnée de sa fille Irène, et forme de nombreuses manipulatrices en radiologie.",
+        "wiki": "Marie Curie"
+      }
+    },
+    {
+      "q": "En quelle année les cendres de Marie Curie ont-elles été transférées au Panthéon ?",
+      "choix": ["1995", "1967", "1934", "2002"],
+      "fiche": {
+        "titre": "Panthéon",
+        "texte": "Le Panthéon, monument du Quartier latin à Paris, accueille les dépouilles de grandes personnalités de l'histoire de France. Le 20 avril 1995, les cendres de Pierre et Marie Curie y sont transférées lors d'une cérémonie présidée par François Mitterrand, en présence du président polonais Lech Wałęsa. Marie Curie devient ainsi la première femme à y entrer pour ses propres mérites. La devise du fronton proclame : « Aux grands hommes la patrie reconnaissante ».",
+        "wiki": "Panthéon (Paris)"
+      }
+    },
+    {
+      "q": "Quel institut de recherche parisien, achevé en 1914, Marie Curie a-t-elle dirigé ?",
+      "choix": ["L'Institut du radium", "L'Institut Pasteur", "Le Collège de France", "L'Institut Henri-Poincaré"],
+      "fiche": {
+        "titre": "Institut du radium",
+        "texte": "L'Institut du radium est un centre de recherche fondé à Paris à l'initiative de l'Université de Paris et de l'Institut Pasteur, dont les bâtiments, situés dans l'actuelle rue Pierre-et-Marie-Curie, sont achevés en 1914. Marie Curie y dirige le laboratoire consacré à la physique et à la chimie de la radioactivité, tandis qu'un autre laboratoire étudie ses applications médicales. Il est devenu l'Institut Curie, aujourd'hui grand centre de lutte contre le cancer.",
+        "wiki": "Institut Curie"
+      }
+    },
+    {
+      "q": "Quelle fille de Marie Curie a reçu le prix Nobel de chimie en 1935 ?",
+      "choix": ["Irène Joliot-Curie", "Ève Curie", "Marguerite Perey", "Lise Meitner"],
+      "fiche": {
+        "titre": "Irène Joliot-Curie",
+        "texte": "Irène Joliot-Curie, fille aînée de Pierre et Marie Curie, est une physicienne et chimiste française. Avec son mari Frédéric Joliot, elle découvre en 1934 la radioactivité artificielle, travaux qui leur valent le prix Nobel de chimie en 1935. Les Curie forment ainsi une famille exceptionnelle de lauréats. En 1936, Irène devient l'une des trois premières femmes membres d'un gouvernement français, comme sous-secrétaire d'État à la Recherche scientifique.",
+        "wiki": "Irène Joliot-Curie"
+      }
+    },
+    {
+      "q": "Dans quelle ville s'est tenu en 1911 le premier congrès Solvay, où Marie Curie était la seule femme ?",
+      "choix": ["Bruxelles", "Genève", "Stockholm", "Vienne"],
+      "fiche": {
+        "titre": "Congrès Solvay",
+        "texte": "Les congrès Solvay sont des conférences scientifiques internationales fondées par l'industriel belge Ernest Solvay. Le premier se tient à Bruxelles à l'automne 1911 et porte sur la théorie du rayonnement et les quanta. Il réunit les plus grands physiciens de l'époque, dont Max Planck, Henri Poincaré et le jeune Albert Einstein. Marie Curie est la seule femme présente. Le congrès de 1927 est resté célèbre pour sa photographie de groupe.",
+        "wiki": "Congrès Solvay"
+      }
+    }
+  ]
+}

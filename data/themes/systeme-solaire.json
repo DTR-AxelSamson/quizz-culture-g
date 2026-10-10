@@ -1,0 +1,99 @@
+{
+  "id": "systeme-solaire",
+  "titre": "Les planètes du système solaire",
+  "categorie": "Sciences",
+  "emoji": "🪐",
+  "accroche": "Huit planètes, des lunes par dizaines et des records à couper le souffle : embarquez pour un tour du système solaire.",
+  "questions": [
+    {
+      "q": "Quelle est la planète la plus proche du Soleil ?",
+      "choix": ["Mercure", "Vénus", "Mars", "La Terre"],
+      "fiche": {
+        "titre": "Mercure",
+        "texte": "Mercure est la planète la plus proche du Soleil et la plus petite des huit planètes du système solaire. Elle boucle son orbite en seulement 88 jours terrestres. Dépourvue de véritable atmosphère, elle subit des écarts de température extrêmes entre sa face éclairée, brûlante, et sa face nocturne, glaciale. Sa surface criblée de cratères rappelle celle de la Lune. Elle a été explorée par les sondes Mariner 10 puis MESSENGER.",
+        "wiki": "Mercure (planète)"
+      }
+    },
+    {
+      "q": "Quelle planète est surnommée la « planète rouge » ?",
+      "choix": ["Mars", "Jupiter", "Vénus", "Saturne"],
+      "fiche": {
+        "titre": "Mars",
+        "texte": "Mars, quatrième planète à partir du Soleil, est surnommée la « planète rouge » en raison de la couleur de sa surface, riche en oxydes de fer. Elle possède deux petits satellites, Phobos et Déimos. On y trouve l'Olympus Mons, le plus haut volcan connu du système solaire, et d'immenses canyons comme Valles Marineris. Mars est l'une des planètes les plus explorées, notamment par des robots mobiles comme Curiosity et Perseverance.",
+        "wiki": "Mars (planète)"
+      }
+    },
+    {
+      "q": "Quelle est la plus grande planète du système solaire ?",
+      "choix": ["Jupiter", "Saturne", "Neptune", "Uranus"],
+      "fiche": {
+        "titre": "Jupiter",
+        "texte": "Jupiter est la plus grande planète du système solaire : sa masse dépasse celle de toutes les autres planètes réunies. C'est une géante gazeuse composée surtout d'hydrogène et d'hélium. Elle est célèbre pour sa Grande Tache rouge, un gigantesque anticyclone observé depuis plusieurs siècles. Jupiter possède un très grand nombre de satellites, dont les quatre grandes lunes dites galiléennes, découvertes par Galilée en 1610.",
+        "wiki": "Jupiter (planète)"
+      }
+    },
+    {
+      "q": "Quelle planète est célèbre pour ses anneaux spectaculaires, visibles au télescope ?",
+      "choix": ["Saturne", "Mars", "Mercure", "Vénus"],
+      "fiche": {
+        "titre": "Saturne",
+        "texte": "Saturne, sixième planète à partir du Soleil, est une géante gazeuse célèbre pour son système d'anneaux, le plus spectaculaire du système solaire. Ces anneaux sont constitués de milliards de fragments de glace et de roche. Saturne est si peu dense qu'elle flotterait, en théorie, dans une gigantesque baignoire. Son plus grand satellite, Titan, possède une atmosphère épaisse. La sonde Cassini l'a étudiée de 2004 à 2017.",
+        "wiki": "Saturne (planète)"
+      }
+    },
+    {
+      "q": "Quelle planète a la surface la plus chaude du système solaire ?",
+      "choix": ["Vénus", "Mercure", "Mars", "Jupiter"],
+      "fiche": {
+        "titre": "Vénus",
+        "texte": "Vénus est la planète dont la surface est la plus chaude du système solaire, avec environ 460 °C, alors qu'elle est plus éloignée du Soleil que Mercure. Cette chaleur s'explique par un effet de serre extrême dû à son atmosphère très dense, composée essentiellement de dioxyde de carbone. Souvent appelée « l'étoile du Berger », Vénus est l'astre le plus brillant du ciel après le Soleil et la Lune. Elle tourne sur elle-même dans le sens rétrograde.",
+        "wiki": "Vénus (planète)"
+      }
+    },
+    {
+      "q": "En quelle année Pluton a-t-elle perdu son statut de planète ?",
+      "choix": ["2006", "1998", "2010", "2001"],
+      "fiche": {
+        "titre": "Pluton",
+        "texte": "Découverte en 1930 par l'Américain Clyde Tombaugh, Pluton a longtemps été considérée comme la neuvième planète du système solaire. En 2006, l'Union astronomique internationale, réunie à Prague, a adopté une nouvelle définition du mot « planète » et l'a reclassée parmi les planètes naines. Pluton fait partie de la ceinture de Kuiper, au-delà de Neptune. Son plus grand satellite, Charon, a une taille comparable à la moitié de la sienne.",
+        "wiki": "Pluton (planète naine)"
+      }
+    },
+    {
+      "q": "Quelle sonde a été la première à survoler Pluton, en 2015 ?",
+      "choix": ["New Horizons", "Voyager 2", "Cassini", "Rosetta"],
+      "fiche": {
+        "titre": "New Horizons",
+        "texte": "New Horizons est une sonde spatiale de la NASA lancée en janvier 2006. Le 14 juillet 2015, elle est devenue le premier engin à survoler Pluton, révélant notamment une vaste plaine glacée en forme de cœur. Elle a ensuite poursuivi sa route dans la ceinture de Kuiper et survolé en 2019 le petit objet Arrokoth, l'astre le plus lointain jamais visité par une sonde. Elle emporte une partie des cendres de Clyde Tombaugh, découvreur de Pluton.",
+        "wiki": "New Horizons"
+      }
+    },
+    {
+      "q": "Quel astronome a découvert la planète Uranus en 1781 ?",
+      "choix": ["William Herschel", "Galilée", "Johannes Kepler", "Edmond Halley"],
+      "fiche": {
+        "titre": "William Herschel",
+        "texte": "William Herschel est un astronome et musicien d'origine allemande installé en Angleterre. Le 13 mars 1781, en observant le ciel avec un télescope de sa fabrication, il découvre Uranus, la première planète identifiée grâce à un instrument. Il voulait la nommer en l'honneur du roi George III. Herschel a aussi découvert deux satellites d'Uranus et deux de Saturne, catalogué des milliers de nébuleuses et mis en évidence le rayonnement infrarouge.",
+        "wiki": "William Herschel"
+      }
+    },
+    {
+      "q": "Quel astronome français a prédit par le calcul l'existence de Neptune ?",
+      "choix": ["Urbain Le Verrier", "Pierre-Simon de Laplace", "Camille Flammarion", "Charles Messier"],
+      "fiche": {
+        "titre": "Urbain Le Verrier",
+        "texte": "Urbain Le Verrier est un astronome et mathématicien français. En étudiant les irrégularités du mouvement d'Uranus, il calcule la position d'une planète inconnue qui la perturberait. Le 23 septembre 1846, l'astronome allemand Johann Galle observe Neptune à Berlin, très près de l'endroit indiqué. Cette découverte « au bout de la plume » est un triomphe de la mécanique céleste. Le Verrier dirigea ensuite l'Observatoire de Paris.",
+        "wiki": "Urbain Le Verrier"
+      }
+    },
+    {
+      "q": "Quel est le plus grand satellite naturel du système solaire ?",
+      "choix": ["Ganymède", "Titan", "Callisto", "Io"],
+      "fiche": {
+        "titre": "Ganymède",
+        "texte": "Ganymède, satellite de Jupiter, est le plus grand satellite naturel du système solaire. Avec un diamètre d'environ 5 260 km, il est même plus grand que la planète Mercure, tout en étant moins massif. Découvert par Galilée en 1610, il fait partie des quatre lunes galiléennes. Il est le seul satellite connu à posséder son propre champ magnétique, et l'on soupçonne la présence d'un océan d'eau liquide sous sa croûte de glace.",
+        "wiki": "Ganymède (lune)"
+      }
+    }
+  ]
+}
