@@ -79,7 +79,7 @@
     },
     {
       "q": "Quelle ville inaugure dès 1963, du vivant de l'artiste, un musée Picasso ?",
-      "choix": ["Barcelone", "Málaga", "Paris", "Antibes"],
+      "choix": ["Barcelone", "Málaga", "Paris", "Madrid"],
       "fiche": {
         "titre": "Le musée Picasso de Barcelone",
         "texte": "Le musée Picasso de Barcelone, installé dans des palais médiévaux de la rue Montcada, ouvre ses portes en 1963, du vivant de l'artiste. Il est né de la volonté de Jaume Sabartés, ami et secrétaire de Picasso, qui fit don de sa collection personnelle. Il conserve de nombreuses œuvres de jeunesse ainsi que la série des Ménines (1957), variations sur le tableau de Velázquez, offerte par Picasso au musée en 1968. Les musées de Paris et de Málaga n'ont ouvert que bien plus tard.",

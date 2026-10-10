@@ -10,7 +10,7 @@
       "choix": ["007", "006", "008", "009"],
       "fiche": {
         "titre": "James Bond",
-        "texte": "James Bond, matricule 007, est un agent secret britannique au service du MI6, héros d'une série de romans apparue en 1953. Le double zéro de son code indique qu'il détient le « permis de tuer ». Amateur de belles voitures, de gadgets et de casinos, il se présente invariablement par la formule « Bond, James Bond ». Au cinéma, ses aventures forment depuis 1962 l'une des plus longues séries de l'histoire, produite par EON Productions.",
+        "texte": "James Bond, matricule 007, est un agent secret britannique au service du MI6, héros d'une série de romans apparue en 1953. Le double zéro de son code indique qu'il détient le « permis de tuer ». Amateur de belles voitures, de gadgets et de casinos, il se présente invariablement par la formule « Bond, James Bond ». Au cinéma, ses aventures, produites par EON Productions à partir de 1962, forment l'une des plus longues séries de l'histoire.",
         "wiki": "James Bond"
       }
     },
