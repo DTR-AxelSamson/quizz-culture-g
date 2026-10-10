@@ -1,0 +1,99 @@
+{
+  "id": "moliere",
+  "titre": "Molière",
+  "categorie": "Littérature",
+  "emoji": "🎭",
+  "accroche": "Rideau ! Plongez dans l'univers du plus grand auteur comique de la langue française.",
+  "questions": [
+    {
+      "q": "Quel est le vrai nom de Molière ?",
+      "choix": ["Jean-Baptiste Poquelin", "Jean-Baptiste Lully", "Jean Racine", "Pierre Corneille"],
+      "fiche": {
+        "titre": "Molière",
+        "texte": "Molière est le nom de scène de Jean-Baptiste Poquelin, né à Paris en janvier 1622. Fils d'un tapissier du roi, il renonce à la charge paternelle pour se consacrer au théâtre. Tour à tour comédien, directeur de troupe et auteur, il bénéficie de la protection de Louis XIV. Il est considéré comme le plus grand auteur comique de la langue française, au point que l'on surnomme le français « la langue de Molière ».",
+        "wiki": "Molière"
+      }
+    },
+    {
+      "q": "Dans quelle pièce Harpagon se lamente-t-il après le vol de sa « cassette » ?",
+      "choix": ["L'Avare", "Le Misanthrope", "Le Malade imaginaire", "Les Femmes savantes"],
+      "fiche": {
+        "titre": "L'Avare",
+        "texte": "L'Avare est une comédie en cinq actes et en prose de Molière, créée en 1668 au théâtre du Palais-Royal. Elle met en scène Harpagon, un vieillard obsédé par l'argent qui tyrannise ses enfants, Cléante et Élise. Le monologue où il se lamente après le vol de sa « cassette » (« Au voleur ! Au voleur ! ») est l'un des passages les plus célèbres du répertoire. La pièce s'inspire de l'Aulularia du dramaturge latin Plaute.",
+        "wiki": "L'Avare"
+      }
+    },
+    {
+      "q": "Quel faux dévot s'installe chez Orgon et abuse de sa confiance ?",
+      "choix": ["Tartuffe", "Alceste", "Sganarelle", "Scapin"],
+      "fiche": {
+        "titre": "Le Tartuffe",
+        "texte": "Le Tartuffe ou l'Imposteur est une comédie de Molière en cinq actes et en vers. Tartuffe, un faux dévot, y gagne la confiance du riche bourgeois Orgon au point d'obtenir la promesse de la main de sa fille et la donation de ses biens. Jugée offensante pour la religion, la pièce est interdite après sa première représentation en 1664, sous la pression du parti dévot ; sa version définitive n'est autorisée qu'en 1669. Le mot « tartuffe » est devenu un nom commun désignant un hypocrite.",
+        "wiki": "Le Tartuffe ou l'Imposteur"
+      }
+    },
+    {
+      "q": "Dans quelle pièce Monsieur Jourdain découvre-t-il qu'il fait de la prose sans le savoir ?",
+      "choix": ["Le Bourgeois gentilhomme", "Les Précieuses ridicules", "Le Médecin malgré lui", "George Dandin"],
+      "fiche": {
+        "titre": "Le Bourgeois gentilhomme",
+        "texte": "Le Bourgeois gentilhomme est une comédie-ballet de Molière, sur une musique de Jean-Baptiste Lully, créée en 1670 devant Louis XIV au château de Chambord. Elle raille Monsieur Jourdain, un riche bourgeois qui rêve d'imiter les gens de qualité et multiplie les maîtres de musique, de danse, d'armes et de philosophie. C'est avec ce dernier qu'il découvre, émerveillé, qu'il fait de la prose sans le savoir. La pièce s'achève sur la célèbre « cérémonie turque ».",
+        "wiki": "Le Bourgeois gentilhomme"
+      }
+    },
+    {
+      "q": "Dans quelle pièce entend-on « Que diable allait-il faire dans cette galère ? »",
+      "choix": ["Les Fourberies de Scapin", "L'École des maris", "Dom Juan", "Amphitryon"],
+      "fiche": {
+        "titre": "Les Fourberies de Scapin",
+        "texte": "Les Fourberies de Scapin est une comédie en trois actes et en prose de Molière, créée en 1671 au théâtre du Palais-Royal. Le valet Scapin y multiplie les ruses pour aider deux jeunes gens, Octave et Léandre, à soutirer de l'argent à leurs pères, Argante et Géronte. La réplique « Que diable allait-il faire dans cette galère ? », répétée par Géronte, est passée dans le langage courant. La scène où Scapin enferme Géronte dans un sac pour le bâtonner est également restée célèbre.",
+        "wiki": "Les Fourberies de Scapin"
+      }
+    },
+    {
+      "q": "Molière meurt en 1673 peu après avoir joué le rôle principal de quelle pièce ?",
+      "choix": ["Le Malade imaginaire", "Le Misanthrope", "Amphitryon", "L'Avare"],
+      "fiche": {
+        "titre": "Le Malade imaginaire",
+        "texte": "Le Malade imaginaire est la dernière comédie de Molière, une comédie-ballet en trois actes créée en février 1673 sur une musique de Marc-Antoine Charpentier. Elle met en scène Argan, un hypocondriaque prêt à marier sa fille à un médecin pour être soigné à domicile. Le 17 février 1673, lors de la quatrième représentation, Molière, qui interprète Argan, est pris d'un malaise sur scène ; il meurt quelques heures plus tard dans sa maison de la rue de Richelieu.",
+        "wiki": "Le Malade imaginaire"
+      }
+    },
+    {
+      "q": "Comment s'appelle le héros du Misanthrope, épris de la coquette Célimène ?",
+      "choix": ["Alceste", "Philinte", "Arnolphe", "Chrysale"],
+      "fiche": {
+        "titre": "Le Misanthrope",
+        "texte": "Le Misanthrope ou l'Atrabilaire amoureux est une comédie en cinq actes et en vers de Molière, créée en 1666. Son héros, Alceste, dénonce l'hypocrisie et les compromis de la vie mondaine, tout en étant épris de Célimène, jeune veuve coquette qui incarne précisément ces travers. Son ami Philinte, plus conciliant, lui oppose une sagesse faite d'indulgence. Souvent considérée comme l'une des pièces les plus profondes de Molière, elle mêle comique et gravité.",
+        "wiki": "Le Misanthrope"
+      }
+    },
+    {
+      "q": "Comment s'appelait la troupe fondée par Molière et Madeleine Béjart en 1643 ?",
+      "choix": ["L'Illustre Théâtre", "La Comédie-Française", "Le Théâtre du Marais", "L'Hôtel de Bourgogne"],
+      "fiche": {
+        "titre": "L'Illustre Théâtre",
+        "texte": "L'Illustre Théâtre est la troupe fondée à Paris en 1643 par Jean-Baptiste Poquelin, Madeleine Béjart et plusieurs membres de la famille Béjart. C'est au sein de cette compagnie que le jeune homme adopte, en 1644, le pseudonyme de Molière. Faute de succès face aux troupes établies, l'entreprise fait faillite en 1645 et Molière est brièvement emprisonné pour dettes au Châtelet. Il part ensuite pour une longue tournée en province qui durera près de treize ans.",
+        "wiki": "Illustre Théâtre"
+      }
+    },
+    {
+      "q": "Dans L'École des femmes, comment s'appelle la jeune fille qu'Arnolphe fait élever dans l'ignorance ?",
+      "choix": ["Agnès", "Célimène", "Henriette", "Elmire"],
+      "fiche": {
+        "titre": "L'École des femmes",
+        "texte": "L'École des femmes est une comédie en cinq actes et en vers de Molière, créée en décembre 1662 au théâtre du Palais-Royal. Arnolphe, obsédé par la peur d'être trompé, fait élever dans l'ignorance la jeune Agnès, qu'il compte épouser. Mais l'ingénue s'éprend du jeune Horace, qui confie naïvement ses projets à Arnolphe lui-même. Le grand succès de la pièce déclenche une vive polémique, la « querelle de L'École des femmes », à laquelle Molière répond par deux autres pièces.",
+        "wiki": "L'École des femmes"
+      }
+    },
+    {
+      "q": "Quelle comédie-ballet de Molière fut créée en 1661 lors de la fête de Fouquet à Vaux-le-Vicomte ?",
+      "choix": ["Les Fâcheux", "Les Précieuses ridicules", "Dom Garcie de Navarre", "L'Impromptu de Versailles"],
+      "fiche": {
+        "titre": "Les Fâcheux",
+        "texte": "Les Fâcheux est une comédie-ballet de Molière, créée le 17 août 1661 au château de Vaux-le-Vicomte, lors de la fête somptueuse donnée par le surintendant des Finances Nicolas Fouquet en l'honneur de Louis XIV. La pièce montre un amoureux sans cesse empêché de rejoindre sa belle par une succession d'importuns. Elle est généralement considérée comme la première comédie-ballet, un genre que Molière développera ensuite avec Lully. Quelques semaines après cette fête, Fouquet est arrêté sur ordre du roi.",
+        "wiki": "Les Fâcheux"
+      }
+    }
+  ]
+}

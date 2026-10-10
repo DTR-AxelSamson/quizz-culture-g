@@ -1,0 +1,99 @@
+{
+  "id": "asterix",
+  "titre": "Astérix le Gaulois",
+  "categorie": "BD",
+  "emoji": "🐗",
+  "accroche": "Par Toutatis ! Révisez vos classiques avec les irréductibles Gaulois.",
+  "questions": [
+    {
+      "q": "Comment s'appelle le petit chien d'Obélix ?",
+      "choix": ["Idéfix", "Milou", "Rantanplan", "Pif"],
+      "fiche": {
+        "titre": "Idéfix",
+        "texte": "Idéfix est le petit chien blanc d'Obélix. Il apparaît dans Le Tour de Gaule d'Astérix, où il suit discrètement les héros depuis Lutèce avant d'être adopté par Obélix à la fin de l'album. Écologiste avant l'heure, il hurle de désespoir chaque fois qu'un arbre est abattu. Son nom, jeu de mots sur l'expression « idée fixe », a été choisi à la suite d'un concours organisé auprès des lecteurs du journal Pilote.",
+        "wiki": "Idéfix"
+      }
+    },
+    {
+      "q": "Quel druide prépare la potion magique du village ?",
+      "choix": ["Panoramix", "Abraracourcix", "Assurancetourix", "Agecanonix"],
+      "fiche": {
+        "titre": "Panoramix",
+        "texte": "Panoramix est le druide du village gaulois d'Astérix, vénérable vieillard à la longue barbe blanche. Il cueille le gui avec sa serpe d'or et prépare la célèbre potion magique qui confère une force surhumaine aux villageois, leur permettant de résister aux Romains. Respecté de tous, il refuse obstinément d'en donner à Obélix, tombé dans la marmite quand il était petit. Il participe chaque année à l'assemblée des druides dans la forêt des Carnutes.",
+        "wiki": "Panoramix"
+      }
+    },
+    {
+      "q": "Quel métier exerce Obélix ?",
+      "choix": ["Livreur de menhirs", "Forgeron", "Poissonnier", "Barde"],
+      "fiche": {
+        "titre": "Obélix",
+        "texte": "Obélix est le meilleur ami d'Astérix, un Gaulois d'une force colossale, car il est tombé dans la marmite de potion magique quand il était petit. Tailleur et livreur de menhirs, il porte souvent l'un de ces blocs de pierre sur son dos. Grand amateur de sangliers rôtis, il déteste qu'on le traite de gros, préférant se dire « enveloppé ». Il ponctue ses aventures de son exclamation favorite : « Ils sont fous, ces Romains ! »",
+        "wiki": "Obélix"
+      }
+    },
+    {
+      "q": "Quel scénariste a créé Astérix avec le dessinateur Albert Uderzo ?",
+      "choix": ["René Goscinny", "Jean-Yves Ferri", "Jean Van Hamme", "Greg"],
+      "fiche": {
+        "titre": "René Goscinny",
+        "texte": "René Goscinny (1926-1977) est un scénariste français de bande dessinée, cocréateur d'Astérix avec Albert Uderzo. Il est aussi le scénariste de Lucky Luke avec Morris et d'Iznogoud avec Tabary, ainsi que l'auteur du Petit Nicolas, illustré par Sempé. Cofondateur et rédacteur en chef du journal Pilote, il a profondément renouvelé la bande dessinée francophone par un humour fondé sur les jeux de mots, les caricatures et les anachronismes.",
+        "wiki": "René Goscinny"
+      }
+    },
+    {
+      "q": "Selon le chef Abraracourcix, de quoi les Gaulois ont-ils peur ?",
+      "choix": ["Que le ciel leur tombe sur la tête", "Que la potion vienne à manquer", "Que les sangliers disparaissent", "Que César les attaque"],
+      "fiche": {
+        "titre": "Abraracourcix",
+        "texte": "Abraracourcix est le chef du village gaulois d'Astérix. Fier et un peu vaniteux, il se fait porter sur un bouclier par deux porteurs, d'où il tombe régulièrement. Il est marié à Bonemine, qui le mène à la baguette. Comme tous les habitants du village, il affirme ne craindre qu'une seule chose : que le ciel lui tombe sur la tête. Cette formule fait écho à une anecdote antique rapportant la réponse de chefs celtes à Alexandre le Grand.",
+        "wiki": "Abraracourcix"
+      }
+    },
+    {
+      "q": "En quelle année Astérix apparaît-il pour la première fois ?",
+      "choix": ["1959", "1946", "1968", "1974"],
+      "fiche": {
+        "titre": "Astérix",
+        "texte": "Astérix est une série de bande dessinée créée par René Goscinny et Albert Uderzo, dont les premières planches paraissent le 29 octobre 1959 dans le premier numéro du journal Pilote. Elle raconte les aventures d'un petit guerrier gaulois rusé, habitant le dernier village d'Armorique qui résiste encore à l'envahisseur romain, en 50 avant J.-C. Le premier album, Astérix le Gaulois, est publié en 1961. Traduite dans plus d'une centaine de langues, la série est l'une des plus vendues au monde.",
+        "wiki": "Astérix"
+      }
+    },
+    {
+      "q": "Dans quel album Astérix aide-t-il l'architecte Numérobis à bâtir un palais en trois mois ?",
+      "choix": ["Astérix et Cléopâtre", "Le Tour de Gaule d'Astérix", "Astérix légionnaire", "Astérix chez les Goths"],
+      "fiche": {
+        "titre": "Astérix et Cléopâtre",
+        "texte": "Astérix et Cléopâtre est le sixième album de la série, publié en 1965. Pour relever un défi lancé à Jules César, la reine d'Égypte charge l'architecte Numérobis de construire un palais à Alexandrie en trois mois. Celui-ci fait appel à son ami Panoramix, accompagné d'Astérix et d'Obélix, pour l'aider face aux sabotages de son rival Amonbofis. L'album a été adapté en dessin animé en 1968, puis au cinéma par Alain Chabat en 2002 sous le titre Mission Cléopâtre.",
+        "wiki": "Astérix et Cléopâtre"
+      }
+    },
+    {
+      "q": "Dans « Astérix chez les Bretons », quelle boisson Astérix fait-il découvrir aux Bretons ?",
+      "choix": ["Le thé", "Le café", "Le whisky", "Le cidre"],
+      "fiche": {
+        "titre": "Astérix chez les Bretons",
+        "texte": "Astérix chez les Bretons est le huitième album de la série, publié en 1966. Astérix et Obélix se rendent en Bretagne, c'est-à-dire l'actuelle Grande-Bretagne, pour apporter un tonneau de potion magique au village de Jolitorax, cousin d'Astérix, qui résiste à César. La potion ayant été perdue, Astérix la remplace par des herbes qu'il fait infuser dans l'eau chaude : les Bretons découvrent ainsi le thé. L'album s'amuse des coutumes anglaises, comme la bière tiède ou la conduite à gauche.",
+        "wiki": "Astérix chez les Bretons"
+      }
+    },
+    {
+      "q": "Dans quel département se trouve le Parc Astérix ?",
+      "choix": ["L'Oise", "La Seine-et-Marne", "Le Val-d'Oise", "L'Aisne"],
+      "fiche": {
+        "titre": "Le Parc Astérix",
+        "texte": "Le Parc Astérix est un parc d'attractions ouvert le 30 avril 1989 sur la commune de Plailly, dans l'Oise, à une trentaine de kilomètres au nord de Paris. Inspiré de l'univers de la bande dessinée, il propose des attractions et des spectacles évoquant les Gaulois, les Romains, les Grecs ou les Égyptiens. Il figure parmi les parcs de loisirs les plus fréquentés de France, avec plus de deux millions de visiteurs par an.",
+        "wiki": "Parc Astérix"
+      }
+    },
+    {
+      "q": "Quel est le dernier album d'Astérix scénarisé par René Goscinny, mort en 1977 ?",
+      "choix": ["Astérix chez les Belges", "Le Grand Fossé", "Obélix et Compagnie", "Astérix en Corse"],
+      "fiche": {
+        "titre": "Astérix chez les Belges",
+        "texte": "Astérix chez les Belges est le vingt-quatrième album de la série, publié en 1979. C'est le dernier album scénarisé par René Goscinny, mort subitement le 5 novembre 1977 alors que l'album était en cours de réalisation ; Albert Uderzo en acheva seul le dessin. Astérix et Obélix y accompagnent Abraracourcix en Gaule belgique pour vérifier les propos de César, qui a qualifié les Belges de plus braves de tous les peuples de la Gaule. Uderzo poursuivit ensuite seul la série avec Le Grand Fossé.",
+        "wiki": "Astérix chez les Belges"
+      }
+    }
+  ]
+}

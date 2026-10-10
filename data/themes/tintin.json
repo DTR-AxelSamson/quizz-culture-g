@@ -1,0 +1,99 @@
+{
+  "id": "tintin",
+  "titre": "Les aventures de Tintin",
+  "categorie": "BD",
+  "emoji": "🚀",
+  "accroche": "Mille sabords ! Embarquez avec le célèbre reporter à la houppe et ses compagnons.",
+  "questions": [
+    {
+      "q": "Comment s'appelle le fidèle chien de Tintin ?",
+      "choix": ["Milou", "Idéfix", "Rantanplan", "Pif"],
+      "fiche": {
+        "titre": "Milou",
+        "texte": "Milou est le fox-terrier blanc de Tintin, présent à ses côtés dès sa toute première aventure. Fidèle compagnon du reporter, il lui sauve souvent la mise, même s'il se laisse parfois distraire par un os ou par une bouteille de whisky. Dans les premiers albums, ses pensées s'expriment fréquemment dans des bulles, et il commente avec humour les situations. Hergé aurait emprunté son nom au surnom d'une amie de jeunesse, Marie-Louise Van Cutsem.",
+        "wiki": "Milou"
+      }
+    },
+    {
+      "q": "Quel auteur belge a créé Tintin ?",
+      "choix": ["Hergé", "Franquin", "Edgar P. Jacobs", "Peyo"],
+      "fiche": {
+        "titre": "Hergé",
+        "texte": "Hergé, de son vrai nom Georges Remi (1907-1983), est un auteur belge de bande dessinée, créateur des Aventures de Tintin. Son pseudonyme correspond à la prononciation de ses initiales inversées, R. G. Figure majeure de l'école franco-belge, il a popularisé le style de la « ligne claire », caractérisé par un trait net et des aplats de couleurs. Il est aussi l'auteur de Quick et Flupke et de Jo, Zette et Jocko.",
+        "wiki": "Hergé"
+      }
+    },
+    {
+      "q": "Quel juron le capitaine Haddock lance-t-il le plus volontiers ?",
+      "choix": ["« Mille sabords ! »", "« Par Toutatis ! »", "« Rogntudju ! »", "« Caramba ! »"],
+      "fiche": {
+        "titre": "Le capitaine Haddock",
+        "texte": "Le capitaine Haddock est l'un des personnages principaux des Aventures de Tintin, apparu dans Le Crabe aux pinces d'or. Marin au caractère emporté et grand amateur de whisky, il devient le meilleur ami de Tintin. Il est célèbre pour ses jurons, dont les plus fameux sont « Mille sabords ! » et « Tonnerre de Brest ! », ainsi que pour ses bordées d'injures fantaisistes comme « Bachi-bouzouk ! », « Ectoplasme ! » ou « Moule à gaufres ! ».",
+        "wiki": "Capitaine Haddock"
+      }
+    },
+    {
+      "q": "Comment s'appelle le château où s'installe le capitaine Haddock ?",
+      "choix": ["Moulinsart", "Champignac", "Kropow", "Malmaison"],
+      "fiche": {
+        "titre": "Le château de Moulinsart",
+        "texte": "Le château de Moulinsart est la demeure du capitaine Haddock dans Les Aventures de Tintin. Il apparaît dans Le Secret de La Licorne et revient au capitaine à la fin du Trésor de Rackham le Rouge, grâce au professeur Tournesol, qui l'achète avec l'argent tiré de ses inventions. Le château avait appartenu à l'ancêtre de Haddock, le chevalier François de Hadoque, qui l'avait reçu du roi Louis XIV. Hergé s'est inspiré du château de Cheverny, dont il a retiré les deux ailes extrêmes.",
+        "wiki": "Château de Moulinsart"
+      }
+    },
+    {
+      "q": "Quel est le prénom du professeur Tournesol ?",
+      "choix": ["Tryphon", "Séraphin", "Nestor", "Hippolyte"],
+      "fiche": {
+        "titre": "Le professeur Tournesol",
+        "texte": "Le professeur Tryphon Tournesol est un savant de génie apparu dans Le Trésor de Rackham le Rouge. Distrait et dur d'oreille, il comprend souvent de travers ce qu'on lui dit, ce qui provoque des quiproquos savoureux, notamment avec le capitaine Haddock. Inventeur prolifique, il conçoit un sous-marin en forme de requin, la fusée lunaire d'Objectif Lune ou encore un appareil à ultrasons convoité dans L'Affaire Tournesol. Il se sert d'un pendule pour se guider.",
+        "wiki": "Professeur Tournesol"
+      }
+    },
+    {
+      "q": "Quel est le tout premier album des aventures de Tintin ?",
+      "choix": ["Tintin au pays des Soviets", "Tintin au Congo", "Tintin en Amérique", "Les Cigares du pharaon"],
+      "fiche": {
+        "titre": "Tintin au pays des Soviets",
+        "texte": "Tintin au pays des Soviets est le premier album des Aventures de Tintin, publié en feuilleton à partir de janvier 1929 dans Le Petit Vingtième, supplément pour la jeunesse du quotidien belge Le Vingtième Siècle. Le jeune reporter y part en Union soviétique, accompagné de Milou, et y dénonce le régime bolchevique. Dessiné en noir et blanc dans un style encore hésitant, l'album, paru en 1930, fut longtemps écarté par Hergé lui-même avant d'être réédité, puis colorisé en 2017.",
+        "wiki": "Tintin au pays des Soviets"
+      }
+    },
+    {
+      "q": "Dans quel album Tintin se lie-t-il d'amitié avec le jeune Chinois Tchang ?",
+      "choix": ["Le Lotus bleu", "Les Cigares du pharaon", "Le Crabe aux pinces d'or", "Le Sceptre d'Ottokar"],
+      "fiche": {
+        "titre": "Le Lotus bleu",
+        "texte": "Le Lotus bleu est le cinquième album des Aventures de Tintin, prépublié en 1934-1935 puis paru en album en 1936. L'action se déroule en Chine, notamment à Shanghai, sur fond d'invasion japonaise. Tintin y sauve de la noyade le jeune Tchang, qui devient son ami. Ce personnage rend hommage à Tchang Tchong-jen, étudiant chinois rencontré par Hergé en 1934, qui l'aida à se documenter et l'incita à rompre avec les clichés sur la Chine.",
+        "wiki": "Le Lotus bleu"
+      }
+    },
+    {
+      "q": "Quel royaume imaginaire des Balkans est au cœur du « Sceptre d'Ottokar » ?",
+      "choix": ["La Syldavie", "Le San Theodoros", "Le Khemed", "Le Nuevo Rico"],
+      "fiche": {
+        "titre": "La Syldavie",
+        "texte": "La Syldavie est un royaume imaginaire d'Europe orientale créé par Hergé pour Le Sceptre d'Ottokar (1939). Sa capitale est Klow et son roi, Muskar XII, doit présenter chaque année à son peuple le sceptre du roi Ottokar IV sous peine de perdre son trône. Le pays, menacé par la Bordurie voisine, réapparaît dans Objectif Lune et On a marché sur la Lune, la fusée lunaire étant construite au centre de recherches atomiques de Sprodj.",
+        "wiki": "Syldavie"
+      }
+    },
+    {
+      "q": "De quel opéra est tiré l'« Air des bijoux » que chante sans cesse la Castafiore ?",
+      "choix": ["Faust", "Carmen", "La Traviata", "Tosca"],
+      "fiche": {
+        "titre": "Bianca Castafiore",
+        "texte": "Bianca Castafiore est une célèbre cantatrice italienne des Aventures de Tintin, surnommée le « Rossignol milanais », apparue dans Le Sceptre d'Ottokar. Elle interprète inlassablement l'Air des bijoux de l'opéra Faust de Charles Gounod, avec son fameux « Ah ! je ris de me voir si belle en ce miroir », au grand désespoir du capitaine Haddock, dont elle écorche sans cesse le nom. Elle est le personnage central des Bijoux de la Castafiore (1963).",
+        "wiki": "Bianca Castafiore"
+      }
+    },
+    {
+      "q": "Quel est le dernier album de Tintin achevé par Hergé ?",
+      "choix": ["Tintin et les Picaros", "Vol 714 pour Sydney", "Tintin et l'Alph-Art", "Coke en stock"],
+      "fiche": {
+        "titre": "Tintin et les Picaros",
+        "texte": "Tintin et les Picaros est le vingt-troisième et dernier album achevé des Aventures de Tintin, publié en 1976. Tintin, Haddock et Tournesol se rendent au San Theodoros pour libérer la Castafiore, emprisonnée par le régime du général Tapioca, et aident le général Alcazar et ses guérilleros, les Picaros, à reprendre le pouvoir. On y apprend le prénom du capitaine : Archibald. À sa mort en 1983, Hergé laisse inachevé Tintin et l'Alph-Art, publié à titre posthume.",
+        "wiki": "Tintin et les Picaros"
+      }
+    }
+  ]
+}

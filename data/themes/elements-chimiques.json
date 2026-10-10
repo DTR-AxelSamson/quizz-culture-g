@@ -33,7 +33,7 @@
       }
     },
     {
-      "q": "Quel chimiste russe a publié en 1869 le premier tableau périodique des éléments ?",
+      "q": "Quel chimiste russe a publié en 1869 le célèbre tableau périodique des éléments qui a fait sa renommée ?",
       "choix": ["Dmitri Mendeleïev", "Antoine Lavoisier", "John Dalton", "Niels Bohr"],
       "fiche": {
         "titre": "Dmitri Mendeleïev",

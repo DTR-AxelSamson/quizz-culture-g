@@ -1,0 +1,99 @@
+{
+  "id": "leonard-de-vinci",
+  "titre": "Léonard de Vinci",
+  "categorie": "Arts",
+  "emoji": "🖼️",
+  "accroche": "Peintre, ingénieur, inventeur : percez les secrets du génie universel de la Renaissance.",
+  "questions": [
+    {
+      "q": "Dans quel musée peut-on admirer La Joconde ?",
+      "choix": ["Le Louvre", "Les Offices", "Le Prado", "La National Gallery"],
+      "fiche": {
+        "titre": "La Joconde",
+        "texte": "La Joconde, ou Portrait de Mona Lisa, est un tableau de Léonard de Vinci commencé vers 1503, qui représenterait Lisa Gherardini, épouse du marchand florentin Francesco del Giocondo. Entrée dans les collections royales françaises au XVIe siècle, elle est conservée au musée du Louvre, à Paris, où elle est exposée derrière une vitre de protection. Célèbre pour le sourire énigmatique du modèle et son paysage brumeux, c'est sans doute le tableau le plus connu au monde.",
+        "wiki": "La Joconde"
+      }
+    },
+    {
+      "q": "Dans quelle ville se trouve La Cène peinte par Léonard de Vinci ?",
+      "choix": ["Milan", "Florence", "Rome", "Venise"],
+      "fiche": {
+        "titre": "La Cène",
+        "texte": "La Cène est une peinture murale de Léonard de Vinci réalisée entre 1495 et 1498 dans le réfectoire du couvent de Santa Maria delle Grazie, à Milan, à la demande du duc Ludovic Sforza. Elle représente le moment où Jésus annonce à ses apôtres que l'un d'eux va le trahir. Léonard y employa une technique expérimentale sur enduit sec, au lieu de la fresque traditionnelle, ce qui explique sa dégradation rapide. L'œuvre est inscrite au patrimoine mondial de l'UNESCO.",
+        "wiki": "La Cène (Léonard de Vinci)"
+      }
+    },
+    {
+      "q": "Quel dessin de Léonard représente un homme inscrit dans un cercle et un carré ?",
+      "choix": ["L'Homme de Vitruve", "Le Modulor", "L'Homme universel", "L'Écorché"],
+      "fiche": {
+        "titre": "L'Homme de Vitruve",
+        "texte": "L'Homme de Vitruve est un célèbre dessin à la plume de Léonard de Vinci réalisé vers 1490. Il représente un homme nu dans deux positions superposées, inscrit à la fois dans un cercle et dans un carré, d'après les proportions idéales du corps humain décrites par l'architecte romain Vitruve. Symbole de l'humanisme de la Renaissance, il est conservé aux Galeries de l'Académie de Venise et figure sur la face nationale des pièces italiennes de un euro.",
+        "wiki": "L'Homme de Vitruve"
+      }
+    },
+    {
+      "q": "En quelle année Léonard de Vinci est-il né ?",
+      "choix": ["1452", "1475", "1431", "1498"],
+      "fiche": {
+        "titre": "Léonard de Vinci",
+        "texte": "Léonard de Vinci, né le 15 avril 1452 à Vinci, en Toscane, et mort le 2 mai 1519, est un peintre, ingénieur, inventeur et scientifique italien. Fils illégitime d'un notaire, il incarne l'idéal de l'homme universel de la Renaissance. Ses carnets, rédigés en écriture spéculaire, c'est-à-dire de droite à gauche, regorgent de dessins d'anatomie, de machines volantes et d'études d'optique. Il n'a laissé qu'un petit nombre de peintures, dont plusieurs inachevées.",
+        "wiki": "Léonard de Vinci"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on la technique d'estompage vaporeux des contours chère à Léonard ?",
+      "choix": ["Le sfumato", "Le pointillisme", "Le trompe-l'œil", "L'empâtement"],
+      "fiche": {
+        "titre": "Le sfumato",
+        "texte": "Le sfumato est une technique picturale portée à la perfection par Léonard de Vinci, consistant à superposer de fines couches de glacis translucides pour estomper les contours et adoucir les transitions entre ombre et lumière. Le terme italien, dérivé de fumo (« fumée »), évoque cet effet vaporeux. Cette technique confère aux visages un modelé très doux et une atmosphère mystérieuse. La Joconde en est l'exemple le plus célèbre, dans le visage du modèle comme dans le paysage.",
+        "wiki": "Sfumato"
+      }
+    },
+    {
+      "q": "Dans quelle demeure d'Amboise Léonard de Vinci a-t-il passé ses dernières années ?",
+      "choix": ["Le Clos Lucé", "Le château de Chambord", "Le château de Blois", "Le château de Chenonceau"],
+      "fiche": {
+        "titre": "Le château du Clos Lucé",
+        "texte": "Le château du Clos Lucé est une demeure de la Renaissance située à Amboise, en Indre-et-Loire. Invité par le roi François Ier, Léonard de Vinci s'y installe à la fin de l'année 1516 avec ses élèves et y passe les dernières années de sa vie, jusqu'à sa mort le 2 mai 1519. Il y apporte plusieurs tableaux, dont La Joconde, et y travaille à des projets d'architecture et de fêtes pour la cour. La demeure est aujourd'hui un musée consacré à l'artiste.",
+        "wiki": "Château du Clos Lucé"
+      }
+    },
+    {
+      "q": "Dans l'atelier de quel maître florentin Léonard a-t-il fait son apprentissage ?",
+      "choix": ["Andrea del Verrocchio", "Sandro Botticelli", "Domenico Ghirlandaio", "Filippo Lippi"],
+      "fiche": {
+        "titre": "Andrea del Verrocchio",
+        "texte": "Andrea del Verrocchio (vers 1435-1488) est un sculpteur, peintre et orfèvre florentin, dont l'atelier fut l'un des plus importants de Florence. Le jeune Léonard de Vinci y fait son apprentissage à partir de la fin des années 1460. Selon Vasari, l'ange peint par Léonard dans Le Baptême du Christ de son maître était si réussi que Verrocchio aurait renoncé à la peinture. Verrocchio est aussi l'auteur d'un David en bronze et de la statue équestre du condottiere Colleoni à Venise.",
+        "wiki": "Andrea del Verrocchio"
+      }
+    },
+    {
+      "q": "Qui a volé La Joconde au Louvre en 1911 ?",
+      "choix": ["Vincenzo Peruggia", "Guillaume Apollinaire", "Pablo Picasso", "Adam Worth"],
+      "fiche": {
+        "titre": "Vincenzo Peruggia",
+        "texte": "Vincenzo Peruggia (1881-1925) est un vitrier italien qui déroba La Joconde au musée du Louvre le 21 août 1911. Ayant travaillé à la pose de vitrines de protection au musée, il connaissait les lieux et repartit avec le tableau dissimulé sous sa blouse. Le vol eut un retentissement mondial ; le poète Guillaume Apollinaire fut même brièvement incarcéré au cours de l'enquête. Peruggia fut arrêté à Florence en décembre 1913 en tentant de vendre l'œuvre, qui regagna ensuite le Louvre.",
+        "wiki": "Vincenzo Peruggia"
+      }
+    },
+    {
+      "q": "Quel milliardaire a acheté le Codex Leicester de Léonard en 1994 ?",
+      "choix": ["Bill Gates", "Steve Jobs", "Paul Allen", "Warren Buffett"],
+      "fiche": {
+        "titre": "Le Codex Leicester",
+        "texte": "Le Codex Leicester est un manuscrit de Léonard de Vinci rédigé au début du XVIe siècle, consacré principalement à l'eau, à l'astronomie et à la géologie. Il tire son nom de Thomas Coke, futur comte de Leicester, qui l'acquit au XVIIIe siècle. Acheté en 1980 par l'industriel Armand Hammer, il fut vendu aux enchères en 1994 chez Christie's à Bill Gates, cofondateur de Microsoft, pour environ 30,8 millions de dollars. C'est l'un des manuscrits les plus chers jamais vendus.",
+        "wiki": "Codex Leicester"
+      }
+    },
+    {
+      "q": "Dans quelle ville est conservée La Dame à l'hermine de Léonard de Vinci ?",
+      "choix": ["Cracovie", "Vienne", "Milan", "Saint-Pétersbourg"],
+      "fiche": {
+        "titre": "La Dame à l'hermine",
+        "texte": "La Dame à l'hermine est un portrait peint par Léonard de Vinci vers 1489-1490, pendant son séjour à la cour de Milan. Il représente vraisemblablement Cecilia Gallerani, jeune favorite du duc Ludovic Sforza, tenant dans ses bras une hermine, animal associé au duc. Acquis à la fin du XVIIIe siècle par la famille princière Czartoryski, le tableau est conservé au musée national de Cracovie, en Pologne. Confisqué par les nazis pendant la Seconde Guerre mondiale, il fut restitué à la Pologne après le conflit.",
+        "wiki": "La Dame à l'hermine"
+      }
+    }
+  ]
+}

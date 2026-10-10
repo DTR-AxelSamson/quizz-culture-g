@@ -78,7 +78,7 @@
       }
     },
     {
-      "q": "Quel fromage savoyard au talon concave Brillat-Savarin surnommait-il « le prince des gruyères » ?",
+      "q": "Quel fromage savoyard au talon concave est surnommé « le prince des gruyères » ?",
       "choix": ["Le beaufort", "L'abondance", "Le comté", "La tome des Bauges"],
       "fiche": {
         "titre": "Beaufort",

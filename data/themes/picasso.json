@@ -1,0 +1,99 @@
+{
+  "id": "picasso",
+  "titre": "Pablo Picasso",
+  "categorie": "Arts",
+  "emoji": "🖌️",
+  "accroche": "De la période bleue au cubisme, explorez la vie et l'œuvre du géant de l'art moderne.",
+  "questions": [
+    {
+      "q": "Dans quel pays Pablo Picasso est-il né ?",
+      "choix": ["L'Espagne", "La France", "L'Italie", "Le Portugal"],
+      "fiche": {
+        "titre": "Pablo Picasso",
+        "texte": "Pablo Picasso, né le 25 octobre 1881 à Málaga, en Andalousie, est un peintre, dessinateur, graveur, céramiste et sculpteur espagnol. Ayant passé l'essentiel de sa vie d'adulte en France, il est considéré comme l'un des artistes les plus importants et les plus prolifiques du XXe siècle. Fils d'un professeur de dessin, il fait preuve d'un talent très précoce et étudie aux écoles des beaux-arts de La Corogne puis de Barcelone.",
+        "wiki": "Pablo Picasso"
+      }
+    },
+    {
+      "q": "Quel tableau de 1937 dénonce le bombardement d'une ville basque ?",
+      "choix": ["Guernica", "Les Demoiselles d'Avignon", "Massacre en Corée", "La Joie de vivre"],
+      "fiche": {
+        "titre": "Guernica",
+        "texte": "Guernica est un tableau monumental de Pablo Picasso, peint en 1937 pour le pavillon de la République espagnole à l'Exposition internationale de Paris. Il dénonce le bombardement de la ville basque de Guernica par les aviations allemande et italienne, alliées des franquistes, le 26 avril 1937. Peint en noir, blanc et gris, il est devenu un symbole universel contre la guerre. Selon le souhait de l'artiste, il n'a rejoint l'Espagne qu'après le retour de la démocratie, en 1981 ; il est exposé au musée Reina Sofía de Madrid.",
+        "wiki": "Guernica (tableau)"
+      }
+    },
+    {
+      "q": "Quel mouvement artistique Picasso a-t-il fondé avec Georges Braque ?",
+      "choix": ["Le cubisme", "Le fauvisme", "Le surréalisme", "Le futurisme"],
+      "fiche": {
+        "titre": "Le cubisme",
+        "texte": "Le cubisme est un mouvement artistique développé au début du XXe siècle par Pablo Picasso et Georges Braque. Rompant avec la perspective traditionnelle, il représente les objets sous plusieurs angles à la fois, décomposés en formes géométriques. On distingue une phase « analytique », aux formes fragmentées et aux couleurs sourdes, puis une phase « synthétique », marquée par l'introduction du collage et des papiers collés. Le terme viendrait d'une remarque du critique Louis Vauxcelles sur les « petits cubes » de Braque.",
+        "wiki": "Cubisme"
+      }
+    },
+    {
+      "q": "Comment nomme-t-on la période mélancolique de Picasso qui suit le suicide de son ami Casagemas ?",
+      "choix": ["La période bleue", "La période rose", "La période africaine", "La période classique"],
+      "fiche": {
+        "titre": "La période bleue",
+        "texte": "La période bleue désigne les années 1901 à 1904 de l'œuvre de Picasso, durant lesquelles il peint presque exclusivement dans des tons bleus et bleu-vert. Marquée par le suicide de son ami Carlos Casagemas en 1901, elle met en scène la misère, la vieillesse et la solitude : mendiants, aveugles, prostituées. La Vie (1903) et Le Vieux Guitariste aveugle en sont des exemples célèbres. Elle est suivie par la période rose, plus lumineuse, consacrée notamment aux saltimbanques.",
+        "wiki": "Période bleue de Picasso"
+      }
+    },
+    {
+      "q": "En quelle année Picasso peint-il « Les Demoiselles d'Avignon » ?",
+      "choix": ["1907", "1895", "1919", "1932"],
+      "fiche": {
+        "titre": "Les Demoiselles d'Avignon",
+        "texte": "Les Demoiselles d'Avignon est un tableau de Pablo Picasso peint en 1907 à Paris. Il représente cinq femmes nues dans une maison close de la rue d'Avignon, à Barcelone, aux corps anguleux et aux visages inspirés de la sculpture ibérique et des masques africains. Jugée choquante, y compris par les proches du peintre, l'œuvre est considérée comme une étape fondatrice du cubisme et de l'art moderne. Elle est conservée au Museum of Modern Art de New York.",
+        "wiki": "Les Demoiselles d'Avignon"
+      }
+    },
+    {
+      "q": "Dans quelle cité d'artistes de Montmartre Picasso vécut-il au début du XXe siècle ?",
+      "choix": ["Le Bateau-Lavoir", "La Ruche", "Le Lapin Agile", "Le Chat noir"],
+      "fiche": {
+        "titre": "Le Bateau-Lavoir",
+        "texte": "Le Bateau-Lavoir est une cité d'artistes située sur la butte Montmartre, à Paris, place Émile-Goudeau. Pablo Picasso y vit et travaille de 1904 à 1909 ; il y peint notamment Les Demoiselles d'Avignon. Le lieu, ainsi surnommé par le poète Max Jacob, devient un foyer de l'avant-garde fréquenté par Apollinaire, Braque, Matisse ou Modigliani. Ravagé par un incendie en 1970, il a été reconstruit et accueille toujours des ateliers d'artistes.",
+        "wiki": "Bateau-Lavoir"
+      }
+    },
+    {
+      "q": "Quelle danseuse des Ballets russes Picasso épouse-t-il en 1918 ?",
+      "choix": ["Olga Khokhlova", "Dora Maar", "Françoise Gilot", "Marie-Thérèse Walter"],
+      "fiche": {
+        "titre": "Olga Khokhlova",
+        "texte": "Olga Khokhlova (1891-1955) est une danseuse russe de la compagnie des Ballets russes de Serge de Diaghilev. Picasso la rencontre en 1917 à Rome, alors qu'il conçoit les décors et les costumes du ballet Parade, et l'épouse en 1918 à Paris. Elle lui donne un fils, Paulo, né en 1921. Le couple se sépare au milieu des années 1930, mais ne divorce jamais : Olga reste l'épouse légale du peintre jusqu'à sa mort.",
+        "wiki": "Olga Khokhlova"
+      }
+    },
+    {
+      "q": "Dans quelle ville de la Côte d'Azur Picasso se consacre-t-il à la céramique à l'atelier Madoura ?",
+      "choix": ["Vallauris", "Biot", "Menton", "Grasse"],
+      "fiche": {
+        "titre": "Vallauris",
+        "texte": "Vallauris est une commune des Alpes-Maritimes, réputée depuis des siècles pour ses poteries. Picasso y découvre en 1946 l'atelier Madoura, tenu par Suzanne et Georges Ramié, et s'y installe peu après avec Françoise Gilot ; il y réalise des milliers de céramiques. Il offre à la ville sa sculpture en bronze L'Homme au mouton et décore la chapelle du château de sa vaste composition La Guerre et la Paix, aujourd'hui intégrée au musée national Picasso.",
+        "wiki": "Vallauris"
+      }
+    },
+    {
+      "q": "Quelle ville inaugure dès 1963, du vivant de l'artiste, un musée Picasso ?",
+      "choix": ["Barcelone", "Málaga", "Paris", "Antibes"],
+      "fiche": {
+        "titre": "Le musée Picasso de Barcelone",
+        "texte": "Le musée Picasso de Barcelone, installé dans des palais médiévaux de la rue Montcada, ouvre ses portes en 1963, du vivant de l'artiste. Il est né de la volonté de Jaume Sabartés, ami et secrétaire de Picasso, qui fit don de sa collection personnelle. Il conserve de nombreuses œuvres de jeunesse ainsi que la série des Ménines (1957), variations sur le tableau de Velázquez, offerte par Picasso au musée en 1968. Les musées de Paris et de Málaga n'ont ouvert que bien plus tard.",
+        "wiki": "Musée Picasso (Barcelone)"
+      }
+    },
+    {
+      "q": "Dans quelle commune Picasso est-il mort en 1973 ?",
+      "choix": ["Mougins", "Antibes", "Cannes", "Nice"],
+      "fiche": {
+        "titre": "Mougins",
+        "texte": "Mougins est une commune des Alpes-Maritimes, située sur les hauteurs de Cannes. Pablo Picasso s'y installe en 1961 avec son épouse Jacqueline Roque, dans le mas de Notre-Dame-de-Vie, où il passe les dernières années de sa vie en travaillant avec une énergie intacte. Il y meurt le 8 avril 1973, à l'âge de 91 ans. Il est inhumé dans le parc de son château de Vauvenargues, au pied de la montagne Sainte-Victoire.",
+        "wiki": "Mougins"
+      }
+    }
+  ]
+}

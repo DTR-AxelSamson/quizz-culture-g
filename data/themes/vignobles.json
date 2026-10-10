@@ -87,11 +87,11 @@
       }
     },
     {
-      "q": "Quel est le seul premier grand cru du classement de 1855 situé hors du Médoc ?",
+      "q": "Quel est le seul premier grand cru rouge du classement de 1855 situé hors du Médoc ?",
       "choix": ["Château Haut-Brion", "Château Margaux", "Château Latour", "Château Lafite Rothschild"],
       "fiche": {
         "titre": "Château Haut-Brion",
-        "texte": "Le château Haut-Brion est un domaine viticole situé à Pessac, au sud-ouest de Bordeaux, dans l'appellation Pessac-Léognan, au sein des Graves. Lors du classement officiel des vins de Bordeaux établi pour l'Exposition universelle de 1855, il fut le seul vin hors du Médoc classé parmi les premiers grands crus, aux côtés de Lafite, Latour et Margaux. Sa réputation est ancienne : dès 1663, l'Anglais Samuel Pepys mentionnait dans son journal ce vin de « Ho Bryan ».",
+        "texte": "Le château Haut-Brion est un domaine viticole situé à Pessac, au sud-ouest de Bordeaux, dans l'appellation Pessac-Léognan, au sein des Graves. Lors du classement officiel des vins de Bordeaux établi pour l'Exposition universelle de 1855, il fut le seul vin hors du Médoc classé parmi les premiers grands crus rouges, aux côtés de Lafite, Latour et Margaux. Sa réputation est ancienne : dès 1663, l'Anglais Samuel Pepys mentionnait dans son journal ce vin de « Ho Bryan ».",
         "wiki": "Château Haut-Brion"
       }
     }

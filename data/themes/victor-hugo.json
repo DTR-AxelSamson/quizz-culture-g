@@ -1,0 +1,99 @@
+{
+  "id": "victor-hugo",
+  "titre": "Victor Hugo",
+  "categorie": "Littérature",
+  "emoji": "✒️",
+  "accroche": "Poète, romancier, exilé, géant du XIXe siècle : saurez-vous suivre la plume de Victor Hugo ?",
+  "questions": [
+    {
+      "q": "Dans quel roman de Victor Hugo Jean Valjean est-il le héros ?",
+      "choix": ["Les Misérables", "Notre-Dame de Paris", "Germinal", "Le Comte de Monte-Cristo"],
+      "fiche": {
+        "titre": "Les Misérables",
+        "texte": "Les Misérables est un roman de Victor Hugo publié en 1862, considéré comme l'un des plus grands romans du XIXe siècle. Il suit le destin de Jean Valjean, ancien forçat condamné pour le vol d'un pain, qui tente de se racheter malgré la traque obstinée de l'inspecteur Javert. Autour de lui gravitent Fantine, sa fille Cosette, les Thénardier, Marius ou le gamin Gavroche. L'œuvre, qui culmine avec l'insurrection républicaine de juin 1832, a connu d'innombrables adaptations.",
+        "wiki": "Les Misérables"
+      }
+    },
+    {
+      "q": "Comment s'appelle le sonneur de cloches bossu de Notre-Dame de Paris ?",
+      "choix": ["Quasimodo", "Frollo", "Gavroche", "Phœbus"],
+      "fiche": {
+        "titre": "Notre-Dame de Paris",
+        "texte": "Notre-Dame de Paris est un roman historique de Victor Hugo publié en 1831, dont l'action se déroule dans le Paris de 1482. Quasimodo, le sonneur de cloches bossu et sourd de la cathédrale, y voue un amour sans espoir à la belle bohémienne Esmeralda. Celle-ci est aussi convoitée par l'archidiacre Claude Frollo, qui a recueilli Quasimodo, tandis qu'elle s'éprend du capitaine Phœbus. Le succès du roman contribua à sensibiliser le public à la sauvegarde du patrimoine gothique.",
+        "wiki": "Notre-Dame de Paris (roman)"
+      }
+    },
+    {
+      "q": "Dans quel monument parisien Victor Hugo repose-t-il ?",
+      "choix": ["Le Panthéon", "Les Invalides", "Le Père-Lachaise", "La basilique Saint-Denis"],
+      "fiche": {
+        "titre": "Le Panthéon",
+        "texte": "Le Panthéon est un monument du Quartier latin, à Paris, construit au XVIIIe siècle comme église dédiée à sainte Geneviève, puis destiné à honorer les grands personnages de la Nation. À la mort de Victor Hugo, le 22 mai 1885, la IIIe République lui organise des funérailles nationales : son cercueil est exposé sous l'Arc de triomphe avant d'être conduit au Panthéon, suivi par une foule immense. Le monument est alors définitivement rendu à sa vocation laïque.",
+        "wiki": "Panthéon (Paris)"
+      }
+    },
+    {
+      "q": "Dans quelle ville Victor Hugo est-il né en 1802 ?",
+      "choix": ["Besançon", "Paris", "Dijon", "Nancy"],
+      "fiche": {
+        "titre": "Victor Hugo",
+        "texte": "Victor Hugo est né le 26 février 1802 à Besançon, dans le Doubs, où son père, officier de l'armée, était alors en garnison. Poète, romancier et dramaturge, il devient le chef de file du romantisme français. Il mène aussi une carrière politique, comme pair de France, député puis sénateur, et défend l'abolition de la peine de mort et l'instruction gratuite. Il évoque sa naissance dans un poème des Feuilles d'automne : « Ce siècle avait deux ans ! Rome remplaçait Sparte… »",
+        "wiki": "Victor Hugo"
+      }
+    },
+    {
+      "q": "Quelle pièce de Hugo déclencha en 1830 une célèbre « bataille » entre classiques et romantiques ?",
+      "choix": ["Hernani", "Ruy Blas", "Lucrèce Borgia", "Les Burgraves"],
+      "fiche": {
+        "titre": "La bataille d'Hernani",
+        "texte": "La bataille d'Hernani désigne la polémique et les chahuts qui entourèrent les représentations d'Hernani, drame de Victor Hugo créé à la Comédie-Française le 25 février 1830. Les partisans du romantisme, parmi lesquels le jeune Théophile Gautier et son célèbre gilet rouge, y affrontèrent les défenseurs du théâtre classique. Les libertés prises avec la versification et les règles traditionnelles scandalisèrent ces derniers. Le succès de la pièce marque symboliquement la victoire du drame romantique.",
+        "wiki": "Bataille d'Hernani"
+      }
+    },
+    {
+      "q": "À quelle fille, noyée en 1843, Victor Hugo pense-t-il dans « Demain, dès l'aube… » ?",
+      "choix": ["Léopoldine", "Adèle", "Jeanne", "Marie"],
+      "fiche": {
+        "titre": "Léopoldine Hugo",
+        "texte": "Léopoldine Hugo, fille aînée de Victor Hugo, née en 1824, se noie dans la Seine à Villequier le 4 septembre 1843, quelques mois après son mariage avec Charles Vacquerie, qui périt en tentant de la sauver. Le poète, qui rentre alors d'un voyage dans les Pyrénées, apprend la nouvelle par hasard en lisant un journal. Ce deuil le marque profondément et inspire plusieurs poèmes des Contemplations (1856), dont le célèbre « Demain, dès l'aube… ».",
+        "wiki": "Léopoldine Hugo"
+      }
+    },
+    {
+      "q": "Contre quel homme d'État Victor Hugo écrit-il le pamphlet « Napoléon le Petit » ?",
+      "choix": ["Louis-Napoléon Bonaparte", "Louis-Philippe", "Adolphe Thiers", "Charles X"],
+      "fiche": {
+        "titre": "Le coup d'État du 2 décembre 1851",
+        "texte": "Le coup d'État du 2 décembre 1851 permet à Louis-Napoléon Bonaparte, président de la République, de se maintenir au pouvoir avant de rétablir l'Empire un an plus tard sous le nom de Napoléon III. Victor Hugo, alors député, tente d'organiser la résistance puis doit fuir à Bruxelles. Il publie en 1852 le pamphlet « Napoléon le Petit » et refuse ensuite l'amnistie de 1859. Son exil dure près de dix-neuf ans, jusqu'à la chute du Second Empire en 1870.",
+        "wiki": "Coup d'État du 2 décembre 1851"
+      }
+    },
+    {
+      "q": "Sur quelle île se trouve Hauteville House, la maison d'exil de Victor Hugo ?",
+      "choix": ["Guernesey", "Jersey", "Aurigny", "Sercq"],
+      "fiche": {
+        "titre": "Hauteville House",
+        "texte": "Hauteville House est la maison de Saint-Pierre-Port, sur l'île anglo-normande de Guernesey, où Victor Hugo vécut de 1856 à 1870, pendant son exil. Il l'acheta grâce aux droits d'auteur des Contemplations et en décora lui-même les intérieurs de manière foisonnante. Il y écrivit notamment une grande partie des Misérables et Les Travailleurs de la mer. Offerte à la Ville de Paris par les descendants de l'écrivain, la maison est aujourd'hui un musée.",
+        "wiki": "Hauteville House"
+      }
+    },
+    {
+      "q": "Quel roman de Hugo se déroule en 1793, pendant la guerre de Vendée ?",
+      "choix": ["Quatrevingt-treize", "Les Travailleurs de la mer", "L'Homme qui rit", "Bug-Jargal"],
+      "fiche": {
+        "titre": "Quatrevingt-treize",
+        "texte": "Quatrevingt-treize est le dernier roman de Victor Hugo, publié en 1874. Il se déroule en 1793, au plus fort de la Terreur, pendant la guerre de Vendée qui oppose républicains et royalistes. L'intrigue met aux prises trois figures : le marquis de Lantenac, chef royaliste, son petit-neveu Gauvain, officier républicain humaniste, et Cimourdain, ancien prêtre devenu un représentant intransigeant de la République. Le roman interroge le conflit entre justice révolutionnaire et clémence.",
+        "wiki": "Quatrevingt-treize"
+      }
+    },
+    {
+      "q": "Quelle actrice fut la compagne de Victor Hugo pendant une cinquantaine d'années ?",
+      "choix": ["Juliette Drouet", "Adèle Foucher", "Marie Dorval", "George Sand"],
+      "fiche": {
+        "titre": "Juliette Drouet",
+        "texte": "Juliette Drouet, née Julienne Gauvain en 1806, est une actrice française qui rencontre Victor Hugo en 1833, lorsqu'elle joue dans sa pièce Lucrèce Borgia. Elle devient sa maîtresse et le reste jusqu'à sa mort en 1883, soit pendant un demi-siècle. Elle l'aide à fuir après le coup d'État de 1851 et le suit dans son exil à Jersey puis à Guernesey. Elle lui écrivit des milliers de lettres, et Hugo lui consacra de nombreux poèmes.",
+        "wiki": "Juliette Drouet"
+      }
+    }
+  ]
+}
