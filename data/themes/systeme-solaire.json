@@ -28,7 +28,7 @@
       "choix": ["Jupiter", "Saturne", "Neptune", "Uranus"],
       "fiche": {
         "titre": "Jupiter",
-        "texte": "Jupiter est la plus grande planète du système solaire : sa masse dépasse celle de toutes les autres planètes réunies. C'est une géante gazeuse composée surtout d'hydrogène et d'hélium. Elle est célèbre pour sa Grande Tache rouge, un gigantesque anticyclone observé depuis plusieurs siècles. Jupiter possède un très grand nombre de satellites, dont les quatre grandes lunes dites galiléennes, découvertes par Galilée en 1610.",
+        "texte": "Jupiter est la plus grande planète du système solaire : sa masse dépasse celle de toutes les autres planètes réunies. C'est une géante gazeuse composée surtout d'hydrogène et d'hélium. Elle est célèbre pour sa Grande Tache rouge, un gigantesque anticyclone observé sans interruption depuis le XIXe siècle. Jupiter possède un très grand nombre de satellites, dont les quatre grandes lunes dites galiléennes, découvertes par Galilée en 1610.",
         "wiki": "Jupiter (planète)"
       }
     },

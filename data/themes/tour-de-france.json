@@ -46,7 +46,7 @@
       "choix": ["Le mont Ventoux", "Le col du Galibier", "Le col du Tourmalet", "L'Alpe d'Huez"],
       "fiche": {
         "titre": "Mont Ventoux",
-        "texte": "Le mont Ventoux est un sommet du Vaucluse culminant à 1 910 mètres, surnommé « le Géant de Provence ». Isolé et souvent balayé par le mistral, il est célèbre pour son sommet pelé et caillouteux qui évoque un paysage lunaire. Son ascension figure parmi les plus redoutées du Tour de France. Le 13 juillet 1967, le coureur britannique Tom Simpson y mourut d'épuisement ; une stèle lui rend hommage près du sommet.",
+        "texte": "Le mont Ventoux est un sommet du Vaucluse culminant à 1 910 mètres, surnommé « le Géant de Provence ». Isolé et souvent balayé par le mistral, il est célèbre pour son sommet pelé et caillouteux qui évoque un paysage lunaire. Son ascension figure parmi les plus redoutées du Tour de France. Le 13 juillet 1967, le coureur britannique Tom Simpson y mourut d'épuisement, aggravé par la prise d'amphétamines ; une stèle lui rend hommage près du sommet.",
         "wiki": "Mont Ventoux"
       }
     },

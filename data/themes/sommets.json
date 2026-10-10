@@ -91,7 +91,7 @@
       "choix": ["Le Chimborazo", "L'Everest", "Le Kilimandjaro", "Le Cotopaxi"],
       "fiche": {
         "titre": "Chimborazo",
-        "texte": "Le Chimborazo est un volcan éteint des Andes situé en Équateur, dont il est le point culminant. Bien qu'il soit bien moins haut que l'Everest par rapport au niveau de la mer, son sommet est le point de la surface terrestre le plus éloigné du centre de la Terre. Cela s'explique par la forme légèrement aplatie de notre planète, renflée au niveau de l'équateur, tout proche duquel il se trouve. Alexander von Humboldt tenta son ascension en 1802.",
+        "texte": "Le Chimborazo est un volcan endormi des Andes situé en Équateur, dont il est le point culminant. Bien qu'il soit bien moins haut que l'Everest par rapport au niveau de la mer, son sommet est le point de la surface terrestre le plus éloigné du centre de la Terre. Cela s'explique par la forme légèrement aplatie de notre planète, renflée au niveau de l'équateur, tout proche duquel il se trouve. Alexander von Humboldt tenta son ascension en 1802.",
         "wiki": "Chimborazo"
       }
     }
