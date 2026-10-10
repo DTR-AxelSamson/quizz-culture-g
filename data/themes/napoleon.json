@@ -1,0 +1,99 @@
+{
+  "id": "napoleon",
+  "titre": "Napoléon Bonaparte",
+  "categorie": "Histoire",
+  "emoji": "🎖️",
+  "accroche": "Du petit Corse au maître de l'Europe : suivez l'épopée de l'Empereur, d'Austerlitz à Sainte-Hélène.",
+  "questions": [
+    {
+      "q": "Sur quelle île Napoléon Bonaparte est-il né en 1769 ?",
+      "choix": ["La Corse", "La Sardaigne", "La Sicile", "L'île d'Elbe"],
+      "fiche": {
+        "titre": "Naissance de Napoléon",
+        "texte": "Napoléon Bonaparte naît le 15 août 1769 à Ajaccio, en Corse, quelques mois après le rattachement de l'île à la France. Il est le deuxième fils de Charles Bonaparte et de Letizia Ramolino, issus de la petite noblesse corse. Envoyé sur le continent dès l'âge de neuf ans, il étudie à l'école militaire de Brienne puis à l'École militaire de Paris. Officier d'artillerie, il se fait remarquer au siège de Toulon en 1793 avant de devenir général, Premier consul puis empereur des Français.",
+        "wiki": "Napoléon Ier"
+      }
+    },
+    {
+      "q": "Quelle bataille marque la défaite définitive de Napoléon en 1815 ?",
+      "choix": ["Waterloo", "Austerlitz", "Iéna", "Wagram"],
+      "fiche": {
+        "titre": "Bataille de Waterloo",
+        "texte": "La bataille de Waterloo se déroule le 18 juin 1815 au sud de Bruxelles, dans l'actuelle Belgique. L'armée de Napoléon y affronte les troupes britanniques et alliées du duc de Wellington, rejointes en fin de journée par les Prussiens de Blücher. La défaite française met fin aux Cent-Jours, la brève reprise du pouvoir par l'Empereur après son retour de l'île d'Elbe. Napoléon abdique une seconde fois le 22 juin 1815 et le nom de Waterloo est devenu synonyme de déroute.",
+        "wiki": "Bataille de Waterloo"
+      }
+    },
+    {
+      "q": "Sur quelle île Napoléon meurt-il en exil en 1821 ?",
+      "choix": ["Sainte-Hélène", "L'île d'Elbe", "Madère", "Les Açores"],
+      "fiche": {
+        "titre": "Sainte-Hélène",
+        "texte": "Sainte-Hélène est une île isolée de l'Atlantique Sud, possession britannique située à près de 2 000 kilomètres des côtes africaines. Après Waterloo, les Britanniques y déportent Napoléon, qui y arrive en octobre 1815 et réside à Longwood House. C'est là qu'il dicte ses souvenirs, publiés par Las Cases sous le titre « Le Mémorial de Sainte-Hélène ». Napoléon y meurt le 5 mai 1821. Ses cendres sont rapatriées en France en 1840 et reposent depuis aux Invalides, à Paris.",
+        "wiki": "Sainte-Hélène (île)"
+      }
+    },
+    {
+      "q": "Quel peintre a réalisé le célèbre tableau « Le Sacre de Napoléon » ?",
+      "choix": ["Jacques-Louis David", "Eugène Delacroix", "Théodore Géricault", "Dominique Ingres"],
+      "fiche": {
+        "titre": "Le Sacre de Napoléon",
+        "texte": "« Le Sacre de Napoléon » est un immense tableau peint par Jacques-Louis David entre 1805 et 1807, conservé au musée du Louvre. Il représente la cérémonie du 2 décembre 1804 en la cathédrale Notre-Dame de Paris, au moment où Napoléon, déjà couronné, pose la couronne sur la tête de Joséphine. Premier peintre de l'Empereur, David a mis en scène plus d'une centaine de personnages, dont la famille impériale, les dignitaires du régime et le pape, venu de Rome pour l'occasion.",
+        "wiki": "Le Sacre de Napoléon"
+      }
+    },
+    {
+      "q": "Quelle ville Napoléon occupe-t-il en septembre 1812, avant une retraite désastreuse ?",
+      "choix": ["Moscou", "Saint-Pétersbourg", "Vienne", "Varsovie"],
+      "fiche": {
+        "titre": "Campagne de Russie",
+        "texte": "La campagne de Russie est lancée par Napoléon en juin 1812 avec une Grande Armée de plus de 600 000 hommes. Après la sanglante bataille de la Moskova, l'Empereur entre dans Moscou le 14 septembre 1812, mais la ville est incendiée et le tsar Alexandre Ier refuse de négocier. La retraite, entamée en octobre, tourne au désastre sous l'effet du froid, de la faim et des attaques cosaques, avec l'épisode célèbre du passage de la Bérézina. Seule une petite partie de l'armée revient.",
+        "wiki": "Campagne de Russie"
+      }
+    },
+    {
+      "q": "Qui fut la première épouse de Napoléon Bonaparte ?",
+      "choix": ["Joséphine de Beauharnais", "Marie-Louise d'Autriche", "Désirée Clary", "Juliette Récamier"],
+      "fiche": {
+        "titre": "Joséphine de Beauharnais",
+        "texte": "Joséphine de Beauharnais, née Marie-Josèphe Rose Tascher de La Pagerie en Martinique, est la première épouse de Napoléon Bonaparte, qu'elle épouse civilement en 1796. Veuve du général Alexandre de Beauharnais, elle est la mère d'Eugène et d'Hortense. Couronnée impératrice lors du sacre de 1804, elle ne donne pas d'héritier à l'Empereur, qui divorce en 1809 pour épouser Marie-Louise d'Autriche. Elle se retire au château de Malmaison, où elle meurt en 1814.",
+        "wiki": "Joséphine de Beauharnais"
+      }
+    },
+    {
+      "q": "Quelle victoire de 1805 est surnommée la « bataille des Trois Empereurs » ?",
+      "choix": ["Austerlitz", "Iéna", "Eylau", "Friedland"],
+      "fiche": {
+        "titre": "Bataille d'Austerlitz",
+        "texte": "La bataille d'Austerlitz a lieu le 2 décembre 1805, un an jour pour jour après le sacre, près de la ville d'Austerlitz en Moravie, dans l'actuelle Tchéquie. Elle est surnommée « bataille des Trois Empereurs » car Napoléon y affronte l'empereur d'Autriche François II et le tsar Alexandre Ier. Grâce à une manœuvre audacieuse sur le plateau de Pratzen, la Grande Armée remporte une victoire éclatante. Elle conduit au traité de Presbourg et reste le chef-d'œuvre tactique de Napoléon.",
+        "wiki": "Bataille d'Austerlitz"
+      }
+    },
+    {
+      "q": "En quelle année Bonaparte prend-il le pouvoir par le coup d'État du 18 Brumaire ?",
+      "choix": ["1799", "1789", "1795", "1804"],
+      "fiche": {
+        "titre": "Coup d'État du 18 Brumaire",
+        "texte": "Le coup d'État du 18 Brumaire an VIII, soit le 9 novembre 1799 dans le calendrier grégorien, renverse le régime du Directoire. Revenu de la campagne d'Égypte, le général Bonaparte s'appuie notamment sur Sieyès et sur son frère Lucien, président du Conseil des Cinq-Cents. Le lendemain, les députés réticents sont dispersés par la troupe à Saint-Cloud. Le Consulat est alors instauré et Bonaparte en devient le Premier consul, avant de se faire proclamer empereur en 1804.",
+        "wiki": "Coup d'État du 18 Brumaire"
+      }
+    },
+    {
+      "q": "Quel maréchal, surnommé « le Brave des braves », fut fusillé en 1815 ?",
+      "choix": ["Michel Ney", "Joachim Murat", "Louis-Nicolas Davout", "Jean Lannes"],
+      "fiche": {
+        "titre": "Michel Ney",
+        "texte": "Michel Ney est un maréchal d'Empire que Napoléon surnomma « le Brave des braves » pour son courage, notamment lors de la retraite de Russie où il commandait l'arrière-garde. Rallié à Louis XVIII en 1814, il rejoint pourtant l'Empereur pendant les Cent-Jours et combat à Waterloo. Jugé pour trahison par la Chambre des pairs sous la Restauration, il est condamné à mort et fusillé à Paris le 7 décembre 1815, près de l'Observatoire.",
+        "wiki": "Michel Ney"
+      }
+    },
+    {
+      "q": "Avec quel pape Bonaparte signe-t-il le Concordat de 1801 ?",
+      "choix": ["Pie VII", "Pie VI", "Léon XII", "Grégoire XVI"],
+      "fiche": {
+        "titre": "Concordat de 1801",
+        "texte": "Le Concordat de 1801 est l'accord conclu entre le Premier consul Bonaparte et le pape Pie VII pour régler les relations entre la France et l'Église catholique après la Révolution. Il reconnaît le catholicisme comme la religion de la majorité des Français ; les évêques sont nommés par le gouvernement et reçoivent l'investiture du pape, tandis que le clergé est rémunéré par l'État. Ce régime a duré jusqu'à la loi de séparation des Églises et de l'État de 1905, sauf en Alsace-Moselle.",
+        "wiki": "Concordat de 1801"
+      }
+    }
+  ]
+}

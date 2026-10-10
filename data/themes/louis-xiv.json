@@ -1,0 +1,99 @@
+{
+  "id": "louis-xiv",
+  "titre": "Louis XIV et Versailles",
+  "categorie": "Histoire",
+  "emoji": "👑",
+  "accroche": "Perruques, jardins à la française et galerie des Glaces : entrez dans la cour du Roi-Soleil.",
+  "questions": [
+    {
+      "q": "Quel surnom est resté attaché à Louis XIV ?",
+      "choix": ["Le Roi-Soleil", "Le Bien-Aimé", "Le Roi-Chevalier", "Le Juste"],
+      "fiche": {
+        "titre": "Le Roi-Soleil",
+        "texte": "Louis XIV est surnommé le Roi-Soleil parce qu'il avait choisi le soleil comme emblème personnel, symbole de l'astre qui donne la vie et autour duquel tout gravite. Jeune homme, il apparaît notamment en soleil levant dans le « Ballet royal de la Nuit », en 1653. Le dieu Apollon, associé au soleil, est omniprésent dans le décor du château de Versailles. Les autres surnoms proposés désignent d'autres rois : Louis XV le Bien-Aimé, François Ier le Roi-Chevalier et Louis XIII le Juste.",
+        "wiki": "Louis XIV"
+      }
+    },
+    {
+      "q": "Quelle salle du château de Versailles est ornée de 357 miroirs ?",
+      "choix": ["La galerie des Glaces", "La galerie d'Apollon", "La galerie des Cerfs", "La galerie François Ier"],
+      "fiche": {
+        "titre": "Galerie des Glaces",
+        "texte": "La galerie des Glaces est la salle la plus célèbre du château de Versailles. Construite à partir de 1678 par l'architecte Jules Hardouin-Mansart, elle mesure 73 mètres de long et compte 357 miroirs disposés face à dix-sept grandes fenêtres donnant sur les jardins. Sa voûte, peinte par Charles Le Brun, célèbre les victoires du roi. L'Empire allemand y fut proclamé le 18 janvier 1871 et le traité de Versailles, qui met fin à la Première Guerre mondiale, y fut signé le 28 juin 1919.",
+        "wiki": "Galerie des Glaces"
+      }
+    },
+    {
+      "q": "Combien d'années a duré le règne de Louis XIV ?",
+      "choix": ["72 ans", "54 ans", "45 ans", "63 ans"],
+      "fiche": {
+        "titre": "Règne de Louis XIV",
+        "texte": "Le règne de Louis XIV s'étend de 1643 à 1715, soit 72 ans : c'est le plus long de l'histoire de France et l'un des plus longs de l'histoire européenne. Le roi meurt à Versailles le 1er septembre 1715, après avoir survécu à son fils et à son petit-fils. C'est donc son arrière-petit-fils, âgé de cinq ans, qui lui succède sous le nom de Louis XV. Ce règne exceptionnel a donné son nom au « Grand Siècle » et incarne la monarchie absolue.",
+        "wiki": "Louis XIV"
+      }
+    },
+    {
+      "q": "Qui a dessiné les jardins du château de Versailles ?",
+      "choix": ["André Le Nôtre", "Louis Le Vau", "Jules Hardouin-Mansart", "Charles Le Brun"],
+      "fiche": {
+        "titre": "André Le Nôtre",
+        "texte": "André Le Nôtre est un jardinier et paysagiste français, nommé jardinier du roi Louis XIV. Il est le grand maître du jardin à la française, caractérisé par la symétrie, les perspectives monumentales, les parterres géométriques et les bassins. À partir des années 1660, il conçoit les jardins de Versailles, avec le Grand Canal et ses longues allées. On lui doit aussi les jardins des Tuileries à Paris ou ceux de Chantilly. Les autres noms proposés sont ceux d'architectes et d'un peintre de Versailles.",
+        "wiki": "André Le Nôtre"
+      }
+    },
+    {
+      "q": "Quel âge avait Louis XIV lorsqu'il est devenu roi ?",
+      "choix": ["4 ans", "10 ans", "13 ans", "18 ans"],
+      "fiche": {
+        "titre": "Minorité de Louis XIV",
+        "texte": "Né le 5 septembre 1638 à Saint-Germain-en-Laye, Louis XIV est le fils de Louis XIII et d'Anne d'Autriche. À la mort de son père, le 14 mai 1643, il devient roi à seulement 4 ans. Sa mère exerce alors la régence, en s'appuyant sur le cardinal Mazarin, principal ministre. Louis XIV est sacré à Reims en 1654, mais il ne commence véritablement son règne personnel qu'en 1661, à la mort de Mazarin, en décidant de gouverner sans principal ministre.",
+        "wiki": "Louis XIV"
+      }
+    },
+    {
+      "q": "Quel ministre de Louis XIV, contrôleur général des finances, a développé les manufactures royales ?",
+      "choix": ["Jean-Baptiste Colbert", "Nicolas Fouquet", "Louvois", "Mazarin"],
+      "fiche": {
+        "titre": "Jean-Baptiste Colbert",
+        "texte": "Jean-Baptiste Colbert est l'un des principaux ministres de Louis XIV, contrôleur général des finances à partir de 1665 et secrétaire d'État à la Marine. Il mène une politique économique dite mercantiliste, appelée aussi colbertisme, visant à enrichir le royaume en développant les exportations. Il encourage les manufactures royales, comme celle des Gobelins, crée la Compagnie des Indes orientales en 1664 et renforce la marine. Il fonde également l'Académie des sciences en 1666. Il meurt en 1683.",
+        "wiki": "Jean-Baptiste Colbert"
+      }
+    },
+    {
+      "q": "Quelle révolte secoue le royaume entre 1648 et 1653, pendant la jeunesse de Louis XIV ?",
+      "choix": ["La Fronde", "La Jacquerie", "La Ligue", "La guerre des Camisards"],
+      "fiche": {
+        "titre": "La Fronde",
+        "texte": "La Fronde est une période de troubles qui agite la France de 1648 à 1653, pendant la minorité de Louis XIV. Elle oppose au pouvoir royal et au cardinal Mazarin d'abord le parlement de Paris, puis de grands seigneurs comme le prince de Condé. Dans la nuit du 5 au 6 janvier 1649, la famille royale doit fuir Paris pour Saint-Germain-en-Laye. Cette expérience marque durablement le jeune roi, qui en conçoit une méfiance envers Paris et les grands du royaume.",
+        "wiki": "Fronde (histoire)"
+      }
+    },
+    {
+      "q": "Quel château de Nicolas Fouquet, inauguré par une fête fastueuse en 1661, inspira Versailles ?",
+      "choix": ["Vaux-le-Vicomte", "Chantilly", "Fontainebleau", "Maisons-Laffitte"],
+      "fiche": {
+        "titre": "Château de Vaux-le-Vicomte",
+        "texte": "Le château de Vaux-le-Vicomte, situé en Seine-et-Marne, a été construit pour Nicolas Fouquet, surintendant des finances de Louis XIV. Il est l'œuvre de l'architecte Louis Le Vau, du peintre Charles Le Brun et du jardinier André Le Nôtre. Le 17 août 1661, Fouquet y offre au roi une fête somptueuse ; quelques semaines plus tard, il est arrêté à Nantes par d'Artagnan et condamné. Louis XIV reprend ensuite la même équipe d'artistes pour transformer Versailles.",
+        "wiki": "Château de Vaux-le-Vicomte"
+      }
+    },
+    {
+      "q": "Quelle femme Louis XIV a-t-il épousée secrètement après la mort de la reine ?",
+      "choix": ["Madame de Maintenon", "Madame de Montespan", "Louise de La Vallière", "Madame de Sévigné"],
+      "fiche": {
+        "titre": "Madame de Maintenon",
+        "texte": "Françoise d'Aubigné, marquise de Maintenon, est veuve du poète Paul Scarron lorsqu'elle devient la gouvernante des enfants que Louis XIV a eus avec Madame de Montespan. Après la mort de la reine Marie-Thérèse en 1683, le roi l'épouse secrètement, probablement la même année, sans qu'elle soit jamais reine. Pieuse et influente, elle incarne la période plus austère de la fin du règne. Elle fonde en 1686 la Maison royale de Saint-Louis, à Saint-Cyr, pour l'éducation des jeunes filles nobles et pauvres.",
+        "wiki": "Madame de Maintenon"
+      }
+    },
+    {
+      "q": "En quelle année Louis XIV installe-t-il officiellement la cour et le gouvernement à Versailles ?",
+      "choix": ["1682", "1661", "1643", "1715"],
+      "fiche": {
+        "titre": "Château de Versailles",
+        "texte": "Le château de Versailles est à l'origine un modeste pavillon de chasse construit pour Louis XIII. Louis XIV le fait agrandir considérablement à partir de 1661, puis y installe officiellement la cour et le gouvernement le 6 mai 1682. Versailles devient alors le siège du pouvoir royal et le cadre d'une étiquette rigoureuse qui permet au roi de contrôler la noblesse. La cour y demeure jusqu'en octobre 1789, à l'exception de la période de la Régence. Le château est inscrit au patrimoine mondial de l'Unesco.",
+        "wiki": "Château de Versailles"
+      }
+    }
+  ]
+}

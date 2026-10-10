@@ -1,0 +1,99 @@
+{
+  "id": "jules-cesar",
+  "titre": "Jules César et la fin de la République romaine",
+  "categorie": "Histoire",
+  "emoji": "🏛️",
+  "accroche": "Du Rubicon aux ides de mars, suivez le général qui fit vaciller la République romaine.",
+  "questions": [
+    {
+      "q": "Quel cours d'eau César franchit-il en 49 av. J.-C. en déclenchant la guerre civile ?",
+      "choix": ["Le Rubicon", "Le Tibre", "Le Pô", "Le Rhin"],
+      "fiche": {
+        "titre": "Rubicon",
+        "texte": "Le Rubicon est un petit fleuve côtier du nord de l'Italie qui marquait, à la fin de la République romaine, la limite entre la province de Gaule cisalpine et l'Italie proprement dite. Aucun général n'avait le droit de le franchir à la tête de son armée. En le traversant avec ses légions en janvier 49 av. J.-C., Jules César défie le Sénat et déclenche la guerre civile. Selon l'historien Suétone, il aurait alors prononcé « Alea jacta est », « le sort en est jeté ». « Franchir le Rubicon » signifie prendre une décision irréversible.",
+        "wiki": "Rubicon"
+      }
+    },
+    {
+      "q": "Quelle reine d'Égypte fut la compagne de Jules César ?",
+      "choix": ["Cléopâtre", "Néfertiti", "Bérénice", "Hatchepsout"],
+      "fiche": {
+        "titre": "Cléopâtre VII",
+        "texte": "Cléopâtre VII est la dernière souveraine de l'Égypte ptolémaïque, dynastie d'origine macédonienne. En conflit avec son frère Ptolémée XIII, elle obtient le soutien de Jules César, arrivé à Alexandrie en 48 av. J.-C., dont elle devient la compagne. Elle lui donne un fils, Ptolémée XV, surnommé Césarion. Après la mort de César, elle s'allie à Marc Antoine. Vaincus par la flotte romaine à la bataille d'Actium en 31 av. J.-C., les deux amants se suicident, et l'Égypte devient une province romaine.",
+        "wiki": "Cléopâtre VII"
+      }
+    },
+    {
+      "q": "Quel chef gaulois capitule devant César après le siège d'Alésia en 52 av. J.-C. ?",
+      "choix": ["Vercingétorix", "Ambiorix", "Brennus", "Dumnorix"],
+      "fiche": {
+        "titre": "Vercingétorix",
+        "texte": "Vercingétorix est un chef du peuple gaulois des Arvernes, établi dans l'actuelle Auvergne. En 52 av. J.-C., il prend la tête d'une vaste coalition de peuples gaulois révoltés contre Rome et inflige à César une défaite à Gergovie. Assiégé dans l'oppidum d'Alésia, il voit échouer l'armée de secours gauloise et finit par se rendre. Emmené à Rome et retenu captif pendant plusieurs années, il est exhibé lors du triomphe de César en 46 av. J.-C., puis exécuté. Il est devenu une figure héroïque de l'histoire de France.",
+        "wiki": "Vercingétorix"
+      }
+    },
+    {
+      "q": "À quel conjuré la tradition attribue-t-elle la phrase de César « Toi aussi, mon fils ! » ?",
+      "choix": ["Brutus", "Cassius", "Marc Antoine", "Cicéron"],
+      "fiche": {
+        "titre": "Marcus Junius Brutus",
+        "texte": "Marcus Junius Brutus est un homme politique romain, attaché aux institutions républicaines, que César avait épargné et favorisé malgré son ralliement au camp adverse pendant la guerre civile. Avec Cassius, il est l'un des principaux meneurs de la conjuration qui assassine César en 44 av. J.-C. Selon Suétone, le dictateur, en le voyant parmi ses agresseurs, lui aurait dit en grec « Toi aussi, mon enfant ? », phrase popularisée en latin sous la forme « Tu quoque, mi fili ». Brutus se suicide après sa défaite à Philippes en 42 av. J.-C.",
+        "wiki": "Marcus Junius Brutus"
+      }
+    },
+    {
+      "q": "Quel jour du calendrier romain Jules César est-il assassiné ?",
+      "choix": ["Aux ides de mars", "Aux calendes de janvier", "Aux nones d'avril", "Aux ides de septembre"],
+      "fiche": {
+        "titre": "Ides de mars",
+        "texte": "Dans le calendrier romain, les ides désignent le milieu du mois : les ides de mars correspondent au 15 mars. C'est ce jour-là, en 44 av. J.-C., que Jules César, nommé dictateur à vie quelques semaines plus tôt, est assassiné en pleine séance du Sénat par un groupe de conjurés qui le frappent de vingt-trois coups de poignard. Selon la tradition, un haruspice l'avait mis en garde contre un danger menaçant ce jour-là. L'expression est devenue synonyme de complot et de trahison.",
+        "wiki": "Ides de mars"
+      }
+    },
+    {
+      "q": "Quel ouvrage Jules César a-t-il écrit pour raconter ses campagnes en Gaule ?",
+      "choix": ["La Guerre des Gaules", "L'Énéide", "Les Métamorphoses", "De la République"],
+      "fiche": {
+        "titre": "Commentaires sur la Guerre des Gaules",
+        "texte": "Les « Commentaires sur la Guerre des Gaules » sont un ouvrage en latin dans lequel Jules César relate ses campagnes militaires en Gaule, de 58 à 52 av. J.-C. Rédigés à la troisième personne dans un style clair et sobre, ils servent aussi la propagande de leur auteur auprès de l'opinion romaine. Le texte compte sept livres écrits par César, complétés par un huitième dû à son officier Aulus Hirtius. Sa première phrase est célèbre : « La Gaule, dans son ensemble, est divisée en trois parties ».",
+        "wiki": "Commentaires sur la Guerre des Gaules"
+      }
+    },
+    {
+      "q": "Avec qui César forme-t-il le premier triumvirat, vers 60 av. J.-C. ?",
+      "choix": ["Pompée et Crassus", "Marc Antoine et Lépide", "Cicéron et Caton", "Sylla et Marius"],
+      "fiche": {
+        "titre": "Premier triumvirat",
+        "texte": "Le premier triumvirat est l'alliance politique privée conclue vers 60 av. J.-C. entre trois hommes ambitieux : Jules César, le général Pompée et le richissime Crassus. Elle permet à César d'obtenir le consulat puis le commandement de la Gaule. Le pacte se fragilise après la mort de Julie, fille de César et épouse de Pompée, puis disparaît avec celle de Crassus, tué face aux Parthes à Carrhes en 53 av. J.-C. L'opposition entre César et Pompée mène ensuite à la guerre civile.",
+        "wiki": "Premier triumvirat"
+      }
+    },
+    {
+      "q": "Qui César désigne-t-il comme principal héritier et fils adoptif dans son testament ?",
+      "choix": ["Octave", "Marc Antoine", "Lépide", "Césarion"],
+      "fiche": {
+        "titre": "Octave, futur Auguste",
+        "texte": "Octave est le petit-neveu de Jules César, qui l'adopte par testament et en fait son principal héritier. À l'ouverture du testament, en 44 av. J.-C., il n'a que dix-huit ans. Il s'impose pourtant face à Marc Antoine, s'allie un temps avec lui au sein du second triumvirat, puis le bat à Actium en 31 av. J.-C. En 27 av. J.-C., le Sénat lui confère le titre d'Auguste : il devient le premier empereur romain et règne jusqu'à sa mort en 14 apr. J.-C.",
+        "wiki": "Auguste"
+      }
+    },
+    {
+      "q": "Lors de quelle bataille de 48 av. J.-C. César écrase-t-il l'armée de Pompée ?",
+      "choix": ["Pharsale", "Actium", "Zama", "Philippes"],
+      "fiche": {
+        "titre": "Bataille de Pharsale",
+        "texte": "La bataille de Pharsale se déroule le 9 août 48 av. J.-C. en Thessalie, en Grèce. Malgré son infériorité numérique, Jules César y remporte une victoire décisive sur l'armée de Pompée, soutenue par une grande partie du Sénat. Pompée s'enfuit en Égypte, où il est assassiné sur ordre des conseillers du jeune roi Ptolémée XIII. La guerre civile se poursuit encore plusieurs années en Afrique et en Espagne, mais Pharsale assure à César la domination du monde romain.",
+        "wiki": "Bataille de Pharsale"
+      }
+    },
+    {
+      "q": "Après quelle victoire de 47 av. J.-C. César aurait-il résumé sa campagne par « Veni, vidi, vici » ?",
+      "choix": ["Zéla", "Munda", "Thapsus", "Alésia"],
+      "fiche": {
+        "titre": "Veni, vidi, vici",
+        "texte": "« Veni, vidi, vici », « Je suis venu, j'ai vu, j'ai vaincu », est une formule latine attribuée à Jules César. Selon Plutarque et Suétone, elle résume sa victoire éclair remportée en 47 av. J.-C. à Zéla, dans le royaume du Pont, en Asie Mineure, sur le roi Pharnace II, fils de Mithridate VI. César aurait employé la formule dans une lettre à un ami de Rome, et elle fut affichée lors de son triomphe célébrant cette campagne. Elle exprime la rapidité d'une réussite.",
+        "wiki": "Veni, vidi, vici"
+      }
+    }
+  ]
+}

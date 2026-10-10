@@ -1,0 +1,99 @@
+{
+  "id": "pharaons",
+  "titre": "L'Égypte des pharaons",
+  "categorie": "Histoire",
+  "emoji": "🏺",
+  "accroche": "Pyramides, hiéroglyphes et dieux à tête d'animal : remontez le Nil au temps des pharaons.",
+  "questions": [
+    {
+      "q": "Quel fleuve a permis l'essor de la civilisation égyptienne ?",
+      "choix": ["Le Nil", "L'Euphrate", "Le Tigre", "Le Jourdain"],
+      "fiche": {
+        "titre": "Nil",
+        "texte": "Le Nil est l'un des plus longs fleuves du monde, qui traverse l'Égypte du sud au nord avant de se jeter dans la Méditerranée par un vaste delta. Dans l'Antiquité, sa crue annuelle, d'été et d'automne, déposait sur ses rives un limon noir et fertile qui permettait l'agriculture au milieu du désert. L'historien grec Hérodote a ainsi qualifié l'Égypte de « don du Nil ». Le fleuve servait aussi de grande voie de circulation pour les hommes, les marchandises et les blocs de pierre des monuments.",
+        "wiki": "Nil"
+      }
+    },
+    {
+      "q": "Pour quel pharaon la Grande Pyramide de Gizeh a-t-elle été construite ?",
+      "choix": ["Khéops", "Djéser", "Snéfrou", "Thoutmôsis III"],
+      "fiche": {
+        "titre": "Pyramide de Khéops",
+        "texte": "La pyramide de Khéops, ou Grande Pyramide de Gizeh, a été bâtie vers 2560 av. J.-C. pour le pharaon Khéops, de la IVe dynastie. Haute à l'origine d'environ 146 mètres, elle est restée pendant près de quatre mille ans la plus haute construction humaine. Elle forme avec les pyramides de Khéphren et de Mykérinos, ainsi que le Sphinx, le célèbre site de Gizeh, près du Caire. C'est la seule des Sept Merveilles du monde antique encore debout aujourd'hui.",
+        "wiki": "Pyramide de Khéops"
+      }
+    },
+    {
+      "q": "Quel pharaon a une tombe presque intacte découverte en 1922 par Howard Carter ?",
+      "choix": ["Toutânkhamon", "Séthi Ier", "Aménophis III", "Ramsès III"],
+      "fiche": {
+        "titre": "Toutânkhamon",
+        "texte": "Toutânkhamon est un pharaon de la XVIIIe dynastie, monté sur le trône enfant et mort vers l'âge de dix-neuf ans, vers 1323 av. J.-C. Pharaon de second plan, il doit sa célébrité à la découverte de sa tombe dans la Vallée des Rois par l'archéologue britannique Howard Carter, en novembre 1922, grâce au financement de Lord Carnarvon. Presque intacte, elle contenait des milliers d'objets, dont le célèbre masque funéraire en or. La découverte a nourri la légende de la « malédiction du pharaon ».",
+        "wiki": "Toutânkhamon"
+      }
+    },
+    {
+      "q": "Quel savant français a déchiffré les hiéroglyphes en 1822 ?",
+      "choix": ["Jean-François Champollion", "Auguste Mariette", "Gaston Maspero", "Vivant Denon"],
+      "fiche": {
+        "titre": "Jean-François Champollion",
+        "texte": "Jean-François Champollion est un égyptologue français né à Figeac en 1790 et mort en 1832. Passionné de langues anciennes, il travaille notamment sur les inscriptions de la pierre de Rosette, qui présente un même texte en hiéroglyphes, en démotique et en grec. En 1822, dans sa « Lettre à M. Dacier », il expose sa méthode de déchiffrement des hiéroglyphes, montrant qu'ils combinent signes phonétiques et signes idéographiques. Il est considéré comme le père de l'égyptologie.",
+        "wiki": "Jean-François Champollion"
+      }
+    },
+    {
+      "q": "Dans quel musée la pierre de Rosette est-elle conservée ?",
+      "choix": ["Le British Museum", "Le musée du Louvre", "Le Musée égyptien du Caire", "Le Metropolitan Museum"],
+      "fiche": {
+        "titre": "Pierre de Rosette",
+        "texte": "La pierre de Rosette est un fragment de stèle gravé en 196 av. J.-C. d'un décret en l'honneur du roi Ptolémée V, rédigé en hiéroglyphes, en démotique et en grec ancien. Elle a été découverte en 1799 par des soldats français de l'expédition d'Égypte, près de la ville de Rosette, dans le delta du Nil. Après la défaite française, elle est remise aux Britanniques en 1801 et exposée au British Museum de Londres depuis 1802. Elle a joué un rôle clé dans le déchiffrement des hiéroglyphes.",
+        "wiki": "Pierre de Rosette"
+      }
+    },
+    {
+      "q": "Quel est le dieu du Soleil dans la religion de l'Égypte antique ?",
+      "choix": ["Râ", "Osiris", "Thot", "Ptah"],
+      "fiche": {
+        "titre": "Râ",
+        "texte": "Râ, ou Rê, est le dieu du Soleil dans la religion égyptienne antique et l'une de ses divinités les plus importantes. Souvent représenté avec une tête de faucon surmontée du disque solaire, il traverse le ciel le jour à bord d'une barque, puis voyage la nuit dans le monde souterrain avant de renaître chaque matin. Son principal centre de culte était Héliopolis. À partir de la IVe dynastie, les pharaons portent le titre de « fils de Râ ».",
+        "wiki": "Rê"
+      }
+    },
+    {
+      "q": "Quel dieu à tête de chacal préside à l'embaumement des morts ?",
+      "choix": ["Anubis", "Horus", "Seth", "Sobek"],
+      "fiche": {
+        "titre": "Anubis",
+        "texte": "Anubis est un dieu funéraire de l'Égypte antique, représenté sous la forme d'un chacal noir ou d'un homme à tête de chacal. Protecteur des nécropoles, il est le dieu de l'embaumement et de la momification : les prêtres embaumeurs portaient parfois un masque à son effigie. Il guide les défunts dans l'au-delà et supervise la pesée du cœur, au cours de laquelle le cœur du mort est comparé à la plume de Maât, déesse de la vérité et de la justice.",
+        "wiki": "Anubis"
+      }
+    },
+    {
+      "q": "Quelle femme a régné comme pharaon et fait bâtir un temple à Deir el-Bahari ?",
+      "choix": ["Hatchepsout", "Néfertiti", "Néfertari", "Cléopâtre VII"],
+      "fiche": {
+        "titre": "Hatchepsout",
+        "texte": "Hatchepsout est une reine de la XVIIIe dynastie qui a régné comme pharaon au XVe siècle av. J.-C. D'abord régente pour le jeune Thoutmôsis III, elle prend elle-même le titre de pharaon et se fait souvent représenter avec les attributs masculins de la royauté, dont la barbe postiche. Son règne, prospère, est marqué par une célèbre expédition vers le pays de Pount. Son temple funéraire en terrasses de Deir el-Bahari, près de Louxor, est l'un des chefs-d'œuvre de l'architecture égyptienne.",
+        "wiki": "Hatchepsout"
+      }
+    },
+    {
+      "q": "Quel pharaon a fait creuser les temples d'Abou Simbel, en Nubie ?",
+      "choix": ["Ramsès II", "Séthi Ier", "Thoutmôsis III", "Aménophis III"],
+      "fiche": {
+        "titre": "Abou Simbel",
+        "texte": "Abou Simbel est un site du sud de l'Égypte, en Nubie, où Ramsès II a fait creuser dans la falaise deux temples au XIIIe siècle av. J.-C. Le grand temple est gardé par quatre colosses assis du pharaon, hauts d'une vingtaine de mètres ; le petit est dédié à la déesse Hathor et à la reine Néfertari. Menacés par le lac de retenue du haut barrage d'Assouan, les temples ont été découpés et déplacés entre 1964 et 1968, lors d'une campagne internationale menée sous l'égide de l'Unesco.",
+        "wiki": "Abou Simbel"
+      }
+    },
+    {
+      "q": "Quelle nouvelle capitale le pharaon Akhenaton a-t-il fondée en l'honneur du dieu Aton ?",
+      "choix": ["Akhetaton", "Thèbes", "Memphis", "Héliopolis"],
+      "fiche": {
+        "titre": "Akhetaton",
+        "texte": "Akhetaton, l'« horizon d'Aton », est la capitale fondée au XIVe siècle av. J.-C. par le pharaon Akhenaton, de la XVIIIe dynastie. Ce souverain, né Aménophis IV, impose le culte du disque solaire Aton au détriment des autres dieux, notamment Amon, dont le clergé était très puissant à Thèbes. Construite en Moyenne-Égypte, sur le site actuel de Tell el-Amarna, la ville est abandonnée peu après la mort du roi. On y a découvert le célèbre buste de la reine Néfertiti, son épouse.",
+        "wiki": "Akhetaton"
+      }
+    }
+  ]
+}

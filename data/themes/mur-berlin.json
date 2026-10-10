@@ -1,0 +1,99 @@
+{
+  "id": "mur-berlin",
+  "titre": "Le mur de Berlin",
+  "categorie": "Histoire",
+  "emoji": "🧱",
+  "accroche": "Une ville coupée en deux pendant la guerre froide, jusqu'à une nuit de novembre historique.",
+  "questions": [
+    {
+      "q": "Quel État a fait construire le mur de Berlin ?",
+      "choix": ["La RDA", "L'URSS", "La RFA", "La Pologne"],
+      "fiche": {
+        "titre": "République démocratique allemande",
+        "texte": "La République démocratique allemande, ou RDA, est l'État communiste créé en 1949 dans la zone d'occupation soviétique de l'Allemagne, couramment appelé Allemagne de l'Est. Membre du bloc soviétique, elle voit des millions de ses habitants fuir vers l'Ouest, souvent en passant par Berlin, ville elle-même partagée entre les quatre puissances victorieuses. Pour stopper cette hémorragie, le régime fait construire autour de Berlin-Ouest un mur qu'il présente comme un « rempart de protection antifasciste ». La RDA disparaît lors de la réunification allemande, le 3 octobre 1990.",
+        "wiki": "République démocratique allemande"
+      }
+    },
+    {
+      "q": "En quelle année le mur de Berlin est-il tombé ?",
+      "choix": ["1989", "1987", "1990", "1991"],
+      "fiche": {
+        "titre": "Chute du mur de Berlin",
+        "texte": "La chute du mur de Berlin survient dans la nuit du 9 au 10 novembre 1989. Sous la pression des manifestations et de l'exode de ses citoyens, le régime est-allemand annonce, de façon confuse, l'ouverture des frontières. Des milliers de Berlinois de l'Est se pressent alors aux points de passage, que les gardes finissent par ouvrir. Les scènes de liesse font le tour du monde. Cet événement symbolise la fin de la guerre froide et ouvre la voie à la réunification allemande, effective le 3 octobre 1990.",
+        "wiki": "Chute du mur de Berlin"
+      }
+    },
+    {
+      "q": "Quel président américain a déclaré « Ich bin ein Berliner » devant la foule de Berlin-Ouest ?",
+      "choix": ["John F. Kennedy", "Ronald Reagan", "Richard Nixon", "Dwight D. Eisenhower"],
+      "fiche": {
+        "titre": "Ich bin ein Berliner",
+        "texte": "« Ich bin ein Berliner », « Je suis un Berlinois », est une phrase prononcée en allemand par le président américain John F. Kennedy le 26 juin 1963, devant l'hôtel de ville de Schöneberg, à Berlin-Ouest. Devant une foule immense, il affirme la solidarité des États-Unis avec la population de la ville, enclave occidentale au cœur de l'Allemagne de l'Est. Ce discours, l'un des plus célèbres de la guerre froide, est devenu un symbole de la défense du monde libre face au bloc communiste.",
+        "wiki": "Ich bin ein Berliner"
+      }
+    },
+    {
+      "q": "En quelle année le mur de Berlin a-t-il été érigé ?",
+      "choix": ["1961", "1949", "1953", "1968"],
+      "fiche": {
+        "titre": "Mur de Berlin",
+        "texte": "Le mur de Berlin est érigé à partir de la nuit du 12 au 13 août 1961 par les autorités est-allemandes, sur ordre du dirigeant Walter Ulbricht et avec l'accord de Moscou. D'abord constitué de barbelés, il est rapidement remplacé par un mur de béton, puis renforcé par une « bande de la mort » surveillée par des miradors. Long d'environ 155 kilomètres autour de Berlin-Ouest, il sépare des familles entières. Surnommé à l'Ouest le « mur de la honte », il devient le symbole de la guerre froide.",
+        "wiki": "Mur de Berlin"
+      }
+    },
+    {
+      "q": "Quel célèbre point de passage du mur était réservé aux étrangers et aux militaires alliés ?",
+      "choix": ["Checkpoint Charlie", "Alexanderplatz", "Potsdamer Platz", "Tempelhof"],
+      "fiche": {
+        "titre": "Checkpoint Charlie",
+        "texte": "Checkpoint Charlie est le plus célèbre point de passage entre Berlin-Ouest et Berlin-Est, situé sur la Friedrichstraße, dans le secteur américain. Il était réservé aux étrangers, aux diplomates et aux membres des forces alliées. En octobre 1961, des chars américains et soviétiques s'y font face pendant plusieurs heures, l'un des moments les plus tendus de la guerre froide. Sa guérite et son panneau « Vous quittez le secteur américain » sont aujourd'hui une attraction touristique, à côté d'un musée consacré au mur.",
+        "wiki": "Checkpoint Charlie"
+      }
+    },
+    {
+      "q": "À quel dirigeant Ronald Reagan lance-t-il en 1987 : « Abattez ce mur ! » ?",
+      "choix": ["Mikhaïl Gorbatchev", "Leonid Brejnev", "Nikita Khrouchtchev", "Iouri Andropov"],
+      "fiche": {
+        "titre": "Mikhaïl Gorbatchev",
+        "texte": "Le 12 juin 1987, devant la porte de Brandebourg à Berlin-Ouest, le président américain Ronald Reagan interpelle le dirigeant soviétique : « Monsieur Gorbatchev, abattez ce mur ! ». Arrivé à la tête de l'URSS en 1985, Mikhaïl Gorbatchev mène une politique de réformes, la perestroïka, et de transparence, la glasnost. En refusant d'intervenir militairement dans les pays d'Europe de l'Est en 1989, il rend possible la chute des régimes communistes. Il reçoit le prix Nobel de la paix en 1990.",
+        "wiki": "Mikhaïl Gorbatchev"
+      }
+    },
+    {
+      "q": "Comment s'appelle la plus longue portion du mur encore debout, couverte de fresques ?",
+      "choix": ["East Side Gallery", "Mauerpark", "Topographie de la terreur", "Tiergarten"],
+      "fiche": {
+        "titre": "East Side Gallery",
+        "texte": "L'East Side Gallery est une portion du mur de Berlin longue d'environ 1,3 kilomètre, située le long de la Spree, dans le quartier de Friedrichshain. C'est le plus long tronçon du mur encore debout. En 1990, plus d'une centaine d'artistes venus de nombreux pays l'ont recouvert de fresques, formant l'une des plus grandes galeries d'art en plein air du monde. Parmi les œuvres les plus célèbres figure « Le Baiser fraternel » de Dmitri Vrubel, représentant l'étreinte de deux dirigeants communistes.",
+        "wiki": "East Side Gallery"
+      }
+    },
+    {
+      "q": "Quel dirigeant de la RDA affirmait en janvier 1989 que le mur existerait encore dans 50 ou 100 ans ?",
+      "choix": ["Erich Honecker", "Walter Ulbricht", "Egon Krenz", "Wilhelm Pieck"],
+      "fiche": {
+        "titre": "Erich Honecker",
+        "texte": "Erich Honecker est le principal dirigeant de la RDA de 1971 à 1989, à la tête du parti communiste est-allemand, le SED. Responsable de la construction du mur en 1961 en tant que secrétaire chargé de la sécurité, il en reste un défenseur intransigeant. En janvier 1989, il déclare que le mur existera encore dans 50 et même 100 ans. Dépassé par l'exode massif et les manifestations, il est écarté du pouvoir le 18 octobre 1989 et remplacé par Egon Krenz, quelques semaines avant la chute du mur.",
+        "wiki": "Erich Honecker"
+      }
+    },
+    {
+      "q": "Quel porte-parole du régime annonce par erreur, le 9 novembre 1989, l'ouverture immédiate des frontières ?",
+      "choix": ["Günter Schabowski", "Egon Krenz", "Hans Modrow", "Erich Mielke"],
+      "fiche": {
+        "titre": "Günter Schabowski",
+        "texte": "Günter Schabowski est un membre du bureau politique du SED, chargé de l'information. Le 9 novembre 1989, lors d'une conférence de presse retransmise en direct, il annonce une nouvelle réglementation autorisant les voyages à l'étranger. Interrogé par un journaliste sur sa date d'entrée en vigueur, il répond, après avoir consulté ses notes, qu'elle s'applique « immédiatement, sans délai ». Cette annonce précipitée provoque l'afflux des Berlinois de l'Est aux points de passage dès le soir même et conduit à l'ouverture du mur.",
+        "wiki": "Günter Schabowski"
+      }
+    },
+    {
+      "q": "Quel jeune Allemand de l'Est, abattu en 1962, agonisa au pied du mur sans recevoir de secours ?",
+      "choix": ["Peter Fechter", "Chris Gueffroy", "Conrad Schumann", "Ida Siekmann"],
+      "fiche": {
+        "titre": "Peter Fechter",
+        "texte": "Peter Fechter est un jeune maçon est-allemand de dix-huit ans qui tente de franchir le mur de Berlin le 17 août 1962, près de Checkpoint Charlie. Touché par les tirs des gardes-frontières, il s'effondre dans la zone frontalière, côté est, et agonise pendant près d'une heure sans que personne ne lui porte secours, sous les yeux de témoins et de photographes à l'Ouest. Sa mort suscite une vive indignation internationale. On estime qu'au moins 140 personnes sont mortes au mur de Berlin entre 1961 et 1989.",
+        "wiki": "Peter Fechter"
+      }
+    }
+  ]
+}
