@@ -3,7 +3,7 @@
   "short_name": "Culture G",
   "description": "Un quiz de culture générale par jour, sur un thème précis, avec des fiches pour retenir.",
   "lang": "fr",
-  "id": "./",
+  "id": "culture-du-jour",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
