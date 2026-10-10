@@ -1,0 +1,99 @@
+{
+  "id": "capitales-afrique",
+  "titre": "Les capitales africaines",
+  "categorie": "Géographie",
+  "emoji": "🌍",
+  "accroche": "Du Caire à Asmara, saurez-vous placer les capitales des 54 pays du continent africain ?",
+  "questions": [
+    {
+      "q": "Quelle est la capitale de l'Égypte ?",
+      "choix": ["Le Caire", "Alexandrie", "Louxor", "Assouan"],
+      "fiche": {
+        "titre": "Le Caire",
+        "texte": "Le Caire est la capitale de l'Égypte et l'une des plus grandes agglomérations d'Afrique et du monde arabe. Située sur les rives du Nil, juste en amont de son delta, la ville a été fondée au Xe siècle par la dynastie fatimide. Son vieux centre islamique est inscrit au patrimoine mondial de l'UNESCO. À proximité immédiate se dressent les pyramides de Gizeh, seule des Sept Merveilles du monde antique encore debout.",
+        "wiki": "Le Caire"
+      }
+    },
+    {
+      "q": "Quelle ville est la capitale du Maroc ?",
+      "choix": ["Rabat", "Casablanca", "Marrakech", "Fès"],
+      "fiche": {
+        "titre": "Rabat",
+        "texte": "Rabat est la capitale du Maroc, où siègent le palais royal, le gouvernement et le Parlement. Située sur la côte atlantique, à l'embouchure du Bouregreg, elle fait face à la ville de Salé. Elle ne doit pas être confondue avec Casablanca, plus peuplée et principal pôle économique du pays. Rabat est connue pour la tour Hassan, la kasbah des Oudayas et le mausolée Mohammed V.",
+        "wiki": "Rabat"
+      }
+    },
+    {
+      "q": "Quelle est la capitale du Sénégal ?",
+      "choix": ["Dakar", "Saint-Louis", "Thiès", "Ziguinchor"],
+      "fiche": {
+        "titre": "Dakar",
+        "texte": "Dakar est la capitale du Sénégal, située sur la presqu'île du Cap-Vert, point le plus occidental de l'Afrique continentale. Elle a succédé à Saint-Louis comme capitale de l'Afrique-Occidentale française au début du XXe siècle. Face à la ville se trouve l'île de Gorée, haut lieu de la mémoire de la traite négrière. Dakar a aussi donné son nom au célèbre rallye automobile Paris-Dakar.",
+        "wiki": "Dakar"
+      }
+    },
+    {
+      "q": "Quelle ville est la capitale du Kenya ?",
+      "choix": ["Nairobi", "Mombasa", "Kisumu", "Nakuru"],
+      "fiche": {
+        "titre": "Nairobi",
+        "texte": "Nairobi est la capitale et la plus grande ville du Kenya. Née à la fin du XIXe siècle comme dépôt du chemin de fer reliant Mombasa à l'Ouganda, elle est devenue l'un des principaux centres économiques d'Afrique de l'Est. Elle accueille le siège du Programme des Nations unies pour l'environnement. Particularité rare, un parc national peuplé de lions et de girafes s'étend aux portes de la ville.",
+        "wiki": "Nairobi"
+      }
+    },
+    {
+      "q": "Ouagadougou est la capitale de quel pays ?",
+      "choix": ["Burkina Faso", "Mali", "Niger", "Bénin"],
+      "fiche": {
+        "titre": "Ouagadougou",
+        "texte": "Ouagadougou est la capitale du Burkina Faso, pays enclavé d'Afrique de l'Ouest anciennement appelé Haute-Volta. Ancienne cité royale de l'empire mossi, elle reste le siège du Mogho Naba, souverain traditionnel des Mossis. La ville est réputée pour sa vie culturelle : elle accueille le FESPACO, grand festival panafricain du cinéma, ainsi que le Salon international de l'artisanat de Ouagadougou (SIAO).",
+        "wiki": "Ouagadougou"
+      }
+    },
+    {
+      "q": "Quelle ville a remplacé Lagos comme capitale du Nigeria en 1991 ?",
+      "choix": ["Abuja", "Kano", "Ibadan", "Port Harcourt"],
+      "fiche": {
+        "titre": "Abuja",
+        "texte": "Abuja est la capitale du Nigeria depuis 1991, date à laquelle elle a officiellement remplacé Lagos. Construite de toutes pièces au centre du pays, elle a été choisie pour sa position neutre entre les grandes régions ethniques et religieuses du Nigeria. Le site est dominé par l'Aso Rock, un imposant monolithe granitique. Lagos demeure toutefois la plus grande ville et la capitale économique du pays.",
+        "wiki": "Abuja"
+      }
+    },
+    {
+      "q": "Quelle capitale accueille le siège de l'Union africaine ?",
+      "choix": ["Addis-Abeba", "Nairobi", "Kigali", "Accra"],
+      "fiche": {
+        "titre": "Addis-Abeba",
+        "texte": "Addis-Abeba est la capitale de l'Éthiopie et le siège de l'Union africaine, qui a succédé en 2002 à l'Organisation de l'unité africaine fondée dans la même ville en 1963. Fondée à la fin du XIXe siècle par l'empereur Ménélik II, son nom signifie « nouvelle fleur » en amharique. Perchée à plus de 2 000 mètres d'altitude, c'est l'une des capitales les plus élevées du monde.",
+        "wiki": "Addis-Abeba"
+      }
+    },
+    {
+      "q": "Quelle est la capitale officielle de la Côte d'Ivoire ?",
+      "choix": ["Yamoussoukro", "Abidjan", "Bouaké", "Korhogo"],
+      "fiche": {
+        "titre": "Yamoussoukro",
+        "texte": "Yamoussoukro est la capitale politique et administrative de la Côte d'Ivoire depuis 1983. Ville natale du premier président Félix Houphouët-Boigny, elle a été choisie par celui-ci pour succéder à Abidjan, qui reste néanmoins la capitale économique et la plus grande ville du pays. Yamoussoukro abrite la basilique Notre-Dame-de-la-Paix, inspirée de Saint-Pierre de Rome et comptée parmi les plus grandes églises du monde.",
+        "wiki": "Yamoussoukro"
+      }
+    },
+    {
+      "q": "Quelle ville est la capitale officielle de la Tanzanie ?",
+      "choix": ["Dodoma", "Dar es Salam", "Arusha", "Zanzibar"],
+      "fiche": {
+        "titre": "Dodoma",
+        "texte": "Dodoma est la capitale officielle de la Tanzanie. Désignée en 1973 pour remplacer Dar es Salam, jugée trop excentrée sur la côte, elle n'a accueilli que progressivement les institutions : l'Assemblée nationale y siège depuis 1996 et le gouvernement s'y est installé plus tard. Située au centre du pays, sur un plateau, la ville est entourée d'une région viticole. Dar es Salam reste le principal port et la plus grande ville.",
+        "wiki": "Dodoma"
+      }
+    },
+    {
+      "q": "Quelle capitale, réputée pour son architecture moderniste italienne, est classée à l'UNESCO ?",
+      "choix": ["Asmara", "Djibouti", "Mogadiscio", "Tripoli"],
+      "fiche": {
+        "titre": "Asmara",
+        "texte": "Asmara est la capitale de l'Érythrée, perchée sur les hauts plateaux à plus de 2 300 mètres d'altitude. Développée pendant la colonisation italienne, elle a été largement bâtie dans les années 1930 dans les styles moderniste, futuriste et Art déco. Cet ensemble exceptionnel lui a valu d'être inscrite au patrimoine mondial de l'UNESCO en 2017 sous le nom de « ville moderniste d'Afrique ». La station-service Fiat Tagliero en est le symbole.",
+        "wiki": "Asmara"
+      }
+    }
+  ]
+}

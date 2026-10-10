@@ -1,0 +1,99 @@
+{
+  "id": "prix-nobel",
+  "titre": "Les prix Nobel",
+  "categorie": "Société",
+  "emoji": "🎖️",
+  "accroche": "Savants, écrivains et artisans de paix : découvrez les lauréats et les coulisses des plus prestigieuses récompenses du monde.",
+  "questions": [
+    {
+      "q": "Quelle invention a fait la fortune d'Alfred Nobel, fondateur des prix qui portent son nom ?",
+      "choix": ["La dynamite", "La poudre à canon", "Le moteur à explosion", "Le paratonnerre"],
+      "fiche": {
+        "titre": "Dynamite",
+        "texte": "La dynamite est un explosif mis au point en 1866 et breveté en 1867 par le chimiste et industriel suédois Alfred Nobel. En absorbant la nitroglycérine, très instable, dans une terre poreuse appelée kieselguhr, il obtint un explosif bien plus sûr à manipuler. Son succès dans les mines et les grands travaux fit sa fortune. Par son testament de 1895, Nobel légua l'essentiel de ses biens à la création des prix qui portent son nom, décernés pour la première fois en 1901.",
+        "wiki": "Dynamite"
+      }
+    },
+    {
+      "q": "Quelle scientifique a reçu un prix Nobel de physique puis un prix Nobel de chimie ?",
+      "choix": ["Marie Curie", "Rosalind Franklin", "Lise Meitner", "Dorothy Hodgkin"],
+      "fiche": {
+        "titre": "Marie Curie",
+        "texte": "Marie Curie (1867-1934), née Maria Skłodowska à Varsovie, est une physicienne et chimiste naturalisée française. En 1903, elle partagea le prix Nobel de physique avec son mari Pierre Curie et Henri Becquerel pour leurs travaux sur la radioactivité, devenant la première femme lauréate. En 1911, elle reçut seule le prix Nobel de chimie pour la découverte du polonium et du radium. Elle est ainsi la première personne à avoir été récompensée dans deux disciplines scientifiques différentes.",
+        "wiki": "Marie Curie"
+      }
+    },
+    {
+      "q": "Dans quelle ville le prix Nobel de la paix est-il remis ?",
+      "choix": ["Oslo", "Stockholm", "Genève", "Copenhague"],
+      "fiche": {
+        "titre": "Prix Nobel de la paix",
+        "texte": "Le prix Nobel de la paix est décerné chaque année par un comité de cinq membres désignés par le Parlement norvégien. Contrairement aux autres prix Nobel, remis à Stockholm, il est remis à Oslo, en Norvège, le 10 décembre, jour anniversaire de la mort d'Alfred Nobel. Ce choix, voulu par Nobel lui-même dans son testament, s'explique en partie par l'union qui liait alors la Suède et la Norvège. Il a été décerné pour la première fois en 1901 à Henry Dunant et Frédéric Passy.",
+        "wiki": "Prix Nobel de la paix"
+      }
+    },
+    {
+      "q": "Quelle discipline a été ajoutée aux prix Nobel en 1968 par la banque centrale de Suède ?",
+      "choix": ["L'économie", "Les mathématiques", "L'architecture", "La musique"],
+      "fiche": {
+        "titre": "Prix Nobel d'économie",
+        "texte": "Le prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel, couramment appelé « prix Nobel d'économie », a été créé en 1968 par la Banque de Suède, à l'occasion de son tricentenaire. Il n'était donc pas prévu par le testament d'Alfred Nobel, mais il est attribué selon les mêmes règles et remis lors de la même cérémonie. Il a été décerné pour la première fois en 1969 au Norvégien Ragnar Frisch et au Néerlandais Jan Tinbergen.",
+        "wiki": "Prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel"
+      }
+    },
+    {
+      "q": "Quel écrivain français a refusé le prix Nobel de littérature en 1964 ?",
+      "choix": ["Jean-Paul Sartre", "Albert Camus", "André Gide", "François Mauriac"],
+      "fiche": {
+        "titre": "Jean-Paul Sartre",
+        "texte": "Jean-Paul Sartre (1905-1980) est un philosophe et écrivain français, figure majeure de l'existentialisme, auteur de « La Nausée » et de « L'Être et le Néant ». En 1964, il refusa le prix Nobel de littérature qui venait de lui être attribué, expliquant qu'il avait toujours décliné les distinctions officielles et qu'un écrivain ne devait pas se laisser transformer en institution. Il reste l'un des rares lauréats à avoir volontairement refusé cette récompense.",
+        "wiki": "Jean-Paul Sartre"
+      }
+    },
+    {
+      "q": "Pour quelle découverte Albert Einstein a-t-il reçu le prix Nobel de physique de 1921 ?",
+      "choix": ["L'effet photoélectrique", "La relativité générale", "La relativité restreinte", "La formule E = mc²"],
+      "fiche": {
+        "titre": "Albert Einstein",
+        "texte": "Albert Einstein (1879-1955) est un physicien d'origine allemande, l'un des plus grands scientifiques de l'histoire. Il a reçu le prix Nobel de physique de 1921, attribué en 1922, pour ses services rendus à la physique théorique et en particulier pour sa découverte de la loi de l'effet photoélectrique. Le comité Nobel jugea alors ses théories de la relativité trop controversées pour être récompensées. Ses travaux sur l'effet photoélectrique, publiés en 1905, ont contribué à fonder la physique quantique.",
+        "wiki": "Albert Einstein"
+      }
+    },
+    {
+      "q": "Quelle organisation a reçu le prix Nobel de la paix en 1917, en pleine Première Guerre mondiale ?",
+      "choix": ["La Croix-Rouge (CICR)", "La Société des Nations", "L'Armée du salut", "La Ligue des droits de l'homme"],
+      "fiche": {
+        "titre": "Comité international de la Croix-Rouge",
+        "texte": "Le Comité international de la Croix-Rouge (CICR) est une organisation humanitaire fondée en 1863 à Genève, à l'initiative notamment d'Henry Dunant. Il a reçu le prix Nobel de la paix en 1917, en reconnaissance de son action en faveur des prisonniers de guerre et des blessés durant la Première Guerre mondiale. Il a de nouveau été distingué en 1944 puis en 1963. Il est le gardien des Conventions de Genève, qui fondent le droit international humanitaire.",
+        "wiki": "Comité international de la Croix-Rouge"
+      }
+    },
+    {
+      "q": "Quel poète français fut le tout premier lauréat du prix Nobel de littérature, en 1901 ?",
+      "choix": ["Sully Prudhomme", "Frédéric Mistral", "Anatole France", "Romain Rolland"],
+      "fiche": {
+        "titre": "Sully Prudhomme",
+        "texte": "Sully Prudhomme (1839-1907) est un poète français, membre du mouvement parnassien et élu à l'Académie française en 1881. En 1901, il devint le premier lauréat du prix Nobel de littérature, récompensé pour une œuvre alliant idéalisme, perfection formelle et réflexion philosophique. Ce choix suscita des critiques, beaucoup estimant que le prix aurait dû revenir à Léon Tolstoï. Il est notamment l'auteur du poème « Le Vase brisé ». Il consacra une partie de son prix à la création d'un prix de poésie.",
+        "wiki": "Sully Prudhomme"
+      }
+    },
+    {
+      "q": "Quel scientifique américain a reçu le prix Nobel de chimie en 1954, puis le prix Nobel de la paix en 1962 ?",
+      "choix": ["Linus Pauling", "Robert Oppenheimer", "John Bardeen", "Frederick Sanger"],
+      "fiche": {
+        "titre": "Linus Pauling",
+        "texte": "Linus Pauling (1901-1994) est un chimiste américain, l'un des scientifiques les plus influents du XXe siècle. Il a reçu le prix Nobel de chimie en 1954 pour ses travaux sur la nature de la liaison chimique. Militant engagé contre les essais nucléaires, il obtint ensuite le prix Nobel de la paix de 1962. Il fait partie des très rares personnes doublement nobélisées, et n'a partagé aucun de ses deux prix. Il défendit aussi, de façon controversée, les vertus de la vitamine C.",
+        "wiki": "Linus Pauling"
+      }
+    },
+    {
+      "q": "Pour quelle découverte Irène et Frédéric Joliot-Curie ont-ils reçu le prix Nobel de chimie en 1935 ?",
+      "choix": ["La radioactivité artificielle", "Le neutron", "La fission nucléaire", "Le radium"],
+      "fiche": {
+        "titre": "Irène Joliot-Curie",
+        "texte": "Irène Joliot-Curie (1897-1956) est une physicienne et chimiste française, fille de Pierre et Marie Curie. Avec son mari Frédéric Joliot, elle découvrit en 1934 la radioactivité artificielle, en bombardant de l'aluminium avec des particules alpha pour produire un isotope radioactif du phosphore. Cette découverte valut au couple le prix Nobel de chimie en 1935. En 1936, Irène fut l'une des trois premières femmes à entrer dans un gouvernement français, comme sous-secrétaire d'État à la Recherche scientifique.",
+        "wiki": "Irène Joliot-Curie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "inventions",
+  "titre": "Les grandes inventions",
+  "categorie": "Sciences",
+  "emoji": "💡",
+  "accroche": "De l'imprimerie au cinéma, retrouvez les esprits ingénieux qui ont changé notre quotidien.",
+  "questions": [
+    {
+      "q": "Qui a mis au point l'imprimerie à caractères mobiles en Europe, au XVe siècle ?",
+      "choix": ["Johannes Gutenberg", "Léonard de Vinci", "Galilée", "Nicolas Copernic"],
+      "fiche": {
+        "titre": "Johannes Gutenberg",
+        "texte": "Johannes Gutenberg (vers 1400-1468) est un orfèvre et imprimeur allemand originaire de Mayence. Vers 1450, il met au point en Europe l'imprimerie à caractères mobiles métalliques, associée à une presse et à une encre adaptée. Son œuvre la plus célèbre est la Bible dite « à quarante-deux lignes », achevée vers 1455. Cette invention permit la diffusion rapide des livres et des idées, et contribua de manière décisive à la Renaissance et à la Réforme protestante.",
+        "wiki": "Johannes Gutenberg"
+      }
+    },
+    {
+      "q": "Quels frères ont inventé le cinématographe ?",
+      "choix": ["Les frères Lumière", "Les frères Montgolfier", "Les frères Wright", "Les frères Pathé"],
+      "fiche": {
+        "titre": "Frères Lumière",
+        "texte": "Auguste et Louis Lumière sont deux industriels et inventeurs lyonnais, considérés comme les pères du cinéma. En 1895, ils déposent le brevet du cinématographe, un appareil capable à la fois de filmer et de projeter des images animées. Le 28 décembre 1895, ils organisent la première projection publique et payante au Salon indien du Grand Café, boulevard des Capucines, à Paris. Parmi leurs films figure « La Sortie de l'usine Lumière à Lyon ».",
+        "wiki": "Auguste et Louis Lumière"
+      }
+    },
+    {
+      "q": "Qui a déposé en 1876 le brevet du téléphone ?",
+      "choix": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+      "fiche": {
+        "titre": "Alexander Graham Bell",
+        "texte": "Alexander Graham Bell (1847-1922) est un scientifique et inventeur d'origine écossaise, installé aux États-Unis. Le 7 mars 1876, il obtint le brevet du téléphone, déposé le 14 février, le jour même où son rival Elisha Gray présentait un document similaire. Très engagé dans l'éducation des personnes sourdes, il fonda également la société Bell Telephone Company en 1877. La paternité de l'invention reste toutefois disputée, notamment avec l'Italien Antonio Meucci.",
+        "wiki": "Alexander Graham Bell"
+      }
+    },
+    {
+      "q": "Quel Français a inventé un système d'écriture et de lecture tactile pour les aveugles ?",
+      "choix": ["Louis Braille", "Valentin Haüy", "Charles Barbier", "Charles-Michel de l'Épée"],
+      "fiche": {
+        "titre": "Louis Braille",
+        "texte": "Louis Braille (1809-1852) est un inventeur français, né à Coupvray, en Seine-et-Marne. Devenu aveugle à l'âge de trois ans à la suite d'un accident dans l'atelier de son père, il entra à l'Institution royale des jeunes aveugles à Paris. Inspiré par l'« écriture nocturne » de Charles Barbier, il mit au point un système d'écriture tactile fondé sur des combinaisons de six points en relief, publié en 1829. Ses restes ont été transférés au Panthéon en 1952.",
+        "wiki": "Louis Braille"
+      }
+    },
+    {
+      "q": "Quel savant a mis au point le premier vaccin contre la rage, en 1885 ?",
+      "choix": ["Louis Pasteur", "Robert Koch", "Edward Jenner", "Albert Calmette"],
+      "fiche": {
+        "titre": "Louis Pasteur",
+        "texte": "Louis Pasteur (1822-1895) est un chimiste et biologiste français, pionnier de la microbiologie. Le 6 juillet 1885, il administra pour la première fois son vaccin contre la rage à un être humain, le jeune Joseph Meister, mordu par un chien enragé, qui survécut. Ce succès retentissant conduisit à la création de l'Institut Pasteur, inauguré en 1888. On lui doit aussi la pasteurisation, procédé de conservation des aliments par chauffage, et la réfutation de la génération spontanée.",
+        "wiki": "Louis Pasteur"
+      }
+    },
+    {
+      "q": "Quel ingénieur écossais a considérablement perfectionné la machine à vapeur au XVIIIe siècle ?",
+      "choix": ["James Watt", "George Stephenson", "Robert Fulton", "Isambard Kingdom Brunel"],
+      "fiche": {
+        "titre": "James Watt",
+        "texte": "James Watt (1736-1819) est un ingénieur écossais dont les travaux ont joué un rôle majeur dans la révolution industrielle. En 1769, il fit breveter un condenseur séparé qui améliorait considérablement le rendement de la machine à vapeur de Newcomen. Associé à l'industriel Matthew Boulton, il produisit des machines utilisées dans les mines, les filatures et les usines. En son honneur, l'unité de puissance du Système international a été nommée le watt.",
+        "wiki": "James Watt"
+      }
+    },
+    {
+      "q": "Quel Français a réalisé la plus ancienne photographie connue, vers 1827 ?",
+      "choix": ["Nicéphore Niépce", "Louis Daguerre", "Hippolyte Bayard", "Nadar"],
+      "fiche": {
+        "titre": "Nicéphore Niépce",
+        "texte": "Nicéphore Niépce (1765-1833) est un inventeur français, considéré comme l'inventeur de la photographie. Vers 1827, depuis une fenêtre de sa maison de Saint-Loup-de-Varennes, près de Chalon-sur-Saône, il réalisa le « Point de vue du Gras », la plus ancienne photographie connue, au prix d'un temps de pose de plusieurs heures. Il appelait son procédé l'héliographie. Associé à Louis Daguerre à partir de 1829, il mourut avant l'annonce du daguerréotype en 1839.",
+        "wiki": "Nicéphore Niépce"
+      }
+    },
+    {
+      "q": "Quel physicien italien a inventé la pile électrique en 1800 ?",
+      "choix": ["Alessandro Volta", "Luigi Galvani", "André-Marie Ampère", "Michael Faraday"],
+      "fiche": {
+        "titre": "Alessandro Volta",
+        "texte": "Alessandro Volta (1745-1827) est un physicien italien, inventeur de la pile électrique en 1800. Son dispositif était constitué d'un empilement de disques de zinc et de cuivre séparés par des rondelles de carton ou de tissu imbibées d'eau salée, d'où le nom de « pile ». Cette invention fournissait pour la première fois un courant électrique continu. Napoléon Bonaparte le fit comte en reconnaissance de ses travaux, et l'unité de tension électrique, le volt, porte son nom.",
+        "wiki": "Alessandro Volta"
+      }
+    },
+    {
+      "q": "Quel ingénieur français a construit en 1769 le « fardier », premier véhicule automobile ?",
+      "choix": ["Nicolas-Joseph Cugnot", "Denis Papin", "Étienne Lenoir", "Amédée Bollée"],
+      "fiche": {
+        "titre": "Nicolas-Joseph Cugnot",
+        "texte": "Nicolas-Joseph Cugnot (1725-1804) est un ingénieur militaire français, inventeur du premier véhicule automobile. En 1769, il construisit un prototype de fardier à vapeur, un lourd chariot à trois roues destiné à tracter des pièces d'artillerie, suivi d'un second modèle en 1770. Lent et difficile à manœuvrer, le véhicule ne fut pas adopté par l'armée. Le fardier de 1770 est aujourd'hui conservé au musée des Arts et Métiers, à Paris.",
+        "wiki": "Nicolas-Joseph Cugnot"
+      }
+    },
+    {
+      "q": "Quel inventeur lyonnais a mis au point un métier à tisser programmé par cartes perforées, vers 1801 ?",
+      "choix": ["Joseph Marie Jacquard", "Jacques de Vaucanson", "Barthélemy Thimonnier", "Basile Bouchon"],
+      "fiche": {
+        "titre": "Joseph Marie Jacquard",
+        "texte": "Joseph Marie Jacquard (1752-1834) est un inventeur lyonnais, célèbre pour le métier à tisser qui porte son nom. Présenté vers 1801, ce mécanisme utilise une chaîne de cartes perforées pour commander automatiquement le levage des fils et reproduire des motifs complexes. Il améliorait les travaux antérieurs de Basile Bouchon et de Jacques de Vaucanson. Le métier Jacquard suscita d'abord l'hostilité des canuts, qui craignaient pour leur emploi. Son principe de programmation inspira plus tard les pionniers de l'informatique.",
+        "wiki": "Joseph Marie Jacquard"
+      }
+    }
+  ]
+}

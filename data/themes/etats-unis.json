@@ -1,0 +1,99 @@
+{
+  "id": "etats-unis",
+  "titre": "Les États des États-Unis",
+  "categorie": "Géographie",
+  "emoji": "🇺🇸",
+  "accroche": "De l'Alaska glacé à la Louisiane du bayou, traversez les cinquante États de l'Union.",
+  "questions": [
+    {
+      "q": "Quel est le plus vaste État des États-Unis ?",
+      "choix": ["L'Alaska", "Le Texas", "La Californie", "Le Montana"],
+      "fiche": {
+        "titre": "Alaska",
+        "texte": "L'Alaska est le plus vaste État des États-Unis, plus de deux fois plus étendu que le Texas, mais l'un des moins peuplés. Situé à l'extrémité nord-ouest de l'Amérique du Nord, séparé des autres États par le Canada, il a été acheté à l'Empire russe en 1867 puis est devenu le 49e État en 1959. Sa capitale est Juneau. Il abrite le Denali, plus haut sommet d'Amérique du Nord.",
+        "wiki": "Alaska"
+      }
+    },
+    {
+      "q": "Quel État est formé d'un archipel situé en plein océan Pacifique ?",
+      "choix": ["Hawaï", "La Floride", "L'Oregon", "La Californie"],
+      "fiche": {
+        "titre": "Hawaï",
+        "texte": "Hawaï est un État des États-Unis constitué d'un archipel volcanique situé au milieu de l'océan Pacifique. Ancien royaume indépendant renversé en 1893, il est devenu en 1959 le 50e et dernier État admis dans l'Union. Sa capitale, Honolulu, se trouve sur l'île d'Oahu, où se situe également la base de Pearl Harbor, attaquée par le Japon en 1941. L'archipel abrite des volcans très actifs, comme le Kīlauea.",
+        "wiki": "Hawaï"
+      }
+    },
+    {
+      "q": "Dans quel État se trouve Hollywood ?",
+      "choix": ["La Californie", "La Floride", "Le Nevada", "New York"],
+      "fiche": {
+        "titre": "Californie",
+        "texte": "La Californie est un État de l'ouest des États-Unis, bordé par l'océan Pacifique. C'est l'État le plus peuplé du pays et sa première puissance économique. Il abrite Hollywood, quartier de Los Angeles devenu le centre de l'industrie cinématographique américaine, ainsi que la Silicon Valley, berceau des géants de l'informatique. Sa capitale n'est ni Los Angeles ni San Francisco, mais Sacramento. La ruée vers l'or de 1848 a marqué son histoire.",
+        "wiki": "Californie"
+      }
+    },
+    {
+      "q": "Dans quel État se trouve la ville de Las Vegas ?",
+      "choix": ["Le Nevada", "L'Arizona", "L'Utah", "Le Nouveau-Mexique"],
+      "fiche": {
+        "titre": "Nevada",
+        "texte": "Le Nevada est un État de l'ouest des États-Unis, en grande partie désertique. Il est mondialement connu pour Las Vegas, capitale du jeu et du divertissement, née dans le désert de Mojave. La légalisation des jeux d'argent en 1931 a fait la fortune de l'État. Sa capitale est pourtant la modeste Carson City. Le barrage Hoover, à la frontière avec l'Arizona, et la mystérieuse base militaire de la zone 51 s'y trouvent également.",
+        "wiki": "Nevada"
+      }
+    },
+    {
+      "q": "Quelle est la capitale du Texas ?",
+      "choix": ["Austin", "Houston", "Dallas", "San Antonio"],
+      "fiche": {
+        "titre": "Austin",
+        "texte": "Austin est la capitale de l'État du Texas, où siège le Capitole texan, l'un des plus imposants du pays. Elle ne fait pourtant pas partie des deux plus grandes villes de l'État, devancée notamment par Houston. Elle doit son nom à Stephen F. Austin, surnommé le « père du Texas ». Réputée pour sa scène musicale, elle se présente comme la « capitale mondiale de la musique live » et accueille le festival South by Southwest.",
+        "wiki": "Austin (Texas)"
+      }
+    },
+    {
+      "q": "Quel État doit son nom au roi de France Louis XIV ?",
+      "choix": ["La Louisiane", "La Géorgie", "La Virginie", "La Caroline du Nord"],
+      "fiche": {
+        "titre": "Louisiane",
+        "texte": "La Louisiane est un État du sud des États-Unis, sur le golfe du Mexique. Son nom vient de la vaste colonie française baptisée en 1682 par l'explorateur Cavelier de La Salle en l'honneur du roi Louis XIV. Ce territoire fut vendu par Napoléon Bonaparte aux États-Unis en 1803. L'héritage français reste visible à La Nouvelle-Orléans et chez les Cadiens, descendants des Acadiens. Sa capitale est Bâton-Rouge.",
+        "wiki": "Louisiane"
+      }
+    },
+    {
+      "q": "Quelle est la capitale de l'État de New York ?",
+      "choix": ["Albany", "New York", "Buffalo", "Rochester"],
+      "fiche": {
+        "titre": "Albany",
+        "texte": "Albany est la capitale de l'État de New York, située sur la rive ouest de l'Hudson, à environ 220 kilomètres au nord de la ville de New York. Fondée par des colons néerlandais au XVIIe siècle sous le nom de Fort Orange puis Beverwijck, elle est l'une des plus anciennes villes des États-Unis. Elle a été rebaptisée en l'honneur du duc d'York et d'Albany, futur roi Jacques II, après la prise de la colonie par les Anglais.",
+        "wiki": "Albany (New York)"
+      }
+    },
+    {
+      "q": "Quel est le plus petit État des États-Unis par la superficie ?",
+      "choix": ["Le Rhode Island", "Le Connecticut", "Le Vermont", "Le New Hampshire"],
+      "fiche": {
+        "titre": "Rhode Island",
+        "texte": "Le Rhode Island est le plus petit État des États-Unis par la superficie. Situé en Nouvelle-Angleterre, sur la côte atlantique, il est profondément découpé par la baie de Narragansett. Fondé en 1636 par Roger Williams, pasteur banni du Massachusetts, il fut l'une des premières colonies à garantir la liberté religieuse. Sa capitale est Providence. Newport, célèbre pour ses somptueuses demeures de l'âge d'or, en est une ville emblématique.",
+        "wiki": "Rhode Island"
+      }
+    },
+    {
+      "q": "Quel État est le seul à posséder un drapeau qui n'est pas rectangulaire ?",
+      "choix": ["L'Ohio", "Le Texas", "Le Maryland", "L'Alabama"],
+      "fiche": {
+        "titre": "Ohio",
+        "texte": "L'Ohio est un État du Midwest des États-Unis, bordé au nord par le lac Érié. Il est le seul État américain dont le drapeau n'est pas rectangulaire : adopté en 1902, celui-ci a la forme d'un guidon à deux pointes, appelé « burgee ». Sa capitale est Columbus. Surnommé « mère des présidents », l'Ohio a vu naître sept présidents américains. Il est aussi le berceau de l'aviation, avec les frères Wright, et de l'astronaute Neil Armstrong.",
+        "wiki": "Ohio"
+      }
+    },
+    {
+      "q": "Quel État, surnommé « The First State », fut le premier à ratifier la Constitution ?",
+      "choix": ["Le Delaware", "La Pennsylvanie", "La Virginie", "Le Massachusetts"],
+      "fiche": {
+        "titre": "Delaware",
+        "texte": "Le Delaware est un petit État de la côte est des États-Unis, situé sur la péninsule de Delmarva. Le 7 décembre 1787, il est devenu le premier État à ratifier la Constitution des États-Unis, ce qui lui vaut son surnom officiel de « First State ». Sa capitale est Dover et sa plus grande ville Wilmington. Grâce à une législation très favorable, il accueille le siège juridique d'une grande partie des entreprises américaines.",
+        "wiki": "Delaware"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "jeux-olympiques",
+  "titre": "Les Jeux olympiques",
+  "categorie": "Sport",
+  "emoji": "🏅",
+  "accroche": "Des anneaux d'Olympie aux exploits légendaires, entrez dans l'arène de la plus grande fête du sport.",
+  "questions": [
+    {
+      "q": "Combien d'anneaux figurent sur le drapeau olympique ?",
+      "choix": ["Cinq", "Quatre", "Six", "Sept"],
+      "fiche": {
+        "titre": "Drapeau olympique",
+        "texte": "Le drapeau olympique représente cinq anneaux entrelacés, bleu, jaune, noir, vert et rouge, sur un fond blanc. Imaginé par Pierre de Coubertin en 1913, il a été présenté en 1914 et hissé pour la première fois lors des Jeux d'Anvers en 1920. Les cinq anneaux symbolisent l'union des continents, tandis que leurs couleurs, associées au blanc du fond, permettaient de reproduire les drapeaux de toutes les nations de l'époque. Il est aujourd'hui l'un des symboles les plus reconnus au monde.",
+        "wiki": "Drapeau olympique"
+      }
+    },
+    {
+      "q": "Qui est considéré comme le rénovateur des Jeux olympiques modernes ?",
+      "choix": ["Pierre de Coubertin", "Jules Rimet", "Henri Desgrange", "Avery Brundage"],
+      "fiche": {
+        "titre": "Pierre de Coubertin",
+        "texte": "Pierre de Coubertin (1863-1937) est un historien et pédagogue français, considéré comme le rénovateur des Jeux olympiques modernes. Convaincu des vertus éducatives du sport, il réunit en 1894 à la Sorbonne un congrès qui décide la création du Comité international olympique et le rétablissement des Jeux. Il préside le CIO de 1896 à 1925 et conçoit plusieurs symboles olympiques, dont le drapeau aux cinq anneaux. Son cœur repose dans une stèle à Olympie, en Grèce.",
+        "wiki": "Pierre de Coubertin"
+      }
+    },
+    {
+      "q": "Dans quelle ville se sont déroulés les premiers Jeux olympiques modernes, en 1896 ?",
+      "choix": ["Athènes", "Paris", "Londres", "Olympie"],
+      "fiche": {
+        "titre": "Jeux olympiques d'été de 1896",
+        "texte": "Les premiers Jeux olympiques de l'ère moderne se sont tenus à Athènes, en Grèce, du 6 au 15 avril 1896. Le choix de la capitale grecque rendait hommage aux Jeux de l'Antiquité. Environ 240 athlètes, tous masculins, venus d'une quinzaine de pays, s'y affrontèrent dans le stade panathénaïque rénové. L'épreuve la plus populaire fut le marathon, remporté par le Grec Spyrídon Loúis, devenu un héros national.",
+        "wiki": "Jeux olympiques d'été de 1896"
+      }
+    },
+    {
+      "q": "Dans quel site grec la flamme olympique est-elle allumée avant chaque édition ?",
+      "choix": ["Olympie", "Delphes", "Athènes", "Corinthe"],
+      "fiche": {
+        "titre": "Flamme olympique",
+        "texte": "La flamme olympique est allumée à Olympie, en Grèce, devant les ruines du temple d'Héra, à l'aide d'un miroir parabolique qui concentre les rayons du soleil. Elle évoque le feu sacré entretenu pendant les Jeux antiques. Apparue aux Jeux d'Amsterdam en 1928, elle est transportée depuis les Jeux de Berlin en 1936 par un relais de porteurs jusqu'à la ville hôte, où elle embrase la vasque lors de la cérémonie d'ouverture.",
+        "wiki": "Flamme olympique"
+      }
+    },
+    {
+      "q": "Quel athlète américain a remporté quatre médailles d'or aux Jeux de Berlin en 1936 ?",
+      "choix": ["Jesse Owens", "Carl Lewis", "Jim Thorpe", "Ralph Metcalfe"],
+      "fiche": {
+        "titre": "Jesse Owens",
+        "texte": "Jesse Owens (1913-1980) est un athlète afro-américain, star des Jeux olympiques de Berlin en 1936. Il y remporta quatre médailles d'or : le 100 mètres, le 200 mètres, le saut en longueur et le relais 4 × 100 mètres. Ses victoires, obtenues sous les yeux des dignitaires nazis, infligèrent un démenti éclatant à la propagande raciste du régime hitlérien. De retour aux États-Unis, il fut pourtant longtemps confronté à la ségrégation.",
+        "wiki": "Jesse Owens"
+      }
+    },
+    {
+      "q": "Quelle station française a accueilli les premiers Jeux olympiques d'hiver, en 1924 ?",
+      "choix": ["Chamonix", "Grenoble", "Albertville", "Megève"],
+      "fiche": {
+        "titre": "Jeux olympiques d'hiver de 1924",
+        "texte": "Les premiers Jeux olympiques d'hiver se sont déroulés à Chamonix, en Haute-Savoie, du 25 janvier au 5 février 1924. Organisés sous le nom de « Semaine internationale des sports d'hiver », en marge des Jeux d'été de Paris, ils ne furent reconnus officiellement comme Jeux olympiques qu'a posteriori par le CIO. Seize nations y participèrent. La première médaille d'or fut décernée au patineur de vitesse américain Charles Jewtraw.",
+        "wiki": "Jeux olympiques d'hiver de 1924"
+      }
+    },
+    {
+      "q": "Dans quelle ville se trouve le siège du Comité international olympique ?",
+      "choix": ["Lausanne", "Genève", "Paris", "Athènes"],
+      "fiche": {
+        "titre": "Comité international olympique",
+        "texte": "Le Comité international olympique (CIO) est l'organisation chargée de superviser les Jeux olympiques et le mouvement olympique. Fondé à Paris le 23 juin 1894 à l'initiative de Pierre de Coubertin, il a installé son siège à Lausanne, en Suisse, en 1915, pendant la Première Guerre mondiale. La ville abrite aussi le Musée olympique, ce qui lui vaut le surnom de « capitale olympique ». Le CIO attribue notamment l'organisation des Jeux aux villes candidates.",
+        "wiki": "Comité international olympique"
+      }
+    },
+    {
+      "q": "Quelle gymnaste a obtenu la première note parfaite de 10 de l'histoire olympique, en 1976 ?",
+      "choix": ["Nadia Comăneci", "Olga Korbut", "Larissa Latynina", "Věra Čáslavská"],
+      "fiche": {
+        "titre": "Nadia Comăneci",
+        "texte": "Nadia Comăneci est une gymnaste roumaine née en 1961. Aux Jeux de Montréal en 1976, à seulement 14 ans, elle obtint aux barres asymétriques la première note parfaite de 10 de l'histoire olympique. Le tableau d'affichage, qui n'avait pas été conçu pour afficher un tel score, indiqua « 1.00 ». Elle reçut six autres 10 durant ces Jeux et y remporta trois médailles d'or, devenant une légende de son sport.",
+        "wiki": "Nadia Comăneci"
+      }
+    },
+    {
+      "q": "En quelle année Paris a-t-elle accueilli les Jeux olympiques pour la première fois ?",
+      "choix": ["1900", "1896", "1908", "1924"],
+      "fiche": {
+        "titre": "Jeux olympiques d'été de 1900",
+        "texte": "Les Jeux olympiques de 1900, deuxièmes de l'ère moderne, se sont tenus à Paris en même temps que l'Exposition universelle. Étalées de mai à octobre, les épreuves furent souvent confondues avec les concours de l'Exposition, au point que certains athlètes ignoraient participer aux Jeux. Ces Jeux furent les premiers à accueillir des femmes : la joueuse de tennis britannique Charlotte Cooper devint la première championne olympique. Paris a de nouveau organisé les Jeux en 1924 puis en 2024.",
+        "wiki": "Jeux olympiques d'été de 1900"
+      }
+    },
+    {
+      "q": "Quel compositeur grec a écrit la musique de l'hymne olympique ?",
+      "choix": ["Spyrídon Samáras", "Mikis Theodorakis", "Vangelis", "Manos Hadjidakis"],
+      "fiche": {
+        "titre": "Hymne olympique",
+        "texte": "L'hymne olympique a été composé par le Grec Spyrídon Samáras sur un poème de Kostís Palamás. Il fut interprété pour la première fois lors de la cérémonie d'ouverture des Jeux d'Athènes en 1896. Longtemps oublié, il a été adopté officiellement par le Comité international olympique en 1958. Depuis, il retentit à chaque cérémonie d'ouverture et de clôture, au moment où le drapeau olympique est hissé ou descendu.",
+        "wiki": "Hymne olympique"
+      }
+    }
+  ]
+}

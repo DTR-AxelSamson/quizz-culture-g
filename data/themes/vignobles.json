@@ -1,0 +1,99 @@
+{
+  "id": "vignobles",
+  "titre": "Les vignobles français",
+  "categorie": "Gastronomie",
+  "emoji": "🍇",
+  "accroche": "Cépages, terroirs et grands crus : levez votre verre à la richesse des vignobles de France.",
+  "questions": [
+    {
+      "q": "Quel moine bénédictin la légende présente-t-elle comme l'inventeur du champagne ?",
+      "choix": ["Dom Pérignon", "Dom Ruinart", "Saint Vincent", "Frère Jacques"],
+      "fiche": {
+        "titre": "Dom Pérignon",
+        "texte": "Dom Pierre Pérignon (1638-1715) est un moine bénédictin, cellérier de l'abbaye d'Hautvillers, près d'Épernay. La légende lui attribue l'invention du champagne, mais les historiens lui reconnaissent surtout d'importants progrès dans l'art de l'assemblage des raisins et dans la vinification. La phrase qu'on lui prête, « Venez vite, je bois des étoiles ! », est apocryphe. Son nom a été donné à une célèbre cuvée de prestige de la maison Moët & Chandon.",
+        "wiki": "Dom Pérignon"
+      }
+    },
+    {
+      "q": "À quel vignoble appartiennent le Médoc, le Saint-Émilion et le Pomerol ?",
+      "choix": ["Le Bordelais", "La Bourgogne", "La vallée du Rhône", "La vallée de la Loire"],
+      "fiche": {
+        "titre": "Vignoble de Bordeaux",
+        "texte": "Le vignoble de Bordeaux, ou Bordelais, s'étend dans le département de la Gironde, de part et d'autre de la Garonne, de la Dordogne et de l'estuaire de la Gironde. Sur la rive gauche se trouvent le Médoc et les Graves, dominés par le cabernet sauvignon ; sur la rive droite, Saint-Émilion et Pomerol, où le merlot est majoritaire. Il est l'un des vignobles les plus réputés au monde, avec des châteaux prestigieux comme Margaux, Latour ou Pétrus.",
+        "wiki": "Vignoble de Bordeaux"
+      }
+    },
+    {
+      "q": "Quel vin primeur est mis en vente chaque troisième jeudi de novembre ?",
+      "choix": ["Le beaujolais nouveau", "Le chablis", "Le sancerre", "Le côtes-du-rhône"],
+      "fiche": {
+        "titre": "Beaujolais nouveau",
+        "texte": "Le beaujolais nouveau est un vin primeur produit dans le vignoble du Beaujolais, au nord de Lyon, à partir du cépage gamay. Vinifié rapidement, notamment par macération carbonique, il est commercialisé quelques semaines seulement après les vendanges. Depuis 1985, sa mise en vente a lieu le troisième jeudi de novembre, une date accompagnée d'opérations festives et commerciales en France comme à l'étranger. Il se boit jeune, pour ses arômes fruités évoquant souvent la banane ou les fruits rouges.",
+        "wiki": "Beaujolais nouveau"
+      }
+    },
+    {
+      "q": "Quel cépage rouge est à l'origine des grands crus rouges de Bourgogne ?",
+      "choix": ["Le pinot noir", "Le merlot", "La syrah", "Le cabernet sauvignon"],
+      "fiche": {
+        "titre": "Pinot noir",
+        "texte": "Le pinot noir est un cépage noir originaire de Bourgogne, où il est à l'origine de tous les grands crus rouges, comme la Romanée-Conti ou le Chambertin. Délicat et sensible au climat, il exprime avec finesse les nuances de son terroir. Il est également l'un des trois principaux cépages du champagne, aux côtés du chardonnay et du pinot meunier, et le seul cépage rouge autorisé en appellation alsace. Il est aujourd'hui cultivé dans de nombreux pays.",
+        "wiki": "Pinot noir"
+      }
+    },
+    {
+      "q": "Quel vin du Jura vieillit plus de six ans en fût sous un voile de levures ?",
+      "choix": ["Le vin jaune", "Le vin de paille", "Le macvin", "Le crémant du Jura"],
+      "fiche": {
+        "titre": "Vin jaune",
+        "texte": "Le vin jaune est un vin blanc du Jura issu exclusivement du cépage savagnin. Il vieillit au moins six ans et trois mois en fût de chêne, sans ouillage : un voile de levures se forme à la surface du vin et le protège d'une oxydation excessive, tout en lui conférant des arômes caractéristiques de noix et d'épices. Il est commercialisé dans une bouteille spécifique de 62 centilitres, le clavelin. L'appellation Château-Chalon en est l'expression la plus réputée.",
+        "wiki": "Vin jaune"
+      }
+    },
+    {
+      "q": "Quelle appellation de la vallée du Rhône doit son nom à la résidence d'été des papes d'Avignon ?",
+      "choix": ["Châteauneuf-du-pape", "Gigondas", "Vacqueyras", "Tavel"],
+      "fiche": {
+        "titre": "Châteauneuf-du-pape",
+        "texte": "Le châteauneuf-du-pape est un vin de la vallée du Rhône méridionale, produit autour de la commune du même nom, dans le Vaucluse. Son nom rappelle le château construit au XIVe siècle par le pape Jean XXII, qui en fit sa résidence d'été à l'époque où la papauté siégeait à Avignon. Dominé par le grenache, il peut assembler plus d'une dizaine de cépages. Il fut l'une des premières appellations d'origine contrôlée reconnues en France, en 1936.",
+        "wiki": "Châteauneuf-du-pape (AOC)"
+      }
+    },
+    {
+      "q": "Quel cépage blanc d'Alsace est réputé pour ses arômes de litchi et de rose ?",
+      "choix": ["Le gewurztraminer", "Le riesling", "Le sylvaner", "Le pinot blanc"],
+      "fiche": {
+        "titre": "Gewurztraminer",
+        "texte": "Le gewurztraminer est un cépage blanc à la peau rosée, emblématique du vignoble d'Alsace. Son nom vient de l'allemand « gewürz », qui signifie épicé, et de son ancêtre le traminer. Il donne des vins très aromatiques, aux notes caractéristiques de litchi, de rose et d'épices, souvent ronds et parfois légèrement sucrés. Il fait partie des cépages autorisés pour les grands crus d'Alsace et se prête bien aux vendanges tardives.",
+        "wiki": "Gewurztraminer"
+      }
+    },
+    {
+      "q": "Quel insecte venu d'Amérique a ravagé le vignoble français à partir des années 1860 ?",
+      "choix": ["Le phylloxéra", "Le doryphore", "La cochenille", "Le hanneton"],
+      "fiche": {
+        "titre": "Phylloxéra",
+        "texte": "Le phylloxéra est un petit insecte proche du puceron, originaire d'Amérique du Nord, qui s'attaque aux racines de la vigne. Introduit accidentellement en Europe, il est repéré dans le Gard au début des années 1860, puis détruit en quelques décennies la majeure partie du vignoble français. Le botaniste Jules-Émile Planchon l'identifie en 1868. La solution fut de greffer les cépages européens sur des porte-greffes américains, naturellement résistants, une pratique toujours en vigueur aujourd'hui.",
+        "wiki": "Phylloxéra"
+      }
+    },
+    {
+      "q": "Quel champignon est responsable de la « pourriture noble » qui donne naissance au sauternes ?",
+      "choix": ["Botrytis cinerea", "Penicillium roqueforti", "Saccharomyces cerevisiae", "Plasmopara viticola"],
+      "fiche": {
+        "titre": "Botrytis cinerea",
+        "texte": "Botrytis cinerea est un champignon microscopique qui s'attaque à de nombreuses plantes, dont la vigne. Par temps humide, il provoque la pourriture grise, néfaste aux récoltes. Mais lorsque des matinées brumeuses alternent avec des après-midi ensoleillés, il se développe sous la forme de « pourriture noble » : il concentre les sucres et les arômes des raisins. Cette forme est recherchée pour l'élaboration de grands vins liquoreux, comme le sauternes ou le tokaji hongrois.",
+        "wiki": "Botrytis cinerea"
+      }
+    },
+    {
+      "q": "Quel est le seul premier grand cru du classement de 1855 situé hors du Médoc ?",
+      "choix": ["Château Haut-Brion", "Château Margaux", "Château Latour", "Château Lafite Rothschild"],
+      "fiche": {
+        "titre": "Château Haut-Brion",
+        "texte": "Le château Haut-Brion est un domaine viticole situé à Pessac, au sud-ouest de Bordeaux, dans l'appellation Pessac-Léognan, au sein des Graves. Lors du classement officiel des vins de Bordeaux établi pour l'Exposition universelle de 1855, il fut le seul vin hors du Médoc classé parmi les premiers grands crus, aux côtés de Lafite, Latour et Margaux. Sa réputation est ancienne : dès 1663, l'Anglais Samuel Pepys mentionnait dans son journal ce vin de « Ho Bryan ».",
+        "wiki": "Château Haut-Brion"
+      }
+    }
+  ]
+}

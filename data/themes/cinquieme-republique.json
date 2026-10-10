@@ -1,0 +1,99 @@
+{
+  "id": "cinquieme-republique",
+  "titre": "La Ve République",
+  "categorie": "Société",
+  "emoji": "🇫🇷",
+  "accroche": "Constitution, institutions et grands tournants politiques : plongez au cœur du régime né en 1958.",
+  "questions": [
+    {
+      "q": "Qui fut le premier président de la Ve République ?",
+      "choix": ["Charles de Gaulle", "René Coty", "Georges Pompidou", "Vincent Auriol"],
+      "fiche": {
+        "titre": "Charles de Gaulle",
+        "texte": "Charles de Gaulle (1890-1970) est un militaire et homme d'État français, chef de la France libre pendant la Seconde Guerre mondiale. Rappelé au pouvoir en 1958 en pleine crise algérienne, il fit adopter une nouvelle Constitution et devint le premier président de la Ve République, élu en décembre 1958. Réélu en 1965 au suffrage universel direct, il démissionna en avril 1969 après l'échec d'un référendum sur la régionalisation et la réforme du Sénat.",
+        "wiki": "Charles de Gaulle"
+      }
+    },
+    {
+      "q": "En quelle année la Constitution de la Ve République a-t-elle été promulguée ?",
+      "choix": ["1958", "1946", "1962", "1968"],
+      "fiche": {
+        "titre": "Constitution du 4 octobre 1958",
+        "texte": "La Constitution de la Ve République a été massivement approuvée par référendum le 28 septembre 1958, puis promulguée le 4 octobre 1958. Rédigée à la demande du général de Gaulle, elle renforce considérablement le pouvoir exécutif, en réaction à l'instabilité gouvernementale de la IVe République. Elle a été révisée à de nombreuses reprises depuis, notamment en 1962, en 2000 et en 2008. Son préambule renvoie à la Déclaration des droits de l'homme de 1789.",
+        "wiki": "Constitution française du 4 octobre 1958"
+      }
+    },
+    {
+      "q": "Quelle est la durée du mandat présidentiel en France depuis 2002 ?",
+      "choix": ["5 ans", "7 ans", "4 ans", "6 ans"],
+      "fiche": {
+        "titre": "Quinquennat",
+        "texte": "Le quinquennat désigne le mandat présidentiel de cinq ans, qui a remplacé le septennat en vigueur depuis 1873. Il a été instauré par le référendum du 24 septembre 2000, approuvé par environ 73 % des votants mais marqué par une très forte abstention. Jacques Chirac, réélu en 2002, fut le premier président élu pour cinq ans. La réduction du mandat visait notamment à limiter les risques de cohabitation en alignant la durée du mandat présidentiel sur celle de la législature.",
+        "wiki": "Référendum constitutionnel français de 2000"
+      }
+    },
+    {
+      "q": "Dans quel palais parisien siège le Sénat ?",
+      "choix": ["Le palais du Luxembourg", "Le palais Bourbon", "Le palais de l'Élysée", "L'hôtel de Matignon"],
+      "fiche": {
+        "titre": "Palais du Luxembourg",
+        "texte": "Le palais du Luxembourg, situé dans le 6e arrondissement de Paris, est le siège du Sénat. Il a été construit au début du XVIIe siècle pour la reine Marie de Médicis, veuve d'Henri IV, qui souhaitait une résidence rappelant le palais Pitti de sa Florence natale. Il est entouré par le célèbre jardin du Luxembourg. Le Sénat, chambre haute du Parlement, est élu au suffrage universel indirect, tandis que l'Assemblée nationale siège au palais Bourbon.",
+        "wiki": "Palais du Luxembourg"
+      }
+    },
+    {
+      "q": "Quel article de la Constitution permet au gouvernement de faire adopter un texte sans vote, sauf motion de censure ?",
+      "choix": ["L'article 49.3", "L'article 16", "L'article 89", "L'article 11"],
+      "fiche": {
+        "titre": "Article 49 alinéa 3",
+        "texte": "L'article 49, alinéa 3, de la Constitution permet au Premier ministre d'engager la responsabilité du gouvernement devant l'Assemblée nationale sur le vote d'un texte. Celui-ci est alors considéré comme adopté sans vote, sauf si une motion de censure, déposée dans les 24 heures, est votée par la majorité absolue des députés, ce qui entraîne la chute du gouvernement. Depuis la révision de 2008, son usage est limité aux textes budgétaires et à un autre texte par session.",
+        "wiki": "Article 49 de la Constitution de la Cinquième République française"
+      }
+    },
+    {
+      "q": "Quelle réforme a été adoptée par le référendum d'octobre 1962 ?",
+      "choix": ["Le président élu au suffrage direct", "Le passage au quinquennat", "La création des régions", "Le droit de vote à 18 ans"],
+      "fiche": {
+        "titre": "Référendum de 1962",
+        "texte": "Le référendum du 28 octobre 1962 a instauré l'élection du président de la République au suffrage universel direct. Proposé par le général de Gaulle après l'attentat du Petit-Clamart, auquel il avait échappé en août 1962, il fut approuvé par environ 62 % des votants. Le recours à l'article 11 pour réviser la Constitution suscita une vive opposition parlementaire et le vote d'une motion de censure contre le gouvernement Pompidou. La première élection présidentielle au suffrage direct eut lieu en 1965.",
+        "wiki": "Référendum constitutionnel français de 1962"
+      }
+    },
+    {
+      "q": "Qui fut le premier Premier ministre de la Ve République ?",
+      "choix": ["Michel Debré", "Georges Pompidou", "Jacques Chaban-Delmas", "Maurice Couve de Murville"],
+      "fiche": {
+        "titre": "Michel Debré",
+        "texte": "Michel Debré (1912-1996) est un homme politique français, fidèle compagnon du général de Gaulle. Garde des Sceaux en 1958, il joua un rôle central dans la rédaction de la Constitution de la Ve République, dont il est considéré comme l'un des principaux inspirateurs. Il devint le premier Premier ministre du nouveau régime en janvier 1959 et le resta jusqu'en avril 1962, en pleine guerre d'Algérie. Il fut ensuite plusieurs fois ministre, notamment de l'Économie et de la Défense.",
+        "wiki": "Michel Debré"
+      }
+    },
+    {
+      "q": "Qui fut nommé Premier ministre lors de la première cohabitation, en 1986 ?",
+      "choix": ["Jacques Chirac", "Édouard Balladur", "Lionel Jospin", "Raymond Barre"],
+      "fiche": {
+        "titre": "Cohabitation de 1986",
+        "texte": "La première cohabitation de la Ve République débuta en mars 1986, lorsque la droite RPR-UDF remporta les élections législatives alors que le socialiste François Mitterrand était président. Ce dernier nomma Premier ministre Jacques Chirac, chef du RPR, qui resta en fonction jusqu'en 1988. Cette situation inédite, où le président et le gouvernement appartiennent à des camps opposés, se reproduisit ensuite avec Édouard Balladur de 1993 à 1995, puis avec Lionel Jospin de 1997 à 2002.",
+        "wiki": "Cohabitation en France"
+      }
+    },
+    {
+      "q": "Quel président du Sénat a assuré par deux fois l'intérim de la présidence de la République, en 1969 et en 1974 ?",
+      "choix": ["Alain Poher", "Gaston Monnerville", "René Monory", "Christian Poncelet"],
+      "fiche": {
+        "titre": "Alain Poher",
+        "texte": "Alain Poher (1909-1996) est un homme politique centriste français, président du Sénat de 1968 à 1992. En vertu de la Constitution, il assura à deux reprises l'intérim de la présidence de la République : en 1969, après la démission du général de Gaulle, puis en 1974, après la mort de Georges Pompidou. Candidat à l'élection présidentielle de 1969, il fut battu au second tour par Georges Pompidou. Il reste le seul à avoir exercé deux fois cet intérim.",
+        "wiki": "Alain Poher"
+      }
+    },
+    {
+      "q": "En quelle année l'article 16, qui confère des pouvoirs exceptionnels au président, a-t-il été appliqué ?",
+      "choix": ["1961", "1958", "1962", "1968"],
+      "fiche": {
+        "titre": "Article 16",
+        "texte": "L'article 16 de la Constitution permet au président de la République de prendre les mesures exigées par les circonstances lorsque les institutions ou l'intégrité du territoire sont menacées de manière grave et immédiate. Il n'a été mis en œuvre qu'une seule fois, par le général de Gaulle, du 23 avril au 29 septembre 1961, à la suite du putsch des généraux à Alger. Jugé controversé, son usage a été encadré par la révision constitutionnelle de 2008, qui permet au Conseil constitutionnel d'en contrôler la durée.",
+        "wiki": "Article 16 de la Constitution de la Cinquième République française"
+      }
+    }
+  ]
+}

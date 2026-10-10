@@ -1,0 +1,99 @@
+{
+  "id": "australie",
+  "titre": "L'Australie",
+  "categorie": "Géographie",
+  "emoji": "🦘",
+  "accroche": "Kangourous, récifs de corail et terre rouge : embarquez pour l'île-continent aux antipodes.",
+  "questions": [
+    {
+      "q": "Quelle est la capitale de l'Australie ?",
+      "choix": ["Canberra", "Sydney", "Melbourne", "Perth"],
+      "fiche": {
+        "titre": "Canberra",
+        "texte": "Canberra est la capitale de l'Australie, bien qu'elle soit beaucoup moins peuplée que Sydney ou Melbourne. Elle a été créée de toutes pièces au début du XXe siècle pour mettre fin à la rivalité entre ces deux grandes villes. Son plan a été dessiné par les architectes américains Walter Burley Griffin et Marion Mahony Griffin, autour d'un lac artificiel. Elle abrite le Parlement fédéral, la Haute Cour et de nombreuses institutions nationales.",
+        "wiki": "Canberra"
+      }
+    },
+    {
+      "q": "Quelle ville australienne est célèbre pour son opéra aux toits en forme de voiles ?",
+      "choix": ["Sydney", "Brisbane", "Adélaïde", "Darwin"],
+      "fiche": {
+        "titre": "Opéra de Sydney",
+        "texte": "L'Opéra de Sydney est un centre des arts du spectacle situé sur le port de Sydney, la plus grande ville d'Australie. Conçu par l'architecte danois Jørn Utzon, il a été inauguré en 1973 par la reine Élisabeth II. Ses toits en forme de coquilles ou de voiles gonflées, recouverts de tuiles blanches, en font l'un des bâtiments les plus reconnaissables du XXe siècle. Il est inscrit au patrimoine mondial de l'UNESCO depuis 2007.",
+        "wiki": "Opéra de Sydney"
+      }
+    },
+    {
+      "q": "Quel immense monolithe rouge, sacré pour les Aborigènes, se dresse au centre de l'Australie ?",
+      "choix": ["Uluru", "Kata Tjuta", "Wave Rock", "Mont Augustus"],
+      "fiche": {
+        "titre": "Uluru",
+        "texte": "Uluru, autrefois appelé Ayers Rock, est un gigantesque inselberg de grès situé dans le Territoire du Nord, au cœur du désert australien. Il s'élève d'environ 350 mètres au-dessus de la plaine et change de couleur selon la lumière, prenant des teintes rouge flamboyant au coucher du soleil. Site sacré pour le peuple aborigène Anangu, il fait partie du parc national d'Uluru-Kata Tjuta. Son ascension est interdite depuis 2019.",
+        "wiki": "Uluru"
+      }
+    },
+    {
+      "q": "Le long de quel État australien s'étend la Grande Barrière de corail ?",
+      "choix": ["Queensland", "Nouvelle-Galles du Sud", "Victoria", "Australie-Occidentale"],
+      "fiche": {
+        "titre": "Grande Barrière de corail",
+        "texte": "La Grande Barrière de corail est le plus grand ensemble de récifs coralliens du monde. Elle s'étend sur plus de 2 000 kilomètres le long de la côte nord-est de l'Australie, au large de l'État du Queensland, dans la mer de Corail. Composée de milliers de récifs et de centaines d'îles, elle abrite une biodiversité exceptionnelle. Inscrite au patrimoine mondial depuis 1981, elle est menacée par le réchauffement des océans, qui provoque le blanchissement des coraux.",
+        "wiki": "Grande Barrière de corail"
+      }
+    },
+    {
+      "q": "Quel mammifère australien pond des œufs et possède un bec de canard ?",
+      "choix": ["L'ornithorynque", "Le wombat", "Le quokka", "Le bandicoot"],
+      "fiche": {
+        "titre": "Ornithorynque",
+        "texte": "L'ornithorynque est un mammifère semi-aquatique endémique de l'est de l'Australie et de la Tasmanie. Avec son bec de canard, sa queue de castor et ses pattes palmées, il a d'abord été pris pour un canular par les naturalistes européens. Il appartient aux monotrèmes, les seuls mammifères qui pondent des œufs, avec les échidnés. Le mâle possède un aiguillon venimeux sur les pattes arrière, une particularité rarissime chez les mammifères.",
+        "wiki": "Ornithorynque"
+      }
+    },
+    {
+      "q": "Quelle île située au sud du continent forme à elle seule un État australien ?",
+      "choix": ["Tasmanie", "Île Kangourou", "Île Melville", "Île Bathurst"],
+      "fiche": {
+        "titre": "Tasmanie",
+        "texte": "La Tasmanie est une île située au sud-est du continent australien, dont elle est séparée par le détroit de Bass. Elle constitue à elle seule l'un des six États de l'Australie, avec Hobart pour capitale. Découverte par les Européens en 1642 grâce au navigateur néerlandais Abel Tasman, elle a longtemps été appelée terre de Van Diemen. Une grande partie de son territoire est couverte de forêts et de parcs naturels protégés.",
+        "wiki": "Tasmanie"
+      }
+    },
+    {
+      "q": "Quel est le plus haut sommet de l'Australie continentale ?",
+      "choix": ["Mont Kosciuszko", "Mont Townsend", "Mont Bogong", "Mont Ossa"],
+      "fiche": {
+        "titre": "Mont Kosciuszko",
+        "texte": "Le mont Kosciuszko est le plus haut sommet de l'Australie continentale, avec environ 2 228 mètres d'altitude. Il se trouve dans les Alpes australiennes, en Nouvelle-Galles du Sud, au sein du parc national qui porte son nom. Il a été baptisé en 1840 par l'explorateur polonais Paul Edmund de Strzelecki en hommage au héros national polonais Tadeusz Kościuszko. Son ascension, facile, est à la portée de simples randonneurs, ce qui en fait l'un des « sept sommets » les plus accessibles.",
+        "wiki": "Mont Kosciuszko"
+      }
+    },
+    {
+      "q": "Quel navigateur britannique a cartographié la côte est de l'Australie en 1770 ?",
+      "choix": ["James Cook", "Abel Tasman", "Matthew Flinders", "William Dampier"],
+      "fiche": {
+        "titre": "James Cook",
+        "texte": "James Cook est un navigateur et explorateur britannique du XVIIIe siècle. Lors de son premier voyage à bord de l'Endeavour, il atteignit en 1770 la côte est de l'Australie, débarqua à Botany Bay et cartographia le littoral vers le nord avant d'en revendiquer la possession pour la Couronne britannique. Il mena ensuite deux autres grandes expéditions dans le Pacifique. Il fut tué en 1779 à Hawaï lors d'un affrontement avec des habitants.",
+        "wiki": "James Cook"
+      }
+    },
+    {
+      "q": "Quel fleuve, au plus vaste bassin d'Australie, se jette dans l'océan près d'Adélaïde ?",
+      "choix": ["Le Murray", "Le Darling", "Le Murrumbidgee", "Le Lachlan"],
+      "fiche": {
+        "titre": "Murray",
+        "texte": "Le Murray est le principal fleuve d'Australie. Il prend sa source dans les Alpes australiennes et marque sur une grande partie de son cours la frontière entre la Nouvelle-Galles du Sud et le Victoria. Il reçoit le Darling et le Murrumbidgee, formant le bassin Murray-Darling, le plus vaste du pays. Il se jette dans l'océan Austral par le lac Alexandrina, au sud-est d'Adélaïde. Ses eaux sont essentielles à l'agriculture irriguée du sud-est australien.",
+        "wiki": "Murray (fleuve)"
+      }
+    },
+    {
+      "q": "Quelle ville a accueilli le Parlement fédéral australien de 1901 à 1927 ?",
+      "choix": ["Melbourne", "Sydney", "Brisbane", "Hobart"],
+      "fiche": {
+        "titre": "Melbourne",
+        "texte": "Melbourne, capitale de l'État de Victoria, a servi de siège provisoire au gouvernement et au Parlement fédéral australien de la création de la fédération, en 1901, jusqu'en 1927, date de leur installation à Canberra. Grande rivale de Sydney, elle est réputée pour sa vie culturelle, son architecture victorienne et ses tramways. Elle accueille chaque année l'Open d'Australie de tennis et a organisé les Jeux olympiques d'été de 1956.",
+        "wiki": "Melbourne"
+      }
+    }
+  ]
+}

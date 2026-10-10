@@ -1,0 +1,99 @@
+{
+  "id": "outre-mer",
+  "titre": "La France d'outre-mer",
+  "categorie": "Géographie",
+  "emoji": "🏝️",
+  "accroche": "Des Antilles au Pacifique en passant par l'océan Indien, explorez la France des quatre coins du globe.",
+  "questions": [
+    {
+      "q": "Quelle île française de l'océan Indien abrite le piton de la Fournaise ?",
+      "choix": ["La Réunion", "Mayotte", "La Martinique", "La Guadeloupe"],
+      "fiche": {
+        "titre": "La Réunion",
+        "texte": "La Réunion est une île volcanique de l'océan Indien, située dans l'archipel des Mascareignes, à l'est de Madagascar. Département et région d'outre-mer, elle a pour chef-lieu Saint-Denis. Elle abrite le piton de la Fournaise, l'un des volcans les plus actifs du monde, et le piton des Neiges, point culminant de l'océan Indien. Ses « pitons, cirques et remparts », dont les cirques de Mafate, Cilaos et Salazie, sont inscrits au patrimoine mondial de l'UNESCO.",
+        "wiki": "La Réunion"
+      }
+    },
+    {
+      "q": "Sur quel continent se trouve la Guyane, plus vaste département français ?",
+      "choix": ["Amérique du Sud", "Afrique", "Amérique du Nord", "Océanie"],
+      "fiche": {
+        "titre": "Guyane",
+        "texte": "La Guyane est une collectivité territoriale française située en Amérique du Sud, entre le Suriname et le Brésil, avec lequel la France partage ainsi sa plus longue frontière terrestre. Couverte en grande partie par la forêt amazonienne, elle est le plus vaste département français. Son chef-lieu est Cayenne. La ville de Kourou accueille le Centre spatial guyanais, d'où décollent les fusées européennes Ariane, grâce à sa situation proche de l'équateur.",
+        "wiki": "Guyane"
+      }
+    },
+    {
+      "q": "Sur quelle île la montagne Pelée a-t-elle détruit la ville de Saint-Pierre en 1902 ?",
+      "choix": ["La Martinique", "La Guadeloupe", "Saint-Martin", "Saint-Barthélemy"],
+      "fiche": {
+        "titre": "Montagne Pelée",
+        "texte": "La montagne Pelée est un volcan actif situé dans le nord de la Martinique, dont il est le point culminant. Le 8 mai 1902, son éruption a provoqué une nuée ardente qui a détruit en quelques minutes la ville de Saint-Pierre, alors capitale économique de l'île, faisant près de 30 000 morts. C'est l'une des catastrophes volcaniques les plus meurtrières du XXe siècle. Le site est inscrit au patrimoine mondial de l'UNESCO depuis 2023.",
+        "wiki": "Montagne Pelée"
+      }
+    },
+    {
+      "q": "Quel territoire des Antilles françaises est célèbre pour sa forme de papillon ?",
+      "choix": ["La Guadeloupe", "La Martinique", "Saint-Martin", "Marie-Galante"],
+      "fiche": {
+        "titre": "Guadeloupe",
+        "texte": "La Guadeloupe est un archipel des Antilles françaises, département et région d'outre-mer. Ses deux îles principales, Basse-Terre et Grande-Terre, séparées par un étroit bras de mer appelé la Rivière Salée, dessinent la forme d'un papillon. Le chef-lieu est la ville de Basse-Terre, tandis que Pointe-à-Pitre en est le principal pôle économique. L'archipel comprend aussi Marie-Galante, La Désirade et les Saintes. Le volcan de la Soufrière en est le point culminant.",
+        "wiki": "Guadeloupe"
+      }
+    },
+    {
+      "q": "Quelle ville est le chef-lieu de la Nouvelle-Calédonie ?",
+      "choix": ["Nouméa", "Papeete", "Mata-Utu", "Dzaoudzi"],
+      "fiche": {
+        "titre": "Nouméa",
+        "texte": "Nouméa est la capitale et la principale ville de la Nouvelle-Calédonie, archipel français du Pacifique Sud situé à l'est de l'Australie. Fondée en 1854 sous le nom de Port-de-France, elle se trouve sur la côte sud-ouest de la Grande Terre, l'île principale. Elle abrite le centre culturel Tjibaou, conçu par Renzo Piano et consacré à la culture kanak. Le lagon qui entoure l'archipel est l'un des plus grands du monde et est classé à l'UNESCO.",
+        "wiki": "Nouméa"
+      }
+    },
+    {
+      "q": "Sur quelle île de Polynésie française se trouve la ville de Papeete ?",
+      "choix": ["Tahiti", "Moorea", "Bora-Bora", "Raiatea"],
+      "fiche": {
+        "titre": "Tahiti",
+        "texte": "Tahiti est la plus grande et la plus peuplée des îles de la Polynésie française, dans l'archipel de la Société. Elle abrite Papeete, chef-lieu de la collectivité. L'île est formée de deux anciens volcans reliés par l'isthme de Taravao : Tahiti Nui et Tahiti Iti. Elle a été popularisée en Europe par les récits de Bougainville au XVIIIe siècle, puis par le peintre Paul Gauguin. Sa vague de Teahupoo a accueilli l'épreuve de surf des Jeux olympiques de 2024.",
+        "wiki": "Tahiti"
+      }
+    },
+    {
+      "q": "Quelle île de l'archipel des Comores est devenue un département français en 2011 ?",
+      "choix": ["Mayotte", "Anjouan", "Mohéli", "Grande Comore"],
+      "fiche": {
+        "titre": "Mayotte",
+        "texte": "Mayotte est un département français de l'océan Indien, situé dans l'archipel des Comores, entre Madagascar et le Mozambique. Lors de l'indépendance des Comores en 1975, ses habitants choisirent de rester français. Elle est devenue en 2011 le cent-unième département français. Mayotte se compose de deux îles principales, Grande-Terre et Petite-Terre, entourées d'un vaste lagon parmi les plus grands du monde. Son chef-lieu est Mamoudzou.",
+        "wiki": "Mayotte"
+      }
+    },
+    {
+      "q": "Au large de quelle île canadienne se trouve l'archipel de Saint-Pierre-et-Miquelon ?",
+      "choix": ["Terre-Neuve", "Île-du-Prince-Édouard", "Île du Cap-Breton", "Île d'Anticosti"],
+      "fiche": {
+        "titre": "Saint-Pierre-et-Miquelon",
+        "texte": "Saint-Pierre-et-Miquelon est une collectivité d'outre-mer française située dans l'océan Atlantique Nord, au large de la côte sud de Terre-Neuve, au Canada. Dernier vestige de l'ancienne Nouvelle-France en Amérique du Nord, l'archipel vit historiquement de la pêche à la morue. Il se compose principalement de l'île de Saint-Pierre, où se trouve le chef-lieu, et de Miquelon-Langlade, deux îles reliées par un isthme de sable.",
+        "wiki": "Saint-Pierre-et-Miquelon"
+      }
+    },
+    {
+      "q": "Quel archipel subantarctique français est surnommé « les îles de la Désolation » ?",
+      "choix": ["Les îles Kerguelen", "Les îles Crozet", "L'île Amsterdam", "L'île Saint-Paul"],
+      "fiche": {
+        "titre": "Îles Kerguelen",
+        "texte": "Les îles Kerguelen forment un archipel isolé du sud de l'océan Indien, rattaché aux Terres australes et antarctiques françaises. Découvertes en 1772 par le navigateur breton Yves de Kerguelen, elles ont été surnommées « îles de la Désolation » par James Cook en raison de leur climat rude et venteux. Elles n'ont pas de population permanente : seuls des scientifiques et des militaires se relaient sur la base de Port-aux-Français.",
+        "wiki": "Îles Kerguelen"
+      }
+    },
+    {
+      "q": "Quelle collectivité d'outre-mer compte trois royaumes coutumiers ?",
+      "choix": ["Wallis-et-Futuna", "Polynésie française", "Nouvelle-Calédonie", "Saint-Barthélemy"],
+      "fiche": {
+        "titre": "Wallis-et-Futuna",
+        "texte": "Wallis-et-Futuna est une collectivité d'outre-mer française située dans le Pacifique Sud, entre les Fidji et les Samoa. Elle a pour particularité de reconnaître trois royaumes coutumiers : Uvea, sur l'île de Wallis, ainsi qu'Alo et Sigave, sur l'île de Futuna. Leurs rois exercent une autorité coutumière aux côtés de l'administration française. Le chef-lieu est Mata-Utu, sur l'île de Wallis. La population est très majoritairement catholique.",
+        "wiki": "Wallis-et-Futuna"
+      }
+    }
+  ]
+}

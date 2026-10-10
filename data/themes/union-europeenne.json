@@ -1,0 +1,99 @@
+{
+  "id": "union-europeenne",
+  "titre": "L'Union européenne",
+  "categorie": "Société",
+  "emoji": "🇪🇺",
+  "accroche": "Des pères fondateurs à l'euro, testez vos connaissances sur la grande aventure de la construction européenne.",
+  "questions": [
+    {
+      "q": "Combien d'étoiles figurent sur le drapeau européen ?",
+      "choix": ["12", "15", "27", "10"],
+      "fiche": {
+        "titre": "Drapeau européen",
+        "texte": "Le drapeau européen se compose d'un cercle de douze étoiles dorées sur fond bleu. Adopté par le Conseil de l'Europe en 1955, il a été repris par les Communautés européennes en 1985. Contrairement à une idée répandue, le nombre de douze étoiles ne correspond pas au nombre d'États membres : il symbolise la perfection, la plénitude et l'unité, et il ne varie pas au gré des élargissements. Le cercle représente l'union et la solidarité entre les peuples d'Europe.",
+        "wiki": "Drapeau européen"
+      }
+    },
+    {
+      "q": "En quelle année les pièces et billets en euros sont-ils entrés en circulation ?",
+      "choix": ["2002", "1999", "1992", "2000"],
+      "fiche": {
+        "titre": "Euro",
+        "texte": "L'euro est la monnaie unique partagée par une partie des États membres de l'Union européenne. Introduit le 1er janvier 1999 sous forme scripturale, pour les transactions financières et bancaires, il a été mis en circulation sous forme de pièces et de billets le 1er janvier 2002 dans douze pays, dont la France. Il a alors remplacé les monnaies nationales, comme le franc, le mark ou la lire. Sa politique monétaire est conduite par la Banque centrale européenne, installée à Francfort.",
+        "wiki": "Euro"
+      }
+    },
+    {
+      "q": "Quel pays a quitté l'Union européenne le 31 janvier 2020 ?",
+      "choix": ["Le Royaume-Uni", "Le Danemark", "La Grèce", "La Suède"],
+      "fiche": {
+        "titre": "Brexit",
+        "texte": "Le Brexit désigne la sortie du Royaume-Uni de l'Union européenne. Lors d'un référendum organisé le 23 juin 2016, environ 52 % des votants britanniques se prononcèrent pour le départ. Après plus de trois ans de négociations difficiles, le Royaume-Uni a officiellement quitté l'Union le 31 janvier 2020, après 47 ans d'appartenance. Une période de transition s'est achevée le 31 décembre 2020. Il est le premier État membre à avoir quitté l'Union.",
+        "wiki": "Retrait du Royaume-Uni de l'Union européenne"
+      }
+    },
+    {
+      "q": "Dans quelle ville se trouve le siège officiel du Parlement européen ?",
+      "choix": ["Strasbourg", "Bruxelles", "Luxembourg", "Francfort"],
+      "fiche": {
+        "titre": "Parlement européen",
+        "texte": "Le Parlement européen est l'institution qui représente les citoyens de l'Union européenne. Son siège officiel est à Strasbourg, où se tiennent les sessions plénières mensuelles, mais ses commissions se réunissent à Bruxelles et son secrétariat général est installé à Luxembourg. Depuis 1979, ses membres sont élus au suffrage universel direct tous les cinq ans. Il partage avec le Conseil de l'Union européenne le pouvoir législatif et budgétaire.",
+        "wiki": "Parlement européen"
+      }
+    },
+    {
+      "q": "Quel compositeur a écrit la musique choisie comme hymne européen ?",
+      "choix": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Jean-Sébastien Bach", "Georg Friedrich Haendel"],
+      "fiche": {
+        "titre": "Hymne européen",
+        "texte": "L'hymne européen est tiré du prélude de « L'Ode à la joie », le dernier mouvement de la Neuvième Symphonie de Ludwig van Beethoven, composée en 1824 sur un poème de Friedrich von Schiller. Adopté par le Conseil de l'Europe en 1972, il a été repris par les Communautés européennes en 1985. Il est joué sans paroles, afin de ne privilégier aucune langue, et le chef d'orchestre Herbert von Karajan en a réalisé l'arrangement officiel.",
+        "wiki": "Hymne européen"
+      }
+    },
+    {
+      "q": "Quel traité signé en 1957 a institué la Communauté économique européenne ?",
+      "choix": ["Le traité de Rome", "Le traité de Paris", "Le traité de Bruxelles", "Le traité de Versailles"],
+      "fiche": {
+        "titre": "Traité de Rome",
+        "texte": "Les traités de Rome, signés le 25 mars 1957, ont institué la Communauté économique européenne (CEE) et la Communauté européenne de l'énergie atomique (Euratom). Ils réunissaient six pays fondateurs : la Belgique, la France, l'Italie, le Luxembourg, les Pays-Bas et la République fédérale d'Allemagne. La CEE visait à créer un marché commun reposant sur la libre circulation des marchandises, des personnes, des services et des capitaux. Elle est l'ancêtre directe de l'Union européenne.",
+        "wiki": "Traité de Rome (1957)"
+      }
+    },
+    {
+      "q": "Quel programme européen d'échanges d'étudiants porte le nom d'un humaniste de Rotterdam ?",
+      "choix": ["Erasmus", "Comenius", "Leonardo", "Socrates"],
+      "fiche": {
+        "titre": "Programme Erasmus",
+        "texte": "Erasmus est un programme d'échanges d'étudiants et d'enseignants entre universités européennes, créé en 1987. Son nom rend hommage à l'humaniste néerlandais Érasme de Rotterdam, qui étudia et enseigna dans plusieurs pays d'Europe, et forme aussi un acronyme anglais. Il a permis à plusieurs millions de jeunes d'effectuer une partie de leurs études à l'étranger. Depuis 2014, il est intégré au programme Erasmus+, élargi à la formation professionnelle, à la jeunesse et au sport.",
+        "wiki": "Programme Erasmus"
+      }
+    },
+    {
+      "q": "Quel ministre français a proposé, le 9 mai 1950, de mettre en commun le charbon et l'acier ?",
+      "choix": ["Robert Schuman", "Jean Monnet", "Georges Bidault", "Pierre Mendès France"],
+      "fiche": {
+        "titre": "Déclaration Schuman",
+        "texte": "La déclaration Schuman, prononcée le 9 mai 1950 par Robert Schuman, ministre français des Affaires étrangères, est considérée comme l'acte fondateur de la construction européenne. Inspirée par Jean Monnet, elle proposait de placer la production franco-allemande de charbon et d'acier sous une autorité commune, afin de rendre toute guerre entre les deux pays matériellement impossible. Elle déboucha en 1951 sur la Communauté européenne du charbon et de l'acier (CECA). Le 9 mai est devenu la Journée de l'Europe.",
+        "wiki": "Déclaration Schuman"
+      }
+    },
+    {
+      "q": "Qui fut la première présidente du Parlement européen élu au suffrage universel, en 1979 ?",
+      "choix": ["Simone Veil", "Christine Lagarde", "Nicole Fontaine", "Édith Cresson"],
+      "fiche": {
+        "titre": "Simone Veil",
+        "texte": "Simone Veil (1927-2017) est une femme politique française, rescapée de la Shoah. Ministre de la Santé, elle porta en 1975 la loi dépénalisant l'interruption volontaire de grossesse. En juillet 1979, après les premières élections européennes au suffrage universel direct, elle devint la première présidente du nouveau Parlement européen, fonction qu'elle occupa jusqu'en 1982. Élue à l'Académie française en 2008, elle repose au Panthéon depuis 2018 avec son époux Antoine Veil.",
+        "wiki": "Simone Veil"
+      }
+    },
+    {
+      "q": "Qui fut le premier président de la Commission de la Communauté économique européenne, en 1958 ?",
+      "choix": ["Walter Hallstein", "Jacques Delors", "Sicco Mansholt", "Paul-Henri Spaak"],
+      "fiche": {
+        "titre": "Walter Hallstein",
+        "texte": "Walter Hallstein (1901-1982) est un juriste et homme politique allemand, proche collaborateur du chancelier Konrad Adenauer. Il fut le premier président de la Commission de la Communauté économique européenne, de 1958 à 1967. Fervent partisan d'une Europe supranationale, il s'opposa au général de Gaulle lors de la « crise de la chaise vide » de 1965, durant laquelle la France boycotta les réunions du Conseil. Il est considéré comme l'un des pères fondateurs de l'Europe.",
+        "wiki": "Walter Hallstein"
+      }
+    }
+  ]
+}

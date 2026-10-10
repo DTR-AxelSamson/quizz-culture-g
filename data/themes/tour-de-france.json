@@ -1,0 +1,99 @@
+{
+  "id": "tour-de-france",
+  "titre": "Le Tour de France",
+  "categorie": "Sport",
+  "emoji": "🚴",
+  "accroche": "Cols mythiques, maillots distinctifs et duels de légende : enfourchez votre vélo pour la Grande Boucle.",
+  "questions": [
+    {
+      "q": "De quelle couleur est le maillot porté par le leader du classement général ?",
+      "choix": ["Jaune", "Vert", "Blanc", "Rouge"],
+      "fiche": {
+        "titre": "Maillot jaune",
+        "texte": "Le maillot jaune distingue le leader du classement général du Tour de France, c'est-à-dire le coureur ayant mis le moins de temps cumulé depuis le départ. Il a été introduit en 1919, et le Français Eugène Christophe fut le premier à l'endosser. Sa couleur rappelle celle du papier du journal L'Auto, organisateur de la course. Le vainqueur final du Tour est celui qui porte le maillot jaune à l'issue de la dernière étape.",
+        "wiki": "Maillot jaune"
+      }
+    },
+    {
+      "q": "Sur quelle célèbre avenue le Tour de France s'achève-t-il traditionnellement ?",
+      "choix": ["Les Champs-Élysées", "La Canebière", "La promenade des Anglais", "Le boulevard Saint-Michel"],
+      "fiche": {
+        "titre": "Avenue des Champs-Élysées",
+        "texte": "L'avenue des Champs-Élysées, à Paris, accueille traditionnellement l'arrivée de la dernière étape du Tour de France depuis 1975. Auparavant, la course se terminait au vélodrome du Parc des Princes puis à la Cipale, dans le bois de Vincennes. Les coureurs y effectuent plusieurs tours d'un circuit passant autour de l'Arc de triomphe, et l'arrivée se joue le plus souvent au sprint. En 2024, en raison des Jeux olympiques de Paris, le Tour s'est exceptionnellement achevé à Nice.",
+        "wiki": "Avenue des Champs-Élysées"
+      }
+    },
+    {
+      "q": "Que récompense le maillot blanc à pois rouges ?",
+      "choix": ["Le meilleur grimpeur", "Le meilleur sprinteur", "Le meilleur jeune", "Le plus combatif"],
+      "fiche": {
+        "titre": "Maillot à pois",
+        "texte": "Le maillot blanc à pois rouges récompense le meilleur grimpeur du Tour de France, leader du classement de la montagne. Ce classement existe depuis 1933, mais le maillot distinctif n'a été créé qu'en 1975, et le Belge Lucien Van Impe fut le premier à le remporter. Les points sont attribués aux premiers coureurs franchissant le sommet des côtes et des cols, selon leur difficulté. Les autres maillots distinctifs sont le jaune, le vert et le blanc.",
+        "wiki": "Maillot à pois"
+      }
+    },
+    {
+      "q": "Comment surnomme-t-on le coureur classé dernier du classement général ?",
+      "choix": ["La lanterne rouge", "La voiture-balai", "Le porteur d'eau", "Le gruppetto"],
+      "fiche": {
+        "titre": "Lanterne rouge",
+        "texte": "La lanterne rouge désigne le coureur classé dernier au classement général du Tour de France. L'expression fait référence à la lampe rouge accrochée à l'arrière du dernier wagon des trains. Bien qu'il n'existe aucun maillot pour la distinguer, cette place suscite une certaine sympathie du public, car elle récompense paradoxalement l'endurance d'un coureur qui a terminé l'épreuve malgré les difficultés. Il ne faut pas la confondre avec la voiture-balai, qui ferme la course.",
+        "wiki": "Lanterne rouge (cyclisme)"
+      }
+    },
+    {
+      "q": "Quel sommet est surnommé « le Géant de Provence » ?",
+      "choix": ["Le mont Ventoux", "Le col du Galibier", "Le col du Tourmalet", "L'Alpe d'Huez"],
+      "fiche": {
+        "titre": "Mont Ventoux",
+        "texte": "Le mont Ventoux est un sommet du Vaucluse culminant à 1 910 mètres, surnommé « le Géant de Provence ». Isolé et souvent balayé par le mistral, il est célèbre pour son sommet pelé et caillouteux qui évoque un paysage lunaire. Son ascension figure parmi les plus redoutées du Tour de France. Le 13 juillet 1967, le coureur britannique Tom Simpson y mourut d'épuisement ; une stèle lui rend hommage près du sommet.",
+        "wiki": "Mont Ventoux"
+      }
+    },
+    {
+      "q": "En quelle année s'est déroulé le premier Tour de France ?",
+      "choix": ["1903", "1896", "1911", "1919"],
+      "fiche": {
+        "titre": "Tour de France 1903",
+        "texte": "Le premier Tour de France a été disputé du 1er au 19 juillet 1903. Créé par le journal L'Auto pour accroître ses ventes face à son concurrent Le Vélo, il comptait six étapes pour environ 2 400 kilomètres, reliant Paris, Lyon, Marseille, Toulouse, Bordeaux et Nantes. Les étapes, très longues, se couraient en partie de nuit. Le départ fut donné devant l'auberge du Réveil-Matin, à Montgeron, au sud de Paris.",
+        "wiki": "Tour de France 1903"
+      }
+    },
+    {
+      "q": "Quel coureur fut le premier à remporter cinq fois le Tour de France ?",
+      "choix": ["Jacques Anquetil", "Eddy Merckx", "Bernard Hinault", "Miguel Indurain"],
+      "fiche": {
+        "titre": "Jacques Anquetil",
+        "texte": "Jacques Anquetil (1934-1987) est un coureur cycliste normand, premier à avoir remporté cinq fois le Tour de France, en 1957 puis de 1961 à 1964. Spécialiste du contre-la-montre, il bâtissait ses victoires grâce à sa supériorité dans l'effort solitaire. Sa rivalité avec Raymond Poulidor passionna la France, notamment lors de leur duel au puy de Dôme en 1964. Il fut aussi le premier à gagner les trois grands tours.",
+        "wiki": "Jacques Anquetil"
+      }
+    },
+    {
+      "q": "Quel Français a perdu le Tour 1989 pour seulement 8 secondes face à Greg LeMond ?",
+      "choix": ["Laurent Fignon", "Bernard Hinault", "Raymond Poulidor", "Charly Mottet"],
+      "fiche": {
+        "titre": "Laurent Fignon",
+        "texte": "Laurent Fignon (1960-2010) est un coureur cycliste français, vainqueur du Tour de France en 1983 et 1984. En 1989, il portait le maillot jaune au départ du dernier contre-la-montre entre Versailles et Paris, avec 50 secondes d'avance sur l'Américain Greg LeMond. Ce dernier, équipé d'un guidon de triathlète, lui reprit 58 secondes et s'imposa pour 8 secondes, le plus petit écart de l'histoire de l'épreuve.",
+        "wiki": "Laurent Fignon"
+      }
+    },
+    {
+      "q": "Quel journaliste, directeur de L'Auto, fut le fondateur et premier directeur du Tour ?",
+      "choix": ["Henri Desgrange", "Jacques Goddet", "Géo Lefèvre", "Pierre Giffard"],
+      "fiche": {
+        "titre": "Henri Desgrange",
+        "texte": "Henri Desgrange (1865-1940) est un coureur cycliste et journaliste français, directeur du quotidien sportif L'Auto. Sur une idée de son collaborateur Géo Lefèvre, il lança en 1903 le Tour de France, dont il fut le directeur jusqu'en 1936, avant de passer le relais à Jacques Goddet. Réputé pour son exigence envers les coureurs, il introduisit le maillot jaune en 1919. Il avait aussi établi en 1893 le premier record de l'heure officiel.",
+        "wiki": "Henri Desgrange"
+      }
+    },
+    {
+      "q": "Qui a remporté la première édition du Tour de France ?",
+      "choix": ["Maurice Garin", "Henri Cornet", "Lucien Petit-Breton", "Octave Lapize"],
+      "fiche": {
+        "titre": "Maurice Garin",
+        "texte": "Maurice Garin (1871-1957) est le vainqueur du premier Tour de France, en 1903. Né en Vallée d'Aoste, en Italie, et naturalisé français, il était surnommé « le petit ramoneur » en souvenir de son premier métier. Il remporta trois des six étapes et termina avec près de trois heures d'avance sur son dauphin. Vainqueur sur la route de l'édition 1904, il fut déclassé pour tricherie, au profit d'Henri Cornet.",
+        "wiki": "Maurice Garin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "echecs",
+  "titre": "Les échecs",
+  "categorie": "Jeux",
+  "emoji": "♟️",
+  "accroche": "Soixante-quatre cases, trente-deux pièces et des siècles de stratégie : à vous de jouer !",
+  "questions": [
+    {
+      "q": "Combien de cases compte un échiquier ?",
+      "choix": ["64", "36", "81", "100"],
+      "fiche": {
+        "titre": "Échiquier",
+        "texte": "L'échiquier est le plateau sur lequel se joue une partie d'échecs. Il se compose de 64 cases, disposées en huit rangées de huit et alternativement claires et foncées. Les colonnes sont désignées par les lettres de a à h et les rangées par les chiffres de 1 à 8, ce qui permet de noter chaque coup. Selon la règle, l'échiquier doit être placé de façon que chaque joueur ait une case claire dans son coin inférieur droit.",
+        "wiki": "Échiquier"
+      }
+    },
+    {
+      "q": "Quelle pièce se déplace en formant un « L » ?",
+      "choix": ["Le cavalier", "Le fou", "La tour", "Le roi"],
+      "fiche": {
+        "titre": "Cavalier (échecs)",
+        "texte": "Le cavalier est une pièce du jeu d'échecs, généralement représentée par une tête de cheval. Il se déplace en formant un « L » : deux cases dans une direction, puis une case perpendiculairement. C'est la seule pièce capable de sauter par-dessus les autres, qu'elles soient amies ou ennemies. Chaque joueur en possède deux en début de partie, placés entre la tour et le fou. Le cavalier change de couleur de case à chaque déplacement.",
+        "wiki": "Cavalier (échecs)"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on la position où le roi est attaqué sans pouvoir s'échapper, ce qui met fin à la partie ?",
+      "choix": ["L'échec et mat", "Le pat", "Le roque", "La prise en passant"],
+      "fiche": {
+        "titre": "Échec et mat",
+        "texte": "L'échec et mat est la situation dans laquelle le roi est attaqué sans qu'aucun coup ne permette de le soustraire à cette menace. Le joueur mis échec et mat perd immédiatement la partie : c'est le but ultime du jeu d'échecs. L'expression vient du persan « shâh mât », souvent traduit par « le roi est mort » ou « le roi est sans défense ». Le mat le plus rapide possible peut survenir dès le deuxième coup des Noirs.",
+        "wiki": "Échec et mat"
+      }
+    },
+    {
+      "q": "Quel coup spécial permet de déplacer en même temps le roi et une tour ?",
+      "choix": ["Le roque", "La promotion", "Le fianchetto", "Le gambit"],
+      "fiche": {
+        "titre": "Roque",
+        "texte": "Le roque est un coup spécial du jeu d'échecs qui permet de déplacer simultanément le roi et une tour. Le roi se déplace de deux cases vers la tour, qui passe ensuite de l'autre côté du roi. On distingue le petit roque, côté roi, et le grand roque, côté dame. Il n'est autorisé que si ni le roi ni la tour concernée n'ont encore bougé, si aucune pièce ne les sépare et si le roi n'est pas en échec ni ne traverse une case attaquée.",
+        "wiki": "Roque (échecs)"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on la situation où un joueur, sans être en échec, n'a aucun coup légal à jouer ?",
+      "choix": ["Le pat", "Le mat", "Le zugzwang", "L'échec perpétuel"],
+      "fiche": {
+        "titre": "Pat",
+        "texte": "Le pat est la situation dans laquelle le joueur dont c'est le tour n'a aucun coup légal à sa disposition, alors que son roi n'est pas en échec. Contrairement au mat, le pat met fin à la partie sur un résultat nul. Il constitue souvent une ressource défensive précieuse pour le camp en difficulté, qui peut ainsi sauver une partie apparemment perdue. Le pat survient le plus fréquemment en finale, lorsqu'il reste peu de pièces sur l'échiquier.",
+        "wiki": "Pat (échecs)"
+      }
+    },
+    {
+      "q": "Quel joueur américain a battu Boris Spassky à Reykjavik en 1972 pour devenir champion du monde ?",
+      "choix": ["Bobby Fischer", "Paul Morphy", "Samuel Reshevsky", "Hikaru Nakamura"],
+      "fiche": {
+        "titre": "Bobby Fischer",
+        "texte": "Bobby Fischer (1943-2008) est un joueur d'échecs américain, onzième champion du monde. En 1972, à Reykjavik, en Islande, il battit le Soviétique Boris Spassky lors d'un match devenu un symbole de la guerre froide, mettant fin à une domination soviétique ininterrompue depuis 1948. Génie précoce et personnalité tourmentée, il refusa de défendre son titre en 1975 face à Anatoli Karpov, qui fut déclaré champion par forfait. Fischer vécut ensuite largement retiré du monde.",
+        "wiki": "Bobby Fischer"
+      }
+    },
+    {
+      "q": "Quel ordinateur d'IBM a battu le champion du monde Garry Kasparov en 1997 ?",
+      "choix": ["Deep Blue", "Watson", "AlphaZero", "Stockfish"],
+      "fiche": {
+        "titre": "Deep Blue",
+        "texte": "Deep Blue est un superordinateur conçu par IBM spécialement pour jouer aux échecs. En mai 1997, à New York, il battit le champion du monde Garry Kasparov par 3,5 points à 2,5 lors d'un match en six parties. C'était la première fois qu'un ordinateur battait un champion du monde en titre dans un match aux conditions de tournoi. Un an plus tôt, Kasparov avait remporté la première confrontation, 4 à 2. L'événement marqua un tournant symbolique pour l'intelligence artificielle.",
+        "wiki": "Deep Blue"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on une ouverture où l'on sacrifie un pion pour obtenir un avantage de développement ?",
+      "choix": ["Un gambit", "Un fianchetto", "Un zugzwang", "Un clouage"],
+      "fiche": {
+        "titre": "Gambit",
+        "texte": "Un gambit est une ouverture du jeu d'échecs dans laquelle un joueur sacrifie volontairement du matériel, le plus souvent un pion, afin d'obtenir une compensation : avance de développement, contrôle du centre ou initiative. Le mot vient de l'italien « gambetto », qui désigne un croc-en-jambe. Parmi les plus célèbres figurent le gambit du roi, très prisé à l'époque romantique, et le gambit dame, l'une des ouvertures les plus jouées au plus haut niveau.",
+        "wiki": "Gambit"
+      }
+    },
+    {
+      "q": "Qui fut le premier champion du monde d'échecs officiel, en 1886 ?",
+      "choix": ["Wilhelm Steinitz", "Emanuel Lasker", "José Raúl Capablanca", "Paul Morphy"],
+      "fiche": {
+        "titre": "Wilhelm Steinitz",
+        "texte": "Wilhelm Steinitz (1836-1900) est un joueur d'échecs né à Prague, alors dans l'Empire d'Autriche, et naturalisé américain. En 1886, il battit Johannes Zukertort lors du premier match officiel pour le titre de champion du monde. Il conserva sa couronne jusqu'en 1894, date à laquelle il fut détrôné par Emanuel Lasker. Théoricien majeur, il est considéré comme le père de l'école positionnelle, fondée sur l'accumulation de petits avantages plutôt que sur l'attaque à tout prix.",
+        "wiki": "Wilhelm Steinitz"
+      }
+    },
+    {
+      "q": "Quel champion du monde, naturalisé français, est le seul à être mort en détenant son titre, en 1946 ?",
+      "choix": ["Alexandre Alekhine", "Mikhaïl Tal", "Mikhaïl Botvinnik", "Tigran Petrossian"],
+      "fiche": {
+        "titre": "Alexandre Alekhine",
+        "texte": "Alexandre Alekhine (1892-1946) est un joueur d'échecs né à Moscou, émigré en France puis naturalisé français. En 1927, il devint champion du monde en battant José Raúl Capablanca à Buenos Aires. Détrôné par le Néerlandais Max Euwe en 1935, il reprit son titre lors de leur revanche en 1937. Il mourut en 1946 à Estoril, au Portugal, alors qu'il était toujours champion du monde, ce qui en fait le seul à être décédé en détenant le titre.",
+        "wiki": "Alexandre Alekhine"
+      }
+    }
+  ]
+}

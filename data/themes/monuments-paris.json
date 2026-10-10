@@ -1,0 +1,99 @@
+{
+  "id": "monuments-paris",
+  "titre": "Les monuments de Paris",
+  "categorie": "Géographie",
+  "emoji": "🗼",
+  "accroche": "De la tour Eiffel à la Sainte-Chapelle, flânez parmi les trésors architecturaux de la Ville Lumière.",
+  "questions": [
+    {
+      "q": "Quel monument a été construit pour l'Exposition universelle de 1889 ?",
+      "choix": ["La tour Eiffel", "L'Arc de triomphe", "Le Sacré-Cœur", "Le Panthéon"],
+      "fiche": {
+        "titre": "Tour Eiffel",
+        "texte": "La tour Eiffel est une tour de fer puddlé construite par l'entreprise de Gustave Eiffel sur le Champ-de-Mars pour l'Exposition universelle de 1889, qui célébrait le centenaire de la Révolution française. Haute d'environ 300 mètres à son inauguration, elle fut le plus haut édifice du monde pendant plus de quarante ans. D'abord critiquée par de nombreux artistes, elle devait être démontée, mais elle est devenue le symbole de Paris et de la France.",
+        "wiki": "Tour Eiffel"
+      }
+    },
+    {
+      "q": "Quelle cathédrale parisienne a été ravagée par un incendie en avril 2019 ?",
+      "choix": ["Notre-Dame", "Saint-Sulpice", "Saint-Eustache", "La Madeleine"],
+      "fiche": {
+        "titre": "Cathédrale Notre-Dame de Paris",
+        "texte": "La cathédrale Notre-Dame de Paris est un chef-d'œuvre de l'architecture gothique situé sur l'île de la Cité. Sa construction a débuté en 1163 et s'est achevée au milieu du XIVe siècle. Le 15 avril 2019, un violent incendie a détruit sa charpente, surnommée « la forêt », et provoqué l'effondrement de sa flèche. Après d'importants travaux de restauration, elle a rouvert ses portes en décembre 2024. Victor Hugo l'a immortalisée dans son roman « Notre-Dame de Paris ».",
+        "wiki": "Cathédrale Notre-Dame de Paris"
+      }
+    },
+    {
+      "q": "Devant quel musée se dresse une célèbre pyramide de verre ?",
+      "choix": ["Le Louvre", "Le musée d'Orsay", "Le Centre Pompidou", "Le Petit Palais"],
+      "fiche": {
+        "titre": "Pyramide du Louvre",
+        "texte": "La pyramide du Louvre est une structure de verre et de métal qui marque l'entrée principale du musée du Louvre, au centre de la cour Napoléon. Commandée par le président François Mitterrand dans le cadre du projet du Grand Louvre, elle a été conçue par l'architecte sino-américain Ieoh Ming Pei et inaugurée en 1989. D'abord très controversée, elle est aujourd'hui l'un des emblèmes de Paris. Le Louvre est le musée le plus visité au monde.",
+        "wiki": "Pyramide du Louvre"
+      }
+    },
+    {
+      "q": "Quelle basilique blanche domine Paris depuis la butte Montmartre ?",
+      "choix": ["Le Sacré-Cœur", "Saint-Denis", "Notre-Dame-des-Victoires", "Saint-Pierre-de-Montmartre"],
+      "fiche": {
+        "titre": "Basilique du Sacré-Cœur de Montmartre",
+        "texte": "La basilique du Sacré-Cœur est un édifice religieux catholique qui domine Paris depuis le sommet de la butte Montmartre, dans le 18e arrondissement. Construite à partir de 1875 sur les plans de l'architecte Paul Abadie, dans un style romano-byzantin, elle a été consacrée en 1919. Sa blancheur caractéristique vient de la pierre de Château-Landon, qui blanchit au contact de l'eau de pluie. Son parvis offre l'un des plus beaux panoramas sur la capitale.",
+        "wiki": "Basilique du Sacré-Cœur de Montmartre"
+      }
+    },
+    {
+      "q": "Sous quel monument repose le Soldat inconnu ?",
+      "choix": ["L'Arc de triomphe", "Le Panthéon", "Les Invalides", "La Madeleine"],
+      "fiche": {
+        "titre": "Arc de triomphe de l'Étoile",
+        "texte": "L'Arc de triomphe de l'Étoile est un monument situé au centre de la place Charles-de-Gaulle, au sommet de l'avenue des Champs-Élysées. Commandé par Napoléon Ier en 1806 pour célébrer les victoires de la Grande Armée, il n'a été achevé qu'en 1836. Depuis 1921, il abrite sous sa voûte la tombe du Soldat inconnu, mort pendant la Première Guerre mondiale. Une flamme du souvenir y est ravivée chaque soir depuis 1923.",
+        "wiki": "Arc de triomphe de l'Étoile"
+      }
+    },
+    {
+      "q": "Dans quel monument parisien se trouve le tombeau de Napoléon Ier ?",
+      "choix": ["Les Invalides", "Le Panthéon", "La basilique Saint-Denis", "Le Père-Lachaise"],
+      "fiche": {
+        "titre": "Hôtel des Invalides",
+        "texte": "L'hôtel des Invalides est un monument fondé par Louis XIV en 1670 pour accueillir les soldats invalides de ses armées. Son église du Dôme, coiffée d'une coupole dorée conçue par Jules Hardouin-Mansart, abrite depuis 1861 le tombeau de Napoléon Ier, dont les cendres avaient été rapatriées de Sainte-Hélène en 1840. Le site accueille aujourd'hui le musée de l'Armée ainsi que les sépultures de plusieurs grands chefs militaires français.",
+        "wiki": "Hôtel des Invalides"
+      }
+    },
+    {
+      "q": "D'où provient l'obélisque de la place de la Concorde ?",
+      "choix": ["Du temple de Louxor", "Du temple de Karnak", "D'Alexandrie", "D'Héliopolis"],
+      "fiche": {
+        "titre": "Obélisque de Louxor",
+        "texte": "L'obélisque de Louxor est un monolithe de granite rose qui se dresse au centre de la place de la Concorde. Vieux de plus de 3 000 ans et couvert de hiéroglyphes célébrant le pharaon Ramsès II, il ornait à l'origine l'entrée du temple de Louxor, en Égypte. Offert à la France par le vice-roi Méhémet Ali, il a été érigé à Paris en 1836 sous le règne de Louis-Philippe. Son pyramidion doré a été ajouté en 1998.",
+        "wiki": "Obélisque de Louxor"
+      }
+    },
+    {
+      "q": "Quel musée parisien est installé dans une ancienne gare ?",
+      "choix": ["Le musée d'Orsay", "Le musée Rodin", "Le musée Carnavalet", "Le musée Guimet"],
+      "fiche": {
+        "titre": "Musée d'Orsay",
+        "texte": "Le musée d'Orsay est un musée national installé dans l'ancienne gare d'Orsay, construite sur la rive gauche de la Seine pour l'Exposition universelle de 1900. Inauguré en 1986, il est consacré aux arts de la période 1848-1914 : peinture, sculpture, arts décoratifs et photographie. Il possède la plus grande collection de peintures impressionnistes et postimpressionnistes au monde, avec des œuvres de Monet, Renoir, Degas, Van Gogh ou Cézanne. Sa grande horloge est emblématique.",
+        "wiki": "Musée d'Orsay"
+      }
+    },
+    {
+      "q": "Quelle chapelle gothique Saint Louis fit-il bâtir pour abriter la couronne d'épines ?",
+      "choix": ["La Sainte-Chapelle", "Saint-Germain-des-Prés", "Saint-Étienne-du-Mont", "Saint-Séverin"],
+      "fiche": {
+        "titre": "Sainte-Chapelle",
+        "texte": "La Sainte-Chapelle est une chapelle palatine édifiée sur l'île de la Cité, au cœur de l'ancien palais royal. Le roi Louis IX, dit Saint Louis, la fit construire en quelques années seulement, et elle fut consacrée en 1248, pour abriter la couronne d'épines du Christ et d'autres reliques de la Passion. Chef-d'œuvre du gothique rayonnant, elle est célèbre pour ses immenses verrières, qui forment de véritables murs de lumière colorée.",
+        "wiki": "Sainte-Chapelle"
+      }
+    },
+    {
+      "q": "Quels architectes ont conçu le Centre Pompidou, inauguré en 1977 ?",
+      "choix": ["Piano et Rogers", "Nouvel et Perrault", "Gehry et Foster", "Pei et Wilmotte"],
+      "fiche": {
+        "titre": "Centre Pompidou",
+        "texte": "Le Centre Pompidou, ou Centre national d'art et de culture Georges-Pompidou, est un établissement culturel situé dans le quartier de Beaubourg. Voulu par le président Georges Pompidou, il a été conçu par les architectes Renzo Piano et Richard Rogers, avec Gianfranco Franchini, et inauguré en 1977. Son architecture audacieuse, qui expose à l'extérieur ses tuyaux colorés et ses escalators, fit scandale. Il abrite notamment le Musée national d'art moderne.",
+        "wiki": "Centre Pompidou"
+      }
+    }
+  ]
+}
