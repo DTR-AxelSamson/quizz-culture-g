@@ -2,7 +2,7 @@
 // - coquille de l'app pré-cachée ;
 // - fichiers de thèmes mis en cache à la demande (quelques Ko chacun) ;
 // - Wikipédia jamais mis en cache (pour ne pas consommer de stockage).
-const VERSION = 'v1';
+const VERSION = 'v2';
 const SHELL = `shell-${VERSION}`;
 const DATA = 'data';
 const FONTS = 'fonts';
@@ -48,7 +48,10 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(request.url);
 
   if (url.origin === location.origin) {
-    if (request.mode === 'navigate') {
+    if (url.pathname.endsWith('.webmanifest')) {
+      // Toujours la version en ligne : Chrome s'en sert pour identifier et installer l'app.
+      event.respondWith(fetch(request).catch(() => caches.match(request, { ignoreSearch: true })));
+    } else if (request.mode === 'navigate') {
       event.respondWith(staleWhileRevalidate(new Request('index.html'), SHELL));
     } else if (url.pathname.includes('/data/themes/')) {
       event.respondWith(staleWhileRevalidate(request, DATA));
