@@ -1,0 +1,99 @@
+{
+  "id": "beatles",
+  "titre": "Les Beatles",
+  "categorie": "Musique",
+  "emoji": "🎸",
+  "accroche": "Quatre garçons de Liverpool qui ont changé à jamais l'histoire de la musique populaire.",
+  "questions": [
+    {
+      "q": "De quelle ville anglaise les Beatles sont-ils originaires ?",
+      "choix": ["Liverpool", "Manchester", "Londres", "Birmingham"],
+      "fiche": {
+        "titre": "Liverpool",
+        "texte": "Liverpool est une ville portuaire du nord-ouest de l'Angleterre, située sur l'estuaire de la Mersey. C'est là que John Lennon, Paul McCartney, George Harrison et Ringo Starr ont grandi et formé les Beatles au début des années 1960. La ville a donné son nom au « Mersey Beat », le courant musical qui a accompagné leur ascension. Aujourd'hui, Liverpool cultive cet héritage avec le Cavern Club reconstruit, un musée consacré au groupe et un aéroport baptisé du nom de John Lennon.",
+        "wiki": "Liverpool"
+      }
+    },
+    {
+      "q": "Qui était le batteur des Beatles de 1962 à leur séparation ?",
+      "choix": ["Ringo Starr", "Charlie Watts", "Keith Moon", "John Bonham"],
+      "fiche": {
+        "titre": "Ringo Starr",
+        "texte": "Richard Starkey, dit Ringo Starr, né en 1940 à Liverpool, est le batteur des Beatles de 1962 jusqu'à la séparation du groupe. Il remplace alors Pete Best, écarté peu avant les premiers enregistrements chez EMI. Reconnaissable à son jeu sobre et à ses nombreuses bagues, il chante aussi quelques titres comme « Yellow Submarine » et « With a Little Help from My Friends ». Après 1970, il mène une carrière solo et tourne avec son All-Starr Band.",
+        "wiki": "Ringo Starr"
+      }
+    },
+    {
+      "q": "Sur la pochette de quel album les quatre Beatles traversent-ils un passage piéton ?",
+      "choix": ["Abbey Road", "Let It Be", "Revolver", "Help!"],
+      "fiche": {
+        "titre": "Abbey Road",
+        "texte": "Abbey Road est un album des Beatles sorti en septembre 1969, le dernier enregistré par le groupe, même si « Let It Be » paraît après lui. Sa pochette, photographiée par Iain Macmillan, montre les quatre musiciens traversant un passage piéton devant les studios EMI de Londres, situés dans la rue du même nom. L'album contient notamment « Come Together », « Here Comes the Sun » et le long medley de la face B. Le passage piéton est devenu un lieu de pèlerinage pour les fans.",
+        "wiki": "Abbey Road"
+      }
+    },
+    {
+      "q": "Quel album de 1967 met en scène la fanfare fictive du « sergent Poivre » ?",
+      "choix": ["Sgt. Pepper's Lonely Hearts Club Band", "Magical Mystery Tour", "Revolver", "Rubber Soul"],
+      "fiche": {
+        "titre": "Sgt. Pepper's Lonely Hearts Club Band",
+        "texte": "Sgt. Pepper's Lonely Hearts Club Band est le huitième album studio des Beatles, sorti en juin 1967. Le groupe y endosse l'identité d'une fanfare imaginaire, le « Club des cœurs solitaires du sergent Poivre ». Sa pochette, conçue par Peter Blake et Jann Haworth, réunit des dizaines de personnalités autour des musiciens. Souvent considéré comme l'un des premiers albums-concepts du rock, il contient notamment « Lucy in the Sky with Diamonds » et « A Day in the Life ».",
+        "wiki": "Sgt. Pepper's Lonely Hearts Club Band"
+      }
+    },
+    {
+      "q": "Dans quelle ville allemande les Beatles ont-ils fait leurs classes sur scène au début des années 1960 ?",
+      "choix": ["Hambourg", "Berlin", "Munich", "Cologne"],
+      "fiche": {
+        "titre": "Les Beatles à Hambourg",
+        "texte": "Entre 1960 et 1962, les Beatles effectuent plusieurs séjours à Hambourg, en Allemagne de l'Ouest, où ils jouent des nuits entières dans les clubs du quartier de Sankt Pauli, comme l'Indra, le Kaiserkeller ou le Star-Club. Ces marathons scéniques forgent leur cohésion et leur énergie. C'est aussi à Hambourg que la photographe Astrid Kirchherr les immortalise et que le bassiste Stuart Sutcliffe quitte le groupe. Ils y enregistrent en 1961 leurs premières séances en studio, comme accompagnateurs du chanteur Tony Sheridan.",
+        "wiki": "Hambourg"
+      }
+    },
+    {
+      "q": "Quel producteur a réalisé la quasi-totalité des disques des Beatles ?",
+      "choix": ["George Martin", "Brian Epstein", "Quincy Jones", "Joe Meek"],
+      "fiche": {
+        "titre": "George Martin",
+        "texte": "Sir George Martin (1926-2016) est un producteur britannique qui signe les Beatles chez Parlophone, filiale d'EMI, en 1962. Il produit ensuite la quasi-totalité de leurs disques. Musicien de formation classique, il écrit des arrangements de cordes et de cuivres, comme le quatuor à cordes de « Yesterday », et aide le groupe à concrétiser ses idées les plus audacieuses en studio. Son rôle déterminant lui a valu le surnom de « cinquième Beatle ».",
+        "wiki": "George Martin"
+      }
+    },
+    {
+      "q": "Quel est le premier single des Beatles, sorti en 1962 ?",
+      "choix": ["Love Me Do", "Please Please Me", "She Loves You", "From Me to You"],
+      "fiche": {
+        "titre": "Love Me Do",
+        "texte": "« Love Me Do » est le premier single des Beatles, publié par Parlophone le 5 octobre 1962. Composée principalement par Paul McCartney avec John Lennon, la chanson se distingue par l'harmonica joué par Lennon. Elle atteint la 17e place du classement britannique et lance la carrière du groupe, suivie dès janvier 1963 par « Please Please Me ». Aux États-Unis, elle se hisse en tête des ventes en 1964, en pleine Beatlemania.",
+        "wiki": "Love Me Do"
+      }
+    },
+    {
+      "q": "Où les Beatles ont-ils donné leur dernière prestation publique, le 30 janvier 1969 ?",
+      "choix": ["Sur le toit d'Apple, à Londres", "Au Shea Stadium, à New York", "Au Cavern Club, à Liverpool", "Au Royal Albert Hall, à Londres"],
+      "fiche": {
+        "titre": "Le concert sur le toit",
+        "texte": "Le 30 janvier 1969, les Beatles montent sur le toit de l'immeuble d'Apple Corps, leur société, au 3 Savile Row à Londres, pour un concert improvisé. Pendant une quarantaine de minutes, ils jouent notamment « Get Back » et « Don't Let Me Down », jusqu'à l'intervention de la police, alertée par les plaintes du voisinage. Filmée pour le documentaire « Let It Be », cette prestation est la dernière apparition publique du groupe, qui ne donnait plus de concerts depuis août 1966.",
+        "wiki": "Apple Corps"
+      }
+    },
+    {
+      "q": "Quel Beatle a composé la chanson « Something » (1969) ?",
+      "choix": ["George Harrison", "John Lennon", "Paul McCartney", "Ringo Starr"],
+      "fiche": {
+        "titre": "George Harrison",
+        "texte": "George Harrison (1943-2001) est le guitariste soliste des Beatles. Longtemps éclipsé par le duo Lennon-McCartney, il s'impose comme compositeur à la fin des années 1960 avec « While My Guitar Gently Weeps », « Here Comes the Sun » et surtout « Something », parue sur « Abbey Road » en 1969. Passionné par la musique indienne, il introduit le sitar dans la pop. Après la séparation, il publie le triple album « All Things Must Pass » (1970) et organise le Concert pour le Bangladesh.",
+        "wiki": "George Harrison"
+      }
+    },
+    {
+      "q": "Comment s'appelait le groupe de skiffle fondé par John Lennon, ancêtre des Beatles ?",
+      "choix": ["The Quarrymen", "The Hollies", "The Searchers", "The Merseybeats"],
+      "fiche": {
+        "titre": "The Quarrymen",
+        "texte": "The Quarrymen est le groupe de skiffle fondé à Liverpool par John Lennon en 1956-1957 avec des camarades du lycée Quarry Bank, dont il tire son nom. Le 6 juillet 1957, lors d'une fête paroissiale à Woolton, Lennon y rencontre Paul McCartney, qui rejoint la formation peu après, suivi de George Harrison en 1958. Après plusieurs changements de nom, comme Johnny and the Moondogs ou les Silver Beetles, le groupe devient les Beatles en 1960.",
+        "wiki": "The Quarrymen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "harry-potter",
+  "titre": "Harry Potter",
+  "categorie": "Littérature",
+  "emoji": "⚡",
+  "accroche": "Montez à bord du Poudlard Express et testez vos connaissances sur le plus célèbre des sorciers.",
+  "questions": [
+    {
+      "q": "Quelle romancière britannique a créé Harry Potter ?",
+      "choix": ["J. K. Rowling", "Enid Blyton", "Cressida Cowell", "Jacqueline Wilson"],
+      "fiche": {
+        "titre": "J. K. Rowling",
+        "texte": "J. K. Rowling, née en 1965 en Angleterre, est la romancière britannique créatrice de Harry Potter. Elle imagine le jeune sorcier en 1990, lors d'un trajet en train entre Manchester et Londres. Le premier tome, « Harry Potter à l'école des sorciers », paraît au Royaume-Uni en 1997, après avoir été refusé par plusieurs éditeurs. La saga compte sept romans, traduits dans des dizaines de langues, et a donné naissance à une série de films à succès.",
+        "wiki": "J. K. Rowling"
+      }
+    },
+    {
+      "q": "Comment s'appelle l'école de sorcellerie fréquentée par Harry ?",
+      "choix": ["Poudlard", "Beauxbâtons", "Durmstrang", "Ilvermorny"],
+      "fiche": {
+        "titre": "Poudlard",
+        "texte": "Poudlard (Hogwarts en version originale) est l'école de sorcellerie fréquentée par Harry Potter, installée dans un château d'Écosse caché aux yeux des non-sorciers. Fondée il y a plus de mille ans par quatre grands sorciers, elle accueille les élèves de 11 à 17 ans, répartis en quatre maisons. On y accède notamment par le Poudlard Express, qui part de la voie 9 ¾ de la gare de King's Cross, à Londres.",
+        "wiki": "Poudlard"
+      }
+    },
+    {
+      "q": "Dans quelle maison de Poudlard le Choixpeau envoie-t-il Harry ?",
+      "choix": ["Gryffondor", "Serpentard", "Poufsouffle", "Serdaigle"],
+      "fiche": {
+        "titre": "Gryffondor",
+        "texte": "Gryffondor est l'une des quatre maisons de Poudlard, avec Poufsouffle, Serdaigle et Serpentard. Fondée par Godric Gryffondor, elle valorise le courage, l'audace et la chevalerie ; son emblème est un lion, ses couleurs le rouge et l'or. Le Choixpeau magique y envoie Harry Potter, après avoir hésité avec Serpentard, ainsi que ses amis Ron Weasley et Hermione Granger. Minerva McGonagall en est la directrice.",
+        "wiki": "Poudlard"
+      }
+    },
+    {
+      "q": "Comment s'appelle la chouette de Harry ?",
+      "choix": ["Hedwige", "Errol", "Coquecigrue", "Hermès"],
+      "fiche": {
+        "titre": "Hedwige",
+        "texte": "Hedwige est la chouette harfang des neiges offerte à Harry Potter par Hagrid pour son onzième anniversaire, dans le premier tome. Elle lui sert de messagère et de compagne fidèle tout au long de sa scolarité, notamment pendant les étés passés chez les Dursley. Harry a trouvé son nom dans un manuel d'histoire de la magie. Elle meurt dans le septième tome, lors de la fuite de Privet Drive.",
+        "wiki": "Harry Potter (personnage)"
+      }
+    },
+    {
+      "q": "Comment les sorciers nomment-ils les gens sans pouvoirs magiques, nés de non-sorciers ?",
+      "choix": ["Les Moldus", "Les Cracmols", "Les Aurors", "Les Détraqueurs"],
+      "fiche": {
+        "titre": "Moldu",
+        "texte": "Dans l'univers de Harry Potter, un Moldu (Muggle en anglais) est une personne dépourvue de pouvoirs magiques et née de parents non sorciers. La communauté magique vit cachée des Moldus, ce que garantit le Code international du secret magique. Harry grandit chez des Moldus, son oncle Vernon et sa tante Pétunia Dursley. Il ne faut pas les confondre avec les Cracmols, nés de parents sorciers mais privés de pouvoirs. Le mot anglais « muggle » est même entré dans les dictionnaires.",
+        "wiki": "Moldu"
+      }
+    },
+    {
+      "q": "À quel poste Harry joue-t-il dans l'équipe de Quidditch de sa maison ?",
+      "choix": ["Attrapeur", "Gardien", "Poursuiveur", "Batteur"],
+      "fiche": {
+        "titre": "Quidditch",
+        "texte": "Le Quidditch est le sport des sorciers, pratiqué sur des balais volants par deux équipes de sept joueurs : trois poursuiveurs, deux batteurs, un gardien et un attrapeur. Ce dernier doit capturer le Vif d'or, une petite balle ailée très rapide, ce qui rapporte 150 points et met fin au match. Harry Potter devient dès sa première année l'attrapeur de l'équipe de Gryffondor, le plus jeune joueur depuis un siècle.",
+        "wiki": "Quidditch"
+      }
+    },
+    {
+      "q": "Quel professeur enseigne les potions à Harry durant ses cinq premières années ?",
+      "choix": ["Severus Rogue", "Remus Lupin", "Minerva McGonagall", "Filius Flitwick"],
+      "fiche": {
+        "titre": "Severus Rogue",
+        "texte": "Severus Rogue (Snape en version originale) est le professeur de potions de Poudlard pendant les cinq premières années de Harry, avant d'obtenir le poste de défense contre les forces du Mal. Directeur de Serpentard, il semble détester Harry, fils de son ancien rival James Potter. Ancien Mangemort, il se révèle à la fin de la saga avoir agi en agent double pour Dumbledore, par amour pour Lily, la mère de Harry. Il est incarné au cinéma par Alan Rickman.",
+        "wiki": "Severus Rogue"
+      }
+    },
+    {
+      "q": "Quel est le vrai nom de Lord Voldemort dans la version française ?",
+      "choix": ["Tom Elvis Jedusor", "Marvolo Gaunt", "Gellert Grindelwald", "Bartemius Croupton"],
+      "fiche": {
+        "titre": "Lord Voldemort",
+        "texte": "Lord Voldemort, de son vrai nom Tom Elvis Jedusor (Tom Marvolo Riddle en anglais), est le mage noir ennemi de Harry Potter. Le traducteur français a adapté son nom pour conserver l'anagramme « Je suis Voldemort » (« I am Lord Voldemort » en version originale). Élevé dans un orphelinat moldu, il étudie à Poudlard avant de sombrer dans la magie noire. Ceux qui le craignent n'osent pas prononcer son nom et le désignent comme « Vous-Savez-Qui ».",
+        "wiki": "Voldemort"
+      }
+    },
+    {
+      "q": "Quel éditeur publie la saga Harry Potter en France depuis 1998 ?",
+      "choix": ["Gallimard Jeunesse", "Hachette Jeunesse", "Flammarion Jeunesse", "Bayard Jeunesse"],
+      "fiche": {
+        "titre": "Gallimard Jeunesse",
+        "texte": "Gallimard Jeunesse est la branche du groupe Gallimard consacrée à la littérature pour la jeunesse, développée à partir de 1972 sous l'impulsion de Pierre Marchand. Elle publie en France la saga Harry Potter, dont le premier tome paraît en octobre 1998 sous le titre « Harry Potter à l'école des sorciers ». La traduction française est signée Jean-François Ménard, qui a inventé de nombreux noms devenus familiers, comme Poudlard, Poufsouffle ou Moldu.",
+        "wiki": "Gallimard Jeunesse"
+      }
+    },
+    {
+      "q": "Qui dirigeait Poudlard lorsque le futur Voldemort y était élève ?",
+      "choix": ["Armando Dippet", "Phineas Nigellus Black", "Horace Slughorn", "Albus Dumbledore"],
+      "fiche": {
+        "titre": "Armando Dippet",
+        "texte": "Armando Dippet est le directeur de Poudlard qui précède Albus Dumbledore. Il dirige l'école dans les années 1940, à l'époque où le jeune Tom Jedusor y est élève. Dans « Harry Potter et la Chambre des secrets », on découvre qu'après la mort d'une élève, il accepte les accusations de Tom et renvoie Hagrid, injustement soupçonné d'avoir ouvert la Chambre. Dumbledore, alors professeur de métamorphose, lui succède plus tard à la tête de l'école.",
+        "wiki": "Poudlard"
+      }
+    }
+  ]
+}

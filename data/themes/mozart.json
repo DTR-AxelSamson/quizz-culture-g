@@ -1,0 +1,99 @@
+{
+  "id": "mozart",
+  "titre": "Wolfgang Amadeus Mozart",
+  "categorie": "Musique",
+  "emoji": "🎼",
+  "accroche": "Enfant prodige et génie fulgurant : plongez dans la vie et l'œuvre du plus célèbre des compositeurs.",
+  "questions": [
+    {
+      "q": "Dans quelle ville Mozart est-il né en 1756 ?",
+      "choix": ["Salzbourg", "Vienne", "Linz", "Innsbruck"],
+      "fiche": {
+        "titre": "Salzbourg",
+        "texte": "Wolfgang Amadeus Mozart naît le 27 janvier 1756 à Salzbourg, alors capitale d'une principauté ecclésiastique du Saint-Empire romain germanique, aujourd'hui en Autriche. Sa maison natale, dans la Getreidegasse, est devenue un musée. Mozart y sert un temps le prince-archevêque Colloredo avant de s'installer à Vienne en 1781. La ville célèbre aujourd'hui son enfant le plus illustre avec la Fondation Mozarteum et le festival de Salzbourg.",
+        "wiki": "Salzbourg"
+      }
+    },
+    {
+      "q": "Dans quel opéra de Mozart chantent Papageno et la Reine de la nuit ?",
+      "choix": ["La Flûte enchantée", "Don Giovanni", "Les Noces de Figaro", "Così fan tutte"],
+      "fiche": {
+        "titre": "La Flûte enchantée",
+        "texte": "La Flûte enchantée (Die Zauberflöte) est un opéra en deux actes de Mozart, sur un livret d'Emanuel Schikaneder, créé à Vienne le 30 septembre 1791, quelques semaines avant la mort du compositeur. Il s'agit d'un singspiel, qui mêle chant et dialogues parlés en allemand. On y suit le prince Tamino et l'oiseleur Papageno, tandis que la Reine de la nuit lance deux airs virtuoses d'une redoutable difficulté. L'œuvre est imprégnée de symbolique maçonnique.",
+        "wiki": "La Flûte enchantée"
+      }
+    },
+    {
+      "q": "Quel compositeur est présenté comme le rival jaloux de Mozart dans le film « Amadeus » (1984) ?",
+      "choix": ["Antonio Salieri", "Joseph Haydn", "Luigi Boccherini", "Muzio Clementi"],
+      "fiche": {
+        "titre": "Antonio Salieri",
+        "texte": "Antonio Salieri (1750-1825) est un compositeur italien installé à Vienne, où il devient maître de chapelle de la cour impériale. Contemporain de Mozart, il fut aussi le professeur de Beethoven, Schubert et Liszt. La légende d'un Salieri jaloux qui aurait empoisonné Mozart, sans fondement historique, a inspiré une pièce de Pouchkine puis celle de Peter Shaffer, adaptée au cinéma par Miloš Forman dans « Amadeus » (1984). F. Murray Abraham y reçoit l'Oscar du meilleur acteur.",
+        "wiki": "Antonio Salieri"
+      }
+    },
+    {
+      "q": "Quelle œuvre Mozart laisse-t-il inachevée à sa mort en 1791 ?",
+      "choix": ["Le Requiem", "La Messe du couronnement", "La Symphonie Jupiter", "Le Concerto pour clarinette"],
+      "fiche": {
+        "titre": "Le Requiem de Mozart",
+        "texte": "Le Requiem en ré mineur est la dernière œuvre de Mozart, commandée anonymement en 1791 pour le compte du comte Franz von Walsegg. Le compositeur meurt à Vienne le 5 décembre 1791 sans l'avoir achevée. À la demande de sa veuve, son élève Franz Xaver Süssmayr complète la partition, dont seules les premières parties sont entièrement de la main de Mozart. Les circonstances mystérieuses de cette commande ont nourri de nombreuses légendes.",
+        "wiki": "Requiem (Mozart)"
+      }
+    },
+    {
+      "q": "Quel est le titre allemand de la sérénade « Une petite musique de nuit » ?",
+      "choix": ["Eine kleine Nachtmusik", "Ein deutsches Requiem", "Also sprach Zarathustra", "Eine Alpensinfonie"],
+      "fiche": {
+        "titre": "Une petite musique de nuit",
+        "texte": "Une petite musique de nuit (Eine kleine Nachtmusik) est une sérénade pour cordes composée par Mozart à Vienne en 1787. Son titre provient du catalogue personnel du compositeur, où il l'inscrit sous ce nom. En quatre mouvements, elle s'ouvre sur un allegro dont le thème est l'un des plus célèbres de toute la musique classique. Les circonstances de sa composition restent inconnues, et l'œuvre n'est publiée que bien après la mort de Mozart, vers 1827.",
+        "wiki": "Une petite musique de nuit"
+      }
+    },
+    {
+      "q": "Quel était le prénom usuel du père de Mozart, violoniste et pédagogue ?",
+      "choix": ["Leopold", "Joseph", "Franz", "Anton"],
+      "fiche": {
+        "titre": "Leopold Mozart",
+        "texte": "Leopold Mozart (1719-1787) est un compositeur et violoniste né à Augsbourg, au service du prince-archevêque de Salzbourg. Il publie en 1756, l'année de naissance de Wolfgang, un traité de violon qui fait autorité dans toute l'Europe. Pédagogue exigeant, il forme lui-même ses deux enfants, Wolfgang et sa sœur Nannerl, et les emmène dès leur plus jeune âge dans de longues tournées à travers l'Europe, de Munich à Londres en passant par Paris.",
+        "wiki": "Leopold Mozart"
+      }
+    },
+    {
+      "q": "Quelle femme Mozart épouse-t-il en 1782 à Vienne ?",
+      "choix": ["Constanze Weber", "Aloysia Weber", "Nancy Storace", "Maria Theresia von Paradis"],
+      "fiche": {
+        "titre": "Constanze Mozart",
+        "texte": "Constanze Weber (1762-1842) épouse Mozart le 4 août 1782 à la cathédrale Saint-Étienne de Vienne, malgré les réticences de Leopold Mozart. Elle est la sœur de la soprano Aloysia Weber, dont le compositeur avait été épris quelques années plus tôt. Le couple a six enfants, dont deux seulement survivent. Veuve en 1791, Constanze s'emploie à faire connaître l'œuvre de son mari et épouse plus tard le diplomate danois Georg Nikolaus von Nissen, biographe de Mozart.",
+        "wiki": "Constanze Mozart"
+      }
+    },
+    {
+      "q": "Quelle abréviation précède le numéro des œuvres de Mozart dans son catalogue ?",
+      "choix": ["K. (Köchel)", "BWV", "Hob.", "D."],
+      "fiche": {
+        "titre": "Le catalogue Köchel",
+        "texte": "Le catalogue Köchel recense chronologiquement les œuvres de Mozart. Il a été établi par le botaniste et musicologue autrichien Ludwig von Köchel, qui le publie en 1862. Chaque œuvre y reçoit un numéro précédé de la lettre K (ou KV, pour Köchel-Verzeichnis) : la Petite Musique de nuit porte ainsi le numéro K. 525 et le Requiem le numéro K. 626. Le catalogue a été révisé à plusieurs reprises pour intégrer les avancées de la recherche.",
+        "wiki": "Ludwig von Köchel"
+      }
+    },
+    {
+      "q": "Qui a écrit les livrets des « Noces de Figaro », de « Don Giovanni » et de « Così fan tutte » ?",
+      "choix": ["Lorenzo Da Ponte", "Emanuel Schikaneder", "Pietro Metastasio", "Carlo Goldoni"],
+      "fiche": {
+        "titre": "Lorenzo Da Ponte",
+        "texte": "Lorenzo Da Ponte (1749-1838) est un librettiste italien, poète du théâtre de la cour impériale à Vienne. Il écrit pour Mozart les livrets de trois opéras majeurs : « Les Noces de Figaro » (1786), « Don Giovanni » (1787) et « Così fan tutte » (1790). Sa vie est aussi romanesque que ses livrets : ancien abbé, ami de Casanova, il finit ses jours à New York, où il devient le premier professeur de littérature italienne de l'université Columbia.",
+        "wiki": "Lorenzo Da Ponte"
+      }
+    },
+    {
+      "q": "Dans quelle ville « Don Giovanni » a-t-il été créé en 1787 ?",
+      "choix": ["Prague", "Vienne", "Salzbourg", "Milan"],
+      "fiche": {
+        "titre": "Don Giovanni",
+        "texte": "Don Giovanni est un dramma giocoso en deux actes de Mozart, sur un livret de Lorenzo Da Ponte. Il est créé le 29 octobre 1787 au théâtre des États de Prague, ville où « Les Noces de Figaro » avaient triomphé l'année précédente. L'opéra raconte les aventures d'un séducteur impénitent, finalement entraîné aux enfers par la statue du Commandeur qu'il a tué en duel. Mozart dirige lui-même la première représentation.",
+        "wiki": "Don Giovanni"
+      }
+    }
+  ]
+}

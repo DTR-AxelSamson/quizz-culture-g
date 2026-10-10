@@ -1,0 +1,99 @@
+{
+  "id": "queen",
+  "titre": "Queen et Freddie Mercury",
+  "categorie": "Musique",
+  "emoji": "👑",
+  "accroche": "Hymnes de stade, envolées lyriques et une voix légendaire : le show doit continuer !",
+  "questions": [
+    {
+      "q": "Quelle chanson de Queen de 1975 enchaîne ballade, passage lyrique et hard rock ?",
+      "choix": ["Bohemian Rhapsody", "Somebody to Love", "Radio Ga Ga", "Killer Queen"],
+      "fiche": {
+        "titre": "Bohemian Rhapsody",
+        "texte": "« Bohemian Rhapsody » est une chanson de Queen écrite par Freddie Mercury, parue en 1975 sur l'album « A Night at the Opera ». Longue de près de six minutes et sans refrain, elle enchaîne une ballade, une section d'inspiration lyrique, un passage hard rock et une conclusion apaisée. Malgré sa durée inhabituelle, elle reste neuf semaines en tête des ventes au Royaume-Uni. Son clip est souvent considéré comme l'un des premiers grands clips promotionnels.",
+        "wiki": "Bohemian Rhapsody"
+      }
+    },
+    {
+      "q": "Quelle chanson de Queen repose sur deux coups de pied et un claquement de mains ?",
+      "choix": ["We Will Rock You", "Don't Stop Me Now", "I Want to Break Free", "Under Pressure"],
+      "fiche": {
+        "titre": "We Will Rock You",
+        "texte": "« We Will Rock You » est une chanson de Queen parue en 1977 sur l'album « News of the World ». Conçue pour que le public puisse y participer, elle repose sur un rythme très simple : deux frappes de pieds et un claquement de mains, sans autre accompagnement que la voix jusqu'au solo de guitare final. Souvent enchaînée avec « We Are the Champions », parue sur le même disque, elle est devenue un hymne incontournable des stades.",
+        "wiki": "We Will Rock You"
+      }
+    },
+    {
+      "q": "Qui est le guitariste de Queen ?",
+      "choix": ["Brian May", "Roger Taylor", "John Deacon", "Jimmy Page"],
+      "fiche": {
+        "titre": "Brian May",
+        "texte": "Brian May, né en 1947 à Londres, est le guitariste de Queen. Il joue depuis ses débuts sur la Red Special, une guitare qu'il a construite adolescent avec son père à partir du bois d'une vieille cheminée, et utilise une pièce de six pence en guise de médiator. Compositeur de plusieurs succès du groupe, dont « We Will Rock You », il a aussi obtenu en 2007 un doctorat en astrophysique.",
+        "wiki": "Brian May"
+      }
+    },
+    {
+      "q": "Quel acteur incarne Freddie Mercury dans le biopic de 2018 ?",
+      "choix": ["Rami Malek", "Taron Egerton", "Austin Butler", "Ben Whishaw"],
+      "fiche": {
+        "titre": "Rami Malek",
+        "texte": "Rami Malek, né en 1981 à Los Angeles de parents égyptiens, est un acteur américain révélé par la série « Mr. Robot ». Il incarne Freddie Mercury dans « Bohemian Rhapsody » (2018), film retraçant l'histoire de Queen de sa formation au milieu des années 1980. Ce rôle lui vaut l'Oscar, le Golden Globe et le BAFTA du meilleur acteur. Il joue ensuite le méchant Safin dans le James Bond « Mourir peut attendre » (2021).",
+        "wiki": "Rami Malek"
+      }
+    },
+    {
+      "q": "Lors de quel concert caritatif de 1985 Queen livre-t-il une prestation légendaire à Wembley ?",
+      "choix": ["Live Aid", "Woodstock", "Le Concert pour le Bangladesh", "Farm Aid"],
+      "fiche": {
+        "titre": "Live Aid",
+        "texte": "Le Live Aid est un double concert caritatif organisé le 13 juillet 1985 au stade de Wembley, à Londres, et au John F. Kennedy Stadium de Philadelphie, à l'initiative de Bob Geldof et Midge Ure, pour lutter contre la famine en Éthiopie. Retransmis dans le monde entier, il réunit les plus grandes stars du rock. La prestation de Queen, d'une vingtaine de minutes, est souvent citée comme l'une des meilleures de l'histoire du rock.",
+        "wiki": "Live Aid"
+      }
+    },
+    {
+      "q": "Où Freddie Mercury est-il né en 1946 ?",
+      "choix": ["À Zanzibar", "À Bombay", "Au Caire", "À Londres"],
+      "fiche": {
+        "titre": "Freddie Mercury",
+        "texte": "Freddie Mercury, de son vrai nom Farrokh Bulsara, est né le 5 septembre 1946 à Stone Town, sur l'île de Zanzibar, alors protectorat britannique et aujourd'hui partie de la Tanzanie. Issu d'une famille parsie, il fait une partie de sa scolarité en Inde avant de s'installer en Angleterre en 1964. Chanteur à la tessiture exceptionnelle et showman hors pair, il meurt à Londres le 24 novembre 1991 des suites du sida.",
+        "wiki": "Freddie Mercury"
+      }
+    },
+    {
+      "q": "Quel membre de Queen a composé « Another One Bites the Dust » ?",
+      "choix": ["John Deacon", "Freddie Mercury", "Brian May", "Roger Taylor"],
+      "fiche": {
+        "titre": "John Deacon",
+        "texte": "John Deacon, né en 1951 à Leicester, est le bassiste de Queen, qu'il rejoint en 1971, dernier arrivé du quatuor. Discret sur scène, il compose plusieurs grands succès du groupe, dont « You're My Best Friend », « I Want to Break Free » et surtout « Another One Bites the Dust » (1980), dont la ligne de basse est devenue culte. Ce titre se classe numéro un aux États-Unis. Il se retire de la musique à la fin des années 1990.",
+        "wiki": "John Deacon"
+      }
+    },
+    {
+      "q": "Avec quelle soprano Freddie Mercury enregistre-t-il « Barcelona » ?",
+      "choix": ["Montserrat Caballé", "Maria Callas", "Kiri Te Kanawa", "Jessye Norman"],
+      "fiche": {
+        "titre": "Montserrat Caballé",
+        "texte": "Montserrat Caballé (1933-2018) est une soprano espagnole née à Barcelone, considérée comme l'une des plus grandes voix du XXe siècle, notamment dans le bel canto. En 1987, elle enregistre avec Freddie Mercury la chanson « Barcelona », qui donne son titre à leur album commun publié en 1988. Hymne à sa ville natale, la chanson accompagne les Jeux olympiques de Barcelone en 1992, quelques mois après la mort de Mercury.",
+        "wiki": "Montserrat Caballé"
+      }
+    },
+    {
+      "q": "Pour quel film de science-fiction de 1980 Queen a-t-il composé la bande originale ?",
+      "choix": ["Flash Gordon", "Tron", "Alien", "Blade Runner"],
+      "fiche": {
+        "titre": "Flash Gordon (1980)",
+        "texte": "Flash Gordon est un film de science-fiction réalisé par Mike Hodges en 1980, adapté de la bande dessinée d'Alex Raymond. Produit par Dino De Laurentiis, il oppose le héros Flash Gordon à l'empereur Ming l'Impitoyable, incarné par Max von Sydow. Queen en compose la bande originale, dont le thème « Flash », avec son célèbre cri « Flash! Ah-ah! », est devenu culte. Le groupe signera plus tard les chansons du film « Highlander ».",
+        "wiki": "Flash Gordon (film, 1980)"
+      }
+    },
+    {
+      "q": "Comment s'appelait le groupe de Brian May et Roger Taylor avant Queen ?",
+      "choix": ["Smile", "Ibex", "Wreckage", "Sour Milk Sea"],
+      "fiche": {
+        "titre": "Smile",
+        "texte": "Smile est un groupe de rock britannique formé en 1968 à Londres par le guitariste Brian May et le chanteur-bassiste Tim Staffell, rejoints par le batteur Roger Taylor. Après le départ de Staffell en 1970, May et Taylor s'associent à Freddie Bulsara, ami de Staffell et admirateur du groupe, qui propose le nom de Queen et adopte le nom de scène de Mercury. John Deacon complète la formation définitive en 1971.",
+        "wiki": "Queen (groupe)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "opera",
+  "titre": "Les grands opéras",
+  "categorie": "Musique",
+  "emoji": "🎭",
+  "accroche": "Passions, trahisons et airs sublimes : levez le rideau sur les chefs-d'œuvre de l'art lyrique.",
+  "questions": [
+    {
+      "q": "Quel compositeur a écrit l'opéra « Carmen » ?",
+      "choix": ["Georges Bizet", "Jules Massenet", "Jacques Offenbach", "Charles Gounod"],
+      "fiche": {
+        "titre": "Carmen",
+        "texte": "Carmen est un opéra-comique en quatre actes de Georges Bizet, sur un livret d'Henri Meilhac et Ludovic Halévy d'après la nouvelle de Prosper Mérimée. Créé en 1875 à l'Opéra-Comique de Paris, il reçoit d'abord un accueil mitigé, et Bizet meurt trois mois plus tard. Il est aujourd'hui l'un des opéras les plus joués au monde, avec des airs célèbres comme la « Habanera » (« L'amour est un oiseau rebelle ») et l'air du Toréador.",
+        "wiki": "Carmen (opéra)"
+      }
+    },
+    {
+      "q": "Dans quelle ville se trouve le célèbre théâtre lyrique de la Scala ?",
+      "choix": ["Milan", "Rome", "Naples", "Venise"],
+      "fiche": {
+        "titre": "La Scala",
+        "texte": "La Scala, ou Teatro alla Scala, est le plus célèbre opéra de Milan, inauguré en 1778. Elle doit son nom à l'église Santa Maria alla Scala, qui occupait auparavant le site. De nombreux chefs-d'œuvre du répertoire italien y ont été créés, comme « Norma » de Bellini. Endommagée par les bombardements de 1943, elle est reconstruite après la guerre, puis rénovée entre 2002 et 2004. Sa saison s'ouvre traditionnellement le 7 décembre, jour de la Saint-Ambroise, patron de la ville.",
+        "wiki": "La Scala"
+      }
+    },
+    {
+      "q": "Dans quel pays se déroule « Madame Butterfly » de Puccini ?",
+      "choix": ["Le Japon", "La Chine", "L'Inde", "L'Égypte"],
+      "fiche": {
+        "titre": "Madame Butterfly",
+        "texte": "Madame Butterfly est un opéra de Giacomo Puccini créé en 1904 à la Scala de Milan, où sa première est un échec, avant le triomphe d'une version remaniée à Brescia quelques mois plus tard. L'action se déroule à Nagasaki, au Japon : la jeune geisha Cio-Cio-San épouse un officier de marine américain, Pinkerton, qui l'abandonne. L'air « Un bel dì vedremo », où elle espère son retour, est l'un des plus célèbres du répertoire.",
+        "wiki": "Madame Butterfly"
+      }
+    },
+    {
+      "q": "Comment appelle-t-on la voix de femme la plus aiguë ?",
+      "choix": ["Soprano", "Mezzo-soprano", "Contralto", "Alto"],
+      "fiche": {
+        "titre": "Soprano",
+        "texte": "Le soprano désigne la tessiture la plus aiguë de la voix humaine, tenue le plus souvent par des femmes, mais aussi par de jeunes garçons. Au-dessous viennent la mezzo-soprano et le contralto, puis, chez les hommes, le ténor, le baryton et la basse. À l'opéra, les sopranos tiennent souvent les grands rôles d'héroïnes, comme Violetta ou Tosca. Les sopranos colorature, comme la Reine de la nuit de Mozart, atteignent des notes particulièrement aiguës.",
+        "wiki": "Soprano"
+      }
+    },
+    {
+      "q": "Quel compositeur italien a écrit « La Traviata » et « Aida » ?",
+      "choix": ["Giuseppe Verdi", "Giacomo Puccini", "Vincenzo Bellini", "Gaetano Donizetti"],
+      "fiche": {
+        "titre": "Giuseppe Verdi",
+        "texte": "Giuseppe Verdi (1813-1901) est un compositeur italien, figure majeure de l'opéra du XIXe siècle. Il connaît son premier grand succès avec « Nabucco » (1842), dont le chœur des esclaves devient un symbole du Risorgimento. Suivent notamment « Rigoletto », « Le Trouvère », « La Traviata » et « Aida », créé au Caire en 1871, puis, à la fin de sa vie, « Otello » et « Falstaff ». Son nom est indissociable de l'unité italienne.",
+        "wiki": "Giuseppe Verdi"
+      }
+    },
+    {
+      "q": "De quel opéra est extrait l'air « Nessun dorma » ?",
+      "choix": ["Turandot", "Tosca", "La Bohème", "Rigoletto"],
+      "fiche": {
+        "titre": "Turandot",
+        "texte": "Turandot est le dernier opéra de Giacomo Puccini, resté inachevé à sa mort en 1924 et complété par Franco Alfano. Créé en 1926 à la Scala de Milan sous la direction d'Arturo Toscanini, il se déroule dans une Chine légendaire, où la princesse Turandot soumet ses prétendants à trois énigmes. L'air du prince Calaf, « Nessun dorma », est devenu mondialement célèbre, notamment grâce à Luciano Pavarotti et à la Coupe du monde de football 1990.",
+        "wiki": "Turandot"
+      }
+    },
+    {
+      "q": "Quel cycle de quatre opéras de Wagner comprend « La Walkyrie » ?",
+      "choix": ["L'Anneau du Nibelung", "Parsifal", "Tristan et Isolde", "Lohengrin"],
+      "fiche": {
+        "titre": "L'Anneau du Nibelung",
+        "texte": "L'Anneau du Nibelung (Der Ring des Nibelungen) est un cycle de quatre opéras de Richard Wagner : « L'Or du Rhin », « La Walkyrie », « Siegfried » et « Le Crépuscule des dieux ». Inspiré des mythologies germanique et nordique, il raconte la lutte pour un anneau magique conférant la domination du monde. Wagner y consacre plus de vingt-cinq ans et fait construire le Festspielhaus de Bayreuth, où le cycle complet est créé en 1876. On l'appelle aussi la « Tétralogie ».",
+        "wiki": "L'Anneau du Nibelung"
+      }
+    },
+    {
+      "q": "Quel compositeur a créé « Le Barbier de Séville » à Rome en 1816 ?",
+      "choix": ["Gioachino Rossini", "Gaetano Donizetti", "Vincenzo Bellini", "Giacomo Puccini"],
+      "fiche": {
+        "titre": "Gioachino Rossini",
+        "texte": "Gioachino Rossini (1792-1868) est un compositeur italien, maître de l'opéra bouffe. Son « Barbier de Séville », d'après Beaumarchais, est créé à Rome en 1816 ; d'abord chahutée, l'œuvre devient l'un des opéras comiques les plus joués au monde, avec l'air de Figaro « Largo al factotum ». Auteur d'une quarantaine d'opéras, dont « Guillaume Tell » (1829), il cesse presque de composer pour la scène à 37 ans et passe la fin de sa vie à Paris.",
+        "wiki": "Gioachino Rossini"
+      }
+    },
+    {
+      "q": "Quel compositeur français a écrit l'opéra « Pelléas et Mélisande » (1902) ?",
+      "choix": ["Claude Debussy", "Maurice Ravel", "Jules Massenet", "Charles Gounod"],
+      "fiche": {
+        "titre": "Claude Debussy",
+        "texte": "Claude Debussy (1862-1918) est un compositeur français, figure majeure de la musique dite impressionniste. Son unique opéra achevé, « Pelléas et Mélisande », d'après la pièce de Maurice Maeterlinck, est créé à l'Opéra-Comique de Paris en 1902. Rompant avec le modèle wagnérien comme avec l'opéra italien, il privilégie une déclamation proche de la parole et une orchestration tout en nuances. On lui doit aussi « Prélude à l'après-midi d'un faune » et « La Mer ».",
+        "wiki": "Claude Debussy"
+      }
+    },
+    {
+      "q": "Quel compositeur a tiré de Pouchkine l'opéra « Eugène Onéguine » ?",
+      "choix": ["Piotr Ilitch Tchaïkovski", "Modeste Moussorgski", "Nikolaï Rimski-Korsakov", "Sergueï Rachmaninov"],
+      "fiche": {
+        "titre": "Piotr Ilitch Tchaïkovski",
+        "texte": "Piotr Ilitch Tchaïkovski (1840-1893) est un compositeur russe, célèbre pour ses ballets « Le Lac des cygnes », « La Belle au bois dormant » et « Casse-Noisette ». Il est aussi l'auteur d'une dizaine d'opéras, dont « Eugène Onéguine », d'après le roman en vers d'Alexandre Pouchkine, créé à Moscou en 1879 par les élèves du conservatoire. On y suit la jeune Tatiana, éconduite par le dandy Onéguine, qui la regrettera trop tard. Il compose aussi « La Dame de pique » (1890).",
+        "wiki": "Piotr Ilitch Tchaïkovski"
+      }
+    }
+  ]
+}

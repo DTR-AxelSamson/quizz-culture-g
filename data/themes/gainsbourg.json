@@ -1,0 +1,99 @@
+{
+  "id": "gainsbourg",
+  "titre": "Serge Gainsbourg",
+  "categorie": "Musique",
+  "emoji": "🚬",
+  "accroche": "Poète, provocateur et mélodiste de génie : l'homme à la tête de chou n'a pas fini de fasciner.",
+  "questions": [
+    {
+      "q": "Quelle chanson sulfureuse Gainsbourg publie-t-il en duo avec Jane Birkin en 1969 ?",
+      "choix": ["Je t'aime… moi non plus", "La Javanaise", "Comic Strip", "Elisa"],
+      "fiche": {
+        "titre": "Je t'aime… moi non plus",
+        "texte": "« Je t'aime… moi non plus » est une chanson écrite par Serge Gainsbourg en 1967, publiée en 1969 dans une version en duo avec Jane Birkin, sa compagne d'alors. Ses soupirs explicites font scandale et lui valent d'être interdite de diffusion dans plusieurs pays. Elle devient pourtant un immense succès international et se classe numéro un des ventes au Royaume-Uni. Gainsbourg reprend son titre en 1976 pour son premier long métrage de cinéaste.",
+        "wiki": "Jane Birkin"
+      }
+    },
+    {
+      "q": "Comment s'appelle la fille de Serge Gainsbourg et de Jane Birkin ?",
+      "choix": ["Charlotte Gainsbourg", "Lou Doillon", "Kate Barry", "Vanessa Paradis"],
+      "fiche": {
+        "titre": "Charlotte Gainsbourg",
+        "texte": "Charlotte Gainsbourg, née en 1971 à Londres, est la fille de Serge Gainsbourg et de Jane Birkin. Elle enregistre en 1984 avec son père le duo controversé « Lemon Incest », puis obtient en 1986 le César du meilleur espoir féminin pour « L'Effrontée » de Claude Miller. Actrice fétiche de Lars von Trier, récompensée par le prix d'interprétation féminine à Cannes pour « Antichrist », elle mène aussi une carrière de chanteuse saluée par la critique.",
+        "wiki": "Charlotte Gainsbourg"
+      }
+    },
+    {
+      "q": "À quelle actrice Gainsbourg rend-il hommage dans « Initials B.B. » (1968) ?",
+      "choix": ["Brigitte Bardot", "Catherine Deneuve", "Isabelle Adjani", "Juliette Gréco"],
+      "fiche": {
+        "titre": "Brigitte Bardot",
+        "texte": "Serge Gainsbourg vit en 1967 une brève et intense liaison avec Brigitte Bardot, pour qui il écrit plusieurs chansons, dont « Harley Davidson », « Bonnie and Clyde » et la toute première version de « Je t'aime… moi non plus ». Après leur rupture, il lui dédie en 1968 « Initials B.B. », titre inspiré des initiales de l'actrice et dont la mélodie emprunte à la Symphonie du Nouveau Monde de Dvořák. Icône du cinéma français, Bardot a été révélée par « Et Dieu… créa la femme » (1956).",
+        "wiki": "Brigitte Bardot"
+      }
+    },
+    {
+      "q": "Quel billet Gainsbourg brûle-t-il en direct à la télévision en 1984 ?",
+      "choix": ["Un billet de 500 francs", "Un billet de 100 francs", "Un billet de 200 francs", "Un billet de 50 francs"],
+      "fiche": {
+        "titre": "Le billet brûlé de 1984",
+        "texte": "En mars 1984, invité de l'émission « 7 sur 7 » sur TF1, Serge Gainsbourg brûle les trois quarts d'un billet de 500 francs devant les caméras. Il entend ainsi protester contre le poids de la fiscalité, dénonçant le fait que l'essentiel de ses revenus part en impôts. Le geste, illégal, provoque un tollé national. Il illustre le goût de la provocation qui caractérise ses apparitions télévisées des années 1980.",
+        "wiki": "Serge Gainsbourg"
+      }
+    },
+    {
+      "q": "Avec quelle chanson de Gainsbourg France Gall remporte-t-elle l'Eurovision en 1965 ?",
+      "choix": ["Poupée de cire, poupée de son", "Les Sucettes", "Laisse tomber les filles", "Baby Pop"],
+      "fiche": {
+        "titre": "Poupée de cire, poupée de son",
+        "texte": "« Poupée de cire, poupée de son » est une chanson écrite par Serge Gainsbourg et interprétée par France Gall. Représentant le Luxembourg, elle remporte le Concours Eurovision de la chanson le 20 mars 1965 à Naples. La jeune chanteuse, alors âgée de 17 ans, devient une vedette en France et à l'étranger. Gainsbourg écrit ensuite pour elle « Les Sucettes » (1966), dont le double sens provoque un scandale.",
+        "wiki": "Poupée de cire, poupée de son"
+      }
+    },
+    {
+      "q": "Quel nom Gainsbourg donne-t-il à son double provocateur des années 1980 ?",
+      "choix": ["Gainsbarre", "Gainsboire", "Gainsbrock", "Gainsbourre"],
+      "fiche": {
+        "titre": "Gainsbarre",
+        "texte": "Gainsbarre est le double provocateur que Serge Gainsbourg s'invente au début des années 1980. Barbe de trois jours, cigarette Gitanes et verre à la main, ce personnage multiplie les frasques et les déclarations choc sur les plateaux de télévision. Il apparaît notamment dans la chanson « Ecce homo », sur l'album « Mauvaises nouvelles des étoiles » (1981). Ce dédoublement brouille volontairement la frontière entre l'artiste et sa propre légende.",
+        "wiki": "Serge Gainsbourg"
+      }
+    },
+    {
+      "q": "Quelle reprise reggae de « La Marseillaise » fait scandale en 1979 ?",
+      "choix": ["Aux armes et cætera", "Allons enfants", "Marche ou crève", "Liberté chérie"],
+      "fiche": {
+        "titre": "Aux armes et cætera",
+        "texte": "« Aux armes et cætera » est un album de Serge Gainsbourg sorti en 1979, enregistré à Kingston, en Jamaïque, avec des musiciens de reggae dont Sly Dunbar, Robbie Shakespeare et les choristes de Bob Marley, les I-Threes. Sa chanson-titre, reprise reggae de « La Marseillaise », déclenche une vive polémique. En 1980, à Strasbourg, des parachutistes venus perturber son concert le poussent à chanter seul « La Marseillaise » a cappella, poing levé.",
+        "wiki": "Aux armes et cætera"
+      }
+    },
+    {
+      "q": "Quelle chanson de 1958, sur un employé du métro parisien, révèle Gainsbourg au public ?",
+      "choix": ["Le Poinçonneur des Lilas", "La Javanaise", "Couleur café", "Le Claqueur de doigts"],
+      "fiche": {
+        "titre": "Le Poinçonneur des Lilas",
+        "texte": "« Le Poinçonneur des Lilas » est une chanson de Serge Gainsbourg sortie en 1958 sur son premier album, « Du chant à la une !… ». Elle décrit la vie monotone d'un employé du métro parisien chargé de poinçonner les tickets à la station Porte des Lilas, obsédé par ses « p'tits trous ». Saluée notamment par Boris Vian, elle fait connaître Gainsbourg du public et sera reprise par les Frères Jacques.",
+        "wiki": "Le Poinçonneur des Lilas"
+      }
+    },
+    {
+      "q": "Quel album-concept de 1971 raconte la rencontre avec une adolescente renversée à vélo ?",
+      "choix": ["Histoire de Melody Nelson", "L'Homme à tête de chou", "Rock Around the Bunker", "Love on the Beat"],
+      "fiche": {
+        "titre": "Histoire de Melody Nelson",
+        "texte": "Histoire de Melody Nelson est un album-concept de Serge Gainsbourg sorti en 1971. Il raconte la rencontre du narrateur, au volant de sa Rolls-Royce, avec Melody Nelson, une adolescente qu'il renverse alors qu'elle circule à vélo. Jane Birkin incarne la jeune fille sur la pochette. Porté par les arrangements orchestraux de Jean-Claude Vannier, l'album connaît un succès commercial modeste à sa sortie, mais il est aujourd'hui considéré comme un chef-d'œuvre.",
+        "wiki": "Histoire de Melody Nelson"
+      }
+    },
+    {
+      "q": "Dans quelle rue de Paris se trouve la maison de Gainsbourg, couverte de graffitis ?",
+      "choix": ["Rue de Verneuil", "Rue du Bac", "Rue de Lille", "Rue Jacob"],
+      "fiche": {
+        "titre": "Rue de Verneuil",
+        "texte": "La rue de Verneuil est une voie du 7e arrondissement de Paris, proche de Saint-Germain-des-Prés. Serge Gainsbourg habite au 5 bis de 1969 jusqu'à sa mort, le 2 mars 1991. Après sa disparition, le mur de la maison se couvre de graffitis, de poèmes et de messages laissés par ses admirateurs. Sa fille Charlotte a ouvert le lieu au public en 2023 sous le nom de « Maison Gainsbourg ».",
+        "wiki": "Rue de Verneuil"
+      }
+    }
+  ]
+}
