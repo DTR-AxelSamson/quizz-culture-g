@@ -61,10 +61,10 @@
     },
     {
       "q": "Comment se nomme la demeure d'Odin où sont accueillis les guerriers morts au combat ?",
-      "choix": ["Le Valhalla", "Asgard", "Midgard", "Niflheim"],
+      "choix": ["Le Valhalla", "Jötunheim", "Midgard", "Niflheim"],
       "fiche": {
         "titre": "Valhalla",
-        "texte": "Dans la mythologie nordique, le Valhalla est l'immense salle du dieu Odin, située à Asgard, le monde des dieux. Les Valkyries y conduisent la moitié des guerriers morts héroïquement au combat, appelés Einherjar. Ceux-ci passent leurs journées à s'affronter et leurs soirées à festoyer, en attendant de combattre aux côtés des dieux lors du Ragnarök, la bataille de la fin du monde. Midgard désigne quant à lui le monde des hommes et Niflheim un monde de glace et de brume.",
+        "texte": "Dans la mythologie nordique, le Valhalla est l'immense salle du dieu Odin, située à Asgard, le monde des dieux. Les Valkyries y conduisent la moitié des guerriers morts héroïquement au combat, appelés Einherjar. Ceux-ci passent leurs journées à s'affronter et leurs soirées à festoyer, en attendant de combattre aux côtés des dieux lors du Ragnarök, la bataille de la fin du monde. Midgard désigne quant à lui le monde des hommes, Jötunheim celui des géants et Niflheim un monde de glace et de brume.",
         "wiki": "Valhalla"
       }
     },

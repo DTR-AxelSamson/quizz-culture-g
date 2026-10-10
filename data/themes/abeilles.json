@@ -82,7 +82,7 @@
       "choix": ["Apis mellifera", "Bombus terrestris", "Vespa crabro", "Xylocopa violacea"],
       "fiche": {
         "titre": "Apis mellifera",
-        "texte": "Apis mellifera est le nom scientifique de l'abeille domestique, attribué en 1758 par le naturaliste suédois Carl von Linné. Le nom latin signifie « abeille qui porte le miel ». Originaire d'Europe, d'Afrique et du Moyen-Orient, elle a été introduite par l'homme sur tous les continents. C'est l'espèce la plus élevée pour la production de miel. À ne pas confondre avec le bourdon, du genre Bombus, ni avec le frelon, du genre Vespa.",
+        "texte": "Apis mellifera est le nom scientifique de l'abeille domestique, attribué en 1758 par le naturaliste suédois Carl von Linné. Le nom latin signifie « abeille qui porte le miel ». Originaire d'Europe, d'Afrique et du Moyen-Orient, elle a été introduite par l'homme dans le monde entier. C'est l'espèce la plus élevée pour la production de miel. À ne pas confondre avec le bourdon, du genre Bombus, ni avec le frelon, du genre Vespa.",
         "wiki": "Apis mellifera"
       }
     },

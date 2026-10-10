@@ -82,7 +82,7 @@
       "choix": ["L'Ohio", "Le Texas", "Le Maryland", "L'Alabama"],
       "fiche": {
         "titre": "Ohio",
-        "texte": "L'Ohio est un État du Midwest des États-Unis, bordé au nord par le lac Érié. Il est le seul État américain dont le drapeau n'est pas rectangulaire : adopté en 1902, celui-ci a la forme d'un guidon à deux pointes, appelé « burgee ». Sa capitale est Columbus. Surnommé « mère des présidents », l'Ohio a vu naître sept présidents américains. Il est aussi le berceau de l'aviation, avec les frères Wright, et de l'astronaute Neil Armstrong.",
+        "texte": "L'Ohio est un État du Midwest des États-Unis, bordé au nord par le lac Érié. Il est le seul État américain dont le drapeau n'est pas rectangulaire : adopté en 1902, celui-ci a la forme d'un guidon à deux pointes, appelé « burgee ». Sa capitale est Columbus. L'Ohio a vu naître sept présidents américains, un nombre seulement dépassé par la Virginie. Il est aussi le berceau de l'aviation, avec les frères Wright, et de l'astronaute Neil Armstrong.",
         "wiki": "Ohio"
       }
     },

@@ -33,7 +33,7 @@
       }
     },
     {
-      "q": "Quel Français a inventé un système d'écriture et de lecture tactile pour les aveugles ?",
+      "q": "Quel Français a inventé un système d'écriture tactile à six points pour les aveugles ?",
       "choix": ["Louis Braille", "Valentin Haüy", "Charles Barbier", "Charles-Michel de l'Épée"],
       "fiche": {
         "titre": "Louis Braille",
