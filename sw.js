@@ -2,7 +2,7 @@
 // - coquille de l'app pré-cachée ;
 // - fichiers de thèmes mis en cache à la demande (quelques Ko chacun) ;
 // - Wikipédia jamais mis en cache (pour ne pas consommer de stockage).
-const VERSION = 'v2';
+const VERSION = 'v3';
 const SHELL = `shell-${VERSION}`;
 const DATA = 'data';
 const FONTS = 'fonts';
@@ -12,7 +12,7 @@ const ASSETS = [
   'index.html',
   'css/style.css',
   'js/app.js',
-  'manifest.webmanifest',
+  'app.webmanifest',
   'data/themes.json',
   'icons/icon.svg',
   'icons/icon-192.png',
@@ -42,17 +42,27 @@ async function staleWhileRevalidate(request, cacheName) {
   return cached || network;
 }
 
+async function networkFirst(request) {
+  const cache = await caches.open(SHELL);
+  try {
+    const res = await fetch(request, { cache: 'no-cache' });
+    if (res.ok) cache.put(request, res.clone());
+    return res;
+  } catch {
+    return (await cache.match(request, { ignoreSearch: true })) || Response.error();
+  }
+}
+
 self.addEventListener('fetch', (event) => {
   const { request } = event;
   if (request.method !== 'GET') return;
   const url = new URL(request.url);
 
   if (url.origin === location.origin) {
-    if (url.pathname.endsWith('.webmanifest')) {
-      // Toujours la version en ligne : Chrome s'en sert pour identifier et installer l'app.
-      event.respondWith(fetch(request).catch(() => caches.match(request, { ignoreSearch: true })));
-    } else if (request.mode === 'navigate') {
-      event.respondWith(staleWhileRevalidate(new Request('index.html'), SHELL));
+    if (url.pathname.endsWith('.webmanifest') || request.mode === 'navigate') {
+      // Page et manifeste : toujours la version en ligne (Chrome s'appuie sur le manifeste
+      // pour identifier et installer l'app), le cache ne sert que hors connexion.
+      event.respondWith(networkFirst(request.mode === 'navigate' ? 'index.html' : request));
     } else if (url.pathname.includes('/data/themes/')) {
       event.respondWith(staleWhileRevalidate(request, DATA));
     } else {
